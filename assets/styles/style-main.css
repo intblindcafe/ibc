@@ -1,0 +1,103 @@
+/*General Styles*/
+
+body {
+	font-family: Arial, sans-serif;
+	font-size: 125%;
+	margin: 20px;
+	background: #301f1f;
+	background: linear-gradient(112deg, rgba(59,42,42,1) 0%, rgba(37,20,20,1) 100%);
+	color: #ffffff;
+	display: flex;
+	flex-direction: column;
+	min-height: 100vh;
+}
+
+a {
+	text-decoration: underline;
+	color: #ffaaaa;
+	transition: color .5s ease;
+}
+
+a:hover {
+	color: #ff3333; /* Color on hover */
+}
+
+h1 {
+	color: #ffffff;
+	text-align: center;
+	margin-bottom: 20px;
+}
+
+li {
+	margin-top: 10px;
+	margin-bottom: 15px;
+}
+
+.image-banner {
+	transform: scale(0.75); /* Set the desired scale so image isn't huge */
+	display: block; /* Make the image a block element */
+	margin: 0 auto; /* Center the image horizontally */
+	margin-bottom: 15px;
+}
+
+button {
+    background-color: white;
+    color: black;
+    border: none;
+    padding: 10px 20px;
+    margin: 10px;
+    cursor: pointer;
+    font-size: 16px;
+}
+
+.button-container {
+	display: flex;
+    justify-content: center; /* Center the buttons horizontally */
+}
+
+/*Section Styles*/
+
+.normalsection {
+	display: block;
+	background: #3b2a2a; /* Background color for the section */
+	background: linear-gradient(112deg, rgba(70,53,53,1) 0%, rgba(48,31,31,1) 100%);
+	padding: 20px; /* Add some padding to the section */
+	margin-bottom: 20px; /* Add some margin below the section */
+	border-radius: 8px; /* Apply border radius to round the corners */
+	box-shadow: 0 5px 13px 5px rgba(0, 0, 0, 0.2); /* Add a box shadow */
+}
+
+.expandedsection {
+	display: block; /* Show section content by default */
+	flex: 1; /* Take remaining space */
+}
+
+.gamesection {
+	display: block;
+	background: #3b2a2a; /* Background color for the section */
+	background: linear-gradient(112deg, rgba(70,53,53,1) 0%, rgba(48,31,31,1) 100%);
+	padding: 20px; /* Add some padding to the section */
+	margin-bottom: 20px; /* Add some margin below the section */
+	border-radius: 8px; /* Apply border radius to round the corners */
+	box-shadow: 0 5px 13px 5px rgba(0, 0, 0, 0.2); /* Add a box shadow */
+	text-align: center;
+}
+
+section h2 {
+	color: #ffffff; /* Color for the section heading */
+	display: inline-block;
+	text-align: left; /* Center the heading text */
+}
+
+/*Footer Styles*/
+
+footer {
+	margin-top: auto;
+	text-align: center;
+	font-size: 0.8em;
+	padding: 10px;
+}
+
+footer p {
+	margin: 0;
+}
