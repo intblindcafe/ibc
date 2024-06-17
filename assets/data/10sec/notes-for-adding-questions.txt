@@ -1,0 +1,5 @@
+- To add more questions to the game, edit the JSON file in this folder
+- You'll notice there is a comma after every question's curly brackets
+- Make sure there is no comma after the last question in the set
+- Use CTRL+F to check that the question you're entering is not a duplicate
+- If it is, try altering the question slightly
