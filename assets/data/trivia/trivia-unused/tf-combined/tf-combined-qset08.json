@@ -1,0 +1,1163 @@
+[
+  {
+    "question": "The endangered Komodo dragon is the largest living lizard in the world, growing to an average length of 2-3 meters (10 feet).",
+    "category": "animals.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Sometimes skunks kill domestic animals.",
+    "category": "animals.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Grizzly bears are strict carnivores.",
+    "category": "animals.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Siberians  use reindeer to ride on.",
+    "category": "animals.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Box turtles are the most common terrestrial turtle in the eastern United States.",
+    "category": "animals.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "The platypus needs to eat around 10% of its own weight every day.",
+    "category": "animals.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Is it believed that Smilodon was a social animal?",
+    "category": "animals.txt",
+    "answer": "Yes",
+    "choices": [
+      "A. Yes",
+      "B. No"
+    ]
+  },
+  {
+    "question": "DERIDE means to laugh at someone with contempt.",
+    "category": "brain-teasers.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Actor Will Ferrell had surgery when he was a teen.",
+    "category": "celebrities.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Some of the dreads on the old dreadlock mask usually worn by Slipknot member Corey Taylor were actually his own.",
+    "category": "celebrities.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Alternative rock band, Weezer has had the same members throughout their career.",
+    "category": "celebrities.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "In 1986, Arnold Schwarzenegger married the actress Brigitte Nielsen.",
+    "category": "celebrities.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "John Ritter died in the same hospital in which he was born.",
+    "category": "celebrities.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Ms. Farrah Fawcett was born in Corpus Christi, Texas.",
+    "category": "celebrities.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Cat on a Hot Tin Roof (1958) was Paul Newmans first movie.",
+    "category": "celebrities.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Cartoon character Calvin hates taking baths.",
+    "category": "entertainment.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Rons mom is part of the order of the phoenix.",
+    "category": "for-kids.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Hagrid dies in the last installment of the Harry Potter series entitled Harry Potter and the Deathly Hallows.",
+    "category": "for-kids.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "In Harry Potter and the Chamber of Secrets, the car which Harry and Ron rode on to Hogwarts, when they werent able to board on Hogwarts Express, crashed into the Whomping Willow.",
+    "category": "for-kids.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Jamie Lynn Spears plays Zoey on Zoey 101.",
+    "category": "for-kids.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "The Black Sea is not connected to the Sea of Azov.",
+    "category": "general.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "An albatross can fly all day without flapping its wings.",
+    "category": "general.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Nonmember Runescape players can go to Taverly and kill a couple of druids. Then they can go to Camelot bank and take out 1,000 gold pennies.",
+    "category": "general.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "The term piggy bank derives from the word pygg, an orange type of clay that used to be made into jars in which people kept their money.",
+    "category": "general.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Donald Trump wore a solid pink tie in every episode of The Apprentice.",
+    "category": "general.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "If there is a one way street and there are two cars going the opposite direction, is either of the drivers breaking the law?",
+    "category": "general.txt",
+    "answer": "No",
+    "choices": [
+      "A. No",
+      "B. Yes"
+    ]
+  },
+  {
+    "question": "President George W. Bush was inaugurated on January 20, 2000.",
+    "category": "geography.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Was 2006 a leap (intercalary) year?",
+    "category": "history.txt",
+    "answer": "No",
+    "choices": [
+      "A. No",
+      "B. Yes"
+    ]
+  },
+  {
+    "question": "The Mayan language is still alive and spoken by about 300,000 people.",
+    "category": "history.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Private John Simpson Kirkpatrick was a soldier who during WWI rescued wounded men from the battlefield and brought them to the beach on his donkey Duffy to be evacuated. He was killed on 19th May 1915.",
+    "category": "history.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Fanta was named by a German salesman, named Joe Knipp. During a contest for employees, the contestants were told to let their fantasy run wild and Knipp said: Fanta.",
+    "category": "hobbies.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Parsley is a close relative of the carrot",
+    "category": "hobbies.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Does the clothing brand Lacoste offer ophthalmic glasses as well as sunglasses?",
+    "category": "hobbies.txt",
+    "answer": "Yes",
+    "choices": [
+      "A. No",
+      "B. Yes"
+    ]
+  },
+  {
+    "question": "The word savvy means intelligence or common sense.",
+    "category": "humanities.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "The palm tree was sacred for Artemis because it is connected with her and her twin brother Apollos birth.",
+    "category": "humanities.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Draco Malfoy cries in a book of the Harry Potter series.",
+    "category": "literature.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Margaux Hemingway never appeared in a movie with her sister.",
+    "category": "literature.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "A massive earthquake effects the entire world simultaneously in the novel Nicolae.",
+    "category": "literature.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Robert DeNiro and Danny DeVito were first considered for the roles of burglars Harry and Marv in the hilarious movie Home Alone.",
+    "category": "movies.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "The 1990 movie Ghost starred Demi Moore as Oda Mae Brown.",
+    "category": "movies.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Was The Breakfast Club character Allison a nymphomaniac?",
+    "category": "movies.txt",
+    "answer": "No",
+    "choices": [
+      "A. Yes",
+      "B. No"
+    ]
+  },
+  {
+    "question": "The only thing taken from the Indian Village where Indiana and Co. end up in Indiana Jones and the Temple of Doom is a missing Sacred Stone.",
+    "category": "movies.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Jason Bournes girlfriend from the first two Bourne movies starring Matt Damon, does not appear in The Bourne Ultimatum.",
+    "category": "movies.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Star Wars character General Grievous is always accompanied by 2 magna guards.",
+    "category": "movies.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Actor Dax Shepard appeared in the TV series Robot Chicken.",
+    "category": "movies.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Vanessa Hudgens, one of the stars in High School Musical, made her acting debut in the film Thirteen.",
+    "category": "movies.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Fictional boxer Rocky and his son, Robert Jr. have a very close relationship, and in fact, Jr. followed in dads footsteps to become a professional boxer.",
+    "category": "movies.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "The 2001 Japanese animated movie Spirited Away is about  Chichiro and her parents being trapped in what seems to be a deserted amusement park.",
+    "category": "movies.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Madonna became a very successful author, writing childrens books.",
+    "category": "music.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Nissan once used the song Danger Zone by Kenny Loggins in their commercial.",
+    "category": "music.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "In 1975 while still a member of Genesis, Steve Hackett released his first solo album, Voyage of the Acolyte.",
+    "category": "music.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Billy Idol played in the movie The Doors, directed by Oliver Stone.",
+    "category": "music.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Beyonce is one of the original members of  Destinys Child.",
+    "category": "music.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "In the musical Wicked, Nessarose is confined in a wheelchair.",
+    "category": "music.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "The name of this song covered by Apocalyptica is also the title of an Ernest Hemingway novel.",
+    "category": "music.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Jamaican reggae musician Sizzla has been banned from the United Kingdom.",
+    "category": "music.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Jerry Garcia and Bob Weir were the founding members of the Grateful Dead.",
+    "category": "music.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "The Phillips screwdriver was first used by the multinational electronics manufacturer Philips Electronics.",
+    "category": "newest.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "The tryptophan contained in chocolate contributes to the production of endorphins.",
+    "category": "newest.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Gianni Versace was murdered in 1997.",
+    "category": "newest.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Dmitri Mendeleev is the creator of the periodic table of elements.",
+    "category": "newest.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "In the Harry Potter series, Quirrell was the Muggle Studies teacher at Hogwarts, before taking the cursed Defence Against the Dark Arts position.",
+    "category": "newest.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "13th-century Italians Francesca da Rimini and Paolo Malatestas romance was the inspiration of the famous statue by Auguste Rodin â the Kiss.",
+    "category": "newest.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "The war movie Black Hawk Down depicts the Battle of Mogadishu.",
+    "category": "newest.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "American fur trapper Hugh Glass made a cross-country trek after being mauled by a grizzly bear.",
+    "category": "newest.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "From 1832-1835 there was an independent nation called The Indian Stream Republic in what is now New Hampshire.",
+    "category": "newest.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Old West gunman Harvey Logan was also known as Kid Curry.",
+    "category": "people.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Did Plato state that, The first and best victory is to conquer self?",
+    "category": "people.txt",
+    "answer": "Yes",
+    "choices": [
+      "A. No",
+      "B. Yes"
+    ]
+  },
+  {
+    "question": "When Joan was captured by Burgundian troops, King Charles did not want to ransom her.",
+    "category": "people.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Did John Loren Sandford write a book titled Dark  of the Moon?",
+    "category": "people.txt",
+    "answer": "No",
+    "choices": [
+      "A. No",
+      "B. Yes"
+    ]
+  },
+  {
+    "question": "A mosque is a Christian term synonymous with the word church.",
+    "category": "people.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Ted Kennedy was a Bill Clinton supporter.",
+    "category": "people.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Bloody Mary was the pejorative nickname given to Mary Stuart, Queen of Scots.",
+    "category": "people.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Pedro, one of the main characters in the film Napoleon Dynamite, has two older cousins who help him win the school elections.",
+    "category": "rated.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "TV character Jeff Miller had a dog named Lassie.",
+    "category": "rated.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "The name Congo, serves two countries which can be distinguished by using their full names or by mentioning their capitals.",
+    "category": "rated.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Doc Brown invented a time travel automobile which took Marty back to 1935 in the first Back to the Future movie.",
+    "category": "rated.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "David, the famous ancient King of Israel, was the oldest child in the family.",
+    "category": "religion-faith.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "The Jewish calender is a lunar calender.",
+    "category": "religion-faith.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "The Church of Saint Simeon Stylites is located in Syria.",
+    "category": "religion-faith.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "There are many different theories of how the Milky Way galaxy was born.",
+    "category": "science-technology.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "When performing a routine blood draw, the basilic vein is the best choice.",
+    "category": "science-technology.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "A modem is both an input and an output device.",
+    "category": "science-technology.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "A rodents teeth will grow continuously for its entire lifetime.",
+    "category": "science-technology.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Nearly half of all human bones are in the hands and feet.",
+    "category": "science-technology.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Almonds possess cholesterol-lowering properties.",
+    "category": "science-technology.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "I think we have all heard this one. Does an apple a day keep the doctor away?",
+    "category": "science-technology.txt",
+    "answer": "No",
+    "choices": [
+      "A. Yes",
+      "B. No"
+    ]
+  },
+  {
+    "question": "Billiards has been an Olympic sport since the 2004 Athens Olympic Games.",
+    "category": "sports.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Whitey Ford is considered the Yankees greatest right-handed pitcher of all time.",
+    "category": "sports.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Does NASCAR driver Ryan Newman have more than one ARCA victory?",
+    "category": "sports.txt",
+    "answer": "Yes",
+    "choices": [
+      "A. Yes",
+      "B. No"
+    ]
+  },
+  {
+    "question": "In basketball, the standard dimensions of the little box on the backboard are 25 by 15 in (63 by 38 cm.)",
+    "category": "sports.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "As of 2007, the Toronto Maple Leafs have had 3 different names during their history.",
+    "category": "sports.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Karts can be driven on asphalt and dirt.",
+    "category": "sports.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "The NCAA Mens Basketball Tournament is also know as the Grand Finale.",
+    "category": "sports.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Joe Torres brother Frank played with the Braves and the Phillies.",
+    "category": "sports.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Jefferson DArcy is Marcys second husband in Married... with Children. She married him for money.",
+    "category": "television.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "In the sitcom Full House, Pams death occurred in the middle of the first season.",
+    "category": "television.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Tanya Roberts was the 7th and final angel to appear on TV series, Charlies Angels.",
+    "category": "television.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Did June Cleaver, the mother of two boys in the series Leave It to Beaver, drive a car?",
+    "category": "television.txt",
+    "answer": "Yes",
+    "choices": [
+      "A. No",
+      "B. Yes"
+    ]
+  },
+  {
+    "question": "In March 2005, a remake of the Kojak series debuted on the USA Network. This time, the main character is portrayed by an African-American actor.",
+    "category": "television.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "The last actor who played Father Mulcahy in the TV series M*A*S*H* is a direct descendant of Paul Revere.",
+    "category": "television.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "In the Family Guy episode Oceans Three and Half, bonnie (Joe Swansonâs wife) gives birth.",
+    "category": "television.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Eric Monte is credited to have created the show Whats Happening!!",
+    "category": "television.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "The 1970s show The Six Million Dollar Man was based on a novel.",
+    "category": "television.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "On the show Ghost Whisperer, Melindas husband Jim is a police officer.",
+    "category": "television.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "On the TV show Quantum Leap, Sam can travel through time from the year 0 to infinity.",
+    "category": "television.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Does Ryans pregnant girlfriend from Chino have the baby in The O.C. show?",
+    "category": "television.txt",
+    "answer": "Yes",
+    "choices": [
+      "A. No",
+      "B. Yes"
+    ]
+  },
+  {
+    "question": "Calvin is the fire chief on the TV show House of Payne.",
+    "category": "television.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Is it true that the caption under the picture of the demon in the Buffy episode Fear, Itself is Gaelic for actual size?",
+    "category": "television.txt",
+    "answer": "Yes",
+    "choices": [
+      "A. Yes",
+      "B. No"
+    ]
+  },
+  {
+    "question": "Is it true that Plankton, Mr. Krabss arch enemy, tries to steal the krabby patty secret formula in the animated series SpongeBob SquarePants?",
+    "category": "television.txt",
+    "answer": "Yes",
+    "choices": [
+      "A. Yes",
+      "B. No"
+    ]
+  },
+  {
+    "question": "A 2001 study found that 25 % of the videos include sexual imagery. Furthermore, 60% combine sexual imagery with violence against women.",
+    "category": "television.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Timmys mothers name on the show Lassie was Ruth.",
+    "category": "television.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Kraid is the only one of his species encountered in the Metroid game.",
+    "category": "video-games.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "In the game RuneScape, big bones get your prayer level up higher than dragon bones.",
+    "category": "video-games.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "The final boss of Metroid Other M on hard mode is Phantoon.",
+    "category": "video-games.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Dr. Suess wrote all the songs that were performed in How the Grinch Stole Christmas.",
+    "category": "world.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Boston University is the largest private university in the U.S.",
+    "category": "world.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Is this an actual organization: Society for the Preservation and Encouragement of Barbershop Quartet Singing in America?",
+    "category": "world.txt",
+    "answer": "Yes",
+    "choices": [
+      "A. No",
+      "B. Yes"
+    ]
+  },
+  {
+    "question": "The Leaning Tower of Pisa is the bell tower of the Cathedral in Pisa.",
+    "category": "world.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "The United States Marine Corps is a Department of the United States Army.",
+    "category": "world.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Miami University is in Florida.",
+    "category": "world.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "The topographic profile of Jerusalem is characterized by a number of valleys, surrounding all sides of the city.",
+    "category": "world.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Cyprus is a former British colony.",
+    "category": "world.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "The headwaters of the Mississippi River originate in Minnesota.",
+    "category": "world.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "In 2005 Oklahoma ranked 2nd in natural gas production in the United States.",
+    "category": "world.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Construction of The Pentagon building began on September 11th, 1941.",
+    "category": "world.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Rutgers University is known for its fat sandwiches.",
+    "category": "world.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "The Palm Jumeirah is an artificial archipelago.",
+    "category": "world.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Is the village of Berwick in Scotland?",
+    "category": "world.txt",
+    "answer": "No",
+    "choices": [
+      "A. No",
+      "B. Yes"
+    ]
+  }
+]

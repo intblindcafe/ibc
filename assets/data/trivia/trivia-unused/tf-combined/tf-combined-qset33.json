@@ -1,0 +1,1154 @@
+[
+  {
+    "question": "The dogfish is actually a common species of small shark.",
+    "category": "animals.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Mammals lived alongside dinosaurs.",
+    "category": "animals.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Zebras are related to rhinos.",
+    "category": "animals.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "You can go to jail for intentionally killing a praying mantis as it is an endangered species.",
+    "category": "animals.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "A Chinese Crested dogs ears are not cropped.",
+    "category": "animals.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Do polar bears live in Antarctica?",
+    "category": "animals.txt",
+    "answer": "No",
+    "choices": [
+      "A. No",
+      "B. Yes"
+    ]
+  },
+  {
+    "question": "The jaguars extremely powerful bite, which can pierce through a turtles shell, makes it the mammal with the strongest jaw in the animal kingdom.",
+    "category": "animals.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "In the 1993 movie Whats Eating Gilbert Grape, Gilbert Grape is the name of the character played by Johnny Depp.",
+    "category": "celebrities.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Kiefer Sutherland did not know his dad was an actor until the age of 18.",
+    "category": "celebrities.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Richmond Arquette married Courtney Cox in 1999.",
+    "category": "celebrities.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "David Carradine was married 5 times.",
+    "category": "celebrities.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Elizabeth Montgomery won four Emmy Awards for her portrayal of Samantha Stephens on Bewitched.",
+    "category": "celebrities.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Did the comedy club in which the racist incident happened eventually ban Michael Richards from performing at their venue in the future?",
+    "category": "celebrities.txt",
+    "answer": "Yes",
+    "choices": [
+      "A. Yes",
+      "B. No"
+    ]
+  },
+  {
+    "question": "Duck hunting is one of Tom Feltons favourite pastimes.",
+    "category": "celebrities.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Patrick Swayze won a Golden Globe Award for his part in the movie Dirty Dancing.",
+    "category": "celebrities.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "At Wrestlemania 24, it came down to Y2J, Chris Jericho and CM Punk in the Money In The Bank ladder match and CM Punk won.",
+    "category": "entertainment.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Actor Drake Bell from the Nickelodeon show Drake and Josh founded a band named Drake 24/7 in real life.",
+    "category": "for-kids.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "In Harry Potter and the Deathly Hallows, Severus Snape was headmaster for a period of time.",
+    "category": "for-kids.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "If one of Voldemorts Horcruxes is destroyed, will he know?",
+    "category": "for-kids.txt",
+    "answer": "No",
+    "choices": [
+      "A. Yes",
+      "B. No"
+    ]
+  },
+  {
+    "question": "The Epic of Gilgamesh is the oldest written story, containing a lot of references to the spirits of the dead.",
+    "category": "general.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Overconsumption of sugar causes hyperactivity in children, manifested by increased movement, impulsiveness, distractibility, and mood swings.",
+    "category": "general.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Hannah means grace and charm.",
+    "category": "general.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "A panther and a black leopard are the same animal.",
+    "category": "general.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "There is an actual medical term for the fear of peanut butter sticking to the roof of ones mouth.",
+    "category": "general.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "The kiss at the end of the wedding ceremony expresses a Christian belief and symbolizes the swapping of souls between the bride and the groom.",
+    "category": "general.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "South Carolina is the state whose shape most closely resembles a triangle.",
+    "category": "geography.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Amy Carter, daughter of former president Jimmy Carter, was arrested in 1987 for protesting against campus CIA recruitment.",
+    "category": "history.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "The father of all Norse or Viking gods was Thor the God of Thunder.",
+    "category": "history.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "During WWII Joseph Stalin was leader of the Soviet Union. His name, Stalin, means Man of Power.",
+    "category": "history.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Did the opposing armies often fraternize and call each other Johnny Reb and Billy Yank?",
+    "category": "history.txt",
+    "answer": "Yes",
+    "choices": [
+      "A. Yes",
+      "B. No"
+    ]
+  },
+  {
+    "question": "George Crum invented potato chips.",
+    "category": "hobbies.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "In the card game gin rummy, it is sometimes necessary to break a meld in order to keep your opponent from winning the hand.",
+    "category": "hobbies.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Having in mind the words meaning, does it  fit in the following analogy: Juvenile is to young as *geriatric* is to aged.",
+    "category": "humanities.txt",
+    "answer": "Yes",
+    "choices": [
+      "A. No",
+      "B. Yes"
+    ]
+  },
+  {
+    "question": "According to legend, a leprechaun must tell the truth if looked directly in the eye.",
+    "category": "humanities.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "In dancing, the word foutette means to straighten.",
+    "category": "humanities.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Vivian Leigh earned the same amount of money as Clark Gable for her work in Gone With the Wind.",
+    "category": "literature.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Victorian poets Elizabeth Browning and Robert Browning were brother and sister.",
+    "category": "literature.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "The story of the novel The Golden Compass begins in the fictional Jordan College in Oxford.",
+    "category": "literature.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Aladdins father is the king of thieves.",
+    "category": "movies.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "All of the dinosaurs in the blockbuster film Jurassic Park were created by computer animation.",
+    "category": "movies.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "In the movie Scream did Matthew Lillard (Stu) ad-lib some of his lines?",
+    "category": "movies.txt",
+    "answer": "Yes",
+    "choices": [
+      "A. No",
+      "B. Yes"
+    ]
+  },
+  {
+    "question": "Johnny Crawford was born in Las Vegas, Nevada.",
+    "category": "movies.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "William Conrad played Nero Wolfe and Frank Cannon - two detectives of unique proportions.",
+    "category": "movies.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Actress Butterfly McQueen never got her high school diploma.",
+    "category": "movies.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Did Tanya Tucker perform the song Man with 18 Wheels for the Black Dog soundtrack?",
+    "category": "movies.txt",
+    "answer": "No",
+    "choices": [
+      "A. No",
+      "B. Yes"
+    ]
+  },
+  {
+    "question": "The actor who lent his voice to Darth Vader also lent his voice to a character in The Lion King!",
+    "category": "movies.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "In the sci-fi thriller Aliens, Cpl. Hicks believed the mission was going to be a stand up fight.",
+    "category": "movies.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "In the movie Princess Protection Program, Rosie comes from an island called Costa Luna.",
+    "category": "movies.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "The Grateful Dead performed at the famous ill-fated 1969 Altamont concert.",
+    "category": "music.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Schuberts Unfinished Symphony was his last known symphony.",
+    "category": "music.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Elton John legally changed his name to Elton Hercules John in 1962, taking the middle name of the popular mythological hero.",
+    "category": "music.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Ginger Baker was the first musician to highlight, in song form, the troubles occurring in East Timor.",
+    "category": "music.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Britney Spears recorded the song Goodbye to You in 2001.",
+    "category": "music.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "The hit song One Week was Barenaked Ladies first single.",
+    "category": "music.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "I would go back to her time after time..man I must have been out of my mind..\nAre these lyrics from the song Cryin For Nothin ?",
+    "category": "music.txt",
+    "answer": "Yes",
+    "choices": [
+      "A. No",
+      "B. Yes"
+    ]
+  },
+  {
+    "question": "A Talking Heads song title is the inspiration for a popular British bands name.",
+    "category": "music.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Master Of Puppets was released in 1987.",
+    "category": "music.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "A baby seal is called a foal.",
+    "category": "newest.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Chicken fat is one of two types of animal fat referred to as Schmaltz.",
+    "category": "newest.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "The domination of Merovingians coincides with the period of King Arthur - the time for which the most chivalrous novels written for the Holy Grail.",
+    "category": "newest.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "The Pyramid of Giza is the oldest of the Seven Wonders of the Ancient World, and the only one to remain largely intact till present day.",
+    "category": "newest.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Elijah Wood had a small role in the movie Back to the Future 2.",
+    "category": "newest.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Rebecca Nurse was one of three sisters accused and imprisoned for witchcraft during the infamous Salem witch trials in the 1600s.",
+    "category": "newest.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "On the TV show Rescue Me, the mother of Francos child is dead.",
+    "category": "newest.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "According to Greek mythology, Kronos ate his children.",
+    "category": "newest.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Peter Graves won an Emmy for his role in Mission Impossible.",
+    "category": "newest.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "It was proved that Jack the Ripper raped his victims.",
+    "category": "people.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "The teddy bear toy is named after former president Theodore Roosevelt.",
+    "category": "people.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Susan Smith was convicted of killing her 2 sons by drowning them in her car in 1994.",
+    "category": "people.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "All of the following share the same birth date of June 21st, but were they all born in the 60-year period between 1925 and 1985?\nPrince William, Meredith Baxter Birney, Maureen Stapleton, Carl Stokes, Mariette Hartley and Jane Russell.",
+    "category": "people.txt",
+    "answer": "No",
+    "choices": [
+      "A. Yes",
+      "B. No"
+    ]
+  },
+  {
+    "question": "Filipino inventor Fe del Mundo announced that he had invented a car that runs with water as fuel.",
+    "category": "people.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Jacques Cousteau was an underwater explorer, researcher and TV show host.",
+    "category": "people.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "In Fatal Attraction, Alex Forrest kidnaps Ellen Gallagher (Dans daughter) from school.",
+    "category": "rated.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "In Tombstone, Morgan was Wyatt Earpâs brother that gets killed.",
+    "category": "rated.txt",
+    "answer": "Yes",
+    "choices": [
+      "A. No",
+      "B. Yes"
+    ]
+  },
+  {
+    "question": "Elephants are related to manatees.",
+    "category": "rated.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Some psychologists claim to encounter rare cases of people that never dream.",
+    "category": "rated.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Demi Moores real name is Demetria Harmon.",
+    "category": "rated.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "The International Red Garters are an organization of British traditional witches.",
+    "category": "religion-faith.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "The Potala is traditionally the summer palace of the Dalai Lama in Tibet.",
+    "category": "religion-faith.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "The traditional Japanese dish, sushi, is always made with raw fish.",
+    "category": "science-technology.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "The pictures on a web page can be stored in more than one physical location.",
+    "category": "science-technology.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "You shouldnt wash berries before you store them.",
+    "category": "science-technology.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "After the proof of a mathematical theorem we often see the letters Q.E.D. Do these letters stand for Quite easily Done.?",
+    "category": "science-technology.txt",
+    "answer": "No",
+    "choices": [
+      "A. Yes",
+      "B. No"
+    ]
+  },
+  {
+    "question": "When Charles Lindbergh crossed the Atlantic, he had almost no visibility from his front windows.",
+    "category": "science-technology.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Is Phobos a satellite of Mars?",
+    "category": "science-technology.txt",
+    "answer": "Yes",
+    "choices": [
+      "A. No",
+      "B. Yes"
+    ]
+  },
+  {
+    "question": "Jupiter is growing.",
+    "category": "science-technology.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "In the US, all Medicare Part B participants pay a monthly premium for the service.",
+    "category": "science-technology.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "The only team Bob Gibson played for while in the major leagues was the St. Louis Cardinals.",
+    "category": "sports.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Coco Crisp is the real name of a Boston Red Sox center-fielder.",
+    "category": "sports.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "There were no teams inducted into the Basketball Hall of Fame between 1961 and 2002.",
+    "category": "sports.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Did Lee Petty take part in the first race at Daytona International Speedway?",
+    "category": "sports.txt",
+    "answer": "Yes",
+    "choices": [
+      "A. No",
+      "B. Yes"
+    ]
+  },
+  {
+    "question": "By ITTF rules, at the moment when the servers paddle makes contact with the ball, the ball must be located: (1) above the table, and (2) off the end of the table. In other words, the ball cannot be below the level of the table when its served, and the ball cannot be directly above the surface of the table when its served.",
+    "category": "sports.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "The first modern Olympic Games were held in 1896 in London.",
+    "category": "sports.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "From 1965 to 2008, all of the Mr. Olympia titles were won by US citizens.",
+    "category": "sports.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Babe Ruth batted from the left side in the batters box.",
+    "category": "sports.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Benny Ray Riddle was played by Tim Abell in Soldier of Fortune, Inc (this is true). Benny was a former Marine Sniper.",
+    "category": "television.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "In Will and Grace Karens maid, Rosario Salazar, is played by Shelley Morrison.",
+    "category": "television.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "On the hit television show The A -Team,  Mr. T wore all of his gold chains (35 lbs.) while he was playing the part of B. A. Baracus.",
+    "category": "television.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "June Foray is credited with voicing the little girl in the film Frosty the Snowman but it was another voice actress who actually did the part.",
+    "category": "television.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Amanda Blake played Kitty Russell in the western Have Gun Will Travel.",
+    "category": "television.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Is Patrick Star SpongeBobs best friend?",
+    "category": "television.txt",
+    "answer": "Yes",
+    "choices": [
+      "A. No",
+      "B. Yes"
+    ]
+  },
+  {
+    "question": "In order to promote the WWF (World Wrestling Federation), Hulk Hogan appeared in the A-Team series several times.",
+    "category": "television.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Leos Big Block of Cheese Day, shown in the TV series The West Wing, was based on a real event.",
+    "category": "television.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "The judge show The Peoples Court premiered in 1997.",
+    "category": "television.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Adrian Paul starred in Highlander: The Series as Connor MacLeod, an immortal man who began the series as antiques dealer.",
+    "category": "television.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "In the series Lonesome Dove, Gus is revealed to be Newts father.",
+    "category": "television.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "On the TV show Saved by the Bell, Zack and Kelly end up getting married.",
+    "category": "television.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Gabrielle, one of the characters featured in Xena: Warrior Princes, is an only child.",
+    "category": "television.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "In the anime series Inuyasha, the character named Shippo is a shapeshifter.",
+    "category": "television.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Though Ares was first introduced in the Hercules: The Legendary Journeys series, he was not given a real face until he was introduced in Xena: Warrior Princess.",
+    "category": "television.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Betty White of the Golden Girls played Georgette Baxter in the The Mary Tyler Moore Show.",
+    "category": "television.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Edward Mallory was the first and only Bill Horton.",
+    "category": "television.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Was the tenth Pokemon movie released simultaneously in Japan and the USA?",
+    "category": "video-games.txt",
+    "answer": "No",
+    "choices": [
+      "A. Yes",
+      "B. No"
+    ]
+  },
+  {
+    "question": "In the Xbox 360 version of Call of Duty 4, the achievement war pig is given for killing Khaled Al-Asad.",
+    "category": "video-games.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "In Mario Power Tennis, Bowsers racket has spikes on it.",
+    "category": "video-games.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Was Saddam Hussein a Cuban dictator?",
+    "category": "world.txt",
+    "answer": "No",
+    "choices": [
+      "A. No",
+      "B. Yes"
+    ]
+  },
+  {
+    "question": "The second stage of The Russian Revolution led to to the creation of the Soviet Union and took place in November.",
+    "category": "world.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Only American soldiers or American citizens are allowed to be buried at Arlington National Cemetery.",
+    "category": "world.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "The Latin inscription below the pyramid, on the back of the dollar bill says NOVUS ORDO SECLORUM, which means a new order has begun.",
+    "category": "world.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "French is an official language (de facto) in the State of Louisiana.",
+    "category": "world.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "There was a movie based on the song Grandma Got Run Over by a Reindeer.",
+    "category": "world.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Scotlands Loch Ness is allegedly inhabited by the Loch Ness Monster.",
+    "category": "world.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Czar Alexander II of Russia agreed to sell Alaska to the U.S. for two cents an acre.",
+    "category": "world.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Roswell Army Air Base was located in the middle of Area 51.",
+    "category": "world.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "In Gravity Hill, Bedford County, Pennsylvania objects such as cars left on neutral appear to be rolling uphill against the force of gravity.",
+    "category": "world.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Joseph Pulitzer and William Randolph Hearst are often blamed for drawing the US into the Spanish-American War.",
+    "category": "world.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Red is a predominant color in Chinese New Year decorations.",
+    "category": "world.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "There is a circumcision room in one of Topkapi Palaces courtyards.",
+    "category": "world.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  }
+]

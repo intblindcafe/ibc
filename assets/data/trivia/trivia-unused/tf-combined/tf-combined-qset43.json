@@ -1,0 +1,1154 @@
+[
+  {
+    "question": "Sharks have no bones.",
+    "category": "animals.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "In the 17th century a ban was placed on eating meat during lent but the beaver meat was not included in that ban.",
+    "category": "animals.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "The tongue of a pangolin is so long that it is anchored to its pelvis.",
+    "category": "animals.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "The Caspian tiger is believed to have become extinct.",
+    "category": "animals.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Box Turtles are solitary creatures who neither want nor need companions.",
+    "category": "animals.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Indoor cats tend to live longer.",
+    "category": "animals.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "You have two right triangles. The sides of the first one are 3 m, 4 m and 5 m. The sides of the second are 3 m, 4 m and 7 m. The area of the second triangle is bigger.",
+    "category": "brain-teasers.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Sean Connery was offered a role in The Matrix but turned it down.",
+    "category": "celebrities.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Burt Young opened a high-end restaurant in The Bronx, New York.",
+    "category": "celebrities.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Steve is Hank Williams, Jr.s real first name.",
+    "category": "celebrities.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "In the 1997 Quentin Tarantino movie Jackie Brown, Sid Haig came out of retirement and played the judge. Was this role written specifically for Haig?",
+    "category": "celebrities.txt",
+    "answer": "Yes",
+    "choices": [
+      "A. No",
+      "B. Yes"
+    ]
+  },
+  {
+    "question": "Does Hilary Duff star in the teen romance film, A Cinderella Story (2004) together with Chad Michael Murray?",
+    "category": "celebrities.txt",
+    "answer": "Yes",
+    "choices": [
+      "A. Yes",
+      "B. No"
+    ]
+  },
+  {
+    "question": "Late Night with David Letterman premiered in 1985.",
+    "category": "celebrities.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Did Ashley Judd have a role in Natural Born Killers?",
+    "category": "celebrities.txt",
+    "answer": "Yes",
+    "choices": [
+      "A. Yes",
+      "B. No"
+    ]
+  },
+  {
+    "question": "Morris Chestnut starred in Like Mike along with Lil Bow Wow.",
+    "category": "celebrities.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Indiana Beach has a water and ski show.",
+    "category": "entertainment.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Was Ron poisoned in the book Harry Potter and the Half-blood Prince?",
+    "category": "for-kids.txt",
+    "answer": "Yes",
+    "choices": [
+      "A. Yes",
+      "B. No"
+    ]
+  },
+  {
+    "question": "Does fictional character Ron Weasley live at 12, Grimmauld Place?",
+    "category": "for-kids.txt",
+    "answer": "No",
+    "choices": [
+      "A. Yes",
+      "B. No"
+    ]
+  },
+  {
+    "question": "It is mentioned in Harry Potter and the Deathly Hallows that Bill had a real knack for guessing the passwords for the radio.",
+    "category": "for-kids.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "There is a particular connection between birth stones and months.",
+    "category": "general.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "The husband of Catherine the Great was Peter I.",
+    "category": "general.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "True of False: Jules Vernes real name was Jean-Luc Vernes.",
+    "category": "general.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "There are two main sources of salt - sea water and rock salt.",
+    "category": "general.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "All US Presidents have worn glasses.",
+    "category": "general.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "The Portland Alien Museum is dedicated to studying alien life and life forms.",
+    "category": "general.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "The easier and more frequently-used of the two main routes for climbing Mount Everest is the Northeast Ridge (or North Col Route).",
+    "category": "geography.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "John Gray wrote the popular book Men Are From Mars, Women Are From Venus.",
+    "category": "history.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "In the 1982 film Airplane 2: The Sequel the space shuttle was called the Mayflower 1.",
+    "category": "history.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "The Battle of Trenton lasted over three hours.",
+    "category": "history.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Osama bin Laden is a striking figure, well over six feet tall.",
+    "category": "history.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "During the years of the Civil War molasses was made using maple syrup because it did not require slave labor.",
+    "category": "hobbies.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Potatoes contain toxic chemicals that are also found in tobacco and tomatoes.",
+    "category": "hobbies.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Hermes is the highest ranking and most powerful god in Greek mythology.",
+    "category": "humanities.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "A university or college teacher is known as a professor.",
+    "category": "humanities.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Many explorers such as Marco Polo may have confused rhinoceros for unicorns.",
+    "category": "humanities.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Kurt Vonnegut created the character Billy Pilgrim in his novel Breakfast of Champions.",
+    "category": "literature.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "In the Stephanie Plum series of books, Stephanies mother approves of her job as a bounty-hunter.",
+    "category": "literature.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "It is stated in The Fellowship of the Ring that the emblems of Durin are wrought of ithildin that mirrors only starlight and moonlight.",
+    "category": "literature.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "The 1997 movie American Werewolf in Paris was filmed entirely in France.",
+    "category": "movies.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Sally Field, Shirley MacLaine and Julia Roberts starred in the 1989 movie Fried Green Tomatoes.",
+    "category": "movies.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "One of the people who voiced Bambi became a career Marine, served in two theaters of war, but never killed an animal.",
+    "category": "movies.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "In the movie Next Friday, Craig Jones compares someone to Left Eye from TLC.",
+    "category": "movies.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "The movie A Clockwork Orange was set  in Scotland in the year 2005, as imagined in 1965.",
+    "category": "movies.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Julies parents owned a Pizza Hut in the movie Valley Girl.",
+    "category": "movies.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Was Dan Dreidberg the first Nite Owl in the Watchmen?",
+    "category": "movies.txt",
+    "answer": "No",
+    "choices": [
+      "A. Yes",
+      "B. No"
+    ]
+  },
+  {
+    "question": "Alan Rickman plays Colonel Brandon in the 1995 movie Sense and Sensibility.",
+    "category": "movies.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "In the movie Scarface, Tonys sister marries Tonys best friend behind Tonys back.",
+    "category": "movies.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Venus by Bananarama is the original version of the song.",
+    "category": "music.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "The Pretenders recorded the song Brass in Pocket.",
+    "category": "music.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Tico Torres, the famous drummer of Bon Jovi, has a shop that sells Rock star baby clothes and he also loves to draw and paint.",
+    "category": "music.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Singer Chris Brown won 2 BET Awards in 2006.",
+    "category": "music.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Warren Haynes was an original member of the Allman Brothers Band?",
+    "category": "music.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "The original studios where The Sugarhill Gangs Rappers Delight was recorded, are still existent today.",
+    "category": "music.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "John Hammond is in the Rock and Roll Hall of Fame.",
+    "category": "music.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "The song One Step Closer off of Linkin Parks album Hybrid Theory was the bands second single from the album.",
+    "category": "music.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Harry Styles is the oldest of the original One Direction members.",
+    "category": "music.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Smokey Robinsons wife stopped touring with The Miracles in 1964 due to health reasons and left the band permanently.",
+    "category": "music.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Christopher Marlowe was a representative of English Renaissance theatre.",
+    "category": "newest.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "In December 2007 Berlusconi issued a written statement apologizing to his wife for flirting with other women.",
+    "category": "newest.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "If you want to quit the KF game and play later you can always save your game and continue from where you left off.",
+    "category": "newest.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Dinosaurs were the largest terrestrial animals to have ever lived.",
+    "category": "newest.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "In the Toy Story movies, Buzz doesnt like Jessie.",
+    "category": "newest.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Jane Austen lived her entire life in a close-knit family.",
+    "category": "newest.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "The BahÃ¡Ã­ Faith is a monotheistic religion founded in Persia.",
+    "category": "newest.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "The famous statue of David by Michelangelo was created at the beginning of the 16th century.",
+    "category": "newest.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Rats vomit if they eat asparagus.",
+    "category": "newest.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "In the past, pirates with a commission or letter of Marque to legally attack enemy ships were called freebooters.",
+    "category": "people.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "We get the word bikini from the name of a tiny atoll in the Pacific.",
+    "category": "people.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Tug McGraw played for the New York Mets from 1975-1984.",
+    "category": "people.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Jacqueline Kennedy became First Lady at the age of 31.",
+    "category": "people.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Morris K. Udall, from Arizona served in the US Senate until 1991 and wrote an autobiography entitled Too Funny to Be President.",
+    "category": "people.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Mata Hari and her husband Rudolph MacLeod had two children.",
+    "category": "people.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "The song you hear in the track is from Disneys 2002  Lilo and Stich movie.",
+    "category": "rated.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "The FBI reports show that 65-75% of criminal violence is marijuana related.",
+    "category": "rated.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Aerosmiths Dude Looks Like a Lady was written about Vince Neil of Motley Crue.",
+    "category": "rated.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "The Amesbury Archer, an early Bronze Age man dating to around 2300 BC, was nicknamed the King of Stonehenge by the British press.",
+    "category": "rated.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "The average adult wolf weighs between 75 and 125 pounds (35 â 60 kg.)",
+    "category": "rated.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Does the Bible ever speak of the sun moving backwards?",
+    "category": "religion-faith.txt",
+    "answer": "Yes",
+    "choices": [
+      "A. No",
+      "B. Yes"
+    ]
+  },
+  {
+    "question": "St. Nicholas is revered by both Orthodox and Catholic Christians.",
+    "category": "religion-faith.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Carcino is a word of Greek origin which refers to the small intestines.",
+    "category": "science-technology.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Arterial blood is blue due to oxygenation. Venous blood is bright red and spurts when a person receives a cut.",
+    "category": "science-technology.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Scallops live a sedentary live and never move around.",
+    "category": "science-technology.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "If Kermit the Frog were a live animal, would he be considered an amphibian?",
+    "category": "science-technology.txt",
+    "answer": "Yes",
+    "choices": [
+      "A. Yes",
+      "B. No"
+    ]
+  },
+  {
+    "question": "Humans have much smaller amount of hair follicles in their skin per unit area than other primates.",
+    "category": "science-technology.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Niacin, also known as vitamin B3, is required for healthy hair.",
+    "category": "science-technology.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "The Law of Pythagoras can always be used to find the length of the hypotenuse of an isosceles triangle.",
+    "category": "science-technology.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "The first couple of years in Atlanta, the Braves were considered lovable losers.  They won the first NL West title in 1969, the first year of divisional play.",
+    "category": "sports.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Terry Funk won the NWA world title in 1975.",
+    "category": "sports.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "It is obligatory to use one hand to make a backhand when you play tennis.",
+    "category": "sports.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "The New York Yankees beat the Boston Red Sox in the 1986 World Series.",
+    "category": "sports.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Tony Hawk landed the first ever 900 (two and a half mid-air turns) at the 1999 X Games.",
+    "category": "sports.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Is it true that the word Yo-Yo, referring to the famous toy, was first published in a dictionary of Filipino words printed in 1860.",
+    "category": "sports.txt",
+    "answer": "Yes",
+    "choices": [
+      "A. Yes",
+      "B. No"
+    ]
+  },
+  {
+    "question": "The Pittsburgh Penguins are members of the Pacific Division of the Western Conference of the NHL.",
+    "category": "sports.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Only instructors trained in Pilates and belonging to the Pilates Method Alliance can teach Pilates to the public.",
+    "category": "sports.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "The NFL started out as the Ohio League.",
+    "category": "sports.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Homer Simpson is drinking his usual Duff beer at the bar, when he first hears the performance of Lurleen, a barmaid at the BeerNBrawl who dreams of being a country musician.",
+    "category": "television.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Johnny Carson, the popular host of the Tonight Show, started his prime time TV show career as a game show host.",
+    "category": "television.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "The TV series Buffy the Vampire Slayer was loosely based on a movie of the same name.",
+    "category": "television.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "On the TV show The Nanny, Maxwell Sheffield is a music video producer.",
+    "category": "television.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "The Carol Burnett Show ran for 11 seasons on CBS.",
+    "category": "television.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "The first sporting event that aired on ESPN was a slow pitch softball game.",
+    "category": "television.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Billy Ray Cyrus wrote the song I Miss You.",
+    "category": "television.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "The Energy Blues song, which first aired in 1978, was an amazingly prescient tune about depletion of the Earths resources. It was re-recorded by ersatz rapper Biz Markie.",
+    "category": "television.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Ellen Corby, who portrayed Grandma Esther Walton on The Waltons, suffered a stroke in the 76-77 season which was written into the storyline of the show.",
+    "category": "television.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Flavor Flav starred in 4 seasons of Flavor of Loves original run.",
+    "category": "television.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Did Miley go to prom in the TV series Hannah Montana?",
+    "category": "television.txt",
+    "answer": "Yes",
+    "choices": [
+      "A. No",
+      "B. Yes"
+    ]
+  },
+  {
+    "question": "The animated series âHe-Man and the Masters of the Universeâ was the precursor to the briefly successful series Blackstar.",
+    "category": "television.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "In the series Roswell Isabels alien name is Valence.",
+    "category": "television.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Hannah Montana is Miley Stewart.",
+    "category": "television.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Terry Jones has written and directed an opera.",
+    "category": "television.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "On the television show Angel The Host is also known as Lorne.",
+    "category": "television.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "On the TV sitcom Friends, Rachels middle name is Karen.",
+    "category": "television.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "In Legend of Zelda Majoras Mask you are transformed into a Zora by Ganondorf.",
+    "category": "video-games.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Celebi is a grass type Pokemon that you can find in the sinnow region.",
+    "category": "video-games.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "In the action/adventure game Killer7, the name of the assassin who can change between seven deadly personalities is Harman Smith.",
+    "category": "video-games.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "The Titanic was one of the most luxurious ships for its time. It offered an on-board swimming pool, gymnasium, and a Turkish bath.  Its passengers could also enjoy a squash court.",
+    "category": "world.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "The Irish originally used turnips to make Jack-o-Lanterns on Halloween.",
+    "category": "world.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "The first use of electric Christmas lights was in the 1920s.",
+    "category": "world.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Former Vice President Albert Gore Jr. was born March 31, 1948 in Washington, D.C. but he was raised in Carthage, TN.",
+    "category": "world.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "The death toll from a yellow fever epidemic, transferred by brown rats, hit 100 on 11 October 1793 in Philadelphia.",
+    "category": "world.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "The novel Dracula was inspired by the Order of the Dragon.",
+    "category": "world.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Were the Marines the major American force in the Pacific during World War 2?",
+    "category": "world.txt",
+    "answer": "Yes",
+    "choices": [
+      "A. Yes",
+      "B. No"
+    ]
+  },
+  {
+    "question": "Kids from Russia celebrate their birthday with a chocolate birthday cake.",
+    "category": "world.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Roman Catholicism is the predominant religion in the Philippines.",
+    "category": "world.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Castle Hill is a pink granite rock in Queensland, Australia.",
+    "category": "world.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Pope John Paul II held a momentous gathering in 1979 near Des Moines, Iowa.",
+    "category": "world.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "The Argentine Cockade is of the same colors as the national flag of Argentina.",
+    "category": "world.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Tin mining used to be a major source of income for Phuket Island.",
+    "category": "world.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  }
+]

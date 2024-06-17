@@ -1,0 +1,1163 @@
+[
+  {
+    "question": "All pigs are classified as un-Kosher meaning they can not be eaten by Jewish people.",
+    "category": "animals.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "A polar bear has white fur.",
+    "category": "animals.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "The gestation period of a cheetah is about 90-95 days.",
+    "category": "animals.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "An elephants tusks grow continuously, about 7 inches a year.",
+    "category": "animals.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Vampire bats can be quite tame, and even friendly to humans.",
+    "category": "animals.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Rescue remedy is a combination of Rock Rose, Star of Bethlehem, Impatiens, Cherry Plum and Clematis essences.",
+    "category": "animals.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Pandas live and travel together.",
+    "category": "animals.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Were X-rays at one time proposed to be called RÃ¶ntgen rays?",
+    "category": "brain-teasers.txt",
+    "answer": "Yes",
+    "choices": [
+      "A. Yes",
+      "B. No"
+    ]
+  },
+  {
+    "question": "In 1967, The Grateful Dead performed at the legendary Monterey Pop Festival.",
+    "category": "celebrities.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Did Raquel Welch appear in an Elvis Presley movie?",
+    "category": "celebrities.txt",
+    "answer": "Yes",
+    "choices": [
+      "A. Yes",
+      "B. No"
+    ]
+  },
+  {
+    "question": "Bengt Lagerberg started playing drums for The Cardigans in 1992.",
+    "category": "celebrities.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Antonio Banderas composed a song for the soundtrack of the 2003 movie Once Upon A Time In Mexico.",
+    "category": "celebrities.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Bob Newharts album The Button Down Mind of Bob Newhart outsold the cast album of The Sound of  Music.",
+    "category": "celebrities.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Jerry Lewis had a top 20 music album.",
+    "category": "celebrities.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Actress Lindsay Wagner has co-authored a vegetarian cookbook.",
+    "category": "celebrities.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "In Bloom County, Milo Bloom was a 10-year-old reporter for The Bloom Chronicle.",
+    "category": "entertainment.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "The action in the movie The Lion, the Witch and the Wardrobe begins in 1940 during a German bombing raid of London.",
+    "category": "for-kids.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "In the final book in the Harry Potter series, it is revealed that Harry names one of his sons after Snape.",
+    "category": "for-kids.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Emma Watson plays Hermione Granger in the Harry Potter film series.",
+    "category": "for-kids.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Putting sugar in the gas tank of a carburetor-equipped vehicle will ruin the engine.",
+    "category": "general.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "The ghost of Lady Jane Grey is known as The Nine Days Queen because of the violent ending of her life.",
+    "category": "general.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Orange is considered a safety color.",
+    "category": "general.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Galveston, Indiana was the site of a deadly tornado in 1900.",
+    "category": "general.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Autophobia means fear of cars.",
+    "category": "general.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Nixon received a higher percentage of the popular vote during his losing bid for the presidency than when he won in 1968.",
+    "category": "general.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "American politician John McCain was incarcerated at the infamous Hoa Loa Prison, ironically called Hanoi Hilton.",
+    "category": "geography.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "The siege of Leningrad lasted just 1 month.",
+    "category": "history.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "General Stonewall Jackson was a graduate of the Virginia Military Institute.",
+    "category": "history.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "The Qin Dynasty was the first dynasty to embrace Confucianism.",
+    "category": "history.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Tyrannosaurus is more closely related to smaller predatory dinosaurs such as Velociraptor than to the more massive carnosaurs such as Allosaurus.",
+    "category": "history.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Sweetened condensed whole milk is canned milk concentrate with molasses added to it.",
+    "category": "hobbies.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "When playing Blackjack in a casino, there are two proper ways to announce your decision after youâve received a card â either say it aloud or use some of the commonly accepted non-verbal signs.",
+    "category": "hobbies.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Athena was the Greek equivalent of the goddess Minerva.",
+    "category": "humanities.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Cairo means happiness in Arabic.",
+    "category": "humanities.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "In Greek mythology, is Semele the mother of Hermes?",
+    "category": "humanities.txt",
+    "answer": "No",
+    "choices": [
+      "A. Yes",
+      "B. No"
+    ]
+  },
+  {
+    "question": "In chapter 7 of Harry Potter and the Prisoner of Azkaban, titled The Boggart in the Wardrobe, a severed hand comes out of the wardrobe for Seamus Finnegan.",
+    "category": "literature.txt",
+    "answer": "No",
+    "choices": [
+      "A. No",
+      "B. Yes"
+    ]
+  },
+  {
+    "question": "In the Christian-themed novel Left Behind, charter pilot Ken Ritz had his own theory on the vanishings. He thought they were caused by aliens abducting the millions of missing people.",
+    "category": "literature.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Does Aragorn ever really have a doubt about his place on the throne of Gondor In the book, Lord of the Rings: The Two Towers?",
+    "category": "literature.txt",
+    "answer": "No",
+    "choices": [
+      "A. No",
+      "B. Yes"
+    ]
+  },
+  {
+    "question": "Inspired by a near death experience, Tom Smykowski, one of Peters co-workers in the movie Office Space, invented a game called Pay It Forward.",
+    "category": "movies.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "In AFIs list of movies, the Top Ten were all made from the 1930s to the 1990s, however no film on the Top Ten list was made in the 1980s.",
+    "category": "movies.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "In the 1999 film Ravenous, Captain Boyd (Guy Pierce) resorts to eating Colonel Hart (Jeffrey Jones) to stay alive.",
+    "category": "movies.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "The following conversation is from the 1983 movie Bad Boys.\nCaptain Howard: Until then, until then, you are Mike Lowrey, you be him, thats what you are, youre him.\nMarcus Burnett: But I-...\nCaptain Howard: Youre him, I dont wanna hear it, youre him. And you, youre you, you be you, but not in front of her. Youre him, youre you.",
+    "category": "movies.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "In Epic Movie, Edward and Jack Swallows first meet in the beavers house.",
+    "category": "movies.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "The song Everybody Wang Chung Tonight is playing in the background of the strip club where Ruth Lanier is working, when Chance comes in to question her.",
+    "category": "movies.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "In the film Lucky Number Slevin Morgan Freeman plays the Rabbi.",
+    "category": "movies.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "James Cagneys last film was the 1961 Billy Wilder satire One, Two, Three.",
+    "category": "movies.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "In Rocky IV, Rockys wife, Adrian, didnt join him the first time he flew to Russia.",
+    "category": "movies.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "In the Star Wars saga, there is a Tusken Raider who is a Jedi master.",
+    "category": "movies.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "In arabic Shakur means Black Prince.",
+    "category": "music.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Singer John Denver was also well known for his photographs of people and places.",
+    "category": "music.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Rapper Charles Shaw revealed the truth regarding Milli Vanillis lip syncing antics  to a reporter.",
+    "category": "music.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Stevie Wonder was born blind.",
+    "category": "music.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "These lyrics are from Marilyn Mansons song The Dope Show:\nBut Im not a slave to a god\nthat doesnt exist.",
+    "category": "music.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Was Jesse McCartneys second album released the same year he opened for the Backstreet Boys in Europe?",
+    "category": "music.txt",
+    "answer": "No",
+    "choices": [
+      "A. Yes",
+      "B. No"
+    ]
+  },
+  {
+    "question": "Gerard Way, famous as frontman and co-founder of My Chemical Romance, was born on April 9, 1977.",
+    "category": "music.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Is it true that at the end of the musical The Light in the Piazza, Clara returns home with her mother, Margaret and they live happily-ever-after with Claras father and Margarets husband Roy.",
+    "category": "music.txt",
+    "answer": "No",
+    "choices": [
+      "A. No",
+      "B. Yes"
+    ]
+  },
+  {
+    "question": "Sharlee DAngelo became a member of Merciful Fate, a Danish heavy metal group, replacing the bands former bassist, Timi Hansen.",
+    "category": "music.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "DolmabahÃ§e Palace contains over 250 rooms.",
+    "category": "newest.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Sir Arthur Clarke is a British writer an inventor known for his science fiction novel Space Odyssey.",
+    "category": "newest.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Sophia Loren is the author of the books âLiving and Lovingâ and âWomen  Beautyâ.",
+    "category": "newest.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "The 40th wedding anniversary is known as a diamond wedding anniversary.",
+    "category": "newest.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "The possible existence of Atlantis was never discussed throughout classical antiquity.",
+    "category": "newest.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "The Japanese used 4 carriers in the attack on Pearl Harbor.",
+    "category": "newest.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Twiggys first husband, actor Michael Witney, died of a heart attack",
+    "category": "newest.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "David Copperfield founded Project Magic to help gifted children around the world.",
+    "category": "newest.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "All clams are born as females.",
+    "category": "newest.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "John Wayne Gacy, the Killer Clown, buried over 30 victims in his garden.",
+    "category": "people.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "The 37th U.S. President, Richard Nixon was impeached due to the Watergate scandal.",
+    "category": "people.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Elizabeth Monroe, First Lady from 1817 to 1875, never had health problems.",
+    "category": "people.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Bobby Hull wore number 9 when he played for the NHL team the Chicago Blackhawks.",
+    "category": "people.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "At the time William II of England was crowned king, Normandy was a part of England.",
+    "category": "people.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Marie Antoinette gave birth to four children.",
+    "category": "people.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Eleanor Roosevelt, First Lady from 1933 to 1945, once served hot dogs to the King and Queen of England.",
+    "category": "people.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Leo Anthony Gallagher graduated from the University of South Florida with a journalism degree.",
+    "category": "rated.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "One of Reeses ancestors, John Witherspoon, signed the Declaration of Independence.",
+    "category": "rated.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Is there a fourth of July in England?",
+    "category": "rated.txt",
+    "answer": "Yes",
+    "choices": [
+      "A. Yes",
+      "B. No"
+    ]
+  },
+  {
+    "question": "From 1977 to 1995, trumpeter Doc Severinsen was the bandleader on The Tonight Show, hosted by  Johnny Carson.",
+    "category": "rated.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "According to the Bible, Judas Iscariot was paid 30 pieces of gold to betray Jesus.",
+    "category": "religion-faith.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "According to the Book of Matthew, Jacob was the father of Issac.",
+    "category": "religion-faith.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "The cerebellum section of the brain controls the fine movement and equilibrium, among other things.",
+    "category": "science-technology.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "The 2004 Indian Ocean earthquake was an undersea earthquake that generated a tsunami, which claimed the lives of more than 150,000 people (this is true). The earthquake lasted nearly ten minutes.",
+    "category": "science-technology.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Although gravity has been a subject of much research and scientific work, the actual cause of gravitational forces remains unknown.",
+    "category": "science-technology.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Youre crossing Hoover Dam from Nevada into Arizona (USA) during the Winter months (after Oct 31st).  Will you change Time Zones?",
+    "category": "science-technology.txt",
+    "answer": "Yes",
+    "choices": [
+      "A. No",
+      "B. Yes"
+    ]
+  },
+  {
+    "question": "Fibromyalgia is a disorder of the central nervous system.",
+    "category": "science-technology.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Can you put movies and TV shows on your iPod?",
+    "category": "science-technology.txt",
+    "answer": "Yes",
+    "choices": [
+      "A. No",
+      "B. Yes"
+    ]
+  },
+  {
+    "question": "Mercurys maximum elongation is 32.2 degrees.",
+    "category": "science-technology.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Saturns rings consist mostly of water ice.",
+    "category": "science-technology.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Mickey Mantle was considered the most powerful switch hitter of his generation.",
+    "category": "sports.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Tommie Aaron, who is Hank Aarons brother, played for the Braves.",
+    "category": "sports.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Jock Callander is a former ice hockey player whose real first name is Jock.",
+    "category": "sports.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Lebron James led the Cleveland Cavaliers into the NBA Finals in 2007.",
+    "category": "sports.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Yankee Stadium had the first instant-replay display in baseball.",
+    "category": "sports.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Were the Phoenix Suns the 1993 NBA Champions?",
+    "category": "sports.txt",
+    "answer": "No",
+    "choices": [
+      "A. Yes",
+      "B. No"
+    ]
+  },
+  {
+    "question": "Kobe Bryant won the 1996 NBA Slam Dunk Contest.",
+    "category": "sports.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Both college and professional basketball have four quarters.",
+    "category": "sports.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "In an episode of M*A*S*H, entitled Goodbye, Farewell, and Amen, Sgt. Maxwell Q. Klinger decided to stay in Korea to help Soon-Lee find her family.",
+    "category": "television.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Philip McKeon, who plays Tommy Hyatt on the hit television show Alice, is related to Nancy McKeon, a cast member of  The Facts of Life?",
+    "category": "television.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "The referee on Celebrity Deathmatch always starts matches by saying Lets get cracking.",
+    "category": "television.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "In The Fugitive Harrison Fords character killed his wife.",
+    "category": "television.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "The last episode of the Petticoat Junction sitcom was called Betty Jos Business.",
+    "category": "television.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "On the hit show Cheers, Carlas second husband was killed in a plane crash.",
+    "category": "television.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "In the Buffy episode Whats My Line, (parts 1  2) a new slayer arrives in town.",
+    "category": "television.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Petticoat Junction ran from 1963 to 1970.",
+    "category": "television.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Father Mulcahy does not give a sermon in the M*A*S*H episode Blood Brothers.",
+    "category": "television.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "On TV show Smallville, when Clark gets sick and Chloe writes him a poem, expressing her feelings to him, Clark says Chloes name when she gets finished reading it.",
+    "category": "television.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Kevin Powell, a cast member of The Real World, Season 1, is an accomplished writer.",
+    "category": "television.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "MTV is based in Los Angeles.",
+    "category": "television.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "In the TV series Kyle XY, after reading the entire encyclopedia A to Z, Kyle scored a 100% on the history test.",
+    "category": "television.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Jenny Lind is known as the Swedish Nightingale.",
+    "category": "television.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "In Season One of The Shield, David Aceveda was given an opportunity to run for city council, but a story was written accusing him of rape. David Acedveda was really guilty of the rape.",
+    "category": "television.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "In The Simpsons series, Homers mom name is Mona Simpson.",
+    "category": "television.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Midge and Bob Pinciotti from the sitcom That 70s Show were born in the same year.",
+    "category": "television.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "In Nightlife, the second expansion pack for The Sims 2, Sims can have their own cars.",
+    "category": "video-games.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Sasuke, one of the main characters in the anime series Naruto, is branded with a cursed seal.",
+    "category": "video-games.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "The creator of RuneScape was helped by his cousin in developing the game.",
+    "category": "video-games.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Mont Blanc is the second highest mountain in the world.",
+    "category": "world.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Conservatives in the USA are more likely to favor prayer in school than Liberals.",
+    "category": "world.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "The entire complement of RMS Titanics Engineering Department drowned.",
+    "category": "world.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Pittsburgh is widely believed to be right behind San Francisco as the steepest city in the United States.",
+    "category": "world.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "The Great Wall of China can be seen from the Moon.",
+    "category": "world.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Holland is divided into North and South provinces.",
+    "category": "world.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Since it gained its independence from the Spanish Empire, the Netherlands has always been a monarchy.",
+    "category": "world.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "In May 2006 the Joint Equality Movement (JEM), one of the main rebel groups in Darfur, signed a peace deal with the Government of Sudan. As a result the rebel group split in two causing the pro-government side and the pro-rebel side to fight against each other.",
+    "category": "world.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "The state of Maryland has 23 counties.",
+    "category": "world.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "During the Civil War the Confederacy had a Postmaster General, called Confederate-Post Office Department Postmaster General.",
+    "category": "world.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "The Preslav Treasure was found in Bulgaria.",
+    "category": "world.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Alpbach is a resort in Western Austria.",
+    "category": "world.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "The famous Charles Bridge in Prague was constructed in the 18h century.",
+    "category": "world.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "On 12 October in 1945, PFC Desmond T. Doss won the Congressional Medal of Honor for outstanding bravery as a medical corpsman and became the first conscientious objector in American history to receive the nations highest military award.",
+    "category": "world.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  }
+]

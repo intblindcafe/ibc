@@ -1,0 +1,1163 @@
+[
+  {
+    "question": "Female lions hunt in a group.",
+    "category": "animals.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Large penguins can dive nearly 2,000 feet.",
+    "category": "animals.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "The highest recorded speed a cheetah has obtained is 80 mph (130 km/h.)",
+    "category": "animals.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "When swimming, an elephant will use its trunk as a snorkel.",
+    "category": "animals.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Wolves can live in snowy areas at certain times of the year?",
+    "category": "animals.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Were the shells of all ammonites coiled?",
+    "category": "animals.txt",
+    "answer": "No",
+    "choices": [
+      "A. No",
+      "B. Yes"
+    ]
+  },
+  {
+    "question": "Is the Giant Panda an endangered species?",
+    "category": "animals.txt",
+    "answer": "Yes",
+    "choices": [
+      "A. Yes",
+      "B. No"
+    ]
+  },
+  {
+    "question": "Can you take a picture of a person with a wooden leg?",
+    "category": "brain-teasers.txt",
+    "answer": "No",
+    "choices": [
+      "A. No",
+      "B. Yes"
+    ]
+  },
+  {
+    "question": "Actor Adam Sandler had his first girlfriend in the sixth grade, but sadly, he was dumped one night during dinner.",
+    "category": "celebrities.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Raquel Welch is the birth name of the popular actress.",
+    "category": "celebrities.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "At the age of 3, Terrence Howard witnessed his mother stab a man in self defense.",
+    "category": "celebrities.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Morgan Freeman is an advocate for Black History Month.",
+    "category": "celebrities.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Sally Fields birth mother and father divorced in 1950.",
+    "category": "celebrities.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Broderick Crawford appeared on the American TV series CHiPs in at least one episode.",
+    "category": "celebrities.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "John Turturro was in the 1994 film Quiz Show.",
+    "category": "celebrities.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "In the comics FoxTrot, Roger Fox is writing a novel.",
+    "category": "entertainment.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "In the movie The Lion, the Witch and the Wardrobe, Susan is the oldest of the four children.",
+    "category": "for-kids.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Sirius Black dies in the novel Harry Potter and the Half-Blood Prince.",
+    "category": "for-kids.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Harry Potter marries Hermione.",
+    "category": "for-kids.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "The Chevy Nova sold poorly in Mexico because no va means doesnt go in Spanish.",
+    "category": "general.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Leonard Kessler wrote a childrens book called Mr. Pines Purple House.",
+    "category": "general.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "12 squared is 24.",
+    "category": "general.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Ink changes its color on different paper.",
+    "category": "general.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Ataxophobia means fear of paying taxes.",
+    "category": "general.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Spit can freeze in mid-air at the North Pole.",
+    "category": "general.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Jenin is the largest city in the West Bank.",
+    "category": "geography.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Anne of Austria was the mother of Louis XIV of France (the Sun King).",
+    "category": "history.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Witchcraft was used as the explanation for a sickness that afflicted some of the village girls in Salem. Historians now believe that the girls hallucinations may have been caused by eating moldy bread.",
+    "category": "history.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "The Autumn of Nations is the series of events in Central and Eastern Europe in the autumn of 1989, when the communist regime in satellite states of the Soviet Union, collapsed within a  few months, marking the end of the Cold War.",
+    "category": "history.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Ichthyosaurs, plesiosaurs, pliosaurs, moasaurs, are pterosaurs are dinosaurs.",
+    "category": "history.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "A marmite is a large circular sieve made with bamboo and mesh.",
+    "category": "hobbies.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "In Blackjack, it is crucial for the player not to let neither the dealer nor the other players see his/her cards.",
+    "category": "hobbies.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Silver doesnt harm vampires.",
+    "category": "humanities.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Merengue was born in Portugal in the 16th century as part of an important ritual.",
+    "category": "humanities.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "After Edward Hopper married painter Josephine Nivison, she became the only model for all of his female figures.",
+    "category": "humanities.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "George used the Jelly-Legs curse on Goyle.",
+    "category": "literature.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "The first word in the novel Eragon is a proper noun (excluding the prologue).",
+    "category": "literature.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "In the horror novel From a Buick 8, strange reptiles crawled out of the trunk of a car.",
+    "category": "literature.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "The movie The Breakfast Club was rated PG-13.",
+    "category": "movies.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "In The Color Purple, Oprah Winfreys character Shug Avery, helps Miss Celie cope with life as a black woman in the 1930s in the deep south.",
+    "category": "movies.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Apocalypse Now, directed by Roger Corman, was released in 1979.",
+    "category": "movies.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Actor Tobin Bell, who portrayed the serial killer Jigsaw, used a dummy for his bathroom scenes in the original Saw movie.",
+    "category": "movies.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "In Epic Movie the character named Edward parodies the movie Nacho Libre.",
+    "category": "movies.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Darth Vader has children.",
+    "category": "movies.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Is it just a myth that the fireplace in the background, during the Black Knight scene of Monty Python and the Holy Grail, goes out and comes on as the camera shots change?",
+    "category": "movies.txt",
+    "answer": "No",
+    "choices": [
+      "A. Yes",
+      "B. No"
+    ]
+  },
+  {
+    "question": "In the 1939 movie, The wizard of Oz, the only lines of Meinhardt Raabe, who played the Coroner, were:\nAs coroner, I must aver\nI thoroughly examined her\nAnd shes not only merely dead\nShes really, most sincerely dead!",
+    "category": "movies.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Was the movie Lean on Me based on a true story?",
+    "category": "movies.txt",
+    "answer": "Yes",
+    "choices": [
+      "A. No",
+      "B. Yes"
+    ]
+  },
+  {
+    "question": "The director, writer and star of the movie Facing the Giants is an associate pastor.",
+    "category": "movies.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "After breaking up, The Eagles have never performed together again on stage?",
+    "category": "music.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "A Guns N Roses song includes the lyric, Take me down to the very nice city.",
+    "category": "music.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "While Jimmy Buffett was landing his sea plane in Mexico, the police shot at it, thinking Buffett was a drug smuggler.",
+    "category": "music.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "American singer Carrie Underwood was born on March 10, 1983 in Checotah, Oklahoma.",
+    "category": "music.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "All The Young Dudes was the first song that David Bowie wrote for British rock and roll band Mott The Hoople.",
+    "category": "music.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Has Jesse McCartney participated in WB series Summerland?",
+    "category": "music.txt",
+    "answer": "Yes",
+    "choices": [
+      "A. Yes",
+      "B. No"
+    ]
+  },
+  {
+    "question": "Tito Puente fought in nine battles in World War II and then studied music at New Yorks famous Juliard School.",
+    "category": "music.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "The song Kyur4 Th Ich from Linkin Parks album Reanimation features more lyrics than the original song it was remixed from.",
+    "category": "music.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Was an autopsy performed on The Big Bopper?",
+    "category": "music.txt",
+    "answer": "Yes",
+    "choices": [
+      "A. No",
+      "B. Yes"
+    ]
+  },
+  {
+    "question": "Mustafa Kemal AtatÃ¼rk, the founder and first President of the Republic of Turkey, lived in DolmabahÃ§e Palace.",
+    "category": "newest.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Sethe, an untraditional Gothic heroine in Toni Morrisons Beloved, ends up with her first love at the end of the novel.",
+    "category": "newest.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Sophia Loren is the artistic name of Sofia Villani Scicolone.",
+    "category": "newest.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "A large part of mined diamonds are used for the industrial purposes of cutting, drilling, grinding, and polishing.",
+    "category": "newest.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Do the red candy in the original Skilttles and the original Starburst in the red wrapper have the same flavor?",
+    "category": "newest.txt",
+    "answer": "No",
+    "choices": [
+      "A. Yes",
+      "B. No"
+    ]
+  },
+  {
+    "question": "Peter Graves played the part of Jim Phelps, the head of the IM force, from the beginning to the end of the Mission: Impossible series (1966 to 1973).",
+    "category": "newest.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Michael Palin was able to portray the stammering Ken in A Fish called Wanda so accurately because he himself had a bad stammer when he was a boy.",
+    "category": "newest.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Audrey Hepburn was born in a poor family.",
+    "category": "newest.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "No bird can soar for over 3 years.",
+    "category": "newest.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "One of the most bloodthirsty mobsters, Toto Riina, is member of the American Mafia.",
+    "category": "people.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Sigmund Freud, the Father of Psychoanalysis, committed suicide on September 23, 1939.",
+    "category": "people.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Martha Jefferson, wife of President Thomas Jefferson, gave birth to two children.",
+    "category": "people.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "After Blackbeard died, he was beheaded and his head was suspended from the ship of his captor.",
+    "category": "people.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Drew Barrymore said: A fish may love a bird, but where would they live? .",
+    "category": "people.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Maria Antoinette had a simple and careless childhood in the Hofburg.",
+    "category": "people.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Malcolm X was a college graduate.",
+    "category": "people.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "On the show Handy Manny on Playhouse Disney Freddie Prince Jr. provides the voice of Manny.",
+    "category": "rated.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "In 1976, the action film Rocky, starring Sylvester Stallone, won the Academy Award in the category Best Picture.",
+    "category": "rated.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Mixture of Enfalac baby formula and dog food caused a toddlers stomach to explode post-mortem.",
+    "category": "rated.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Aproximately 5000 East Germans escaped throughout the 28 long years.",
+    "category": "rated.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "According to the Bible texts, Jesus earthly father Joseph was sheep herder.",
+    "category": "religion-faith.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "In Bethlehem, Christmas ceremonies are held on three different dates.",
+    "category": "religion-faith.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Kamma is only one of the 5 natural laws that Buddha spoke about.",
+    "category": "religion-faith.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "There is no square root of two.",
+    "category": "science-technology.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Lower frequencies have longer wavelengths, while higher frequencies have shorter wavelengths.",
+    "category": "science-technology.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Warm weather brings high pressure systems.",
+    "category": "science-technology.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Can you recycle food scraps?",
+    "category": "science-technology.txt",
+    "answer": "Yes",
+    "choices": [
+      "A. Yes",
+      "B. No"
+    ]
+  },
+  {
+    "question": "Was the iPod launched on October 23, 2001?",
+    "category": "science-technology.txt",
+    "answer": "Yes",
+    "choices": [
+      "A. No",
+      "B. Yes"
+    ]
+  },
+  {
+    "question": "Atoms are so small that they can only be observed with a special type of electronic optical microscope called scanning optical microscope.",
+    "category": "science-technology.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Cacti can only be pollinated by a certain type of tropical bees.",
+    "category": "science-technology.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Babe Ruth was a switch hitter early in his career.",
+    "category": "sports.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Ralph Garr never won a batting title while playing with the Braves.",
+    "category": "sports.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Yankee teammates Bernie Williams and Melky Cabrara were, respectively, born Bernardo and Melchior.",
+    "category": "sports.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Kobe Bryant scored 81 points against the Toronto Raptors on January 22 2006.",
+    "category": "sports.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Did the Flying Hawaiian hit a home run in the 2008 game against the Milwaukee Brewers?",
+    "category": "sports.txt",
+    "answer": "Yes",
+    "choices": [
+      "A. Yes",
+      "B. No"
+    ]
+  },
+  {
+    "question": "In ice hockey a goal counts as 2 points.",
+    "category": "sports.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Kobe Bryants second daughter is Gianna Maria-Onore Bryant.",
+    "category": "sports.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Larry Bird was a first round draft choice of the Pacers in 1978.",
+    "category": "sports.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "On the popular sitcom The Fresh Prince of Bel-Air the role of Vivian Banks was played by two different actresses.",
+    "category": "television.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Henry Winkler always wore a real leather jacket on camera while Happy Days was filming.",
+    "category": "television.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "In 1991, there was a spinoff/sequel series of WKRP in Cincinnati called The New WKRP in Cincinnati.",
+    "category": "television.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "In The Brady Bunch, Ann B. Davis played the role of Aunt Alice Nelson, the housekeeper.",
+    "category": "television.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "The nearest store to the Shady Rest hotel from the Petticoat Junction series was the Pixley Mercantile.",
+    "category": "television.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "In the series Futurama, Professor Farnsworh tells Bender to install a fake satellite dish to impress the neighbors.",
+    "category": "television.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Xander and Willow kissed in the opening episode of season 2 of Buffy the Vampire Slayer.",
+    "category": "television.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Judge Judy helped Judy break the record for the highest paid woman in the history of television.",
+    "category": "television.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Klingons have appeared in every incarnation of Star Trek?",
+    "category": "television.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Kelly Bishop, who plays Emily Gilmore on Gilmore Girls, was in the box-office hit Dirty Dancing.",
+    "category": "television.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "In Battlestar Galactica, humans are monotheistic, and the cylons worship many gods of Greek mythology.",
+    "category": "television.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "The Office character Dwight Schrute was a twin.",
+    "category": "television.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "In one episode of the show Kenan  Kel, Kel ate an entire bicycle in order to win a prize in a contest.",
+    "category": "television.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Dave Matthews has been on Storytellers more than once.",
+    "category": "television.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "In the episode The Xena Scrolls, Xenas descendant (who looks remarkably like her), allows Xena to fight through her and defeat Ares.",
+    "category": "television.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Upon graduation from Starfleet Academy, Captain Kirk from the Star Trek series was assigned to the USS Endeavor.",
+    "category": "television.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Sarah Brown originated the role of Caroline Benson (aka Carly Corinthos) on General Hospital.",
+    "category": "television.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "In Open for Business, the third expansion pack for The Sims 2, Sims may earn 25 business perks.",
+    "category": "video-games.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Can you kill demons in a non-members world of Runescape?",
+    "category": "video-games.txt",
+    "answer": "Yes",
+    "choices": [
+      "A. Yes",
+      "B. No"
+    ]
+  },
+  {
+    "question": "Did any Runescape player manage to kill the Corporal Beast by themselves without abusing a glitch during the first year of the Beasts release?",
+    "category": "video-games.txt",
+    "answer": "No",
+    "choices": [
+      "A. No",
+      "B. Yes"
+    ]
+  },
+  {
+    "question": "The currency of Malta is Maltese franc.",
+    "category": "world.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Africa is located east of North America.",
+    "category": "world.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Is the American Bathing Association a real organization?",
+    "category": "world.txt",
+    "answer": "No",
+    "choices": [
+      "A. No",
+      "B. Yes"
+    ]
+  },
+  {
+    "question": "Saint Valentine is said to have been a priest in the time of the Roman Empire.",
+    "category": "world.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "The worlds first public passenger rail service line began In September of 1825 in England.",
+    "category": "world.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "NASCAR stands for National Association For Stock Car Auto Racing.",
+    "category": "world.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Dry ice may be carried aboard an aircraft in the baggage compartment in small amounts. However, the Captain of the flight must receive a DI-595 (Dry Ice) notification prior to departure.",
+    "category": "world.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Sir Francis Drakes captained an English galleon called the Golden Phoenix.",
+    "category": "world.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Is India the second most populous country in the world?",
+    "category": "world.txt",
+    "answer": "Yes",
+    "choices": [
+      "A. No",
+      "B. Yes"
+    ]
+  },
+  {
+    "question": "Quarry Bank Mil in Cheshire, England is thought to be haunted by a group of former workers.",
+    "category": "world.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Cairo is the most populous metropolitan area in Africa.",
+    "category": "world.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "The Temple of Apollo Epicurius is located in Bassae.",
+    "category": "world.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "The Wolong National Nature Reserve was set up to save the declining giant panda population.",
+    "category": "world.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "In order for a Native American group to be recognized, it must be submitted to extensive genealogical investigation.",
+    "category": "world.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  }
+]

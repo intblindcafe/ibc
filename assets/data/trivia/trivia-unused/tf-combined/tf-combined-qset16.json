@@ -1,0 +1,1163 @@
+[
+  {
+    "question": "Can tigers live to be 20 years old?",
+    "category": "animals.txt",
+    "answer": "Yes",
+    "choices": [
+      "A. Yes",
+      "B. No"
+    ]
+  },
+  {
+    "question": "Do white lions exsist in the wild?",
+    "category": "animals.txt",
+    "answer": "Yes",
+    "choices": [
+      "A. Yes",
+      "B. No"
+    ]
+  },
+  {
+    "question": "Are their any complete dodo specimens anywhere in the world?",
+    "category": "animals.txt",
+    "answer": "No",
+    "choices": [
+      "A. Yes",
+      "B. No"
+    ]
+  },
+  {
+    "question": "Just like humans, apes and dolphins, elephants can recognize themselves in a mirror.",
+    "category": "animals.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "A sea wasp is a jellyfish.",
+    "category": "animals.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "The turtle-dove is closely related to the raven.",
+    "category": "animals.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "The manatee is a marine mammal.",
+    "category": "animals.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "To ESCHEW something means to be attracted to it.",
+    "category": "brain-teasers.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Andy Khachaturian is a former drummer of alternative metal band System of a Down.",
+    "category": "celebrities.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Alice in Chains performed live in the movie Singles.",
+    "category": "celebrities.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Did actor Dane Cook work at Burger King?",
+    "category": "celebrities.txt",
+    "answer": "Yes",
+    "choices": [
+      "A. Yes",
+      "B. No"
+    ]
+  },
+  {
+    "question": "In a 2004 movie, Lindsay Lohan played a girl who lived in Africa for her first 15 years. Suddenly, she has to learn what high school in the U.S. means and how to survive it (this is true). The movie was a Disney production.",
+    "category": "celebrities.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "In real life, William Peterson is a grandfather.",
+    "category": "celebrities.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Orlando Bloom made his film debut in the movie Wilde.",
+    "category": "celebrities.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Kirk Douglas costarred with John Wayne in War Wagon.",
+    "category": "celebrities.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Aquamans enemy the Ocean Master was his own father.",
+    "category": "entertainment.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "The path in which electricity travels is called an electric circuit.",
+    "category": "for-kids.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "LEGO was the first company in Denmark to buy and use a plastic injection-molding machine for toys.",
+    "category": "for-kids.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Does Harry Potter have a tattoo on his chest?",
+    "category": "for-kids.txt",
+    "answer": "No",
+    "choices": [
+      "A. Yes",
+      "B. No"
+    ]
+  },
+  {
+    "question": "Does animated character Jimmy Neutron have a  brother?",
+    "category": "for-kids.txt",
+    "answer": "Yes",
+    "choices": [
+      "A. Yes",
+      "B. No"
+    ]
+  },
+  {
+    "question": "Nails and hair continue to grow even after you die.",
+    "category": "general.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "The number Pi is larger than the number 4.",
+    "category": "general.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Botophobia is the term used for the fear of crowds.",
+    "category": "general.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Does sciaphobia mean fear of blood?",
+    "category": "general.txt",
+    "answer": "No",
+    "choices": [
+      "A. No",
+      "B. Yes"
+    ]
+  },
+  {
+    "question": "Is Aconcagua the tallest mountain in North America?",
+    "category": "general.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Dominica, New Zealand and Finland are three countries with high crime rates.",
+    "category": "geography.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "The first person in space was Russian.",
+    "category": "geography.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "The Axis powers besieged Malta during World War II, because the headquarters of the Royal Navy Mediterranean Fleet was there.",
+    "category": "history.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "A musical version of Carrie, the Stephen King story, was a huge flop on Broadway.",
+    "category": "history.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Mammal like reptiles were common by the end of the Paleozoic.",
+    "category": "history.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "The effects of red and white wine on your body are comparable.",
+    "category": "hobbies.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Chocolate causes acne.",
+    "category": "hobbies.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Is this the correct usage of the word inferring?\nBy saying that I look good today, are you inferring that I did not look good yesterday?",
+    "category": "humanities.txt",
+    "answer": "No",
+    "choices": [
+      "A. No",
+      "B. Yes"
+    ]
+  },
+  {
+    "question": "Hestia is the goddess of the hearth in Greek mythology.",
+    "category": "humanities.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "The Mona Lisa is not painted on a canvas.",
+    "category": "humanities.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "In the novel Gone with the Wind, Scarletts father bought two slaves from Raif Tarleton.",
+    "category": "literature.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Dorothy Parker never married.",
+    "category": "literature.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Nicolae Carpathia, the main antagonist in the Left Behind series, institutes a one-world religion.",
+    "category": "literature.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Jewish American actress Fran Drescher, famous for her nasal New York accent, played in the movie Saturday Night Fever.",
+    "category": "movies.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "In the movie Ghost, Mollys hobby was sewing?",
+    "category": "movies.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "The 1999 movie Cleopatra starred Timothy Dalton, Billy Zane and Elizabeth Taylor.",
+    "category": "movies.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Ray Milland was nominated for an Oscar for his role in the 1972 movie The Thing with Two Heads.",
+    "category": "movies.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "The 2009 movie Drag Me to Hell stars Alison Lohman and Justin Long.",
+    "category": "movies.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Do Robin of Loxley and Maid Marian get married at the end of Robin Hood: Men in Tights?",
+    "category": "movies.txt",
+    "answer": "Yes",
+    "choices": [
+      "A. Yes",
+      "B. No"
+    ]
+  },
+  {
+    "question": "In Resident Evil: Apocalypse the only returning actors from the first movie were Mila Jovovich and Mike Epps.",
+    "category": "movies.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Is it true that the only weapon Chewie uses in Star Wars is his bowcaster?",
+    "category": "movies.txt",
+    "answer": "No",
+    "choices": [
+      "A. Yes",
+      "B. No"
+    ]
+  },
+  {
+    "question": "Keanu Reeves starred in the 2005 movie Thumbsucker.",
+    "category": "movies.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "In the movie, Over Her Dead Body, an ice sculpture of a lady falls and kills Kate.",
+    "category": "movies.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Black Sabbath has never done a cover song on an album.",
+    "category": "music.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "The 1980s heavy rock band Quiet Riot was founded by guitar player Randy Rhoads.",
+    "category": "music.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Willie Nelson wrote the song Family Bible and sold it for $50.00.",
+    "category": "music.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Is it true that Edward Elgar was a British composer who wrote The Enigma Variations?",
+    "category": "music.txt",
+    "answer": "Yes",
+    "choices": [
+      "A. Yes",
+      "B. No"
+    ]
+  },
+  {
+    "question": "Randy Travis released the album Always  Forever in 1987.",
+    "category": "music.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "30 Seconds to Mars covered Bjorks song Hunter.",
+    "category": "music.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Did Mark Lindsay sing the song Indian Reservation?",
+    "category": "music.txt",
+    "answer": "Yes",
+    "choices": [
+      "A. Yes",
+      "B. No"
+    ]
+  },
+  {
+    "question": "The song P5hng Me A*wy from Linkin Parks album Reanimation is often played at the bands concerts.",
+    "category": "music.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Country music singer and actress Pam Tillis recorded the song Daddys Hands in 1986.",
+    "category": "music.txt",
+    "answer": "No",
+    "choices": [
+      "A. No",
+      "B. Yes"
+    ]
+  },
+  {
+    "question": "A childs body temperature is usually slightly higher than an adults.",
+    "category": "newest.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Saint Teresa of Avila is an Italian mystic.",
+    "category": "newest.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "The 1998 movie Youve Got Mail is not a remake.",
+    "category": "newest.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "The name Cleopatra is of Greek origin and means Fatherâs gloryâ.",
+    "category": "newest.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "John Andre was a French officer hanged as a spy during the American Revolutionary War.",
+    "category": "newest.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Printer steganography is a type of steganography where tiny yellow dots are added to each page.",
+    "category": "newest.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "John Cleese has co-written books on the psychology of family and personal life",
+    "category": "newest.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "The Caspian tiger is extinct.",
+    "category": "newest.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "A giraffe has a 21-inch long tongue.",
+    "category": "newest.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Old West gunman Burt Alvord was an Arizona marshal before becoming an outlaw.",
+    "category": "people.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "At 53, Muggsy Bogues was the smallest player in NBA history but he was big enough to outgrow his real given name, Moses.",
+    "category": "people.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Gerald Ford had four children.",
+    "category": "people.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "During World War II Ronald Reagan made training videos for the US Army Air Corps.",
+    "category": "people.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "According to his secretary, Rasputin wrote a letter in which he predicted his own death as well as the death of Tsar Nicholas and his family.",
+    "category": "people.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Princess Diana supported the international campaign to ban landmines.",
+    "category": "people.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Is it true that on October 1909, President William H. Taft became the first President to walk into the Oval Office?",
+    "category": "people.txt",
+    "answer": "Yes",
+    "choices": [
+      "A. Yes",
+      "B. No"
+    ]
+  },
+  {
+    "question": "Mackenzie Phillips who plays the oldest daughter Julie on the hit show  One Day at a Time is related to the founder of the 60s band The Mamas and the Papas?",
+    "category": "rated.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Matt Dillon from the show Gunsmoke had a horse he called Buck.",
+    "category": "rated.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Nike denied a customers request to have his running shoes personalized with the word sweatshop .",
+    "category": "rated.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "George W. Bush and   George  Herbert W. Bush were the first father and son to be U.S. presidents.",
+    "category": "rated.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "The Ten Commandments can be found in the book of Exodus, New Testament.",
+    "category": "religion-faith.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Does The Book of Numbers from the Old Testament begin with the numbering of the people in Sinai?",
+    "category": "religion-faith.txt",
+    "answer": "Yes",
+    "choices": [
+      "A. No",
+      "B. Yes"
+    ]
+  },
+  {
+    "question": "It is stated in the Old Testament that Jeremiah, Hosea, Jonah, and Job were prophets.",
+    "category": "religion-faith.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Ancient footsteps found in Tanzania prove that there were bipedal hominids as early as 3.8 million years ago.",
+    "category": "science-technology.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "You need a Swiss ball to build a stronger chest and shoulders.",
+    "category": "science-technology.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "The moon orbits eastward around the Earth.",
+    "category": "science-technology.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "The scapula is part of the spine near the hip.",
+    "category": "science-technology.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "The moon is moving toward the Earth at a rate of 1.5 inches per year.",
+    "category": "science-technology.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Marine 1, launched in 1961, was the first probe to visit another planet.",
+    "category": "science-technology.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "You should always warm up your muscles before lifting weights.",
+    "category": "science-technology.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Legendary slugger Babe Ruth was once traded by the Boston Red Sox to the New York Yankees for Charley Root.",
+    "category": "sports.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Is golf always relaxing to play?",
+    "category": "sports.txt",
+    "answer": "No",
+    "choices": [
+      "A. No",
+      "B. Yes"
+    ]
+  },
+  {
+    "question": "The Celtics were the winners of the NBA title in the 1985-86 season.",
+    "category": "sports.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Ted Williams won 2 Triple Crowns in his career.",
+    "category": "sports.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Is Pat the Bat Burrell a right fielder?",
+    "category": "sports.txt",
+    "answer": "No",
+    "choices": [
+      "A. Yes",
+      "B. No"
+    ]
+  },
+  {
+    "question": "Walter Paytons son rebuked Miami and played for their rivals, the Gators.",
+    "category": "sports.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "According to the famous Wrestlemania storyline, when the fire occurred, Kane and the Undertaker didnt see each other for years. Kane thought the Undertaker was killed in the fire, and the Undertaker thought Kane was killed in the fire.",
+    "category": "sports.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Larry Bird graduated from Indiana State in 1978.",
+    "category": "sports.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Phillip McKeon, who played Alices son Tommy Hyatt on the show Alice, is a relative of Nancy McKeon.",
+    "category": "television.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "The first name of the barber on The Andy Griffith Show was Floyd.",
+    "category": "television.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Professor Roy Hinckley was played by actor Russell Johnson in Gilligans Island.",
+    "category": "television.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "The Brady Bunch TV Series ran from 1969-1974.",
+    "category": "television.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Blanche, one of the main characters on The Golden Girls, had one sister, Virginia.",
+    "category": "television.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "When Ursulas fiance gets to the party in the Friends episode The One With The Halloween Party, the first thing he does is slap Phoebe on the butt.",
+    "category": "television.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "In the animated series The Simpsons, Homer and Marges children are named Maggie, Lisa, and Bart.",
+    "category": "television.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Is it true that Sylar from the series Heroes can absorb the powers of another person if he is close to them?",
+    "category": "television.txt",
+    "answer": "No",
+    "choices": [
+      "A. Yes",
+      "B. No"
+    ]
+  },
+  {
+    "question": "Don Adams won on Arthur Godfreys Talent Scouts.",
+    "category": "television.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Gilmore Girls character Rory never broke up with her boyfriends, they all broke up with her.",
+    "category": "television.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Cartoon Networks first program that was geared more toward the adult audience was Space Ghost: Coast to Coast.",
+    "category": "television.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "The actor who played the main character on Barnaby Jones also played the part of Davy Crockett in Davy Crockett in the 1950s.",
+    "category": "television.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "In Season One of One Tree Hill, Nathan wants Hailey to tutor him so he can get to Lucas to torment him.",
+    "category": "television.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "On the Teenage Mutant Ninja Turtles cartoon series, Splinter had an ancestor by the name of Hamato Koji.",
+    "category": "television.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "In the anime series Rurouni Kenshin, did someone manage to dodge Kenshins attack Kuzu-ryÅ«sen?",
+    "category": "television.txt",
+    "answer": "Yes",
+    "choices": [
+      "A. Yes",
+      "B. No"
+    ]
+  },
+  {
+    "question": "Is it true that on the TV show Charmed, Cole impregnated Phoebe with his demon baby and she became Queen of the Underworld.",
+    "category": "television.txt",
+    "answer": "Yes",
+    "choices": [
+      "A. No",
+      "B. Yes"
+    ]
+  },
+  {
+    "question": "In the teen series iCarly, is Carlys brother an artist?",
+    "category": "television.txt",
+    "answer": "Yes",
+    "choices": [
+      "A. Yes",
+      "B. No"
+    ]
+  },
+  {
+    "question": "Has Nintendo character Mario ever been a bad guy?",
+    "category": "video-games.txt",
+    "answer": "Yes",
+    "choices": [
+      "A. No",
+      "B. Yes"
+    ]
+  },
+  {
+    "question": "Can you have two houses in the Nintendo game Animal Crossing?",
+    "category": "video-games.txt",
+    "answer": "No",
+    "choices": [
+      "A. No",
+      "B. Yes"
+    ]
+  },
+  {
+    "question": "The Binary Rifle in Halo 4 can only kill someone with a headshot.",
+    "category": "video-games.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Days or periods of high demand when special rates are not in effect are known as black days.",
+    "category": "world.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "If I wanted to visit The Shwedagon Pagoda, would I go to France?",
+    "category": "world.txt",
+    "answer": "No",
+    "choices": [
+      "A. Yes",
+      "B. No"
+    ]
+  },
+  {
+    "question": "Does Procrastinators Club of America really exist?",
+    "category": "world.txt",
+    "answer": "Yes",
+    "choices": [
+      "A. No",
+      "B. Yes"
+    ]
+  },
+  {
+    "question": "With 51% of the continents population, Spanish is the most widely spoken language in South America.",
+    "category": "world.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "September is the ninth month of the year.",
+    "category": "world.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "An estimated 2,000 Christians left Bethlehem during the period of 2000 - 2003.",
+    "category": "world.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "The town of French Lick is located in the state of Ohio.",
+    "category": "world.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Since the inception of the Man of the Year award through 2007, every sitting US President was chosen Man of the Year.",
+    "category": "world.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "There are 51 countries in Africa.",
+    "category": "world.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Cochin is the capital of the Indian state Kerala.",
+    "category": "world.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "A Sphinx features the body of a lion and a human head.",
+    "category": "world.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "In Sweden, Christmas celebrations begin on December 13th with the Saint Lucia ceremony.",
+    "category": "world.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "The Silk Road passes through the city of Xian.",
+    "category": "world.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "The Titanic had one steam turbine engine and two conventional steam engines.",
+    "category": "world.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  }
+]

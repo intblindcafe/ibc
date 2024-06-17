@@ -1,0 +1,1163 @@
+[
+  {
+    "question": "All cats are born with green eyes.",
+    "category": "animals.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Penguins secrete salt from their nostrils.",
+    "category": "animals.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Cheetahs are only found in Africa.",
+    "category": "animals.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "An elephants brain is half the size of the human brain.",
+    "category": "animals.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Do wolves have a social structure?",
+    "category": "animals.txt",
+    "answer": "Yes",
+    "choices": [
+      "A. No",
+      "B. Yes"
+    ]
+  },
+  {
+    "question": "Ammonites lived on the ocean floor.",
+    "category": "animals.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Do Giant Pandas hibernate?",
+    "category": "animals.txt",
+    "answer": "No",
+    "choices": [
+      "A. No",
+      "B. Yes"
+    ]
+  },
+  {
+    "question": "Is it  possible to name three consecutive days without using the words Monday, Tuesday, Wednesday, Thursday, Friday, Saturday, or Sunday?",
+    "category": "brain-teasers.txt",
+    "answer": "Yes",
+    "choices": [
+      "A. Yes",
+      "B. No"
+    ]
+  },
+  {
+    "question": "Adam Sandler started performing in comedy clubs by taking the stage at a club in New York.",
+    "category": "celebrities.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Did Raquel Welch play Lt. White on the TV show McHales Navy?",
+    "category": "celebrities.txt",
+    "answer": "No",
+    "choices": [
+      "A. Yes",
+      "B. No"
+    ]
+  },
+  {
+    "question": "Film and stage actor Terrence Howard was born on January 17, 1969.",
+    "category": "celebrities.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Did Antonio Banderas receive a star on the Hollywood Walk of Fame in 2005?",
+    "category": "celebrities.txt",
+    "answer": "Yes",
+    "choices": [
+      "A. No",
+      "B. Yes"
+    ]
+  },
+  {
+    "question": "Was Sally Field a cheerleader in high school?",
+    "category": "celebrities.txt",
+    "answer": "Yes",
+    "choices": [
+      "A. No",
+      "B. Yes"
+    ]
+  },
+  {
+    "question": "Robert De Niro is the co-founder of a film production company.",
+    "category": "celebrities.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "In the 1970s Bionic series, main character Jaime, played by Lindsay Wagner, became a school teacher immediately after graduation from college.",
+    "category": "celebrities.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Does Andy and Rogers daughter get notes in her locker in FoxTrot?",
+    "category": "entertainment.txt",
+    "answer": "Yes",
+    "choices": [
+      "A. No",
+      "B. Yes"
+    ]
+  },
+  {
+    "question": "Is it true that in the movie The Lion, the Witch and the Wardrobe, Lucy discovered the wardrobe, while the children were playing hide and seek?",
+    "category": "for-kids.txt",
+    "answer": "Yes",
+    "choices": [
+      "A. Yes",
+      "B. No"
+    ]
+  },
+  {
+    "question": "In the Harry Potter series, Professor Snape became headmaster of Hogwarts after the death of Dumbledore.",
+    "category": "for-kids.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Does Voldemort have a rat named Nagini?",
+    "category": "for-kids.txt",
+    "answer": "No",
+    "choices": [
+      "A. No",
+      "B. Yes"
+    ]
+  },
+  {
+    "question": "A car that gets over 200 miles per gallon is reclaimed by the factory, after its owner calls to congratulate the manufacturers about its excellent performance.",
+    "category": "general.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "The comic books The Adventures of Asterix focus on the exploits of a village of ancient Gauls as they resist Greek occupation.",
+    "category": "general.txt",
+    "answer": "No",
+    "choices": [
+      "A. No",
+      "B. Yes"
+    ]
+  },
+  {
+    "question": "The first African-American professional baseball player played for Oakland in 1916.",
+    "category": "general.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "If swallowed, ink is harmless.",
+    "category": "general.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Albuminurophobia is defined as fear of albums.",
+    "category": "general.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Potato flavored ice cream can be bought in Idaho.",
+    "category": "general.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "It is practically impossible to drown unwillingly in the Dead Sea.",
+    "category": "geography.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "The term Blitzkrieg, referring to swift, sudden military offensive, is translated as Thunder War.",
+    "category": "history.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Death Hill was the name of the sight of execution during the Salem witch trials.",
+    "category": "history.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Benjamin Franklin was almost killed by electrocution.",
+    "category": "history.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Dinosaurs once existed on every continent except Antarctica.",
+    "category": "history.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Farfalle is a French word meaning butterfly.",
+    "category": "hobbies.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "In casinos where Blackjack dealers must hit on soft 17 the game is substantially more favorable for the player than in casinos where dealers must stand on soft 17.",
+    "category": "hobbies.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Do the words equivoke and equivoque mean the same?",
+    "category": "humanities.txt",
+    "answer": "Yes",
+    "choices": [
+      "A. No",
+      "B. Yes"
+    ]
+  },
+  {
+    "question": "Quadrille was born as part of military parades in the 17th century and was performed by 4 horsemen and their horses.",
+    "category": "humanities.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Edward Hopper once said, The only real influence Ive ever had was myself.",
+    "category": "humanities.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Harry rescued Hermione from the Merpeople.",
+    "category": "literature.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "In the novel Left Behind, character Rayford Steele is a pilot for Pan-American Airways.",
+    "category": "literature.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "In the book Lord of the Rings: The Two Towers,  does Gollum ever decide to be on Frodos side?",
+    "category": "literature.txt",
+    "answer": "No",
+    "choices": [
+      "A. Yes",
+      "B. No"
+    ]
+  },
+  {
+    "question": "Fast Times at Ridgemont High was added to the list of films preserved by the U. S. National Film Registry in 2005.",
+    "category": "movies.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "In the movie The Color Purple, Shugs father built and ran the Juke Joint that was located back in the woods.",
+    "category": "movies.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "In Shrek the Third Queen Lillian was voiced by Dame Judy Dench.",
+    "category": "movies.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "In the first Saw movie, the character named Mark, committed workmans comp fraud.",
+    "category": "movies.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Does Epic Movie parody the movie Night at the Museum?",
+    "category": "movies.txt",
+    "answer": "No",
+    "choices": [
+      "A. No",
+      "B. Yes"
+    ]
+  },
+  {
+    "question": "Darth Vader dies in Star Wars: Episode VI - Return of the Jedi.",
+    "category": "movies.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "In the movie Monty Python and the Holy Grail, the word it, which is the word the Knights of Ni cannot stand to hear, is actually spoken on occasion (in front of them) without them making a big deal of it.",
+    "category": "movies.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "In the movie Braveheart, King Edward I was also referred to as Edward the Long Shanks?",
+    "category": "movies.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "In the movie Lean on Me Joe Clark is caught with chains on the doors by the mayor of Paterson, NJ.",
+    "category": "movies.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Was Broken Arrow a black-and-white movie?",
+    "category": "movies.txt",
+    "answer": "No",
+    "choices": [
+      "A. No",
+      "B. Yes"
+    ]
+  },
+  {
+    "question": "The Eagles Greatest Hits has sold over 20,000,000 copies since its release in 1975.",
+    "category": "music.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Clay Walker performed the song Rumor Has It in 1997.",
+    "category": "music.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "A stroke ended James musical career.",
+    "category": "music.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Is it true that in 2005, singer Carrie Underwood was voted Worlds Sexiest Vegetarian?",
+    "category": "music.txt",
+    "answer": "Yes",
+    "choices": [
+      "A. Yes",
+      "B. No"
+    ]
+  },
+  {
+    "question": "The song Diamond Dogs by David Bowie was originally planned as a musical version of George Orwellâs Nineteen Eighty Four.",
+    "category": "music.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Is Jesse McCartney a single child in the family?",
+    "category": "music.txt",
+    "answer": "No",
+    "choices": [
+      "A. Yes",
+      "B. No"
+    ]
+  },
+  {
+    "question": "Musician Tito Puente was also an award-winning dancer.",
+    "category": "music.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Is there any singing in Italian in The Light in the Piazza?",
+    "category": "music.txt",
+    "answer": "Yes",
+    "choices": [
+      "A. Yes",
+      "B. No"
+    ]
+  },
+  {
+    "question": "Buddy Hollys wife was pregnant at the time of his death.",
+    "category": "music.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "The enormous Bohemian crystal chandelier, which is in the center hall of DolmabahÃ§e Palace, was a gift from Queen Elizabeth I of England.",
+    "category": "newest.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "In First Love: A Gothic Tale, the Gothic heroine is a corrupted child who commits a murder.",
+    "category": "newest.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Sophia Lorens mother was an aspiring actress.",
+    "category": "newest.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Diamonds are the hardest substance on Earth.",
+    "category": "newest.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Does hemoglobin make red blood cells red?",
+    "category": "newest.txt",
+    "answer": "Yes",
+    "choices": [
+      "A. Yes",
+      "B. No"
+    ]
+  },
+  {
+    "question": "Two of the actors from the Mission: Impossible series were in real life married to each other.",
+    "category": "newest.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Michael Palin has been honoured by having been made both a Fellow of the Royal Geographical Society (FRGS) and a Member of the Order of the British Empire (MBE)",
+    "category": "newest.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "David Copperfield adopted his stage name from the Charles Dickens novel of the same name.",
+    "category": "newest.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "The male Emperor penguin incubates the egg.",
+    "category": "newest.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "John Gotti has never been imprisoned.",
+    "category": "people.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "James Buchanan was a Republican.",
+    "category": "people.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Elizabeth Monroe, First Lady from 1817 to 1825, had a child who died from whooping cough.",
+    "category": "people.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Len Dawson, who played quarterback for the KC Chiefs, wore number 16.",
+    "category": "people.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Benedict Arnold once said: A government is like fire, a handy servant, but a dangerous master.",
+    "category": "people.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Marie Antoinette and her husband, the Dauphin of France, consummated their marriage on the wedding night.",
+    "category": "people.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "First Lady Mamie Eisenhower liked watching soap operas.",
+    "category": "people.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "The Playhouse Disney show JoJos Circus features a little girl who lives in Circusville and has a pet lion named Goliath.",
+    "category": "rated.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Jon Voight, who won the Academy Award for his performance in the 1978 movie Coming Home, is the father of Julia Roberts.",
+    "category": "rated.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "A British mill engineer broke the bank at a Monte Carlo casino.",
+    "category": "rated.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "In the nursery rhyme This Little Piggy the middle piggy had baked ham.",
+    "category": "rated.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "In the Bible texts, âAm I my brotherâs keeper?â was a question asked by Cain to God.",
+    "category": "religion-faith.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "According to New Testament, the home of Joseph and Mary was in Jerusalem.",
+    "category": "religion-faith.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "According to Buddhism there are realms of existences other than human and animal realm.",
+    "category": "religion-faith.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Teleseisms are ground motions caused by a distant earthquake.",
+    "category": "science-technology.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Barbers traditionally have red and white poles in front of their stores because in the Middle Ages they did the blood letting.",
+    "category": "science-technology.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "In the summer months, a clock located in Indianapolis, IN, USA will show a different time than a clock located in Paducah, KY.",
+    "category": "science-technology.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Fibromyalgia is most common in women.",
+    "category": "science-technology.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "In April, 2007 it was announced that Apple had sold its one-hundredth million iPod making it the biggest selling digital music player of all time.",
+    "category": "science-technology.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Super-heavy atoms, (or super heavy elements, often abbreviated SHE), are the elements with large atomic number (starting from 104), which occur only deep in the Earths mantle. They are very useful in the study of atoms structure and properties.",
+    "category": "science-technology.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "In aromatherapy, essential oils are often used to enhance the mood.",
+    "category": "science-technology.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Former baseball player Johnny Bench was a switch hitter in the minor leagues.",
+    "category": "sports.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Dale Murphy was a first round pick of the Atlanta Braves.",
+    "category": "sports.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Earl and Kultida Woods named their son Tiger when he was born on December 30, 1975 in Cypress, CA. because his birth had been a tough ordeal.",
+    "category": "sports.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Dwyane Wade won the NBA Finals MVP Award in 2006.",
+    "category": "sports.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Brett Michaels and Shawn Michaels are brothers.",
+    "category": "sports.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "In 1987, Robin Ventura set the record for most grand slams in one season.",
+    "category": "sports.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Kobe Bryant won the Naismith Prep Player of the Year Award in 1996.",
+    "category": "sports.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Larry Bird was voted thirteen times in the All-Star team.",
+    "category": "sports.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "One of the famous Marx Brothers appeared on the TV show I Love Lucy.",
+    "category": "television.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Desperate Housewives actress Teri Hatcher was a cast member of The Love Boat.",
+    "category": "television.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "On the TV-Series Beverly Hills 90210 Brenda is older that Brandon.",
+    "category": "television.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Mike Lookinland appeared in 69 episodes of The Brady Bunch as Bobby Brady.",
+    "category": "television.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Beverly Jo, Bobbie Jo and Betty Jo were the three daughters of the proprietor of Shady Rest in Petticoat Junction.",
+    "category": "television.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "In the popular cartoon of the same name, Popeye has a ship tattooed on his muscular forearm.",
+    "category": "television.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Buffy the Vampire Slayer episode School Hard features the first appearance of the vampires Spike and his girlfriend Drusilla.",
+    "category": "television.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "The soap opera Peyton Place was based on a 1956 novel of the same name.",
+    "category": "television.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "In the Star Trek series, Klingons are much more tolerant of cold weather than their human counterparts.",
+    "category": "television.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Julie found Uncle Mickey after he was presumed dead from a picture in the newspaper about the winner of a local county fair.",
+    "category": "television.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "In season 3 of the Buffy series, in an unprecedented event at Sunnydale High, Buffy and Cordelia were both crowned Homecoming Queen.",
+    "category": "television.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Daria is a spin off of Beavis and Butt-head.",
+    "category": "television.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Kenan and Kel get married in one episode of the self-titled show.",
+    "category": "television.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Def Leppard has never appeared on VH1: Storytellers.",
+    "category": "television.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "In the episode Fallen Angel, Xena the warrior Princess gives up her wings and travels to hell to save a fallen Gabrielle.",
+    "category": "television.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Captain Kirk from Star Trek never attained a rank higher than Captain in spite of his heroic service.",
+    "category": "television.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "The American broadcaster of Degrassi: The Next Generation, The-N, has repeatedly censored episodes, editing them in ways to make them, in their opinion, more acceptable to the American audience.",
+    "category": "television.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Was the computer game The Sims 2 made solely by EA games?",
+    "category": "video-games.txt",
+    "answer": "No",
+    "choices": [
+      "A. No",
+      "B. Yes"
+    ]
+  },
+  {
+    "question": "Can you wear goblin mail in Runescape?",
+    "category": "video-games.txt",
+    "answer": "No",
+    "choices": [
+      "A. Yes",
+      "B. No"
+    ]
+  },
+  {
+    "question": "On Tutorial Island of RuneScape you get runes from a male character.",
+    "category": "video-games.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Denmark is a monarchy.",
+    "category": "world.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Arkansas is west of Oklahoma.",
+    "category": "world.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Is the National Soft Drink Association an actual organization?",
+    "category": "world.txt",
+    "answer": "Yes",
+    "choices": [
+      "A. No",
+      "B. Yes"
+    ]
+  },
+  {
+    "question": "50% of all Valentines card are purchased 6 days prior to the holiday.",
+    "category": "world.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "The 2nd Friday of September is designated as POW/MIA Recognition Day in the United States.",
+    "category": "world.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "The Ferrari was founded by Enzo Ferrari in 1928.",
+    "category": "world.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "MUNI serves San Francisco.",
+    "category": "world.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "The Alaska state flag was designed by a 13-year-old.",
+    "category": "world.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "In 1931citizens of Tenino, Washington agreed to use wooden coins.",
+    "category": "world.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Haifa has its own airport â the Haifa Airport.",
+    "category": "world.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "In Cairo, the first two train cars of the subway are reserved for men only.",
+    "category": "world.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "The Monastery of Saint John the Theologian and the Cave of the Apocalypse are located on the Greek island of Patmos.",
+    "category": "world.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "John Brown Universitys basketball team is nicknamed the Golden Hawks.",
+    "category": "world.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Article 4 of the U.S. Constitution deals with Relations Among the States.",
+    "category": "world.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  }
+]

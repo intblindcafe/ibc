@@ -1,0 +1,1163 @@
+[
+  {
+    "question": "President Fords dog was named Freedom.",
+    "category": "animals.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Can skunks be trained to make good pets?",
+    "category": "animals.txt",
+    "answer": "Yes",
+    "choices": [
+      "A. Yes",
+      "B. No"
+    ]
+  },
+  {
+    "question": "Grizzly bears can be found in Europe and North America.",
+    "category": "animals.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Reindeer are strict herbivores (vegetarians).",
+    "category": "animals.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Box turtles are safe to eat.",
+    "category": "animals.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Platypuses are venomous.",
+    "category": "animals.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "The octopus is considered the smartest invertebrate.",
+    "category": "animals.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Is it possible to test positive on a breathalyzer after drinking only a glass of milk?",
+    "category": "brain-teasers.txt",
+    "answer": "Yes",
+    "choices": [
+      "A. Yes",
+      "B. No"
+    ]
+  },
+  {
+    "question": "Is actor Will Ferrell a drop out?",
+    "category": "celebrities.txt",
+    "answer": "No",
+    "choices": [
+      "A. Yes",
+      "B. No"
+    ]
+  },
+  {
+    "question": "Dustin Hoffman was named after Dustin Farnum, the favorite writer of his parents.",
+    "category": "celebrities.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "There are no sisters to the Baldwin brothers.",
+    "category": "celebrities.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "The parents of Arnold - Gustav Schwarzenegger and Aurelia Jadrny, were persecuted by the Nazi party.",
+    "category": "celebrities.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "John Ritter was married more than once.",
+    "category": "celebrities.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Lynn Redgrave starred in the movies Julia, Deja Vu and made an appearance on the television series Nip/Tuck.",
+    "category": "celebrities.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "When the song featured in the sound clip was released, KISS was still wearing their trademark makeup.",
+    "category": "celebrities.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "In the cartoon Calvin and Hobbes, Calvin enjoys the dinners that his mom makes.",
+    "category": "entertainment.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "The Dark Knight is an indoor roller coaster.",
+    "category": "entertainment.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "In the Harry Potter books, Professor Binns is a ghost that teaches History of Magic.",
+    "category": "for-kids.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "In the book Harry Potter and the Chamber of Secrets, Harry used the Hover Charm to destroy a pudding that Aunt Petunia had made for an important dinner party attended by Uncle Vernons potential client and the clients wife.",
+    "category": "for-kids.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Has Quinn dated Marc on the show Zoey 101?",
+    "category": "for-kids.txt",
+    "answer": "Yes",
+    "choices": [
+      "A. No",
+      "B. Yes"
+    ]
+  },
+  {
+    "question": "Is the Edgar Allen Poe House in Baltimore supposedly haunted by the ghost of the eponymous author?",
+    "category": "general.txt",
+    "answer": "No",
+    "choices": [
+      "A. Yes",
+      "B. No"
+    ]
+  },
+  {
+    "question": "You can get lead poisoning from a modern pencil.",
+    "category": "general.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Barack Obama is a righty.",
+    "category": "general.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Queen Elizabeth II of Great Britain is allowed by law to go practically anywhere she wants to in Great Britain.",
+    "category": "general.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "George Taliaferro was the second black player ever to be drafted in the NFL.",
+    "category": "general.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Chiraptophobia means fear of snow.",
+    "category": "general.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Makawao is the capital of the State of Hawaii.",
+    "category": "geography.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Alexander Kerensky was the first Prime Minister of the Russian Provisional Government in 1917.",
+    "category": "history.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "At the Naval battle of Mers-El-Kebir in 1940, the British Navy made a devastating blow against the Italian Navy.",
+    "category": "history.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "When the Anzacs evacuated the Gallipoli Peninsula in December 1915, 25 men were killed as they climbed into the boats that were waiting to take them to the ships offshore.",
+    "category": "history.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "The acids which the Coca-Cola beverage contains make it harmful to drink.",
+    "category": "hobbies.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Eating carrots can improve a persons night vision.",
+    "category": "hobbies.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Aspiration is one of the Lacoste perfumes for women.",
+    "category": "hobbies.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Most of the traditional Indo-European languages capitalise I, the pronoun denoting the first person singular.",
+    "category": "humanities.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "The main difference between Norse gods and gods of other cultures is that Norse gods are not immortal.",
+    "category": "humanities.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Kathy Reichs has written some great mysteries, where the primary character is Forensic Archaeologist, Kay Scarpetta.",
+    "category": "literature.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Margaux Hemingway was Ernest Hemingways daughter.",
+    "category": "literature.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Hattie considers terminating her pregnancy once she finds out she is carrying Nicolaes child.",
+    "category": "literature.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "The movie Jaws scared so many people that the beach attendance was down in the summer of 1975.",
+    "category": "movies.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Actor Paul Reubens appears in the movies Up In Smoke, Cheech and Chongs Next Movie  and Nice Dreams.",
+    "category": "movies.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "In the film Freddy vs. Jason, Freddy Krueger wins the battle of slasher movie icons.",
+    "category": "movies.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "In the film Superbad, Seth ended up getting an outfit from Evans dads closet for the party they were going to.",
+    "category": "movies.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Richard Chamberlain has portrayed Jason Bourne.",
+    "category": "movies.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "In the movie The Crow,Top Dollar and Myca smoked human tongues to get high, because All the power in the world resides in the tongue, my friend. Sometimes, theyre more useful than the person who bears them.",
+    "category": "movies.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Dax Shepard was a child actor.",
+    "category": "movies.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Troy gives Gabriella a necklace in High School Musical 2.",
+    "category": "movies.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Indiana is the name of Indiana Jones pet cat.",
+    "category": "movies.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "In the drama movie 21, Ben is asked to join the card counting group and immediately agrees.",
+    "category": "movies.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "My Corona was a #1 hit for The Knack in 1979.",
+    "category": "music.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Janis Joplin was a very good friend of Paul McCartneys wife Linda.",
+    "category": "music.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Guitarist and composer Robert Fripp produced Peter Gabriels first solo album.",
+    "category": "music.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Ludwig van Beethovens last complete symphony was Symphony No. 5.",
+    "category": "music.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Beyonce wrote a song titled Bootylicious, a word which has been included in the Oxford English Dictionary?",
+    "category": "music.txt",
+    "answer": "Yes",
+    "choices": [
+      "A. No",
+      "B. Yes"
+    ]
+  },
+  {
+    "question": "Is there an actress who plays Dorothy in the musical Wicked?",
+    "category": "music.txt",
+    "answer": "No",
+    "choices": [
+      "A. No",
+      "B. Yes"
+    ]
+  },
+  {
+    "question": "The three founding members of Linkin Park were Mike Shinoda, Brad Delson, and Chester Bennington.",
+    "category": "music.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Linkin Park views the song Little Things Give You Away from their album Minutes to Midnight as the pinnacle effort of their entire career.",
+    "category": "music.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "The following lyrics were dedicated to a real historical figure:\nCasey Jones, steaming and a rolling. Casey Jones, you never have to guess.\nWhenever you hear the whistle of the engine, you know it is Casey at the throttle\nof the Cannonball Express.",
+    "category": "music.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Amy wants to measure 100ml of water, but she only has two measuring cups. The first measuring cup can hold 200ml and the second can hold 300ml.  Can Amy achieve her goal?",
+    "category": "newest.txt",
+    "answer": "Yes",
+    "choices": [
+      "A. Yes",
+      "B. No"
+    ]
+  },
+  {
+    "question": "White chocolate is made from cocoa butter without cocoa solids.",
+    "category": "newest.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Pavarottis last performance on stage was at the 2006 Winter Olympics in Turin.",
+    "category": "newest.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Lenin was the founder of the Soviet Communist Party.",
+    "category": "newest.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Carbon, hydrogen, oxygen, nitrogen, phosphorus, sulfur, and energy are required by living things as well as trace amounts of numerous other elements.",
+    "category": "newest.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "The Caesar Augustus Bust was made from Carrara Marble with bronze plated armor.",
+    "category": "newest.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Bing Crosby is in the World Golf Hall of Fame.",
+    "category": "newest.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Gene Kelly quit dancing when he was eight and didnt dance again until he was fifteen.",
+    "category": "newest.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "There is a microbe called Chaos chaos.",
+    "category": "newest.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Draculas mansion was in Novi Sad.",
+    "category": "people.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Vincent Lombardi stated that, Opportunity dances with those who are already on the dance floor.",
+    "category": "people.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "When Joan was about 20 she said she had begun to receive visions of Saint Michael the Archangel, St. Catherine, and St. Margaret telling her to drive the English out of France.",
+    "category": "people.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "John is a slang term meaning prostitute.",
+    "category": "people.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "In 1943 Malcolm X joined the Army.",
+    "category": "people.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Senator Ted Kennedy was married 4 times.",
+    "category": "people.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "David became the first King of Israel after slaying Goliath.",
+    "category": "people.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Joe Pesci won an Academy award for his portrayal of Tommy DeVito in the hit movie Goodfellas.",
+    "category": "rated.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "The last scene of the movie Napoleon Dynamite shows Napoleon and his girlfriend playing tetherball.",
+    "category": "rated.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Whoopi Goldberg was the first woman to host the Oscars.",
+    "category": "rated.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Actress Wendie Jo Sperber, which played Linda McFly in the Back to the Future movies, passed away from lung cancer in 2006.",
+    "category": "rated.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Academy Award-winning actor Richard Dreyfuss appeared in the hit movie Stand By Me.",
+    "category": "rated.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Historically, Golda Meir was the first female Jewish leader.",
+    "category": "religion-faith.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "The Church of Our Lady Mary of Zion is an Ethiopian Orthodox Church.",
+    "category": "religion-faith.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Sinkholes, natural depressions in the surface topography, may vary largely in size.",
+    "category": "science-technology.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "In 2005, Katrina became the strongest hurricane on record in the Atlantic Basin with a pressure of 882 millibars breaking the old record set by Gilbert (888 mb) in 1988.",
+    "category": "science-technology.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "If a computer has an integrated sound card, you will not need speakers to hear sounds (such as music or sound effects) through your system.",
+    "category": "science-technology.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "On average, only one baby in 10,000,000 is born with a tooth.",
+    "category": "science-technology.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "The smallest cell in the human body is the ovum.",
+    "category": "science-technology.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Dark chocolate reduces blood pressure while enhancing circulation.",
+    "category": "science-technology.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "If a dog is wagging its tail, then it is safe to approach.",
+    "category": "science-technology.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "All variants of the game of billiards are played on a flat rectangular table with 6 pockets.",
+    "category": "sports.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "One of Babe Ruths nicknames was The Bambino.",
+    "category": "sports.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Driver Ryan Newman has in fact never won a USAC championship.",
+    "category": "sports.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Was the standard basketball hoop ever lower or higher than 10 feet (3 m) throughout the history of basketball?",
+    "category": "sports.txt",
+    "answer": "No",
+    "choices": [
+      "A. Yes",
+      "B. No"
+    ]
+  },
+  {
+    "question": "Up to the end of the 2007 NHL season, the Original Six team who has gone the longest without winning the Stanley Cup is the Chicago Blackhawks, having last won the cup in the 1960-1961 season.",
+    "category": "sports.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Is it true that while racing a go kart, you should wear a hat, shorts and a T-shirt?",
+    "category": "sports.txt",
+    "answer": "No",
+    "choices": [
+      "A. No",
+      "B. Yes"
+    ]
+  },
+  {
+    "question": "No team has ever entered the NCAA Mens Basketball Tournament undefeated.",
+    "category": "sports.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Does the Big East have any teams with the same nickname?",
+    "category": "sports.txt",
+    "answer": "No",
+    "choices": [
+      "A. No",
+      "B. Yes"
+    ]
+  },
+  {
+    "question": "In lacrosse, a slash is a 30-second penalty.",
+    "category": "sports.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Shirley Jones and David Cassidy were the only band members who actually sang on the TV series, The Partridge Family.",
+    "category": "television.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "In 1957, John Forsythe was the TV dad of Kelly, played by Noreen Corcoran.",
+    "category": "television.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Johnny Carson plays the part of a car salesman named Cheerful Charlie in a 1969 episode of Heres Lucy.",
+    "category": "television.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "At the end of the movie Inspector Gadget Brain speaks and his voice is the same as in the cartoon series of the same name?",
+    "category": "television.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Was Jeremy Burns from the series Charmed a warlock?",
+    "category": "television.txt",
+    "answer": "Yes",
+    "choices": [
+      "A. No",
+      "B. Yes"
+    ]
+  },
+  {
+    "question": "In Beverly Hills, 90210, Donna lost her virginity to Noah.",
+    "category": "television.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Greg Morris played Shirley Wilsons husband on Whats Happening!!.",
+    "category": "television.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "The Partridge Family was not based on a real life family.",
+    "category": "television.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Is cartoon character Bart Simpson voiced by a woman?",
+    "category": "television.txt",
+    "answer": "Yes",
+    "choices": [
+      "A. Yes",
+      "B. No"
+    ]
+  },
+  {
+    "question": "Quantum Leap character Al was a Rear Admiral in the U.S. Navy.",
+    "category": "television.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "In Avatar: The Last Airbender, does Zukos mother and Kataras mother have anything in common?",
+    "category": "television.txt",
+    "answer": "Yes",
+    "choices": [
+      "A. No",
+      "B. Yes"
+    ]
+  },
+  {
+    "question": "Calvin Payne from the sitcom House of Payne was in college for 7 years.",
+    "category": "television.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "The Ghost Hunters find evidence at every location they investigate.",
+    "category": "television.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Spongebobs pet snail, Larry, meows like a cat.",
+    "category": "television.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "When lyrics correspond to the story acted out in a music video, their impact is stronger.",
+    "category": "television.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Pal was the name of the original dog that played Lassie in the self-titled series.",
+    "category": "television.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "In the Halo series, Zealots use Energy Swords.",
+    "category": "video-games.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "In the online game RuneScape, you can wear rune platebody without doing the quest Dragonslayer.",
+    "category": "video-games.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "In the Metroid series, the Vorashs weak point is its eyes.",
+    "category": "video-games.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "The first jack-o-lanterns (carved in Ireland) werent made of pumpkins.",
+    "category": "world.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "There is no U.S. state capital that starts with the letter F.",
+    "category": "world.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Is American Anti-Vivisection Society a real organization?",
+    "category": "world.txt",
+    "answer": "Yes",
+    "choices": [
+      "A. Yes",
+      "B. No"
+    ]
+  },
+  {
+    "question": "The Statue of Liberty was sculpted by Gustave Eiffel.",
+    "category": "world.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "In the Roman calendar, every month had a particular day called ides.",
+    "category": "world.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Walter E. Disney was born in Florida.",
+    "category": "world.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "The first railroad built in the Philippines connects Manila to Dagupan.",
+    "category": "world.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "The Cayman Islands are located in the Caribbean Sea.",
+    "category": "world.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "The Exxon Valdez was an Alaskan oil company that gained widespread infamy due to a major oil spill in the end of the 80s.",
+    "category": "world.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "The first African-American owned bank in America was established in Boley, Oklahoma.",
+    "category": "world.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "The Pentagon has 6 zip codes dedicated to it.",
+    "category": "world.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Rutgers University was founded in 1766.",
+    "category": "world.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "The Pantanal is a tropical wetland with a number of different ecosystems.",
+    "category": "world.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "It is rumoured that there are two monsters in Scotland.",
+    "category": "world.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  }
+]

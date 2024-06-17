@@ -1,0 +1,1154 @@
+[
+  {
+    "question": "Two thirds of a sharks brain is dedicated to its sense of smell.",
+    "category": "animals.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "The butterfly is a relative to the crab and the lobster.",
+    "category": "animals.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "The armor plates of pangolins are made of tough bone.",
+    "category": "animals.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Turtles can breathe in water.",
+    "category": "animals.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Turtles are cold-blooded, meaning their internal temperature varies according to their outside environment.",
+    "category": "animals.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Aardvarks have more olfactory nerves than other mammals.",
+    "category": "animals.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Sometimes we see 10 but say 22, see 4 but say 16.",
+    "category": "brain-teasers.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Singer Sarah McLachlan has children named India Ann Sushil and Tajah Summer.",
+    "category": "celebrities.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Mark Ruffalo spent his teen years in Virginia Beach, Virginia.",
+    "category": "celebrities.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Lou Ferrigno lost some of his hearing as a child.",
+    "category": "celebrities.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "British pop singers Natasha Bedingfield and Daniel Bedingfield, who entered the Guinness World Record as the only brother and sister to have solo number-ones in UK chart history, started their music careers in their duo called The DNA Algorithm.",
+    "category": "celebrities.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "The Koala bear is not actually a bear, it just resembles one.",
+    "category": "celebrities.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Andy Griffith stated that Matlock was his favorite role.",
+    "category": "celebrities.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Did John Wayne ever appear in a silent movie?",
+    "category": "celebrities.txt",
+    "answer": "Yes",
+    "choices": [
+      "A. No",
+      "B. Yes"
+    ]
+  },
+  {
+    "question": "Elden Henson, who starred as Fulton Reed in the Mighty Ducks trilogy, was born on August 30, 1980.",
+    "category": "celebrities.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Judge Dredd once lived in an apartment block named after a character from Rawhide.",
+    "category": "entertainment.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "In Harry Potter and the Half-Blood Prince, was the horcrux Dumbledore and Harry recovered fake?",
+    "category": "for-kids.txt",
+    "answer": "Yes",
+    "choices": [
+      "A. Yes",
+      "B. No"
+    ]
+  },
+  {
+    "question": "Is Flitwick head of Huffllepuff house in the Harry Potter series of books?",
+    "category": "for-kids.txt",
+    "answer": "No",
+    "choices": [
+      "A. No",
+      "B. Yes"
+    ]
+  },
+  {
+    "question": "Sleeping Beautys musical score and songs were inspired by Pyotr Ilyich Tchaikovskys Sleeping Beauty ballet.",
+    "category": "for-kids.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Each king in a deck of playing cards represents a great king from history.",
+    "category": "general.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Aurora was the ancient Roman equivalent of Eos.",
+    "category": "general.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "The car in which John Kennedy was riding when he was killed had a bubble top that was not used.",
+    "category": "general.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Pamela Lillian Isley is Poisin Ivy.",
+    "category": "general.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "The author of the White Fang is Jack London.",
+    "category": "general.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "The standing long jump and the standing high jump were once Olympic sports.",
+    "category": "general.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "In 1945 Borneo was the site of horrific acts of brutality. The Japanese forced over 6,000 POWs and island civilians to march to a new camp some 160 miles away. This became known as the Sandakan Death March, as only 200 marchers survived to the end of the war.",
+    "category": "geography.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Holocaust is a Greek word, originally meaning sacrifice by fire.",
+    "category": "history.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "The mission of Luna 24 was to collect soil samples from the Moon.",
+    "category": "history.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "October 13th 1582 does not exist in Poland.",
+    "category": "history.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "During the 1945 siege of Berlin by Russian forces, rumors spread among the German refugees in the Berlin Underground, that Russian T-34 tanks had entered the Underground.",
+    "category": "history.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Bread is one of the oldest prepared foods.",
+    "category": "hobbies.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "The largest commonly available domino set is the Double Twelve consisting of 91 tiles.",
+    "category": "hobbies.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Goddess Skadi was not permitted to look at the gods faces, while choosing her husband among them.",
+    "category": "humanities.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Since jackals were often seen in cemeteries, the ancient Egyptians believed that Anubis, a god with human body and jackal head, watched over the process of embalming.",
+    "category": "humanities.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Sick is the same as ill.",
+    "category": "humanities.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "In All Creatures Great and Small, James wanted to be a small animal surgeon before he became a veterinarian.",
+    "category": "literature.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Harry Potter marries Hermione in the last book of the series.",
+    "category": "literature.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Clancy Brown, who played Captain Byron Hadley in The Shawshank Redemption, appeared in a 1983 movie with actor Sean Penn.",
+    "category": "movies.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "There was a sequel to the 80s action comedy 48 Hrs..",
+    "category": "movies.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "In the comedy hit Anchorman, Ron Burgundy impressed Veronica Corningstone with his vast knowledge of the history of San Diego.",
+    "category": "movies.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "There is an asteroid named Bambi.",
+    "category": "movies.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Keep Their Heads Ringin is playing on the car radio when Smokey and Craig drive to the store in the film Friday.",
+    "category": "movies.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "The first African-American man to get an Academy Award was an actor in a Disney animated movie.",
+    "category": "movies.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "U.S. hockey star Buzz Schneider was played by his own son in the movie Miracle.",
+    "category": "movies.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "In the film Dog Day Afternoon, Sonny asked to see his wife and his wife came. Was her name Leon?",
+    "category": "movies.txt",
+    "answer": "Yes",
+    "choices": [
+      "A. No",
+      "B. Yes"
+    ]
+  },
+  {
+    "question": "The following quote is from the movie Clockwork Orange.\nAlex: There was me, that is Alex, and my three droogs, that is Pete, Georgie, and Dim, and we sat in the Korova Milkbar trying to make up our rassoodocks what to do with the evening. The Korova milkbar sold milk-plus, milk plus vellocet or synthemesc or drencrom, which is what we were drinking. This would sharpen you up and make you ready for a bit of the old ultra-violence.",
+    "category": "movies.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Godzilla was originally a cross between a gorilla and a whale.",
+    "category": "movies.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Is there really  a Heartbreak Hotel down at the end of Lonely Street as the famous Elvis song goes?",
+    "category": "music.txt",
+    "answer": "Yes",
+    "choices": [
+      "A. No",
+      "B. Yes"
+    ]
+  },
+  {
+    "question": "Things I Miss the Least is the title of a Steely Dan song.",
+    "category": "music.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "The Beastie Boys performed the song Brass Monkey in 1986.",
+    "category": "music.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Olivia Newton-John made her move to England when she was discovered in Australia, singing in a High School production of Camelot.",
+    "category": "music.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "American pop band The Four Seasonsâ second big hit was called Walk Like a Man.",
+    "category": "music.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Dolly Parton has never done any guest appearances on television.",
+    "category": "music.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "During the recording of  the album In Love and Death by The Used, Kate, ex-girlfriend of band member Bert, died of an overdose.",
+    "category": "music.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "The song Cure For The Itch from Linkin Parks album Hybrid Theory mainly features band member Rob Bourdon using techno, synth, and scratch pad elements.",
+    "category": "music.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Collin Rayes song Latter Day Cowboy contains the lyrics, He likes to dance out to the edge. He likes to cut to the chase. You see hes never been one for reinin back. To a slow and steady pace.",
+    "category": "music.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "In an episode of Buffy the Vampire Slayer TV series, one of the characters gets stage fright about performing as part of a duet from Madame Butterfly.",
+    "category": "music.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Marionettes appeared in Europe during the Middle Ages.",
+    "category": "newest.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Cats were revered animals in ancient Egypt.",
+    "category": "newest.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "In KF, you can weld doors shut in order to prevent the specimens from reaching you.",
+    "category": "newest.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "All dinosaurs became extinct at the end of the Cretaceous period.",
+    "category": "newest.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "The cobra is an emblem associated with the king, and kingdom of Lower Egypt.",
+    "category": "newest.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Raqs sharqi is a style of belly dance.",
+    "category": "newest.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Dudley Moore, Edward Woodward and James Mason have all played Dr Watson on film.",
+    "category": "newest.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "The flaming passion between Francesca da Rimini and Paolo Malatesta was the inspiration for Auguste Rodins famous statue, The Kiss.",
+    "category": "newest.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Corey Haim was married 3 times.",
+    "category": "newest.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Two of the hotbeds for pirate activity were the islands of Tortuga and Port Royal.",
+    "category": "people.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "President Calvin Coolidge had a special bathtub made just for him.",
+    "category": "people.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Sonny Black of the Bonano family murdered Sonny Red who also belonged to the Bonano family.",
+    "category": "people.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Lady Bird Johnson was on board Air Force One when her husband was sworn as the 36th president of the U.S. after the assassination of President John F. Kennedy.",
+    "category": "people.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Throughout the American War for Independence, Martha Washington traveled with her husband George Washington a majority of the time and was close by.",
+    "category": "people.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Eva PerÃ³n was the first wife of Juan PerÃ³n (1895â1974) who served as President of Argentina.",
+    "category": "people.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "In the movie The Bad News Bears, Kelly hits a game winning grand slam and leads the Bears to a championship victory.",
+    "category": "rated.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "If a rooster is sitting on the roof of a barn and lays an egg, it will always roll down the shortest path.",
+    "category": "rated.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Pound for pound, leopards are considered to be seven times stronger than humans.",
+    "category": "rated.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "An elephants tusks are actually its horns.",
+    "category": "rated.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "The nicest thing about the rain is that it always stops. Eventually. This is a quote by Tigger.",
+    "category": "rated.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Hinduism is a monotheistic religion.",
+    "category": "religion-faith.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Saint Nicholas died on 6 December.",
+    "category": "religion-faith.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Is there a cure for the plague?",
+    "category": "science-technology.txt",
+    "answer": "Yes",
+    "choices": [
+      "A. Yes",
+      "B. No"
+    ]
+  },
+  {
+    "question": "Sublimation means channeling an urge in another direction.",
+    "category": "science-technology.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "In Africa, a certain type of chimpanzees have been observed making snowballs.",
+    "category": "science-technology.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Mixing baking soda and vinegar in a closed container causes a tiny explosion.",
+    "category": "science-technology.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Normal blood pressure levels are higher for older patients.",
+    "category": "science-technology.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Vitamin E is found in nuts.",
+    "category": "science-technology.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Vitamin C and Vitamins of the B group are crucial for the proper functioning of the body.  Are they considered to be complex, fat-soluble substances?",
+    "category": "science-technology.txt",
+    "answer": "No",
+    "choices": [
+      "A. No",
+      "B. Yes"
+    ]
+  },
+  {
+    "question": "American professional wrestler John Cena was born in Tampa, Florida in 1975.",
+    "category": "sports.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "There can only be 10 American football players on the field at a time, while a play is live.",
+    "category": "sports.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Did Willie Mays ever win the Rookie of the Year Award?",
+    "category": "sports.txt",
+    "answer": "Yes",
+    "choices": [
+      "A. No",
+      "B. Yes"
+    ]
+  },
+  {
+    "question": "Roger Maris home run record stood for 37 years until it was broken in 1998. Now his former single season record is not even in the top 5 of best home run seasons in Major League Baseball history.",
+    "category": "sports.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "The St. Louis Cardinals won the World Series for the first time in 1926.",
+    "category": "sports.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Does Penn State Nittany Lions football team have unbeaten, untied seasons?",
+    "category": "sports.txt",
+    "answer": "Yes",
+    "choices": [
+      "A. No",
+      "B. Yes"
+    ]
+  },
+  {
+    "question": "Bear Bryant was reluctant to accept the head coaching position at Alabama and only left Texas AM after they agreed to double his salary.",
+    "category": "sports.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "After serving 17 years at Arkansas, Mike Anderson became the head coach at Missouri.",
+    "category": "sports.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "In 1960 after being refused entry into the NFL as an owner, Lamar Hunt formed the rival AFL.",
+    "category": "sports.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "In high school Dan, Roseannes husband, cheated on Roseannes with her nemesis, Phyllis.",
+    "category": "television.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "At the beginning of the series Full House, uncle Jesses last name was Cochran.",
+    "category": "television.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Kelsey Grammer has tied James Arness record for playing the same character for most seasons.",
+    "category": "television.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Nicolle Tom, who played Margaret (Maggie) Sheffield on The Nanny stared on ER as an intern for one season.",
+    "category": "television.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "The first person to be in the center square in the game show The Hollywood Squares was Ernest Borgnine.",
+    "category": "television.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "When Kermit first appeared on television he was more like a lizard than a frog.",
+    "category": "television.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Does J.D. get jealous when he sees Elliot dating other guys in the TV series Scrubs?",
+    "category": "television.txt",
+    "answer": "Yes",
+    "choices": [
+      "A. No",
+      "B. Yes"
+    ]
+  },
+  {
+    "question": "Timmy Turners fictional fairy god parents live as goldfish in Timmys room.",
+    "category": "television.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Did Mary file for divorce from Carlos on the TV drama 7th Heaven?",
+    "category": "television.txt",
+    "answer": "Yes",
+    "choices": [
+      "A. No",
+      "B. Yes"
+    ]
+  },
+  {
+    "question": "JJ is a male character on the TV show Criminal Minds.",
+    "category": "television.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Actor Naveen Andrews, who portrayed Lost character Sayid, starred in 2002s Wild West with Will Smith.",
+    "category": "television.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Danny Pino appeared as his Cold Case character Scotty Valens in an episode of CSI: NY.",
+    "category": "television.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "In the book The Dead Zone Johnny Smith is shot and killed after shooting and killing the Congressional candidate Greg Stillson.",
+    "category": "television.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Did Kelly and Jon win the Amazing Race 4?",
+    "category": "television.txt",
+    "answer": "No",
+    "choices": [
+      "A. Yes",
+      "B. No"
+    ]
+  },
+  {
+    "question": "Khadijah James was portrayed by Queen Latifah in the TV series Living Single.",
+    "category": "television.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "On Disney Channels, Thats So Raven, Raven has a younger brother.",
+    "category": "television.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "On the TV show Six Feet Under, the patriarch of the Fisher household, Nathaniel Samuel Fisher, was killed by a gunshot wound to the chest.",
+    "category": "television.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "In Legend of Zelda Ocarina of Time, once you pull out the Master Sword you will become older.",
+    "category": "video-games.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Is it true that in the RuneScape game, goblins can be found only in Goblin Village and Goblin Cave?",
+    "category": "video-games.txt",
+    "answer": "No",
+    "choices": [
+      "A. No",
+      "B. Yes"
+    ]
+  },
+  {
+    "question": "LFD2 was banned in Australia.",
+    "category": "world.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Prior to Titanics fatal incident, the distress signal SOS had never been used.",
+    "category": "world.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "The traditional Jack-O-Lantern got its name from a man named Jack.",
+    "category": "world.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Hershey merged with Cadbury Schweppes p.l.c. in 2000.",
+    "category": "world.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Former US President Andrew Johnson ran away from his home in Raleigh, North Carolina with his brother to Greeneville, TN at age 18.",
+    "category": "world.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "The Tower of Pisa was closed for over a decade due to reconstruction.",
+    "category": "world.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "The world map in the United Nations flag represents all the continents of the world.",
+    "category": "world.txt",
+    "answer": "No",
+    "choices": [
+      "A. Yes",
+      "B. No"
+    ]
+  },
+  {
+    "question": "According to US Navy Uniform Rules and Regulations, when a man or woman wears braids, they must be a maximum of 1/4 in. in diameter.",
+    "category": "world.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Japanese kids always look beautiful on their birthday because they get a brand new set of clothes.",
+    "category": "world.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Al Capone was known as The Birdman of Alcatraz.",
+    "category": "world.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Ð¢he Valley of the Kings is located in Egypt.",
+    "category": "world.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "The State of the Vatican City is a landlocked city-state situated within the city of Rome.",
+    "category": "world.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Women are prohibited to enter the monasteries in the Holy Mountain in Greece.",
+    "category": "world.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Singapore created a constitution on June 3, 1959 after achieving full internal self-government.",
+    "category": "world.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  }
+]

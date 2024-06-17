@@ -1,0 +1,1163 @@
+[
+  {
+    "question": "Sharks must eat continually in order to survive.",
+    "category": "animals.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Brown Bear/polar bear hybrids occur naturally in the wild.",
+    "category": "animals.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Do all frogs live their whole life in water?",
+    "category": "animals.txt",
+    "answer": "No",
+    "choices": [
+      "A. Yes",
+      "B. No"
+    ]
+  },
+  {
+    "question": "Triceratops was a voracious meat eater and would consume hundreds of pounds of meat a day.",
+    "category": "animals.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Wolves do not wag their tails as dogs do when they are happy.",
+    "category": "animals.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Trilobites developed one of the first complex visual systems.",
+    "category": "animals.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "In the 1930s movie King Kong, the giant ape battles a pterodactyl.",
+    "category": "animals.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "A woman has 7 children, half of them are boys.\nCan this statement be true?",
+    "category": "brain-teasers.txt",
+    "answer": "Yes",
+    "choices": [
+      "A. Yes",
+      "B. No"
+    ]
+  },
+  {
+    "question": "John Lithgow graduated magna cum laude with a degree in history and literature from Harvard and is a licensed Pastor.",
+    "category": "celebrities.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Rachael Ray posed  for a mens magazine in 2003.",
+    "category": "celebrities.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Did Sharon Stone play the role of Catwoman in the 2004 movie of the same name?",
+    "category": "celebrities.txt",
+    "answer": "No",
+    "choices": [
+      "A. No",
+      "B. Yes"
+    ]
+  },
+  {
+    "question": "Jennifer Hewitt appeared in an episode of  Boy Meets World.",
+    "category": "celebrities.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "A member of  the Our Gang troop starred in Sanford and Son.",
+    "category": "celebrities.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "John Waynes nickname, Duke, derived from the name of his childhood dog.",
+    "category": "celebrities.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Has Tom ever worn braces?",
+    "category": "celebrities.txt",
+    "answer": "Yes",
+    "choices": [
+      "A. Yes",
+      "B. No"
+    ]
+  },
+  {
+    "question": "There was once a musical based on the Andy Capp comic strip.",
+    "category": "entertainment.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "It is stated in the Harry Potter books that Hermione Grangers parents are teachers.",
+    "category": "for-kids.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "The character of Sirius Black is mentioned in the book Harry Potter and the Prisoner of Azkaban for the first time.",
+    "category": "for-kids.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Does Harry Potter fight a dementor in the maze in the third task of the Triwizard Tournament?",
+    "category": "for-kids.txt",
+    "answer": "No",
+    "choices": [
+      "A. Yes",
+      "B. No"
+    ]
+  },
+  {
+    "question": "After an earthquake in  1989, a car thief was found crushed under a collapsed freeway overpass in the vehicle hed stolen.",
+    "category": "general.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "The Museum of Natural Science in Ottawa, Ontario, Canada is said to be haunted by the ghost of the Canadian Prime Minister Sir Wilfrid Laurier, whose body laid there for some time after his death in 1919.",
+    "category": "general.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "In 2006, it was confirmed that there are 9 planets in the Solar System.",
+    "category": "general.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "The Indian Ocean Earthquake of 2004 did not spark a tsunami.",
+    "category": "general.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "The TV show Medium revolves around a psychic consultant named Allison Du Bois. True or False: The character is named after a real life psychic consultant called Allison DuBois.",
+    "category": "general.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "The diamond is the hardest known natural material on Earth.",
+    "category": "general.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Rotterdam, located in the province of South Holland, is a major Dutch port.",
+    "category": "geography.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Britain was not interested in African territories and thus has never controlled any.",
+    "category": "history.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Women could also be Vikings.",
+    "category": "history.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "The Zodiak killer is a suspect in the murders of Lindsay Cutshall and Jason S. Allen who were murdered in their sleeping bags on Fish Head Beach in Jenner, California in August 2004?",
+    "category": "history.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Horses evolved in North America during the Cenozoic era but became extinct there 10,000 years ago.",
+    "category": "history.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Milk should not be exposed to strong light.",
+    "category": "hobbies.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "A single shot (1 ounce) of espresso contains more caffeine than a 7-ounce cup of drip coffee.",
+    "category": "hobbies.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Calliope was the muse for music.",
+    "category": "humanities.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "There are several different stories about Cupids parentage and the most popular is that his mother is Venus and his father - Mars.",
+    "category": "humanities.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "The term lesbian is derived from the name of a Greek island.",
+    "category": "humanities.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "The company that produced Gone with the Wind was fined because Rhett  Butler says the word damn in his famous line: Frankly my dear, I dont give a damn.",
+    "category": "literature.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "In the Christian fiction book Left Behind, Rayford and eventually Buck believe Nicolae Carpathia is the Antichrist described in several books of the New Testament.",
+    "category": "literature.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "In the novel Twilight, Jasper is the newest member of the Cullen family and the last to adopt their vegetarian diet.",
+    "category": "literature.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "The scene from Dirty Dancing where Johnny is running his hand down Babys arm and side had to be re-shot many times because the director did not like the way Jennifer was laughing.",
+    "category": "movies.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "In the movie, The African Queen, the safety valve on the Queens boiler was malfunctioning because there was a screwdriver stuck in it.",
+    "category": "movies.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Mel Gibson starred in the movie Mad Max released in 1981.",
+    "category": "movies.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Lance Henriksen stars in all the Alien movies.",
+    "category": "movies.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "In the movie Dont Tell Mom the Babysitters Dead, when the babysitter dies, the kids wrap her up in a rug and drag her to the trunk of the car.",
+    "category": "movies.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Alfred Hitchcock directed the 1941 movie Mr. and Mrs. Smith.",
+    "category": "movies.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "In Its a Mad, Mad, Mad, Mad World, Captain Culpepper finds the money and heads to Canada.",
+    "category": "movies.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "In the classic western movie The Good, the Bad and the Ugly, when Tuco is about to be hung in the town of Valverde, the executioner reads out loud wanted in 15 counties of this state. Is there a factual error in his statement?",
+    "category": "movies.txt",
+    "answer": "Yes",
+    "choices": [
+      "A. Yes",
+      "B. No"
+    ]
+  },
+  {
+    "question": "In the movie Say Anything, Diane is afraid of flying.",
+    "category": "movies.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Do Troy and Gabriella go to prom together in High School Musical 3?",
+    "category": "movies.txt",
+    "answer": "No",
+    "choices": [
+      "A. Yes",
+      "B. No"
+    ]
+  },
+  {
+    "question": "The lead singer of Warrant was featured on VH1s Celebrity Fit Club.",
+    "category": "music.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Black Sabbath released the song Fairies Wear Boots in 1970.",
+    "category": "music.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "The Irish Rovers, who had a top ten hit in 1968 with The Unicorn were a Canadian band.",
+    "category": "music.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Did Colombian pop singer Shakira win a Grammy award for her album FijaciÃ³n Oral Vol. 1?",
+    "category": "music.txt",
+    "answer": "Yes",
+    "choices": [
+      "A. Yes",
+      "B. No"
+    ]
+  },
+  {
+    "question": "In the movie My Girl, Vadas best friends dies from an allergic reaction to bee stings.",
+    "category": "music.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Michael Stipe became lead singer of R.E.M. in the 1990s.",
+    "category": "music.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "No Doubt have won a Grammy Award.",
+    "category": "music.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "The song Jack-a-roe by The Grateful Dead ends with Jack dying on the field of battle, struck down by a cannonball.",
+    "category": "music.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Boogie Oogie Oogie was released by Taste of Honey in 1976.",
+    "category": "music.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Did Fonzie ever marry a stripper on the TV show Happy Days?",
+    "category": "newest.txt",
+    "answer": "No",
+    "choices": [
+      "A. Yes",
+      "B. No"
+    ]
+  },
+  {
+    "question": "In Irish mythology, crows are associated with Morrigan, the goddess of war and death.",
+    "category": "newest.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "The Vienna State Opera was first known as the Vienna Court Opera.",
+    "category": "newest.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "The presence of diamonds in Sierra Leone led to a civil war in the 1990s.",
+    "category": "newest.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Jules Verne wrote the science fiction novel The Maracot Deep which describes the discovery of the sunken remains of Atlantis.",
+    "category": "newest.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Mildred Fish Harnack was the only American woman executed for treason by Hitler.",
+    "category": "newest.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Robert Conrad did his own stunts on the TV show The Wild Wild West.",
+    "category": "newest.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Both Harry Potter and Neville Longbottom fit the prophecy.",
+    "category": "newest.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Does Hannah Montana preform in Tennessee in Hannah Montana: The Movie?",
+    "category": "newest.txt",
+    "answer": "Yes",
+    "choices": [
+      "A. Yes",
+      "B. No"
+    ]
+  },
+  {
+    "question": "Martha Washington was the first First Lady of the United States.",
+    "category": "people.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Nicholas II actually became Tsar of Russia before he married Alexandra.",
+    "category": "people.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Louisa Catherine Adams, First Lady from 1825 to 1829, had only three pregnancies.",
+    "category": "people.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Idi Amin was the tennis champion of Uganda from 1954 to 1958.",
+    "category": "people.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "After retirement as President, George Washington was called to duty one more time as Commander in Chief of the army.",
+    "category": "people.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Karl Rove was married in 1977 and divorced in 1980.",
+    "category": "people.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Al Capone was the boss of a criminal organization known as the Detroit Outfit.",
+    "category": "people.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Was Leah Remini, who plays Carrie in The King of Queens, ever on the hit television show Saved By The Bell?",
+    "category": "rated.txt",
+    "answer": "Yes",
+    "choices": [
+      "A. Yes",
+      "B. No"
+    ]
+  },
+  {
+    "question": "Tiny elephants once lived on the island of Crete.",
+    "category": "rated.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "In the comedy Monty Python and the Holy Grail, the name of the enchanter, who can summon fire and who leads Arthur and his Knights to the Cave of Caerbannog, is Dan.",
+    "category": "rated.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "When people die their hair continues to grow for a couple of months.",
+    "category": "rated.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "The Hail Mary is a biblical prayer.",
+    "category": "religion-faith.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Amos is the first book of the Old Testament alphabetically.",
+    "category": "religion-faith.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "The popular chat room abbreviation asl or a/s/l stands for age, sex, and location.",
+    "category": "science-technology.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "The case of identical twins of different sex is extremely rare. The development of their gender starts 5 weeks after the moment of conceiving.",
+    "category": "science-technology.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "A diet high in sugar and starch has more energy, so people who eat such a diet do not get as hungry as people who eat a diet low in sugar and starch.",
+    "category": "science-technology.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "A flight attendant lands at OHare Airport in Chicago, in the winter months, and drives to Gary, Indiana. Will he or she have to reset his/ her watch upon arrival in Gary?",
+    "category": "science-technology.txt",
+    "answer": "No",
+    "choices": [
+      "A. No",
+      "B. Yes"
+    ]
+  },
+  {
+    "question": "May 13th is the National Fibromyalgia Associations Fibromyalgia Awareness Day.",
+    "category": "science-technology.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Vitamin B6 is widely distributed in foods and its relatively stable form enables it to remain unchanged even when the products are cooked.",
+    "category": "science-technology.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Uranus has only 10 moons.",
+    "category": "science-technology.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Saturn is the only ringed planet in the Solar system.",
+    "category": "science-technology.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Willie Mays was a right-handed batter only while he played in the big leagues.",
+    "category": "sports.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Felipe Rojas Alou played with the Braves during his entire career  .",
+    "category": "sports.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Brett Farve has never won a game in Texas Stadium (Home of the Dallas Cowboys) in his career.",
+    "category": "sports.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Shaquille Oneal won the Rookie of the Year Award in 1992.",
+    "category": "sports.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Kenny Rogers pitched a perfect game for the Texas Rangers.",
+    "category": "sports.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "The Buffalo Bills were the first team to lose four consecutive Super Bowls.",
+    "category": "sports.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Kobe Bryant and the Lakers won three consecutive NBA championships: 2001, 2002, and 2003.",
+    "category": "sports.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "NBA and NCAA regulation courts are the same size.",
+    "category": "sports.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Shannen Doherty was a regular castmember of the show Little House : A New Beginning.",
+    "category": "television.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Did Major Anthony Nelson and Jeannie ever get married on the hit television show  I Dream Of Jeannie ?",
+    "category": "television.txt",
+    "answer": "Yes",
+    "choices": [
+      "A. Yes",
+      "B. No"
+    ]
+  },
+  {
+    "question": "Karl Swenson, who played Lars Hanson, appeared in 40 episodes of Little House on the Prairie from 1974 - 1978.",
+    "category": "television.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Tim Robbins character in Shawshank Redemption killed his wife.",
+    "category": "television.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "It is revealed that Ross is afraid of dogs in the season 7 Thanksgiving episode of Friends.",
+    "category": "television.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "In the TV series Gunsmoke, Chester Goode was played by Buck Taylor.",
+    "category": "television.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Buffy loses her virginity in the episode Surprise in the second season of Buffy the Vampire Slayer.",
+    "category": "television.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "The actress who played Jerrys mother in Seinfeld was once engaged to Marlon Brando.",
+    "category": "television.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Roseanne debuted in 1985 starring Ed ONeil and Katy Sagal.",
+    "category": "television.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "In the Dreams episode of the TV series M*A*S*H, B.J. Hunnicutt falls asleep in the mess hall.",
+    "category": "television.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "JAG character Harm flew F-14 Tomcats before he was diagnosed with night blindness.",
+    "category": "television.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Seth MacFarlane dropped out of high school.",
+    "category": "television.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Doc was the only regular squad member to survive all episodes of the Combat! TV series without being wounded",
+    "category": "television.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "There are 5 laws of robotics.",
+    "category": "television.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "The 1979 made for TV movie The Miracle Worker starred Patty Duke as Helen Keller.",
+    "category": "television.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Homers half brother, Herb, designs a car for Homer in the episode of The Simpsons, Oh Brother, Where Art Thou?",
+    "category": "television.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Was Teenage Wasteland the working title for That 70s Show?",
+    "category": "television.txt",
+    "answer": "Yes",
+    "choices": [
+      "A. No",
+      "B. Yes"
+    ]
+  },
+  {
+    "question": "There is at least one game of the Zelda series of games, released from 1986 to 2006, in which Zelda and Link get married.",
+    "category": "video-games.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "In Call of Duty 4 you can run around with your knife and kill as many people as you want with it.",
+    "category": "video-games.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "A pipe bomb is an ideal weapon to destroy LFD zombies because it is a silent weapon and they wont hear it when you throw it among a group of them.",
+    "category": "video-games.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Does San Francisco have more nicknames than San Diego?",
+    "category": "world.txt",
+    "answer": "Yes",
+    "choices": [
+      "A. No",
+      "B. Yes"
+    ]
+  },
+  {
+    "question": "Liberals are likely to spend more money on the military than Conservatives.",
+    "category": "world.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "In 1999 there were ten times as many slot machines in Nevada as there were in 1960.",
+    "category": "world.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Until the late 1500s, March 25th was considered the beginning of the year.",
+    "category": "world.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "The first US Open golf  tournament was held in Newport, Rhode Island on October 4, 1914.",
+    "category": "world.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "The name Illinois is Algonquin for tribes of intelligent men.",
+    "category": "world.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "South Carolina and North Carolina were one colony under the British until 1712.",
+    "category": "world.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "The space between windows in the facade of the Stroganov Palace in Saint Petersburg, Russia features a mans profile.",
+    "category": "world.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Baltimore is the largest city in Maryland.",
+    "category": "world.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "According to a story the entire crew of Octavius was found dead, frozen, and almost perfectly preserved.",
+    "category": "world.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "The Java treasure troves were found on a ship that sank off the shores of Indonesia more than 1,000 years ago.",
+    "category": "world.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "All US bills feature a president on the front.",
+    "category": "world.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "KarlÅ¡tejn Castle in Prague was founded by Charles IV, Holy Roman Emperor in the 16th century.",
+    "category": "world.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "The first licensed commercial radio station in the United States was KDKA in Pittsburgh.",
+    "category": "world.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  }
+]
