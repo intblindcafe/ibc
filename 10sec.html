@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>10 Second Rule Game</title>
+    <link rel="stylesheet" href="assets/styles/styles-games.css">
+    <script src="assets/scripts/10sec.js" defer></script>
+    <script src="assets/scripts/footer.js"></script>
+    <audio id="buzz-sound">
+        <source src="assets/sounds/buzz.mp3" type="audio/mpeg">
+    </audio>
+</head>
+<body>
+    <div class="container">
+        <h1>10 Second Rule Game</h1>
+        <div id="question-container">
+            <p id="question" aria-live="polite"></p>
+        </div>
+        <div id="button-container">
+            <button id="start-game" aria-label="Start Game">Start Game</button>
+            <button id="next-question" aria-label="Next Question" style="display: none;">Next Question</button>
+            <button id="reshuffle-questions" aria-label="Reshuffle Questions" style="display: none;">Reshuffle Questions</button>
+            <button id="start-timer" aria-label="Start Timer" style="display: none;">Start Timer</button>
+            <button id="stop-timer" aria-label="Stop Timer" style="display: none;">Stop Timer</button>
+            <button id="pause-timer" aria-label="Pause Timer" style="display: none;">Pause Timer</button>
+            <button id="unpause-timer" aria-label="Unpause Timer" style="display: none;">Unpause Timer</button>
+        </div>
+        <div id="timer" aria-live="polite"></div>
+    </div>
+    <div id="footer-placeholder"></div>
+</body>
+</html>
