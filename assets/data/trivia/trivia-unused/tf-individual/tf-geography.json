@@ -1,0 +1,569 @@
+[
+  {
+    "question": "Is it true that Yasseir Arafat became chairman of the Palestinian Liberation Organization in 2004?",
+    "category": "geography.txt",
+    "answer": "No",
+    "choices": [
+      "A. Yes",
+      "B. No"
+    ]
+  },
+  {
+    "question": "Did the 13 colonies declare their independence in 1776?",
+    "category": "geography.txt",
+    "answer": "Yes",
+    "choices": [
+      "A. No",
+      "B. Yes"
+    ]
+  },
+  {
+    "question": "Europe is the smallest continent.",
+    "category": "geography.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Phreatic eruptions occur when the temperature of magma is relatively low and it solidifies very quickly, sometimes blocking the vent of the volcano.",
+    "category": "geography.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Canada, the United States and China are three countries whose total area is approximately 12 million sq km.",
+    "category": "geography.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "The US is one of the leading countries in the number plastic surgery procedures.",
+    "category": "geography.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "In the beginning of the new millennium, Russias, Iraqs and Saudi Arabias oil reserves were above 100 billion bbl.",
+    "category": "geography.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Dominica, New Zealand and Finland are three countries with high crime rates.",
+    "category": "geography.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "The Jewel Tower, built in 1366, is physically separated from the Palace of Westminster in London.",
+    "category": "geography.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "The Sonoma Valley in California is famous in the USA for its long-lived and high quality wine industry.",
+    "category": "geography.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "The head of John the Baptist can be seen in the Amiens Cathedral.",
+    "category": "geography.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Jenin is the largest city in the West Bank.",
+    "category": "geography.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "It is practically impossible to drown unwillingly in the Dead Sea.",
+    "category": "geography.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "No animals or plants live in the Dead Sea .",
+    "category": "geography.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "American politician John McCain was incarcerated at the infamous Hoa Loa Prison, ironically called Hanoi Hilton.",
+    "category": "geography.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "The Tower of London was built primarily to function as a fortress, a royal palace and a prison.",
+    "category": "geography.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Attica Prison was the locale of a 1975 riot that resulted in 38 deaths.",
+    "category": "geography.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Rotterdam, located in the province of South Holland, is a major Dutch port.",
+    "category": "geography.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Gouda and Edam are famous types of Dutch cheeses.",
+    "category": "geography.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "The name âHollandâ is equivalent to the name the Netherlands.",
+    "category": "geography.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "The word âoceanâ is of Greek origin.",
+    "category": "geography.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "The Dead Sea is actually a lake.",
+    "category": "geography.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "The smallest monkey on earth is found in the Philippines.",
+    "category": "geography.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "In 1860 South Carolina became the first state to secede from the Union.",
+    "category": "geography.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "South Carolina is the state whose shape most closely resembles a triangle.",
+    "category": "geography.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "The geographic North and South Poles are at fixed locations and have not moved.",
+    "category": "geography.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "The temperature at the North Pole is higher than the temperature at the South Pole.",
+    "category": "geography.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "In 2000, microbes were found at the South Pole.",
+    "category": "geography.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "The Filipino word Bulaklak means flower in English.",
+    "category": "geography.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "The Filipino word maganda means beautiful in English.",
+    "category": "geography.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Wichita, a major aircraft manufacturing hub and cultural center, is the capital of Kansas.",
+    "category": "geography.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "McConnell Air Force Base is a United States Air Force base located in Sedgwick County, near Wichita, Kansas.",
+    "category": "geography.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "The first European to explore the Chesapeake Bay surrounded by modern day Maryland and Virginia was the Italian Giovanni da Verrazzano.",
+    "category": "geography.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "The Sanskrit name of Mt. Everest is Devgiri.",
+    "category": "geography.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "The easier and more frequently-used of the two main routes for climbing Mount Everest is the Northeast Ridge (or North Col Route).",
+    "category": "geography.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Has anyone landed an aircraft or helicopter on the summit of Mt. Everest?",
+    "category": "geography.txt",
+    "answer": "Yes",
+    "choices": [
+      "A. Yes",
+      "B. No"
+    ]
+  },
+  {
+    "question": "Israels major airport is located near Eilat.",
+    "category": "geography.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "In 1945 Borneo was the site of horrific acts of brutality. The Japanese forced over 6,000 POWs and island civilians to march to a new camp some 160 miles away. This became known as the Sandakan Death March, as only 200 marchers survived to the end of the war.",
+    "category": "geography.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Between the 1980s and 2006 Borneo lost approximately 45 % of its rain forests due to logging.",
+    "category": "geography.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Borneo is the 3rd largest island in the world.",
+    "category": "geography.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "The Shinsengumi group remained loyal to the Tokugawa shogunate until the end of the Bakamatsu.",
+    "category": "geography.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "There is a city in Oklahoma called Moon.",
+    "category": "geography.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Oklahoma has no cities and communities named after Presidents.",
+    "category": "geography.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "There is a town in Oklahoma called IXL.",
+    "category": "geography.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Oklahoma has more man-made lakes than any other state.",
+    "category": "geography.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Boise City, Oklahoma was the only city within the continental United States to be bombed during World War II.",
+    "category": "geography.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "The first people to settle Madagascar came from Africa.",
+    "category": "geography.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Luxembourg was not involved in any 20th century war.",
+    "category": "geography.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "The flag of Luxembourg consists of three vertical stripes of red, blue, green.",
+    "category": "geography.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "None of these  could be found in Europe before the Great Geographical Discoveries:\nPotatoes, chocolate, cocoa, quinine, tobacco, cabbage, cane-sugar, furs, whale oil, indigo, tea, coffee, porcelain, and cotton silks .",
+    "category": "geography.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Makawao is the capital of the State of Hawaii.",
+    "category": "geography.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "President George W. Bush was inaugurated on January 20, 2000.",
+    "category": "geography.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "According to the United States Census Bureau in 2006, China was the most populated country in the world.",
+    "category": "geography.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Russia is the worlds largest country, with a land area of 17,098,242 square kilometers.",
+    "category": "geography.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Bamako is the capital of Madagascar.",
+    "category": "geography.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Ethiopias capital is Addis Ababa.",
+    "category": "geography.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Victoria is the capital of the Republic of Seychelles.",
+    "category": "geography.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Alaska used to be part of Russia.",
+    "category": "geography.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Tetris, the popular falling-blocks video game, was invented in Russia.",
+    "category": "geography.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "The first person in space was Russian.",
+    "category": "geography.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Was Isabella Bird the first woman to climb Longs Peak, the highest point in Rocky Mountain National Park?",
+    "category": "geography.txt",
+    "answer": "No",
+    "choices": [
+      "A. No",
+      "B. Yes"
+    ]
+  },
+  {
+    "question": "One the worlds largest silver nuggets was found in Colorado.",
+    "category": "geography.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Early Colorado ranchers raised cattle, sheep, hogs, chickens, and turkeys, with the main focus on cattle.",
+    "category": "geography.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  }
+]

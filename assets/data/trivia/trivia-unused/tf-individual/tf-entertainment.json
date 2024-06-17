@@ -1,0 +1,524 @@
+[
+  {
+    "question": "Pong was first installed at a high school.",
+    "category": "entertainment.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Mario, probably the best-known video game character, first appeared in Donkey Kong in 1981.  His brother Luigi first appeared in Mario Bros.",
+    "category": "entertainment.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Sonic the Hedgehog is a mascot of Sony Playstation.",
+    "category": "entertainment.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Miss America always goes on to compete in the Miss Universe pageant.",
+    "category": "entertainment.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Top Thrill Dragster was opened in 2003 and it was the tallest and fastest roller coaster in the world until 2005 (this is true). It was the first roller coaster to break the 300 ft (91.4 m) barrier.",
+    "category": "entertainment.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "In the cartoon Calvin and Hobbes, Calvin enjoys the dinners that his mom makes.",
+    "category": "entertainment.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Cartoon character Calvin hates taking baths.",
+    "category": "entertainment.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "There is more than one Killer Whale named Shamu in the SeaWorld parks in the U.S.",
+    "category": "entertainment.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "In the comic strip Dilbert, the real name of Dilberts pointed-haired boss is Phil.",
+    "category": "entertainment.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Dave Animal Batistas famous ending move is called the Batista Drop.",
+    "category": "entertainment.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "There are five unlockable characters in the music video game Guitar Hero 3.",
+    "category": "entertainment.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Music video game Guitar Hero 3 is rated T for teen.",
+    "category": "entertainment.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "In Guitar Hero 3, âBulls on Parade by Rage Against the Machine is the third encore song.",
+    "category": "entertainment.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Hagar the Horrible from the comic strip of the same name had his own short lived line of beer called Hagars Viking Beer which was pulled off the shelves due to lack of sales.",
+    "category": "entertainment.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Aquamans enemy the Ocean Master was his own father.",
+    "category": "entertainment.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Did comics character Aquaman ever have a child?",
+    "category": "entertainment.txt",
+    "answer": "Yes",
+    "choices": [
+      "A. No",
+      "B. Yes"
+    ]
+  },
+  {
+    "question": "Comics superhero Aquaman was one of the founding members of The Justice League of America.",
+    "category": "entertainment.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Does FoxTrot character Jason ever joke that it is 25 degrees out?",
+    "category": "entertainment.txt",
+    "answer": "No",
+    "choices": [
+      "A. Yes",
+      "B. No"
+    ]
+  },
+  {
+    "question": "In the comics FoxTrot, Roger Fox is writing a novel.",
+    "category": "entertainment.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Does Andy and Rogers daughter get notes in her locker in FoxTrot?",
+    "category": "entertainment.txt",
+    "answer": "Yes",
+    "choices": [
+      "A. No",
+      "B. Yes"
+    ]
+  },
+  {
+    "question": "Has FoxTrot character Jason developed a plan for a Star Trek-themed amusement park?",
+    "category": "entertainment.txt",
+    "answer": "No",
+    "choices": [
+      "A. Yes",
+      "B. No"
+    ]
+  },
+  {
+    "question": "In Bloom County, Milo Bloom was a 10-year-old reporter for The Bloom Chronicle.",
+    "category": "entertainment.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Bloom County character Opus has appeared in two other comic strips titled Neverland and Opus.",
+    "category": "entertainment.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "There was a TV Christmas special that centered on the famous comic strip character Opus.",
+    "category": "entertainment.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "There was once a musical based on the Andy Capp comic strip.",
+    "category": "entertainment.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Cartoon character Andy Capp has a son.",
+    "category": "entertainment.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Is it true that the comic strip Garfield inspired a CD titled Am I Cool or Not?",
+    "category": "entertainment.txt",
+    "answer": "No",
+    "choices": [
+      "A. No",
+      "B. Yes"
+    ]
+  },
+  {
+    "question": "Is it true that Nermal, who makes unannounced visits into Garfields home, is a male kitten?",
+    "category": "entertainment.txt",
+    "answer": "Yes",
+    "choices": [
+      "A. Yes",
+      "B. No"
+    ]
+  },
+  {
+    "question": "The WWE wrestlers Jeff Hardy and Matt Hardy tag-team with each other a lot.",
+    "category": "entertainment.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "WWE wrestler Triple H is the brother of Stephanie McMahon.",
+    "category": "entertainment.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "WWE DIVA Ashley was actually born in Los Angles, California.",
+    "category": "entertainment.txt",
+    "answer": "No",
+    "choices": [
+      "A. Yes",
+      "B. No"
+    ]
+  },
+  {
+    "question": "At Wrestlemania 24, it came down to Y2J, Chris Jericho and CM Punk in the Money In The Bank ladder match and CM Punk won.",
+    "category": "entertainment.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "The Marvel character Anubis is also known as The Guardian of the Veil .",
+    "category": "entertainment.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "In the Marvel comics universe, Horus is the God of fire.",
+    "category": "entertainment.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Marvel character Zeus ruled the underworld.",
+    "category": "entertainment.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Seth is the Egyptian god of evil and death in the Marvel Comics universe.",
+    "category": "entertainment.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Johnny Cakes Auville once stayed in a coffin in order to win a bet.",
+    "category": "entertainment.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "If someone well-versed in Junkies Lingo says that someone or something is a show, it is a positive thing.",
+    "category": "entertainment.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "On Fridays, Big Daddy Kev comes in for a segment on the morning Junkies show to talk about fantasy sports.",
+    "category": "entertainment.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "There has never been a wooden roller coaster with an inversion.",
+    "category": "entertainment.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "In addition to the sandy beach, Indiana Beach also has a large waterpark.",
+    "category": "entertainment.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Indiana Beach has a water and ski show.",
+    "category": "entertainment.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Judge Dredd is 2000 ADs longest-running character, appearing from the first issue in 1977.",
+    "category": "entertainment.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Judge Dredds visual appearance was loosely based on the character of Frankenstein from the film Death Race 2000.",
+    "category": "entertainment.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Judge Dredd once lived in an apartment block named after a character from Rawhide.",
+    "category": "entertainment.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Fictional character Batman has a son.",
+    "category": "entertainment.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Cartoon character Strong Bad got this name because he can bench-press 125 pounds.",
+    "category": "entertainment.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "In the Homestar Runner cartoon, Strong Bad and Strong Sad co-author the Teen Girl Squad comic.",
+    "category": "entertainment.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "In the Calvin and Hobbes comics, Hobbes is constantly sneaking up on Calvin and pouncing on him when he doesnt expect it.",
+    "category": "entertainment.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Hulk Hogans oldest daughter Cassidy refuses to be filmed on the familys reality show.",
+    "category": "entertainment.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Hulk Hogan has played in several rock bands.",
+    "category": "entertainment.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Circus performer Emmet Kelly is depicted in a famous photograph trying to put out the fire that occurred shortly after the San Francisco Earthquake in 1938.",
+    "category": "entertainment.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Emmett Kelly died of heart attack in 1979 at age of 80.",
+    "category": "entertainment.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "In 1957, Cecil B. DeMilles hired Emmett Kelly to perform in I, Clowns.",
+    "category": "entertainment.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Circus performer Emmet Kelly started his trapeze act in 1923 with the John Robinson Circus.",
+    "category": "entertainment.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Emmett Kellys character, Weary Willie, always made fans burst out in laughter.",
+    "category": "entertainment.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Olive Oyl was created before Popeye.",
+    "category": "entertainment.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "The Dark Knight is an indoor roller coaster.",
+    "category": "entertainment.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  }
+]

@@ -1,0 +1,3143 @@
+[
+  {
+    "question": "All dogs, cats and birds are colorblind.",
+    "category": "animals.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Snakes reproduce only by laying eggs.",
+    "category": "animals.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Snakes are deaf.",
+    "category": "animals.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Snake skin is covered in scales.",
+    "category": "animals.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Snakes are very likely to attack us, regardless of whether they feel threatened or not.",
+    "category": "animals.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "The King Cobra feeds almost exclusively on other snakes, even toxic ones.",
+    "category": "animals.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "President Fords dog was named Freedom.",
+    "category": "animals.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "The endangered Komodo dragon is the largest living lizard in the world, growing to an average length of 2-3 meters (10 feet).",
+    "category": "animals.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "The Asian Elephant, the only living species of the genus Elephas, is the bigger relative of the African Elephant.",
+    "category": "animals.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Although the jumping viper, a chiefly nocturnal snake, is one of the most powerful jumpers of the snake family, capable of rising up to 1 meter (3 feet) during a strike, its poison is not lethal to humans.",
+    "category": "animals.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Zoophobia is the fear of animals.",
+    "category": "animals.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "The hummingbird is the worlds smallest bird.",
+    "category": "animals.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Chocolate cannot kill a dog.",
+    "category": "animals.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "It has been estimated that in Australia, there are about twice as many kangaroos as there are people.",
+    "category": "animals.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Sheep are similar to cows in that they have a stomach which contains four chambers.",
+    "category": "animals.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Can tigers live to be 20 years old?",
+    "category": "animals.txt",
+    "answer": "Yes",
+    "choices": [
+      "A. Yes",
+      "B. No"
+    ]
+  },
+  {
+    "question": "All tigers have stripes.",
+    "category": "animals.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "There are more males then females in a pride.",
+    "category": "animals.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Are male lions are generally stronger then female lions?",
+    "category": "animals.txt",
+    "answer": "Yes",
+    "choices": [
+      "A. No",
+      "B. Yes"
+    ]
+  },
+  {
+    "question": "Female lions hunt in a group.",
+    "category": "animals.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "All cats are born with green eyes.",
+    "category": "animals.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "A cats front paws have 5 toes and their back paws have 4.",
+    "category": "animals.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "All pigs are classified as un-Kosher meaning they can not be eaten by Jewish people.",
+    "category": "animals.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Sharks can only be found in salt water.",
+    "category": "animals.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "The smallest species of shark in the world is the Dwarf Lanternfish.",
+    "category": "animals.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Sharks must eat continually in order to survive.",
+    "category": "animals.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Sharks can have up to nine gills on each side of their body.",
+    "category": "animals.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Rays and Skates are types of sharks.",
+    "category": "animals.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Sharks have poor vision.",
+    "category": "animals.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "More shark attacks occur during the day than at night.",
+    "category": "animals.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "If attacked by a shark it is recommended that you punch the shark in the nose.",
+    "category": "animals.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Sharks are immune to cancer.",
+    "category": "animals.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "The dogfish is actually a common species of small shark.",
+    "category": "animals.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Chihuahuas come in three colors: brindle, black, and camel.",
+    "category": "animals.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "The Chihuahua is the smallest dog breed in the world.",
+    "category": "animals.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Chihuahuas are prone to hypoglycemia (low blood sugar).",
+    "category": "animals.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "For their size hippos are pretty fast runners and are much faster than humans.",
+    "category": "animals.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Hippos secrete a red substance known as blood sweat that protects them from the sun.",
+    "category": "animals.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Hippos are related to cetaceans (whales and porpoises).",
+    "category": "animals.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "The Spectacled bear makes its habitat around the Andes tropical basin.",
+    "category": "animals.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Squid and octopus are mollusks.",
+    "category": "animals.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "The Pacific lobster has large pincers and a spiny shell.",
+    "category": "animals.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Sharks have no bones.",
+    "category": "animals.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Have sharks been around for about 400 million years?",
+    "category": "animals.txt",
+    "answer": "Yes",
+    "choices": [
+      "A. No",
+      "B. Yes"
+    ]
+  },
+  {
+    "question": "The zebra shark is very small and gentle and can be kept close to other fish.",
+    "category": "animals.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Two thirds of a sharks brain is dedicated to its sense of smell.",
+    "category": "animals.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Giraffes need less sleep than nearly every other animal.",
+    "category": "animals.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Giraffes were once thought to be a cross between a camel and a leopard.",
+    "category": "animals.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "The beagle is not a good choice for a childrens pet because it is aggressive.",
+    "category": "animals.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Beagles are sometimes used for termite detection in Australia.",
+    "category": "animals.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Are beagles easy to housebreak?",
+    "category": "animals.txt",
+    "answer": "No",
+    "choices": [
+      "A. No",
+      "B. Yes"
+    ]
+  },
+  {
+    "question": "A goldfish can reach a weight of almost 10 lbs (4.5 kg)",
+    "category": "animals.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "The world record for the oldest goldfish is 49 years.",
+    "category": "animals.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Goldfish can die from overeating.",
+    "category": "animals.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Is it true that goldfish only have a 3-second memory?",
+    "category": "animals.txt",
+    "answer": "No",
+    "choices": [
+      "A. Yes",
+      "B. No"
+    ]
+  },
+  {
+    "question": "Goldfish are good parents. They nurse and protect their young until they grow up enough to defend themselves.",
+    "category": "animals.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "The Barn Owl likes to sleep all day long.",
+    "category": "animals.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Red-tailed Hawks are hunted in the USA because of their frequent attacks on domestic animals.",
+    "category": "animals.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Can skunks be trained to make good pets?",
+    "category": "animals.txt",
+    "answer": "Yes",
+    "choices": [
+      "A. Yes",
+      "B. No"
+    ]
+  },
+  {
+    "question": "Sometimes skunks kill domestic animals.",
+    "category": "animals.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Fox hunting was made illegal in the U.K. in 2005.",
+    "category": "animals.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Do foxes hibernate in winter?",
+    "category": "animals.txt",
+    "answer": "No",
+    "choices": [
+      "A. Yes",
+      "B. No"
+    ]
+  },
+  {
+    "question": "Is the Red Fox a protected species in most parts of the world?",
+    "category": "animals.txt",
+    "answer": "No",
+    "choices": [
+      "A. No",
+      "B. Yes"
+    ]
+  },
+  {
+    "question": "The Silkie chicken is the newest known breed.",
+    "category": "animals.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "The lion is the largest member of the cat species.",
+    "category": "animals.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Lions are inactive about 20 hours per day.",
+    "category": "animals.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Like most mammals lions can only breed with one male ensuring that the offspring belong to just one male.",
+    "category": "animals.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Do white lions exsist in the wild?",
+    "category": "animals.txt",
+    "answer": "Yes",
+    "choices": [
+      "A. Yes",
+      "B. No"
+    ]
+  },
+  {
+    "question": "All penguins are found exclusively in the Southern Hemisphere.",
+    "category": "animals.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "The larger the penguin species, the colder the region in which it is found.",
+    "category": "animals.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Fossil records have shown a species of giant penguin that once stood 4 feet high.",
+    "category": "animals.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Large penguins can dive nearly 2,000 feet.",
+    "category": "animals.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Penguins secrete salt from their nostrils.",
+    "category": "animals.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Polar bears are among penguinsâ most dangerous natural enemies.",
+    "category": "animals.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "A polar bear has white fur.",
+    "category": "animals.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Can polar bears be other colors besides white?",
+    "category": "animals.txt",
+    "answer": "Yes",
+    "choices": [
+      "A. No",
+      "B. Yes"
+    ]
+  },
+  {
+    "question": "According to statistics from the past 3 decades of the 20th century, there is a significant drop in polar bearsâ size.",
+    "category": "animals.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Brown Bear/polar bear hybrids occur naturally in the wild.",
+    "category": "animals.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "All dinosaurs were cold-blooded reptiles.",
+    "category": "animals.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "The smallest dinosaur known to science was the size of a chicken.",
+    "category": "animals.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "All birds are descendants of dinosaurs.",
+    "category": "animals.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Pterodactyls were large flying dinosaurs.",
+    "category": "animals.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Humans and human descendants hunted dinosaurs for food.",
+    "category": "animals.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Some dinosaurs swam in the oceans.",
+    "category": "animals.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Mammals lived alongside dinosaurs.",
+    "category": "animals.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "All dinosaurs died out due to a meteor hitting the Earth.",
+    "category": "animals.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Tyrannosaurus Rex means Tyrant Lizard King.",
+    "category": "animals.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "The giant four-legged dinosaurs such as Apatosauras and Diplodocus are known as Theropods.",
+    "category": "animals.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "The Labrador breed comes in 3 different colors.",
+    "category": "animals.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "In 2006, a crocodile housed at the Australia Zoo, was estimated to be 130 years old.",
+    "category": "animals.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Crocodiles sex is determined by the temperature of their nest.",
+    "category": "animals.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "According to data from the year 2001, crocodiles were the second leading cause of animal related death worldwide, second to venomous snakes.",
+    "category": "animals.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "In Europe, the European Beaver (Castor fiber) was almost wiped out. It was driven to near extinction because of its fur and its scent gland that was used for medicinal purposes.",
+    "category": "animals.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "A beaver will build a dam even in dried up waterways if a recording of rushing water is played.",
+    "category": "animals.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "In the 17th century a ban was placed on eating meat during lent but the beaver meat was not included in that ban.",
+    "category": "animals.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Can a beaver hold its breath underwater for more than 30 minutes?",
+    "category": "animals.txt",
+    "answer": "No",
+    "choices": [
+      "A. Yes",
+      "B. No"
+    ]
+  },
+  {
+    "question": "You can kill a butterfly if you hold its wings.",
+    "category": "animals.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "The butterfly is a relative to the crab and the lobster.",
+    "category": "animals.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Cats are so curious because they are always looking for food.",
+    "category": "animals.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Cats only purr when they are happy.",
+    "category": "animals.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "A cats memory is about half as retentive as a dogs.",
+    "category": "animals.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "The Giant Gippsland Earthworm, the largest species of earthworm, can reach nearly 10 feet in length.",
+    "category": "animals.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Worm casts (waste) is richer in nutrients and essential particles than the first 6 inches of topsoil.",
+    "category": "animals.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Is soil pollution one of the biggest threats to earthworms?",
+    "category": "animals.txt",
+    "answer": "Yes",
+    "choices": [
+      "A. No",
+      "B. Yes"
+    ]
+  },
+  {
+    "question": "Rich soil may contain up to 100,000 earthworms per square acre.",
+    "category": "animals.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "One of the biggest threats to earthworm survival in the UK is the New Zealand Roundworm which feeds on earthworms.",
+    "category": "animals.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "As far as disguising is concerned, octopuses are among the most proficient species in nature.",
+    "category": "animals.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Octopuses can live in fresh water.",
+    "category": "animals.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Octopuses are known to kill sharks.",
+    "category": "animals.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Octopuses can not be kept as pets.",
+    "category": "animals.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Grizzly bears can be found in Europe and North America.",
+    "category": "animals.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Grizzly bears are strict carnivores.",
+    "category": "animals.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "The grizzly bear is a subspecies of the brown bear.",
+    "category": "animals.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Grizzly bears hibernate through the winter.",
+    "category": "animals.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Should you feed a small dog, such as a miniature poodle, the same amount of food you should a large dog, for example a great dane?",
+    "category": "animals.txt",
+    "answer": "No",
+    "choices": [
+      "A. No",
+      "B. Yes"
+    ]
+  },
+  {
+    "question": "A water bowl should be kept within easy access for your dog at all times.",
+    "category": "animals.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "As a general rule, the bigger a dog is the more it should be exercised (walks, playing fetch, etc.)",
+    "category": "animals.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Dogs sweat through their skin, like humans.",
+    "category": "animals.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "The dodos other name was The Robert Don.",
+    "category": "animals.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Are their any complete dodo specimens anywhere in the world?",
+    "category": "animals.txt",
+    "answer": "No",
+    "choices": [
+      "A. Yes",
+      "B. No"
+    ]
+  },
+  {
+    "question": "There is an intact dodo egg specimen housed in the East London museum in South Africa.",
+    "category": "animals.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "The dodo was able to grow so large and become flightless because of the lack of natural predators on the island it inhabited.",
+    "category": "animals.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Are there any complete dodo skeletons anywhere in the world?",
+    "category": "animals.txt",
+    "answer": "Yes",
+    "choices": [
+      "A. Yes",
+      "B. No"
+    ]
+  },
+  {
+    "question": "The highest recorded speed a cheetah has obtained is 80 mph (130 km/h.)",
+    "category": "animals.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Cheetahs are only found in Africa.",
+    "category": "animals.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Unlike most cats, cheetahs prefer to hunt during the day.",
+    "category": "animals.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "The gestation period of a cheetah is about 90-95 days.",
+    "category": "animals.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Are frogs reptiles?",
+    "category": "animals.txt",
+    "answer": "No",
+    "choices": [
+      "A. Yes",
+      "B. No"
+    ]
+  },
+  {
+    "question": "Baby frogs are called pups.",
+    "category": "animals.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Do all frogs live their whole life in water?",
+    "category": "animals.txt",
+    "answer": "No",
+    "choices": [
+      "A. Yes",
+      "B. No"
+    ]
+  },
+  {
+    "question": "The African Bullfrog is the largest frog.",
+    "category": "animals.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Are Red-eyed Tree Frogs carnivores?",
+    "category": "animals.txt",
+    "answer": "Yes",
+    "choices": [
+      "A. Yes",
+      "B. No"
+    ]
+  },
+  {
+    "question": "There are frogs that can fly (or make fly-like movements)",
+    "category": "animals.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Do frogs have gills?",
+    "category": "animals.txt",
+    "answer": "No",
+    "choices": [
+      "A. No",
+      "B. Yes"
+    ]
+  },
+  {
+    "question": "Frogs can breathe underwater.",
+    "category": "animals.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Can a zebra be ridden if trained properly?",
+    "category": "animals.txt",
+    "answer": "Yes",
+    "choices": [
+      "A. Yes",
+      "B. No"
+    ]
+  },
+  {
+    "question": "Zebras are related to rhinos.",
+    "category": "animals.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Carpenter ants have become a problem because of the wood they eat.",
+    "category": "animals.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "A flamingoâs feathers can change color depending on its diet.",
+    "category": "animals.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "All flamingos have 12 black flight feathers at the tips of each wing.",
+    "category": "animals.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Are baby flamingos pink?",
+    "category": "animals.txt",
+    "answer": "No",
+    "choices": [
+      "A. Yes",
+      "B. No"
+    ]
+  },
+  {
+    "question": "Once the dingo was introduced to Australia, the Thylacine population decreased steadily until the only viable populations were on the Island of Tasmania.",
+    "category": "animals.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Are Thylacines marsupials?",
+    "category": "animals.txt",
+    "answer": "Yes",
+    "choices": [
+      "A. No",
+      "B. Yes"
+    ]
+  },
+  {
+    "question": "Was there ever any evidence found after 1936 that Thylacines may have still been living in Australia?",
+    "category": "animals.txt",
+    "answer": "Yes",
+    "choices": [
+      "A. No",
+      "B. Yes"
+    ]
+  },
+  {
+    "question": "It was proven that Thylacines killed some sheep in 1957.",
+    "category": "animals.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Pangolins have no teeth.",
+    "category": "animals.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "The tongue of a pangolin is so long that it is anchored to its pelvis.",
+    "category": "animals.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Are pangolins related to anteaters and armadillos?",
+    "category": "animals.txt",
+    "answer": "No",
+    "choices": [
+      "A. Yes",
+      "B. No"
+    ]
+  },
+  {
+    "question": "Can pangolins walk on their hind legs?",
+    "category": "animals.txt",
+    "answer": "Yes",
+    "choices": [
+      "A. Yes",
+      "B. No"
+    ]
+  },
+  {
+    "question": "The armor plates of pangolins are made of tough bone.",
+    "category": "animals.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "The deaths caused by rhinos in India and Nepal exceed the total number of deaths caused by leopards and tigers.",
+    "category": "animals.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "In Asian folklore the rhinoceros would stomp out fires in the jungle.",
+    "category": "animals.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "The species name White Rhinoceros is the result of mis-translation of the word white.",
+    "category": "animals.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Hyenas are only found in Africa.",
+    "category": "animals.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Hyenas were domesticated and eaten in ancient Egypt.",
+    "category": "animals.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Are male hyenas the dominant members of their groups?",
+    "category": "animals.txt",
+    "answer": "No",
+    "choices": [
+      "A. Yes",
+      "B. No"
+    ]
+  },
+  {
+    "question": "Are spotted hyenas considered an endangered species?",
+    "category": "animals.txt",
+    "answer": "No",
+    "choices": [
+      "A. Yes",
+      "B. No"
+    ]
+  },
+  {
+    "question": "According to the Medieval Bestiary hyenas have the ability to change their sex.",
+    "category": "animals.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "The Moa was unique because even though it was a bird it had no wings.",
+    "category": "animals.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Was the male Moa larger than the female?",
+    "category": "animals.txt",
+    "answer": "No",
+    "choices": [
+      "A. No",
+      "B. Yes"
+    ]
+  },
+  {
+    "question": "Is the Moa related to the kiwi, a living species of flightless bird from New Zealand?",
+    "category": "animals.txt",
+    "answer": "No",
+    "choices": [
+      "A. No",
+      "B. Yes"
+    ]
+  },
+  {
+    "question": "Both male and female reindeer grow antlers.",
+    "category": "animals.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Reindeer are strict herbivores (vegetarians).",
+    "category": "animals.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Siberians  use reindeer to ride on.",
+    "category": "animals.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Are reindeer antlers used as a food by humans?",
+    "category": "animals.txt",
+    "answer": "Yes",
+    "choices": [
+      "A. Yes",
+      "B. No"
+    ]
+  },
+  {
+    "question": "Pigeon and dove fossils are regularly found giving us a lot of information on pigeon evolution?",
+    "category": "animals.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Pigeons are master nest builders.",
+    "category": "animals.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Pigeons were so valuable in wartime that some won medals for their service.",
+    "category": "animals.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Pigeons are only one of seven species to pass the mirror test, which tests if animals recognize their own reflected image.",
+    "category": "animals.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Dinosaurs once roamed Colorado and Wyoming.",
+    "category": "animals.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "The species Tyrannosaurus Rex  was herbivorous.",
+    "category": "animals.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Just like humans, apes and dolphins, elephants can recognize themselves in a mirror.",
+    "category": "animals.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Elephants always give birth to twins.",
+    "category": "animals.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Elephants sometimes have stillborn births, but are not bothered by the loss since the baby was never alive.",
+    "category": "animals.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Mammoths are members of the elephant family.",
+    "category": "animals.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "When swimming, an elephant will use its trunk as a snorkel.",
+    "category": "animals.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "An elephants brain is half the size of the human brain.",
+    "category": "animals.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Only female elephants were used in battle, because male elephants were too difficult to tame and train.",
+    "category": "animals.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "An elephants tusks grow continuously, about 7 inches a year.",
+    "category": "animals.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Salt water crocodiles belong to the amphibian group.",
+    "category": "animals.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Echidnas can swim.",
+    "category": "animals.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Triceratops was a voracious meat eater and would consume hundreds of pounds of meat a day.",
+    "category": "animals.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Is there any evidence that Triceratops lived in herds?",
+    "category": "animals.txt",
+    "answer": "No",
+    "choices": [
+      "A. Yes",
+      "B. No"
+    ]
+  },
+  {
+    "question": "Triceratops fossils have been found on three continents.",
+    "category": "animals.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "The proper spelling of this insectâs name is preying mantis even though it is commonly referred to as praying mantis.",
+    "category": "animals.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Female mantes (the plural for mantis) are larger than males.",
+    "category": "animals.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Can a praying mantis change color?",
+    "category": "animals.txt",
+    "answer": "Yes",
+    "choices": [
+      "A. No",
+      "B. Yes"
+    ]
+  },
+  {
+    "question": "A large mantis can feed on birds or small mammals.",
+    "category": "animals.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "You can go to jail for intentionally killing a praying mantis as it is an endangered species.",
+    "category": "animals.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "The praying mantis lives only up to one year.",
+    "category": "animals.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "The Stegosaurus had no teeth.",
+    "category": "animals.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Stegosaurus had a brain about the size of an orange.",
+    "category": "animals.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Did the Stegosaurus have more bones in its tail than any other Jurassic Dinosaur?",
+    "category": "animals.txt",
+    "answer": "Yes",
+    "choices": [
+      "A. Yes",
+      "B. No"
+    ]
+  },
+  {
+    "question": "The spikes on the tail of a Stegosaurus are called âthagomizersâ and are a reference to the Gary Larsons comic strip Far Side.",
+    "category": "animals.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Stegosaurus had back legs that were twice as long as its front legs.",
+    "category": "animals.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Stegosaurus had the strongest front legs in the dinosaur world.",
+    "category": "animals.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Is the tiger the largest cat out of the Big Cat group?",
+    "category": "animals.txt",
+    "answer": "Yes",
+    "choices": [
+      "A. No",
+      "B. Yes"
+    ]
+  },
+  {
+    "question": "The Sumatran tiger is the smallest of all tigers.",
+    "category": "animals.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "The Caspian tiger is believed to have become extinct.",
+    "category": "animals.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Can tigers swim up to 4 miles?",
+    "category": "animals.txt",
+    "answer": "Yes",
+    "choices": [
+      "A. Yes",
+      "B. No"
+    ]
+  },
+  {
+    "question": "Are tigers known to kill more humans than any other cat?",
+    "category": "animals.txt",
+    "answer": "Yes",
+    "choices": [
+      "A. Yes",
+      "B. No"
+    ]
+  },
+  {
+    "question": "Turtles can breathe in water.",
+    "category": "animals.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "The Coyote is also known as The Prairie Wolf.",
+    "category": "animals.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "A Clydesdale horse can weight up to 1,000 pounds (500 kg).",
+    "category": "animals.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Clydesdale horses are known for having white fur covering their hooves on all four of their legs.",
+    "category": "animals.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "The Clydesdale is a very active horse.",
+    "category": "animals.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Over 600 Clydesdale horses are registered every year in the United States.",
+    "category": "animals.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "The Pomeranian female dog should be a little larger than the male.",
+    "category": "animals.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "The box turtle has a hinge on the bottom of its shell.",
+    "category": "animals.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "The average lifespan of a box turtle is about 20 years.",
+    "category": "animals.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Box turtles are carnivores.",
+    "category": "animals.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "The state of Indiana has strict laws against collecting and capturing box turtles from the wild.",
+    "category": "animals.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "When a box turtle is taken out of the wild, it can spend years and sometimes its entire life looking for its home.",
+    "category": "animals.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Male box turtles tend to be larger than females.",
+    "category": "animals.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Box turtles are safe to eat.",
+    "category": "animals.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Box turtles are the most common terrestrial turtle in the eastern United States.",
+    "category": "animals.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Is the cheetah the only animal on land that can turn while running?",
+    "category": "animals.txt",
+    "answer": "Yes",
+    "choices": [
+      "A. Yes",
+      "B. No"
+    ]
+  },
+  {
+    "question": "Cheetahs have been domesticated and tamed.",
+    "category": "animals.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Nutrias belong to the rodent family.",
+    "category": "animals.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "The nutria is a herbivorous animal.",
+    "category": "animals.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Yorkshire Terrier show dogs have a height standard.",
+    "category": "animals.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Yorkshire Terriers are the smallest breed of dog in the world.",
+    "category": "animals.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Jellyfish are vertebrates.",
+    "category": "animals.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "A sea wasp is a jellyfish.",
+    "category": "animals.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Jellyfish are fish.",
+    "category": "animals.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Do adult jellyfish reproduce asexually?",
+    "category": "animals.txt",
+    "answer": "No",
+    "choices": [
+      "A. No",
+      "B. Yes"
+    ]
+  },
+  {
+    "question": "Is the wolfs scientific name Canis lupus pallipes?",
+    "category": "animals.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Wolves can live in snowy areas at certain times of the year?",
+    "category": "animals.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Do wolves have a social structure?",
+    "category": "animals.txt",
+    "answer": "Yes",
+    "choices": [
+      "A. No",
+      "B. Yes"
+    ]
+  },
+  {
+    "question": "Vampire bats have poor eyesight.",
+    "category": "animals.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Vampire bats can be quite tame, and even friendly to humans.",
+    "category": "animals.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Vampire bats blood-sucking does not hurt the bitten animal.",
+    "category": "animals.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Do vampire bats ever roost alone?",
+    "category": "animals.txt",
+    "answer": "Yes",
+    "choices": [
+      "A. No",
+      "B. Yes"
+    ]
+  },
+  {
+    "question": "Wolves do not wag their tails as dogs do when they are happy.",
+    "category": "animals.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Chinchillas have a wide range of hearing - 5 Hz to 60 kHz",
+    "category": "animals.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Chinchillas are great pets for children - they are animals of very friendly nature and love to be held.",
+    "category": "animals.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Chinchillas should be bathed with warm water at least once a week.",
+    "category": "animals.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "The two types of Chinese Crested dogs are born in separate litters, they cannot come from the same litter.",
+    "category": "animals.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "The Chinese Crested dog does not require much exercise.",
+    "category": "animals.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "The Chinese Crested dog is very timid.",
+    "category": "animals.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "A Chinese Crested dogs ears are not cropped.",
+    "category": "animals.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Chinese Crested dogs are very suspicious of strangers and can make very good watchdogs.",
+    "category": "animals.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Tiger sharks usually hunt alone.",
+    "category": "animals.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "The tiger shark is considered highly dangerous to humans.",
+    "category": "animals.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "The tiger shark reaches a length of 10 ft to 20 ft.",
+    "category": "animals.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Unlike most sharks, the tiger shark does not grow a replacement tooth every time one is lost.",
+    "category": "animals.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Tiger sharks are know to eat garbage that is thrown in the water by humans.",
+    "category": "animals.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Tiger sharks give birth to up to 12 live young at a time.",
+    "category": "animals.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Termites are not actually ants.",
+    "category": "animals.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Ants communicate through pheromones.",
+    "category": "animals.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Box Turtles are solitary creatures who neither want nor need companions.",
+    "category": "animals.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Turtles have poor vision and cannot see in color.",
+    "category": "animals.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "In the winter, many turtles enter a dormant state called torpor which resembles hibernation .",
+    "category": "animals.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Turtles are cold-blooded, meaning their internal temperature varies according to their outside environment.",
+    "category": "animals.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "The largest turtles are aquatic.",
+    "category": "animals.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Sea turtles have glands near their eyes that filter the salt out of sea water.",
+    "category": "animals.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Turtles can stick out their tongues to catch food.",
+    "category": "animals.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "The inner layer of the turtles shell contains 60 bones-- including parts of the turtles ribs and backbone.",
+    "category": "animals.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "A turtles eggs are leathery and soft.",
+    "category": "animals.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "A turtles lungs quickly break down, becoming less and less efficient over its lifetime.",
+    "category": "animals.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Only sea turtles do not care for their young.",
+    "category": "animals.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Turtles can breathe underwater.",
+    "category": "animals.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "All aquatic turtles have flippers instead of feet.",
+    "category": "animals.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "All turtles withdraw their head into their shell by contracting their neck to the side.",
+    "category": "animals.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "A turtles upper shell is called the plastron.",
+    "category": "animals.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "A turtles skin is made of scales, just like the skin of other reptiles.",
+    "category": "animals.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Platypuses are venomous.",
+    "category": "animals.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "The platypus needs to eat around 10% of its own weight every day.",
+    "category": "animals.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "The tusks of mature elephants stop growing when the animal reaches a certain age.",
+    "category": "animals.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "About 50% of the weight of a well-fed sloth comprises of the food in its stomach.",
+    "category": "animals.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Mudpuppies breathe through gills when they are young and when they mature they use their lungs.",
+    "category": "animals.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Mudpuppies are carnivores.",
+    "category": "animals.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Mudpuppies hibernate in the winter months.",
+    "category": "animals.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "The mudpuppy can produce noise.",
+    "category": "animals.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Wombats have an incredibly fast metabolism.",
+    "category": "animals.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "The turtle-dove is closely related to the raven.",
+    "category": "animals.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "The name of the turtle-dove is derived from the sound it produces.",
+    "category": "animals.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Turtle-doves tend to eat in their nests and high in the trees.",
+    "category": "animals.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "The nautilus is the closest living relative of the ammonite.",
+    "category": "animals.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Were the shells of all ammonites coiled?",
+    "category": "animals.txt",
+    "answer": "No",
+    "choices": [
+      "A. No",
+      "B. Yes"
+    ]
+  },
+  {
+    "question": "Ammonites lived on the ocean floor.",
+    "category": "animals.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Aspen is beneficial to a horse that is nervous and anxious, shies at invisible objects in a familiar arena and bolts for no reason.",
+    "category": "animals.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Rescue remedy is a combination of Rock Rose, Star of Bethlehem, Impatiens, Cherry Plum and Clematis essences.",
+    "category": "animals.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "All Bach flower remedies can be used by people.",
+    "category": "animals.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "The Cerato essence is suitable for horses that withhold their emotions despite suffering from a pain or disease.",
+    "category": "animals.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Trilobites developed one of the first complex visual systems.",
+    "category": "animals.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Not all trilobites had eyes.",
+    "category": "animals.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Did some trilobites filter-feed as a means of obtaining food?",
+    "category": "animals.txt",
+    "answer": "Yes",
+    "choices": [
+      "A. No",
+      "B. Yes"
+    ]
+  },
+  {
+    "question": "The Komodo Dragon is venomous.",
+    "category": "animals.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "The Komodo Dragon is only one of 3 species of venomous lizards in the world.",
+    "category": "animals.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Female Komodo Dragons can lay eggs without any contact with males.",
+    "category": "animals.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Are all bears omnivores?",
+    "category": "animals.txt",
+    "answer": "No",
+    "choices": [
+      "A. Yes",
+      "B. No"
+    ]
+  },
+  {
+    "question": "Do polar bears live in Antarctica?",
+    "category": "animals.txt",
+    "answer": "No",
+    "choices": [
+      "A. No",
+      "B. Yes"
+    ]
+  },
+  {
+    "question": "There are just 2 species of turkey in the world.",
+    "category": "animals.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Are wild turkeys very good fliers?",
+    "category": "animals.txt",
+    "answer": "Yes",
+    "choices": [
+      "A. Yes",
+      "B. No"
+    ]
+  },
+  {
+    "question": "Turkeys are named after the country of Turkey.",
+    "category": "animals.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Turkeys like to roost high in trees at night.",
+    "category": "animals.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Turkeys were once threatened with extinction in America.",
+    "category": "animals.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Did all Indian tribes of North America eat turkeys or consider them to be edible?",
+    "category": "animals.txt",
+    "answer": "No",
+    "choices": [
+      "A. No",
+      "B. Yes"
+    ]
+  },
+  {
+    "question": "Male turkeys are monogamous and will stay with one female for life.",
+    "category": "animals.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "A cats sense of hearing is much more sensitive than that of a human or a dog.",
+    "category": "animals.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "The nose pad of a cat is unique like the human fingerprint.",
+    "category": "animals.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Indoor cats tend to live longer.",
+    "category": "animals.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Are aardvarks an endangered species?",
+    "category": "animals.txt",
+    "answer": "No",
+    "choices": [
+      "A. Yes",
+      "B. No"
+    ]
+  },
+  {
+    "question": "Are aardvarks nocturnal animals?",
+    "category": "animals.txt",
+    "answer": "Yes",
+    "choices": [
+      "A. Yes",
+      "B. No"
+    ]
+  },
+  {
+    "question": "Aardvarks have more olfactory nerves than other mammals.",
+    "category": "animals.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "The Orca (Killer Whale) is the largest species of dolphin.",
+    "category": "animals.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Dolphins are only found in the ocean.",
+    "category": "animals.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Are all dolphins considered whales?",
+    "category": "animals.txt",
+    "answer": "Yes",
+    "choices": [
+      "A. No",
+      "B. Yes"
+    ]
+  },
+  {
+    "question": "In Toronto, Canada the raccoon has become a great urban pest, only exceeded by the Gray Squirrel.",
+    "category": "animals.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Is the raccoon native to Europe?",
+    "category": "animals.txt",
+    "answer": "No",
+    "choices": [
+      "A. No",
+      "B. Yes"
+    ]
+  },
+  {
+    "question": "Are badgers related to weasels?",
+    "category": "animals.txt",
+    "answer": "Yes",
+    "choices": [
+      "A. Yes",
+      "B. No"
+    ]
+  },
+  {
+    "question": "The badger can be found in every part of the lower 48 states.",
+    "category": "animals.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Can you find badgers in Europe?",
+    "category": "animals.txt",
+    "answer": "Yes",
+    "choices": [
+      "A. Yes",
+      "B. No"
+    ]
+  },
+  {
+    "question": "Badgers like to use one den all year round.",
+    "category": "animals.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Are badgers the largest native carnivores found in the UK?",
+    "category": "animals.txt",
+    "answer": "Yes",
+    "choices": [
+      "A. No",
+      "B. Yes"
+    ]
+  },
+  {
+    "question": "The expression badgering someoneâ came from the cruel sport of badger baiting.",
+    "category": "animals.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Octopi live alone all their lives except when mating.",
+    "category": "animals.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "The octopus is considered the smartest invertebrate.",
+    "category": "animals.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Is it believed that Smilodon was a social animal?",
+    "category": "animals.txt",
+    "answer": "Yes",
+    "choices": [
+      "A. Yes",
+      "B. No"
+    ]
+  },
+  {
+    "question": "The Tomato Frog is native to the eastern coast of Madagascar.",
+    "category": "animals.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Tomato Frogs tend to hit sexual maturity in about 9-14 months.",
+    "category": "animals.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Male Tomato Frogs are bright red.",
+    "category": "animals.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Female Tomato Frogs are larger than male Tomato Frogs.",
+    "category": "animals.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Tomato Frogs lay their eggs in the water during rainy seasons.",
+    "category": "animals.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "The life span of a Tomato Frog is 15-35 years.",
+    "category": "animals.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "When the Tomato Frog is threatened its skin secretes a thick substance containing a toxin.",
+    "category": "animals.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "The manatee is a marine mammal.",
+    "category": "animals.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "The manatee has a tail similar in shape to that of the dolphin.",
+    "category": "animals.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Manatees range in weight from 900 to 1200 pounds (400-550 kg.)",
+    "category": "animals.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Giant Pandas eat oranges and bananas.",
+    "category": "animals.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Is the Giant Panda an endangered species?",
+    "category": "animals.txt",
+    "answer": "Yes",
+    "choices": [
+      "A. Yes",
+      "B. No"
+    ]
+  },
+  {
+    "question": "Do Giant Pandas hibernate?",
+    "category": "animals.txt",
+    "answer": "No",
+    "choices": [
+      "A. No",
+      "B. Yes"
+    ]
+  },
+  {
+    "question": "Pandas do not hibernate.",
+    "category": "animals.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Pandas live and travel together.",
+    "category": "animals.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "The panda has an enlarged wristbone that works as an opposable thumb.",
+    "category": "animals.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Pandas are known to roar.",
+    "category": "animals.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "In the 1930s movie King Kong, the giant ape battles a pterodactyl.",
+    "category": "animals.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "A starfish cannot regenerate a lost arm.",
+    "category": "animals.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "All starfish have 5 arms.",
+    "category": "animals.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Starfish are capable of both asexual and sexual reproduction.",
+    "category": "animals.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Starfish are fast moving creatures.",
+    "category": "animals.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "A starfish is a type of fish.",
+    "category": "animals.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Is dolphins sense of hearing superior to that of humans?",
+    "category": "animals.txt",
+    "answer": "Yes",
+    "choices": [
+      "A. No",
+      "B. Yes"
+    ]
+  },
+  {
+    "question": "The jaguars extremely powerful bite, which can pierce through a turtles shell, makes it the mammal with the strongest jaw in the animal kingdom.",
+    "category": "animals.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "In jaguars society only male animals hunt while females look after the cubs.",
+    "category": "animals.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Lories and lorikeets have special tongues with brush-like tips for feeding on very small insects.",
+    "category": "animals.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Rabbits vomit often to get rid of whatever their stomach is unable to digest.",
+    "category": "animals.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "There is a separate species of scorpions which have two tails, with a venomous sting on each tail.",
+    "category": "animals.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  }
+]

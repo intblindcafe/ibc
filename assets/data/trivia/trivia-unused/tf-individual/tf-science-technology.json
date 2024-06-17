@@ -1,0 +1,3395 @@
+[
+  {
+    "question": "Immanuel Kant criticized Emanuel Swedenborg and termed him a âspook hunterâ.",
+    "category": "science-technology.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "The cerebellum section of the brain controls the fine movement and equilibrium, among other things.",
+    "category": "science-technology.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Tooth enamel is the hardest substance in the body.",
+    "category": "science-technology.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "The mother determines the sex of the baby.",
+    "category": "science-technology.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "The popular chat room abbreviation asl or a/s/l stands for age, sex, and location.",
+    "category": "science-technology.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "The terms smiley and emoticon refer to one and the same thing.",
+    "category": "science-technology.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "If they call me a newbie then I am new to the Internet; and/or new to the subject in general.",
+    "category": "science-technology.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "The word hepato, which derives from Greek, refers to the kidney.",
+    "category": "science-technology.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "The term thrombo, which comes from Greek, refers to a blood clot.",
+    "category": "science-technology.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "The two terms nephro and ren both refer to the kidneys.",
+    "category": "science-technology.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Twinkies, the sponge cake with creamy filling, created by Hostess, have an indefinite shelf life.",
+    "category": "science-technology.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "The traditional Japanese dish, sushi, is always made with raw fish.",
+    "category": "science-technology.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Gatorade, a non-carbonated sports drink, was invented by researchers at the University of Florida and named in honor of the Florida Gators, the schools football team.",
+    "category": "science-technology.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "In the USA, the color of the plastic tags, used to seal bread bags, indicates on what day the loaves were baked.",
+    "category": "science-technology.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Death of heart tissues due to loss of blood supply correctly describes the condition known as Myocardial Infarction.",
+    "category": "science-technology.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Does the condition known as Hypoglycemia imply that blood sugar levels in the body are too high?",
+    "category": "science-technology.txt",
+    "answer": "No",
+    "choices": [
+      "A. Yes",
+      "B. No"
+    ]
+  },
+  {
+    "question": "According to anonymous researches, conducted in the USA in 2002, most teenagers aged 12-17 have at least tried Marijuana.",
+    "category": "science-technology.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Marijuana is produced from parts of the male cannabis plants.",
+    "category": "science-technology.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Tourette syndrome is a neurological disorder, characterized by tics -- involuntary, rapid, movements or vocalizations.",
+    "category": "science-technology.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Down Syndrome, named after Dr. John Langdon Down, is actually a chromosomal defect.",
+    "category": "science-technology.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Arthralgia is a severe heart disorder.",
+    "category": "science-technology.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Carcino is a word of Greek origin which refers to the small intestines.",
+    "category": "science-technology.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "An inguinal hernia occurs in the groin, the area between the abdomen and thigh.",
+    "category": "science-technology.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "The prefix neuro, which in Greek means sinew or string, is related to the nervous system.",
+    "category": "science-technology.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Is there a cure for the plague?",
+    "category": "science-technology.txt",
+    "answer": "Yes",
+    "choices": [
+      "A. Yes",
+      "B. No"
+    ]
+  },
+  {
+    "question": "The smallpox isnt dangerous.",
+    "category": "science-technology.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Cancer is considered a pandemic.",
+    "category": "science-technology.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Women become overweight easier than men.",
+    "category": "science-technology.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "In the following division problem, the quotient is 2:\n\n12 / 6 = 2.",
+    "category": "science-technology.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "The eyes of males are bigger than those of females.",
+    "category": "science-technology.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Experiments prove that men are usually better at decoding facial expressions than women.",
+    "category": "science-technology.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "A large number of flies can appear around a dead body within the first 24 hours of death.  This is mainly because the flies lay eggs on the body, this multiplying their numbers.",
+    "category": "science-technology.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "The skin goes purple and waxy about one hour from time of death.",
+    "category": "science-technology.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "The face of the person becomes difficult to recognize 24 hours after death.",
+    "category": "science-technology.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "A swallow hole is an unnatural depression in earths surface formed by the collapse of a large building.",
+    "category": "science-technology.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "The geological area called The Ring of Fire is located along the borders of the Pacific Ocean.",
+    "category": "science-technology.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Will two tectonic plates sliding away from each other result in an earthquake?",
+    "category": "science-technology.txt",
+    "answer": "Yes",
+    "choices": [
+      "A. Yes",
+      "B. No"
+    ]
+  },
+  {
+    "question": "Sinkholes, natural depressions in the surface topography, may vary largely in size.",
+    "category": "science-technology.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "There are many different theories of how the Milky Way galaxy was born.",
+    "category": "science-technology.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Nicotine can be found in tomatoes, potatoes, green peppers, coca plants and tobacco.",
+    "category": "science-technology.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Strychnine poisoning produces some of the most terrifying and painful symptoms imaginable.",
+    "category": "science-technology.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Etymologists study the history of languages and how the forms and meanings of different words changed.",
+    "category": "science-technology.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Ichthyology is the study of biting insects such a fleas, mosquitoes and wasps.",
+    "category": "science-technology.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Depression can cause brain damage.",
+    "category": "science-technology.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Comparing a newborn babys skeletal system to an adults skeletal system, we will find out that the baby has about 60 bones more that the already completely developed person.",
+    "category": "science-technology.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "In the female body the breasts are organs of the reproductive system.",
+    "category": "science-technology.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Ancient footsteps found in Tanzania prove that there were bipedal hominids as early as 3.8 million years ago.",
+    "category": "science-technology.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "There are theories that Neanderthals actually buried their dead.",
+    "category": "science-technology.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Neanderthals are the ancestors of modern-day humans.",
+    "category": "science-technology.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "A tendon is a tough band of fibrous connective tissue that connects a muscle to a bone.",
+    "category": "science-technology.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "There is no square root of two.",
+    "category": "science-technology.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Teleseisms are ground motions caused by a distant earthquake.",
+    "category": "science-technology.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "The Good Friday Earthquake, which occurred on March 27, 1964, is the most powerful earthquake in U.S. history. It killed approximately 13,000 people.",
+    "category": "science-technology.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "The 2004 Indian Ocean earthquake was an undersea earthquake that generated a tsunami, which claimed the lives of more than 150,000 people (this is true). The earthquake lasted nearly ten minutes.",
+    "category": "science-technology.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Elder mothers have higher chances of conceiving twins.",
+    "category": "science-technology.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "The term Siamese twins comes from the famous case of Eng and Chang Bunker, who were conjoined twin brothers, born in Thailand in 1811.",
+    "category": "science-technology.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "The case of identical twins of different sex is extremely rare. The development of their gender starts 5 weeks after the moment of conceiving.",
+    "category": "science-technology.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "The aorta carries deoxygenated blood from the heart to the rest of the body.",
+    "category": "science-technology.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "The XY chromosome(s) determines that an embryo is developed into a baby girl.",
+    "category": "science-technology.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "About 95% of the rocks which form the upper part of the Earths crust are Igneous Rocks.",
+    "category": "science-technology.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Two large vessels enter the right atrium of the human heart - the superior and inferior vena cava. They carry blood from the whole body and that is why this blood is dark red.",
+    "category": "science-technology.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "The human heart has its own automation but its activity is regulated by the needs of the whole body. The nerves which accelerate the heart rate are called parasympathetic.",
+    "category": "science-technology.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Laws of physics are properties, common to all material systems.",
+    "category": "science-technology.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "The pictures on a web page can be stored in more than one physical location.",
+    "category": "science-technology.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Pornography is illegal on the Internet.",
+    "category": "science-technology.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Astronauts age faster.",
+    "category": "science-technology.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "The mission statement of NASA is to understand and protect our home planet; to explore the Universe and search for life; and to inspire the next generation of explorers.",
+    "category": "science-technology.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Most of the land area of Tennessee is in the Eastern time zone.",
+    "category": "science-technology.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Kansas is entirely in the Central time zone.",
+    "category": "science-technology.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "The Four Corners states of Arizona, Utah, New Mexico and Colorado are all in the same time zone.",
+    "category": "science-technology.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "The state of Oregon in entirely in the Pacific time zone.",
+    "category": "science-technology.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "While considered to be part of the Midwest, Ohio is actually in the Eastern time zone.",
+    "category": "science-technology.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "All arteries carry oxygenated blood from the heart to the rest of the body.",
+    "category": "science-technology.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Arterial blood is blue due to oxygenation. Venous blood is bright red and spurts when a person receives a cut.",
+    "category": "science-technology.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Portal circulation refers to the circulation of blood returning from the body and entering the heart through semilunar portals.",
+    "category": "science-technology.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Right-handed people live longer than left-handed people.",
+    "category": "science-technology.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Sublimation means channeling an urge in another direction.",
+    "category": "science-technology.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "It is said that the average person has about six pounds of skin.",
+    "category": "science-technology.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Sugar is a major reason for tooth decay.   Due to the high content of sugar in most carbonated drinks, you can diminish the risk of tooth decay by sipping through a straw.",
+    "category": "science-technology.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Fruit juices cause about as much harm to your teeth as Colas do.",
+    "category": "science-technology.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "After Hurricane Katrina, evacuees from Louisiana, Mississippi, and Alabama were granted two months of food stamps and free gasoline from the Texas Department of Health and Human Services.",
+    "category": "science-technology.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "It has been revealed that some debit cards issued to Hurricane Katrina evacuees were used for purchasing luxury or entertainment items.",
+    "category": "science-technology.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "In 2004, a National Geographic article foretold the formation of the flood that devastated New Orleans after Hurricane Katrina.",
+    "category": "science-technology.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "The White House rejected Louisiana governor Kathleen Blancos request to declare an emergency before Hurricane Katrina had struck.",
+    "category": "science-technology.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "After Hurricane Katrinaâs strike, reverend Jesse Lee Peterson, a nationally syndicated African American host of a radio talk show, criticized New Orleans African Americans for both blaming the federal government and expecting handouts from it.",
+    "category": "science-technology.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Former first lady Barbara Bush made the following remark about the New Orleans refugees, housed in the Houston Astrodome: And so many of the people in the arena here, you know, were underprivileged anyway, so this, this is working very well for them.",
+    "category": "science-technology.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Pat Robertson, the host of the 700 Club TV program, stated that Hurricane Katrina was caused by Gods anger over the selection of lesbian comedienne Ellen Degeneres to host the upcoming Emmy Awards.",
+    "category": "science-technology.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "The disastrous 2005 Atlantic hurricane season broke the 1933 record of 21 named storms.",
+    "category": "science-technology.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "In the 2005 hurricane season, there were 13 hurricanes of the overall number of 27 registered storms, which broke the record of 12, set in 1969.",
+    "category": "science-technology.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "In 2005, Katrina became the strongest hurricane on record in the Atlantic Basin with a pressure of 882 millibars breaking the old record set by Gilbert (888 mb) in 1988.",
+    "category": "science-technology.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "When performing a routine blood draw, the basilic vein is the best choice.",
+    "category": "science-technology.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "The Antecubital Fossa is the major vein in the arm for intended vein puncture.",
+    "category": "science-technology.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Lightning is caused by the increased imbalance of positive and negative charges during storms.",
+    "category": "science-technology.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "All dogs are of the same species.",
+    "category": "science-technology.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "During WWII, Einstein was paid $25 per day for his consultation on the Manhattan Project.",
+    "category": "science-technology.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Lifting incredibly slowly builds incredibly big muscles. Lifting super slowly produces superlong workouts.",
+    "category": "science-technology.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Leg extensions are safer for your knees than squats.",
+    "category": "science-technology.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "The fact that stretching prevents injuries is a myth.",
+    "category": "science-technology.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "You need a Swiss ball to build a stronger chest and shoulders.",
+    "category": "science-technology.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "It is better to work out with free weights.",
+    "category": "science-technology.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "An insulator is a thin metal strip mounted in a holder. When too much current passes through  it, the metal strip melts and opens the circuit.",
+    "category": "science-technology.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Moonbounce is a form of wireless communication in which the moon is used as a passive satellite.",
+    "category": "science-technology.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Lower frequencies have longer wavelengths, while higher frequencies have shorter wavelengths.",
+    "category": "science-technology.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Barbers traditionally have red and white poles in front of their stores because in the Middle Ages they did the blood letting.",
+    "category": "science-technology.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "According to gravity laws, if a bowling ball and a feather are dropped simultaneously from the same height the bowling ball will hit the ground first because it has greater inertia. (In this case we ignore the effects of air resistance.)",
+    "category": "science-technology.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Although gravity has been a subject of much research and scientific work, the actual cause of gravitational forces remains unknown.",
+    "category": "science-technology.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "If we measure the acceleration due to gravity at the top of Mount Everest, it will be less than the acceleration at sea level.",
+    "category": "science-technology.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "If 2 people are eating the same number of calories per day, the one who eats frequent small meals will lose more weight than the one who eats one large meal per day.",
+    "category": "science-technology.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "A diet high in sugar and starch has more energy, so people who eat such a diet do not get as hungry as people who eat a diet low in sugar and starch.",
+    "category": "science-technology.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Running a mile burns approximately 100 calories (100 Kcal).",
+    "category": "science-technology.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "The best diet is a permanent lifestyle change.",
+    "category": "science-technology.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Low-fat foods contain very little if any sugar.",
+    "category": "science-technology.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "A teenage girl who is very thin and obsesses about losing weight may have an eating disorder.",
+    "category": "science-technology.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "It would be better to skip breakfast entirely than to eat the typical American breakfast of sausage, sweets rolls, pancakes with syrup, and eggs.",
+    "category": "science-technology.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Water is a powerful conductor of electricity.",
+    "category": "science-technology.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "You shouldnt wash berries before you store them.",
+    "category": "science-technology.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Animal foods generally contain more saturated fats that plant foods.",
+    "category": "science-technology.txt",
+    "answer": "Yes",
+    "choices": [
+      "A. Yes",
+      "B. No"
+    ]
+  },
+  {
+    "question": "Can overnutrition cause malnutrition?",
+    "category": "science-technology.txt",
+    "answer": "Yes",
+    "choices": [
+      "A. No",
+      "B. Yes"
+    ]
+  },
+  {
+    "question": "Consuming too much alcohol can raise fats in the blood.",
+    "category": "science-technology.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "There are 12 astronomical constellations.",
+    "category": "science-technology.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Not all rain reaches the Earths surface.",
+    "category": "science-technology.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Too much rainfall can kill plants, just like a drought.",
+    "category": "science-technology.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "If you multiply any six consecutive whole numbers the product will be divisible by 8.",
+    "category": "science-technology.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "The testes contain very fine coiled tubes known as the seminal vesicles.",
+    "category": "science-technology.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Urine and semen are expelled in the urethra.",
+    "category": "science-technology.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Scallops live a sedentary live and never move around.",
+    "category": "science-technology.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "The Antarctic ozone hole reached one of its largest ever sizes in September 2000 when it was 11.5 million square miles (29,784,863 square km).",
+    "category": "science-technology.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Wood, water, air, wax, natural gas, paper, cardboard and leather are all renewable resources.",
+    "category": "science-technology.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "In Africa, a certain type of chimpanzees have been observed making snowballs.",
+    "category": "science-technology.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "While the number of storms in the Atlantic has increased in past years, this does not seem to be a global trend.",
+    "category": "science-technology.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "The moon phases are the result of the moons rotation around the Earth, causing us to see different parts of the moons surface lit by the sun.",
+    "category": "science-technology.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Summer Solstice is the point on the celestial sphere where the sun is at its most northerly point.",
+    "category": "science-technology.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "In December 2004, the discovery of the deepest coral reef in the United States was confirmed.  It is also the deepest coral reef in the world.",
+    "category": "science-technology.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "People with anxiety usually know they have anxiety.",
+    "category": "science-technology.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "People with depression usually know they are depressed.",
+    "category": "science-technology.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "A scheme, commonly used by anatomists, divides the abdominal surface and abdominopelvic cavity into nine separate regions by four planes. One of this is the Lumbar region. It is located between the ribs and the flaring portions of the hip bones which is flanking the epigastric region.",
+    "category": "science-technology.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Architecturally, our skin is a wonder. It is tough yet pliable, a characteristic that enables it to withstand constant insult from outside agents. Is the skin considered a system of the human body despite its extent and complexity?",
+    "category": "science-technology.txt",
+    "answer": "Yes",
+    "choices": [
+      "A. No",
+      "B. Yes"
+    ]
+  },
+  {
+    "question": "The digestive system provides the body with the nutrients essential for health. The organs of this system ingest, digest, and absorb food and eliminate the undigested remains as feces. The oral cavity, parotid gland, sublingual gland, tongue, pharynx, larynx and oesophagus are constituents of this system.",
+    "category": "science-technology.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "The correct way to measure the size of a widescreen monitor or laptop display is by length of the longer side.",
+    "category": "science-technology.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "GigaBytes or GB is the measurement used to determine the processor speed.",
+    "category": "science-technology.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "A computer that has wireless 802.11b/g or a Nic card needs nothing else to connect to the Internet.",
+    "category": "science-technology.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "If a computer has an integrated sound card, you will not need speakers to hear sounds (such as music or sound effects) through your system.",
+    "category": "science-technology.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "A modem is both an input and an output device.",
+    "category": "science-technology.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "A flatbed scanner enables users to put a text or a computer-generated image on paper or on another medium, such as a transparency.",
+    "category": "science-technology.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Keyboards are used for the input of text and characters.",
+    "category": "science-technology.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "A printer is an input device used to scan photos, pictures, texts and other printed material.",
+    "category": "science-technology.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "The irrational mathematical constant, Pi has its own architectural monument in London, which was decorated with William Shanks version of the first 700 decimal places in 1937.",
+    "category": "science-technology.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "The mathematical constant Pi has an important role in calculating the period of a pendulum.",
+    "category": "science-technology.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "In 1936 Alan Turing described the a-machine (later renamed Turing Machine) as a device that can simulate the logic of a computer.",
+    "category": "science-technology.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "The program components named coroutines generalize the widely known subroutines by allowing multiple return values.",
+    "category": "science-technology.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "The moon orbits eastward around the Earth.",
+    "category": "science-technology.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "During a new moon phase, is the moon visible?",
+    "category": "science-technology.txt",
+    "answer": "No",
+    "choices": [
+      "A. No",
+      "B. Yes"
+    ]
+  },
+  {
+    "question": "Did Galileo Galilei invent the first telescope?",
+    "category": "science-technology.txt",
+    "answer": "No",
+    "choices": [
+      "A. Yes",
+      "B. No"
+    ]
+  },
+  {
+    "question": "The stars remain in the sky during the day.",
+    "category": "science-technology.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Warm weather brings high pressure systems.",
+    "category": "science-technology.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "In the summer months, a clock located in Indianapolis, IN, USA will show a different time than a clock located in Paducah, KY.",
+    "category": "science-technology.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "A worker at a Riverboat Casino in Ohio near Cincinnati gets off the late shift at 12 Midnight, and arrives home in Indiana at Midnight. This worker lives about an hour away. Is this possible?",
+    "category": "science-technology.txt",
+    "answer": "Yes",
+    "choices": [
+      "A. No",
+      "B. Yes"
+    ]
+  },
+  {
+    "question": "Youre crossing Hoover Dam from Nevada into Arizona (USA) during the Winter months (after Oct 31st).  Will you change Time Zones?",
+    "category": "science-technology.txt",
+    "answer": "Yes",
+    "choices": [
+      "A. No",
+      "B. Yes"
+    ]
+  },
+  {
+    "question": "Its your Birthday, and youre in Tokyo. Later that calendar day, you board a flight for Los Angeles. Will you be able to celebrate your birthday twice?",
+    "category": "science-technology.txt",
+    "answer": "Yes",
+    "choices": [
+      "A. Yes",
+      "B. No"
+    ]
+  },
+  {
+    "question": "The state of Tennessee, USA has 2 Time Zones.",
+    "category": "science-technology.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "A flight attendant lands at OHare Airport in Chicago, in the winter months, and drives to Gary, Indiana. Will he or she have to reset his/ her watch upon arrival in Gary?",
+    "category": "science-technology.txt",
+    "answer": "No",
+    "choices": [
+      "A. No",
+      "B. Yes"
+    ]
+  },
+  {
+    "question": "Subways 12-inch Cold Cut Combo Sub on white bread is higher in calories, fats and carbohydrates then Hardees Big Roast Beef.",
+    "category": "science-technology.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Blimpieâs Best 12-inch Sub on wheat is higher in total calories, carbohydrates, and fats than a McDonalds Big Mac.",
+    "category": "science-technology.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Hardees medium sized Strawberry Shake (Hand-dipped) is higher in fats and total calories than Wendys medium sized Frosty Dairy Dessert.",
+    "category": "science-technology.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "One slice (139g) of Dominos Classic Hand Tossed Veggie Feast pizza has more calories than Arbys Ham Biscuit (Breakfast Sandwich).",
+    "category": "science-technology.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "The element with the symbol Sg is named after an American nuclear chemist and Nobel prize winner, Glenn T. Seaborg.",
+    "category": "science-technology.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "In calculus we never use complex (or imaginary) numbers.",
+    "category": "science-technology.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "After the proof of a mathematical theorem we often see the letters Q.E.D. Do these letters stand for Quite easily Done.?",
+    "category": "science-technology.txt",
+    "answer": "No",
+    "choices": [
+      "A. Yes",
+      "B. No"
+    ]
+  },
+  {
+    "question": "Cloning, the process of creating an identical copy of an organism, is only attainable by artificial means.",
+    "category": "science-technology.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "If you bet on a number in roulette in a fancy casino in Monaco or in an average casino in the USA, your odds of winning are the same.",
+    "category": "science-technology.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Tornadoes are transparent at first until dust and debris are picked up.",
+    "category": "science-technology.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Buildings can explode due to low pressure that comes with tornadoes.",
+    "category": "science-technology.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "When a tornadoe warning is issued, you should get in your car and try to outrun the storm to get to safety.",
+    "category": "science-technology.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Molecular electronic transitions (n to Î * or Î  to Î *) are are usually caused by the input of infrared radiation.",
+    "category": "science-technology.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Was the Pascaline invented by Blaise Pascal?",
+    "category": "science-technology.txt",
+    "answer": "Yes",
+    "choices": [
+      "A. No",
+      "B. Yes"
+    ]
+  },
+  {
+    "question": "The Leibniz Calculator was invented in 1692.",
+    "category": "science-technology.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "A young goat is called a kid.",
+    "category": "science-technology.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "If Kermit the Frog were a live animal, would he be considered an amphibian?",
+    "category": "science-technology.txt",
+    "answer": "Yes",
+    "choices": [
+      "A. Yes",
+      "B. No"
+    ]
+  },
+  {
+    "question": "Treatment of asthma with a long-acting beta agonist is inadvisable unless you are also treating the asthma with a steroid.",
+    "category": "science-technology.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "It is certainly feasible to practice medicine without ever prescribing opiate medications.",
+    "category": "science-technology.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Mixing baking soda and vinegar in a closed container causes a tiny explosion.",
+    "category": "science-technology.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "The long body of the church Hagia Irene in Istanbul (former Constantinople) is covered by two domes.",
+    "category": "science-technology.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "The church of Hagia Irene, a Byzantine church, was converted into a mosque by Sultan Mehmed the Conquerer.",
+    "category": "science-technology.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Iridology is a branch of ophthalmology that deals with diseases and treatment of the human iris.",
+    "category": "science-technology.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Chameleons have some of the most distinctive eyes among the reptiles. The two separately moving and focusing eyes of a chameleon give it a full 360-degree arc of vision around its body, but can they also ensure sharp clear focusing on one single object?",
+    "category": "science-technology.txt",
+    "answer": "Yes",
+    "choices": [
+      "A. No",
+      "B. Yes"
+    ]
+  },
+  {
+    "question": "The Kasson Metric Act of 1866 made the Metric System the official system of the USA, although it was repealed in 1873.",
+    "category": "science-technology.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Thomas Jefferson was a leading opponent of the metric system.",
+    "category": "science-technology.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Bases corrode metal.",
+    "category": "science-technology.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "The pH of solids in solid form can be measured using indicator paper.",
+    "category": "science-technology.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "âWattle and daub is a method of construction.",
+    "category": "science-technology.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "The sky appears to be blue because of the refraction of light.",
+    "category": "science-technology.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Generally computers are sold with RAM in 1GB denominations. Is it generally possible to add RAM to the system later to have 1.5 GB of RAM?",
+    "category": "science-technology.txt",
+    "answer": "Yes",
+    "choices": [
+      "A. No",
+      "B. Yes"
+    ]
+  },
+  {
+    "question": "An LCD monitor with a DVI or VGA connector can be connected to a laptop computer with the same connectors, as a second monitor.",
+    "category": "science-technology.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "On average, only one baby in 10,000,000 is born with a tooth.",
+    "category": "science-technology.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "A rodents teeth will grow continuously for its entire lifetime.",
+    "category": "science-technology.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Every mammal has teeth.",
+    "category": "science-technology.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "The narwhale has two teeth in its upper jaw, one of which develops into a horn-like protrusion (this is true).\nIt is almost always the left one that  becomes the horn.",
+    "category": "science-technology.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "The most common  fossil is the tooth.",
+    "category": "science-technology.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "The Yerkes Observatory in Williams Bay, Wisconsin, established in 1897 by George Ellery Hale, works with a 102 cm (40 inch) refracting telescope.",
+    "category": "science-technology.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "The Sun was once regarded as a small and insignificant star, but is now believed to be brighter than approximately 85% of the stars in the galaxy.",
+    "category": "science-technology.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "The Sun is located at the center of our galaxy.",
+    "category": "science-technology.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "A virus is a unicellular infectious agent consisting of genetic material encapsulated in a protective protein coat.",
+    "category": "science-technology.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "The scapula is part of the spine near the hip.",
+    "category": "science-technology.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "In an average household, on a daily basis most people forget the fan or lights on?",
+    "category": "science-technology.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Can you donate any electrical items to a recycling dump place?",
+    "category": "science-technology.txt",
+    "answer": "Yes",
+    "choices": [
+      "A. No",
+      "B. Yes"
+    ]
+  },
+  {
+    "question": "The water bottle is the most popular type of drink container found in garbage cans.",
+    "category": "science-technology.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Can you recycle food scraps?",
+    "category": "science-technology.txt",
+    "answer": "Yes",
+    "choices": [
+      "A. Yes",
+      "B. No"
+    ]
+  },
+  {
+    "question": "Fibromyalgia is most common in women.",
+    "category": "science-technology.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Fibromyalgia can be diagnosed with a simple blood test.",
+    "category": "science-technology.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Fibromyalgia is a disorder of the central nervous system.",
+    "category": "science-technology.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Low doses of antidepressants can be used to treat fibromyalgia patients.",
+    "category": "science-technology.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "There is no generally accepted cure for fybromyalgia.",
+    "category": "science-technology.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "May 13th is the National Fibromyalgia Associations Fibromyalgia Awareness Day.",
+    "category": "science-technology.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "People suffering from fibromyalgia may be genetically predisposed.",
+    "category": "science-technology.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "The United States had 50 deaths from the Ebola Virus in the period from 1976 to 2006.",
+    "category": "science-technology.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "The Spanish Flu took the lives of over 40,000 people between 1918 and 1920.",
+    "category": "science-technology.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "In 1655 the Bubonic Plague hit India and China causing mass casualties.",
+    "category": "science-technology.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Ophiuchus is on the ecliptic.",
+    "category": "science-technology.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Venus has no natural satellite or moon.",
+    "category": "science-technology.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "When Charles Lindbergh crossed the Atlantic, he had almost no visibility from his front windows.",
+    "category": "science-technology.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "The poles of magnets are able to point the way because of ferromagnetic materials deep inside the Earthâs core.",
+    "category": "science-technology.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Although discovered in the United States, Plutos name came from Europe - it was suggested by Falconer Maden, a former librarian at the Oxford University Bodleian Library.",
+    "category": "science-technology.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "If one were to look at the sky from Plutos surface, every 17 hours they would observe exceptionally beautiful rises of Charon because of its closeness to Pluto.",
+    "category": "science-technology.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Pluto was the ninth planet of the Solar System for 76 years - from its discovery in 1930 until 2006 when it was reclassified as a dwarf planet.",
+    "category": "science-technology.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Viruses are so small that you need a special light microscopÐµ to observe most of them.",
+    "category": "science-technology.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Bacteriophages are organisms that have the characteristics of both viruses and bacteria.",
+    "category": "science-technology.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Antibiotics are used to treat virus infections in animals and humans but are ineffective in plant virus infections.",
+    "category": "science-technology.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Mount Rumpke is the highest point and the biggest landfill in Ohio. Its technical name is The Rumpke Sanitary Landfill.",
+    "category": "science-technology.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "In olden days urine was recycled.",
+    "category": "science-technology.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Humans have much smaller amount of hair follicles in their skin per unit area than other primates.",
+    "category": "science-technology.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Its normal for blood pressure to be quite elevated during strenuous activity.",
+    "category": "science-technology.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "It has been shown that people with diabetes are less likely to have a heart attack if they take a cholesterol-lowering medication, even if their cholesterol level is perfectly normal already.",
+    "category": "science-technology.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Normal blood pressure levels are higher for older patients.",
+    "category": "science-technology.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "The molars of todays African elephant can be longer than a foot.",
+    "category": "science-technology.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "The first human to have an inch long tooth was a fourth grade student in Ontario, Canada.",
+    "category": "science-technology.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Statistics is useless, since you can design an experiment to statistically prove anything you want to prove.",
+    "category": "science-technology.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "The chemical symbol of Fluorine is Fl.",
+    "category": "science-technology.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Found in tonic water, quinine is commonly used to treat malaria.",
+    "category": "science-technology.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Jonas Salk was the 20th century American medical researcher responsible for developing the highly effective and safe oral polio vaccine.",
+    "category": "science-technology.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "The planet Jupiter has less than 50 natural satellites.",
+    "category": "science-technology.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Men are considered to be dwarfs in stature if their height is below 130 cm.",
+    "category": "science-technology.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "The human heart is about the size of a fist.",
+    "category": "science-technology.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "The human brain has approximately 14 billion cells.",
+    "category": "science-technology.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "There are approximately 2 million sweat glands in the human body.",
+    "category": "science-technology.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Women blink more often than men.",
+    "category": "science-technology.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "The smallest cell in the human body is the ovum.",
+    "category": "science-technology.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Nearly half of all human bones are in the hands and feet.",
+    "category": "science-technology.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "People with red hair are more sensitive to thermal pain.",
+    "category": "science-technology.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "There are more than 500,000 craters on the moon that can be seen from Earth.",
+    "category": "science-technology.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "The diameter of the largest crater on the moon is 1,044 miles across.",
+    "category": "science-technology.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "The volume of the Earths moon is the same as the volume of the Pacific and Indian Oceans combined.",
+    "category": "science-technology.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "The dark spots on the moon that create the man in the moon image are actually basins filled with basalt.",
+    "category": "science-technology.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "The temperature on the Moon reaches 243Â° F at midday on the lunar equator.",
+    "category": "science-technology.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "You always get to see the same half of the moon.",
+    "category": "science-technology.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "The moon is moving toward the Earth at a rate of 1.5 inches per year.",
+    "category": "science-technology.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "The surface area of the moon is 14,658,000 square miles.",
+    "category": "science-technology.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Only about 40% of the moons surface is visible from Earth.",
+    "category": "science-technology.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "The moon is not round, but egg shaped.",
+    "category": "science-technology.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Was the iPod launched on October 23, 2001?",
+    "category": "science-technology.txt",
+    "answer": "Yes",
+    "choices": [
+      "A. No",
+      "B. Yes"
+    ]
+  },
+  {
+    "question": "In April, 2007 it was announced that Apple had sold its one-hundredth million iPod making it the biggest selling digital music player of all time.",
+    "category": "science-technology.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "All iPods come in one and the same shape.",
+    "category": "science-technology.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Can you put movies and TV shows on your iPod?",
+    "category": "science-technology.txt",
+    "answer": "Yes",
+    "choices": [
+      "A. No",
+      "B. Yes"
+    ]
+  },
+  {
+    "question": "Mercury has a moon called Celsius.",
+    "category": "science-technology.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "From our point of view on Earth, Mercury goes through different phases, just like our Moon.",
+    "category": "science-technology.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Vitamin B6 is widely distributed in foods and its relatively stable form enables it to remain unchanged even when the products are cooked.",
+    "category": "science-technology.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "B1, a vitamin participating in many important cellular processes, is synthesized by animals, plants and some bacteria.",
+    "category": "science-technology.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "The atomic number of Argon is 19.",
+    "category": "science-technology.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "The atomic number of the chemical element Tin is 50.",
+    "category": "science-technology.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "The atomic number of Zinc is 52.",
+    "category": "science-technology.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Oxygens atomic number is 8.",
+    "category": "science-technology.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "The Sun orbits a center of mass.",
+    "category": "science-technology.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Is Phobos a satellite of Mars?",
+    "category": "science-technology.txt",
+    "answer": "Yes",
+    "choices": [
+      "A. No",
+      "B. Yes"
+    ]
+  },
+  {
+    "question": "Valles Marineris is a polar rift on the surface of Mars.",
+    "category": "science-technology.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Olympus Mons lies on Mars.",
+    "category": "science-technology.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Did Voyager obtain the first images of Mars?",
+    "category": "science-technology.txt",
+    "answer": "No",
+    "choices": [
+      "A. No",
+      "B. Yes"
+    ]
+  },
+  {
+    "question": "Shellfish is rich in vitamin B12, which supports the functions of nerves and mental ability.",
+    "category": "science-technology.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Skimmed milk contains riboflavin (vitamin B2), vitamin A and calcium.",
+    "category": "science-technology.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Walnuts contain only unsaturated fats and therefore decrease the risk of heart disease.",
+    "category": "science-technology.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Figs are a natural source of potassium and carbohydrates.",
+    "category": "science-technology.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Apricots contain carotenoids and antioxidants that may help to prevent heart disease.",
+    "category": "science-technology.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Mangoes are high in prebiotic dietary fiber and vitamin C.",
+    "category": "science-technology.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Niacin, also known as vitamin B3, is required for healthy hair.",
+    "category": "science-technology.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Vitamin B10 helps to prevents early graying of the hair.",
+    "category": "science-technology.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Vitamin A helps to restore the structure of damaged hair.",
+    "category": "science-technology.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Vitamin E is found in nuts.",
+    "category": "science-technology.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Is it possible to see around corners?",
+    "category": "science-technology.txt",
+    "answer": "Yes",
+    "choices": [
+      "A. No",
+      "B. Yes"
+    ]
+  },
+  {
+    "question": "Did Isaac Newton formulate the famous equation E=mcÂ²?",
+    "category": "science-technology.txt",
+    "answer": "No",
+    "choices": [
+      "A. No",
+      "B. Yes"
+    ]
+  },
+  {
+    "question": "Light waves travel in a straight line.",
+    "category": "science-technology.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Saturn has more then 80 known moons.",
+    "category": "science-technology.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Saturn is visible without any optical aid.",
+    "category": "science-technology.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Neptune has rings around it just like Saturn.",
+    "category": "science-technology.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "The planet Neptune can be seen with the naked eye.",
+    "category": "science-technology.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "If an atom loses an electron its electromagnetic balance is disturbed and the atom decays releasing  ionizing particles and a large amount of energy.",
+    "category": "science-technology.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Although it was thought to be the smallest component of matter, physicists discovered that the atom consists of electrons, protons and neutrons. But even some of these subatomic particles can be broken down further.",
+    "category": "science-technology.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Olive oil lowers total cholesterol and LDL levels in the blood.",
+    "category": "science-technology.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Spinach is extremely rich in antioxidants.",
+    "category": "science-technology.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Berries are good for the heart.",
+    "category": "science-technology.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Dark chocolate reduces blood pressure while enhancing circulation.",
+    "category": "science-technology.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Almonds possess cholesterol-lowering properties.",
+    "category": "science-technology.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Lentils and beans are rich in fiber, omega-3 acids and calcium.",
+    "category": "science-technology.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "The diaphragm regulates the amount of light reaching the microscope objective.",
+    "category": "science-technology.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "The fine adjustment knob of the microscope is used to move the body tube when focusing the specimen under the low power objective.",
+    "category": "science-technology.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Light, just as wind, has the ability to push objects in its path.",
+    "category": "science-technology.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Jupiter has rings.",
+    "category": "science-technology.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Jupiter has the largest planetary atmosphere in the Solar System.",
+    "category": "science-technology.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Is Venus the coldest planet in the Solar System?",
+    "category": "science-technology.txt",
+    "answer": "No",
+    "choices": [
+      "A. Yes",
+      "B. No"
+    ]
+  },
+  {
+    "question": "Marine 1, launched in 1961, was the first probe to visit another planet.",
+    "category": "science-technology.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Venus is classified as Earths sister planet.",
+    "category": "science-technology.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Venus was mistaken for a UFO.",
+    "category": "science-technology.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Venus has the densest atmosphere in the solar system.",
+    "category": "science-technology.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Atoms are so small that they can only be observed with a special type of electronic optical microscope called scanning optical microscope.",
+    "category": "science-technology.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Super-heavy atoms, (or super heavy elements, often abbreviated SHE), are the elements with large atomic number (starting from 104), which occur only deep in the Earths mantle. They are very useful in the study of atoms structure and properties.",
+    "category": "science-technology.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Mercury is the densest major body in the solar system.",
+    "category": "science-technology.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Mercurys maximum elongation is 32.2 degrees.",
+    "category": "science-technology.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Does Mercury have an atmosphere?",
+    "category": "science-technology.txt",
+    "answer": "No",
+    "choices": [
+      "A. Yes",
+      "B. No"
+    ]
+  },
+  {
+    "question": "Does Mercury have a magnetic field?",
+    "category": "science-technology.txt",
+    "answer": "Yes",
+    "choices": [
+      "A. Yes",
+      "B. No"
+    ]
+  },
+  {
+    "question": "Uranus has only 10 moons.",
+    "category": "science-technology.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Mars moon Deimos orbits the closest to its planet of any moon in the Solar System.",
+    "category": "science-technology.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Jupiter is the fourth brightest object in the sky.",
+    "category": "science-technology.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Arthropods were the largest animals on Earth during the Silurian period (443ma-417ma).",
+    "category": "science-technology.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Most plant groups became extinct during the Permo-Triassic extinction event.",
+    "category": "science-technology.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Jupiter has been called the vacuum cleaner of the Solar System.",
+    "category": "science-technology.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Jupiters magnetic field is the strongest in the Solar System.",
+    "category": "science-technology.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Jupiter is growing.",
+    "category": "science-technology.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Saturns magnetic field is stronger than Earths.",
+    "category": "science-technology.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Alopecia is the medical term which refers to baldness.",
+    "category": "science-technology.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "The zygomatic processes form the cheek bones.",
+    "category": "science-technology.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "The radius is a bone which is part of the human leg.",
+    "category": "science-technology.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "The tail bone is scientifically known as the coccyx.",
+    "category": "science-technology.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "All cell proteins are embedded in the cell membrane.",
+    "category": "science-technology.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Glycolipids in cell membranes are involved in transport, enzymatic activity, intercellular joining, and cell-cell recognition.",
+    "category": "science-technology.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Does active transport require the energy of the molecule adenosine diphosphate or ADP?",
+    "category": "science-technology.txt",
+    "answer": "No",
+    "choices": [
+      "A. Yes",
+      "B. No"
+    ]
+  },
+  {
+    "question": "In the Bronsted-Lowry acid-base classification, an acid is defined as a proton donor and a base is a proton acceptor.",
+    "category": "science-technology.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "The Law of Pythagoras can always be used to find the length of the hypotenuse of an isosceles triangle.",
+    "category": "science-technology.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Vegetarians can get all the proteins they need through non-meat food sources.",
+    "category": "science-technology.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Saturated fats have proven to be the main dietary cause of high blood LDL cholesterol levels.",
+    "category": "science-technology.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Vitamin C and Vitamins of the B group are crucial for the proper functioning of the body.  Are they considered to be complex, fat-soluble substances?",
+    "category": "science-technology.txt",
+    "answer": "No",
+    "choices": [
+      "A. No",
+      "B. Yes"
+    ]
+  },
+  {
+    "question": "Along with the minerals extracted from nutrients, the human body also produces minerals of its own, essential for maintaining it in good condition.",
+    "category": "science-technology.txt",
+    "answer": "No",
+    "choices": [
+      "A. Yes",
+      "B. No"
+    ]
+  },
+  {
+    "question": "The epicardium is also known as the visceral pericardium.",
+    "category": "science-technology.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Does the myocardium receive stimulation from the nervous system for its contractions?",
+    "category": "science-technology.txt",
+    "answer": "No",
+    "choices": [
+      "A. Yes",
+      "B. No"
+    ]
+  },
+  {
+    "question": "Does gasoline float on distilled water?",
+    "category": "science-technology.txt",
+    "answer": "Yes",
+    "choices": [
+      "A. No",
+      "B. Yes"
+    ]
+  },
+  {
+    "question": "Does hydrogen float on helium?",
+    "category": "science-technology.txt",
+    "answer": "Yes",
+    "choices": [
+      "A. Yes",
+      "B. No"
+    ]
+  },
+  {
+    "question": "Does liquid mercury float on liquid gold?",
+    "category": "science-technology.txt",
+    "answer": "No",
+    "choices": [
+      "A. No",
+      "B. Yes"
+    ]
+  },
+  {
+    "question": "Does liquid iron float on liquid nickel?",
+    "category": "science-technology.txt",
+    "answer": "Yes",
+    "choices": [
+      "A. Yes",
+      "B. No"
+    ]
+  },
+  {
+    "question": "A tropical cyclone is classified to have reached landfall when the outer edges of the storm are over land.",
+    "category": "science-technology.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Despite a hurricaneâs destructive nature and its toll on both lives and property, there are some beneficial effects of tropical cyclones.",
+    "category": "science-technology.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Should I eat before taking my medication, if the prescription says the medication should be taken a.c.?",
+    "category": "science-technology.txt",
+    "answer": "No",
+    "choices": [
+      "A. No",
+      "B. Yes"
+    ]
+  },
+  {
+    "question": "Pregnancy has a lot of myths surrounding it. Is this one of them? Do spicy foods and/or red wine help induce labor?",
+    "category": "science-technology.txt",
+    "answer": "No",
+    "choices": [
+      "A. Yes",
+      "B. No"
+    ]
+  },
+  {
+    "question": "If youre double-jointed, it means you have two joints where normally there is one.",
+    "category": "science-technology.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "If a dog is wagging its tail, then it is safe to approach.",
+    "category": "science-technology.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "I think we have all heard this one. Does an apple a day keep the doctor away?",
+    "category": "science-technology.txt",
+    "answer": "No",
+    "choices": [
+      "A. Yes",
+      "B. No"
+    ]
+  },
+  {
+    "question": "Meteoroids are small celestial bodies consisting of ice, dust and rock that form gaseous tails as they move closer to the Sun.",
+    "category": "science-technology.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "A solar eclipse is when Earth casts a shadow on the Moon.",
+    "category": "science-technology.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "In the set of real numbers under the operation of multiplication, every number has an inverse.",
+    "category": "science-technology.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "A Solar Eclipse occurs when the Earth is between the Sun and the Moon.",
+    "category": "science-technology.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "While muscle stimulation occurs during weight lifting and resistance exercises, muscle growth occurs later when the muscles are at rest.",
+    "category": "science-technology.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Doctors dont believe that growing causes pain, so growing pains do not exist.",
+    "category": "science-technology.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Muscles push and pull-- thats how you can wriggle your fingers back and forth.",
+    "category": "science-technology.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "You should always warm up your muscles before lifting weights.",
+    "category": "science-technology.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Each basic taste corresponds to a specific area of the tongue, which perceives it. This spacial division of taste receptors is called taste map.",
+    "category": "science-technology.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "In order to adapt to the dry environment, cacti completely lost their leaves in the process of evolution.",
+    "category": "science-technology.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Because of the strict water preserving mechanisms, the cactus dies within hours after a part of it is broken or damaged.",
+    "category": "science-technology.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Cacti can only be pollinated by a certain type of tropical bees.",
+    "category": "science-technology.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "In aromatherapy, essential oils are often used to enhance the mood.",
+    "category": "science-technology.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Tinctures in herbal medicine are made by mixing dried herbs with oils, such as sesame oil or almond oil.",
+    "category": "science-technology.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Saturns rings consist mostly of water ice.",
+    "category": "science-technology.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Saturn is the furthermost planet that can be seen with the naked eye.",
+    "category": "science-technology.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Saturns moon Titan is the largest natural satellite in our Solar system.",
+    "category": "science-technology.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Saturn is the only ringed planet in the Solar system.",
+    "category": "science-technology.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "The skin has its own ecosystems of microorganisms, including yeasts and bacteria, which cannot be removed by washing.",
+    "category": "science-technology.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "The epidermis is very rich in blood vessels.",
+    "category": "science-technology.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Mammary glands are considered to be modified sweat glands.",
+    "category": "science-technology.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Most animals and plants are not able to synthesize vitamin C by themselves.",
+    "category": "science-technology.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Vitamin C is a powerful antioxidant and pro-oxidant.",
+    "category": "science-technology.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "In the US, all Medicare Part A participants pay a premium for the service.",
+    "category": "science-technology.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "In the US, all Medicare Part B participants pay a monthly premium for the service.",
+    "category": "science-technology.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "A US citizen can qualify for both Medicare and Medicaid at the same time.",
+    "category": "science-technology.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  }
+]

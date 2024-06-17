@@ -1,0 +1,4313 @@
+[
+  {
+    "question": "Venus by Bananarama is the original version of the song.",
+    "category": "music.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Jimmy Jam and Terry Lewis were members of The Time.",
+    "category": "music.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Elvis made his first record as a surprise gift for his mom.",
+    "category": "music.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Is there really  a Heartbreak Hotel down at the end of Lonely Street as the famous Elvis song goes?",
+    "category": "music.txt",
+    "answer": "Yes",
+    "choices": [
+      "A. No",
+      "B. Yes"
+    ]
+  },
+  {
+    "question": "The popular group The Beatles were awarded the MBE (Member Of The Order Of The British Empire) on October 26th 1965 at The Buckingham Palace.",
+    "category": "music.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "English heavy metal band Iron Maiden is named after a historic female character from the medieval European witchcraft folklore.",
+    "category": "music.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Famous Latin singer, Selena, was slain by one of her own family members.",
+    "category": "music.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "In 1977, four members of American Southern rock band Lynyrd Skynyrd were killed in a plane crash on their way to a concert in Baton Rouge, Louisiana.",
+    "category": "music.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Dolly Partons film debut was in The Best Little Whorehouse in Texas.",
+    "category": "music.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Is it true that Stacy Ferguson (aka Fergie) of the Black Eyed Peas, had a minor role in the 2006 film Poseidon.",
+    "category": "music.txt",
+    "answer": "Yes",
+    "choices": [
+      "A. Yes",
+      "B. No"
+    ]
+  },
+  {
+    "question": "Goth rocker Marilyn Manson has appeared in the movies Jawbreaker and Clone High.",
+    "category": "music.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "So she took her love for to graze awhile, upon the fields of garlic  is a line from Stings ballad Fields of Gold.",
+    "category": "music.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "The American Southern rock band Lynyrd Skynyrd wrote the lyrics, In Birmingham they love Begonias.",
+    "category": "music.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Is it true that in The Beatles song, Come Together, one of the lines is: Water, water, waters free?",
+    "category": "music.txt",
+    "answer": "No",
+    "choices": [
+      "A. Yes",
+      "B. No"
+    ]
+  },
+  {
+    "question": "In the song, Up Where We Belong, by Joe Cocker and Jennifer Warnes there is a line that says, Love lifts us up where we belong.",
+    "category": "music.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Is it true that No dogs or chasms in the classroom, is a line from the classic Pink Floyd song, Another Brick in the Wall (Part II)?",
+    "category": "music.txt",
+    "answer": "No",
+    "choices": [
+      "A. No",
+      "B. Yes"
+    ]
+  },
+  {
+    "question": "My Corona was a #1 hit for The Knack in 1979.",
+    "category": "music.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Madonna became a very successful author, writing childrens books.",
+    "category": "music.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Madonna married Sean Penn on her birthday.",
+    "category": "music.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Madonna did not appear in the film Vision Quest.",
+    "category": "music.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "The group that performed this song was formed in San Diego, CA.",
+    "category": "music.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "The group heard here were involved in a tragic nightclub accident in 2003 that killed 100 people.",
+    "category": "music.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "The long-time original lead singer of the group heard here was responsible for another musicianâs death.",
+    "category": "music.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "It ended when I lost your loveis a line from Skeeter Daviss song The End of the World.",
+    "category": "music.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "In the song Wouldnt It Be Loverly, from the 1956 musical theater production, My Fair Lady, Eliza says that she wants to be sitting in the lap of a young man.",
+    "category": "music.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Black Sabbath has never done a cover song on an album.",
+    "category": "music.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "The band was named after a horror movie.",
+    "category": "music.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Their guitarist had two missing fingertips.",
+    "category": "music.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Ozzy sings every song on all the Sabbath Albums in which he appeared.",
+    "category": "music.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "After breaking up, The Eagles have never performed together again on stage?",
+    "category": "music.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "The Eagles Greatest Hits has sold over 20,000,000 copies since its release in 1975.",
+    "category": "music.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Irish singer Sinead O Connor ruined her career by ripping apart a photo of the US President on Saturday Night Live in the early 1990s.",
+    "category": "music.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "In arabic Shakur means Black Prince.",
+    "category": "music.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Strictly 4 My N.I.G.G.A.Z. went gold, but not platinum.",
+    "category": "music.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Tupacs movie debut was in the movie Poetic Justice.",
+    "category": "music.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "The lead singer of Warrant was featured on VH1s Celebrity Fit Club.",
+    "category": "music.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "The lead singer of Poison is Bret Michaels. Is that his real name?",
+    "category": "music.txt",
+    "answer": "No",
+    "choices": [
+      "A. No",
+      "B. Yes"
+    ]
+  },
+  {
+    "question": "Sabastian Bach, lead singer of Skid Row, has two sons named after famous cities.",
+    "category": "music.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Is Kirk Winger the lead singer of the band Winger?",
+    "category": "music.txt",
+    "answer": "No",
+    "choices": [
+      "A. Yes",
+      "B. No"
+    ]
+  },
+  {
+    "question": "Emmylou Harris and Linda Ronstadt did a duet before forming a trio with Dolly Parton.",
+    "category": "music.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "All the Roadrunning is a collaborative album by Elton John and Emmylou Harris.",
+    "category": "music.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Director Oliver Stone appeared  in his own movie, entitled The Doors.",
+    "category": "music.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "The Grateful Dead performed at the famous ill-fated 1969 Altamont concert.",
+    "category": "music.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "AC/DC sang the 1987 hit Night Train.",
+    "category": "music.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Tesla performed the 1990 song Cherry Pie.",
+    "category": "music.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "The members of the 1980s new wave group Thompson Twins are actually not twins at all.",
+    "category": "music.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Bob Marley, his wife and his manager were shot on 3 December 1976. That stopped Bob from playing at Smile Jamaica concert in Kingston.",
+    "category": "music.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Two days after the death of Elvis, a drunk driver drove his car into a crowd of mourners outside of Graceland injuring five fans.",
+    "category": "music.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "In the 1960s Tom Jones was famous for his overt sexuality.",
+    "category": "music.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Renee Zellweger dated White Stripes Jack White before marrying Kenny Chesney.",
+    "category": "music.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Shannon Tweed married KISS lead singer Gene Simmons in 2005.",
+    "category": "music.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Anna Kournikova secretly married Ricky Martin in 2003.",
+    "category": "music.txt",
+    "answer": "No",
+    "choices": [
+      "A. No",
+      "B. Yes"
+    ]
+  },
+  {
+    "question": "The Pretenders recorded the song Brass in Pocket.",
+    "category": "music.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Did Boston record the song Dont Fear the Reaper?",
+    "category": "music.txt",
+    "answer": "No",
+    "choices": [
+      "A. Yes",
+      "B. No"
+    ]
+  },
+  {
+    "question": "I kinda like fryin up my sad cuisine is an actual Steely Dan lyric.",
+    "category": "music.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Things I Miss the Least is the title of a Steely Dan song.",
+    "category": "music.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Hilary Duff plays the role of Lizzie Maguire in the 2003 romantic comedy, The Lizzie McGuire Movie.",
+    "category": "music.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "In 2002, Kelly Clarkson won the first season of the reality-television show American Idol.",
+    "category": "music.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "The Guess Who sang No Sugar Tonight.",
+    "category": "music.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Whippin Post is a song performed by The Allman Brothers.",
+    "category": "music.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Kenny Rogers first hit was an acid rock tune.",
+    "category": "music.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Alan Ginsberg was a major Beat poet who crossed into psychedelia with his classic spoken word recording of Turn On, Tune In, Drop Out.",
+    "category": "music.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Two versions of the song Young Love, performed by two different artists were in the top 5 at the same time.",
+    "category": "music.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "The Beatles have a song that has been covered more than 3000 times.",
+    "category": "music.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "The Beatles had a song called Scrambled Eggs.",
+    "category": "music.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "In 1987 Guns N Roses released Appetite for Destruction. It included the song Knockin On Heavens Door.",
+    "category": "music.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "This Heat released Deceit in 1981.",
+    "category": "music.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Janis Joplin graduated from high school and attended the University of Texas at Austin.",
+    "category": "music.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Janis Joplin was a very good friend of Paul McCartneys wife Linda.",
+    "category": "music.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Nissan once used the song Danger Zone by Kenny Loggins in their commercial.",
+    "category": "music.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Through most of his career Brian May of Queen has primarily used the same exact guitar called Red Special.",
+    "category": "music.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "We get no shelter when it rains. All we got is Yankee brains is part of the lyrics from the ballad Swamp Fox.",
+    "category": "music.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "The following lyrics were dedicated to a real historical figure:\nCasey Jones, steaming and a rolling. Casey Jones, you never have to guess.\nWhenever you hear the whistle of the engine, you know it is Casey at the throttle\nof the Cannonball Express.",
+    "category": "music.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Gunfight at the OK Corral was sung by Frankie Laine.",
+    "category": "music.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "The  name  Bee Gees stands for Brothers Gibb.",
+    "category": "music.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "The song We Shall Be Free can be found on the album The Chase.",
+    "category": "music.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "The song featured in the audio clip, Ride My See Saw, was recorded by the same band that recorded Nights in White Satin.",
+    "category": "music.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "The 1980s heavy rock band Quiet Riot was founded by guitar player Randy Rhoads.",
+    "category": "music.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "The song No More Tears is authored by rock legend Ozzy Osbourne.",
+    "category": "music.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "The song Lips of an Angel has been performed by the rock band Hinder and country artist Jack Ingram.",
+    "category": "music.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "In the Duran Duran song, New Moon on Monday the lyric goes, I like my torture way before the new moon on Monday.",
+    "category": "music.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "A Guns N Roses song includes the lyric, Take me down to the very nice city.",
+    "category": "music.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Clay Walker performed the song Rumor Has It in 1997.",
+    "category": "music.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Kyrie and Broken Wings were both successful hits for singer and guitarist Richard Marx.",
+    "category": "music.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Singer John Denver was also well known for his photographs of people and places.",
+    "category": "music.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "John Denver guest-hosted many times the TV show Late Night with David Letterman.",
+    "category": "music.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Nancy Sinatra originally performed the song These Boots Are Made For Walkin  in 1966.",
+    "category": "music.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Black Sabbath released the song Fairies Wear Boots in 1970.",
+    "category": "music.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Jim Morrison is alive and performing in a power pop band, doing mall openings in Hamtramck, Michigan.",
+    "category": "music.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Wake me up when November Ends is not a song by Green Day.",
+    "category": "music.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Is Feel Good Inc. performed by Green Day?",
+    "category": "music.txt",
+    "answer": "No",
+    "choices": [
+      "A. Yes",
+      "B. No"
+    ]
+  },
+  {
+    "question": "St. Willie is one of Green Days songs.",
+    "category": "music.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Haydns Farewell Symphony was designed as a protest piece over the way musicians were being treated.",
+    "category": "music.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "In a symphony orchestra, there are more stringed instruments than any other type.",
+    "category": "music.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Schuberts Unfinished Symphony was his last known symphony.",
+    "category": "music.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Was the popular Beatles song Strawberry Fields Forever named for a battered womens shelter?",
+    "category": "music.txt",
+    "answer": "No",
+    "choices": [
+      "A. Yes",
+      "B. No"
+    ]
+  },
+  {
+    "question": "The Beatles took meditation classes with Maharishi Mahatma Ghandi.",
+    "category": "music.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "John Brim performed the song Ice Cream Man.",
+    "category": "music.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Clint Black performed the song Neon Moon.",
+    "category": "music.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "The song Im a Believer is part of the soundtrack of the movie Shrek.",
+    "category": "music.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Before starting his music career, Jimi Hendrix was in the military.",
+    "category": "music.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Jimi Hendrix wrote Purple Haze while under the influence of LSD.",
+    "category": "music.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "The Jimi Hendrix Experience played at the Woodstock Festival.",
+    "category": "music.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Tico Torres, one of the original members of Bon Jovi, is nicknamed The Hitman because of his habit of hitting the drums very hard.",
+    "category": "music.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Tico Torres, the famous drummer of Bon Jovi, has a shop that sells Rock star baby clothes and he also loves to draw and paint.",
+    "category": "music.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Guitarist Richie Sambora has the Superman logo tattooed on his hand.",
+    "category": "music.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Bon Jovi was the last rock band to play at Londons Wembley Stadium in 2000, before it was closed.",
+    "category": "music.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "The Beastie Boys performed the song Brass Monkey in 1986.",
+    "category": "music.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Elvis Presley released the song Kentucky Rain in 1970.",
+    "category": "music.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Did country artist Keith Urban release the song Raining on Sunday in 2003?",
+    "category": "music.txt",
+    "answer": "Yes",
+    "choices": [
+      "A. Yes",
+      "B. No"
+    ]
+  },
+  {
+    "question": "Ride the Lightning is Metallicas debut album, released in 1984.",
+    "category": "music.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Metallica was formed in Downey, California in 1981.",
+    "category": "music.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "In 2000 heavy metal band Metallica sued the Napster file-sharing network.",
+    "category": "music.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Lead vocalist of Metallica James Hetfield got burned on stage in 1992.",
+    "category": "music.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Lynyrd Skynyrd performed the song Call Me the Breeze in 1974.",
+    "category": "music.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Vince Gill scored his first US Country Top Ten with the tune featured in the sound clip.",
+    "category": "music.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "In My Fair Lady Henry Higgins sings the song On the Street Where You Live.",
+    "category": "music.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "I have confidence in sunshine. I have confidence in rain are the opening lines of the song I Have Confidence from The Sound of Music.",
+    "category": "music.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Chris Browns first single was Yo (Excuse Me Miss).",
+    "category": "music.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Chris Brown used to rap and didnt realize he could sing until he was 11 or 12 years old.",
+    "category": "music.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Guitarist and composer Robert Fripp produced Peter Gabriels first solo album.",
+    "category": "music.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "In 1975 while still a member of Genesis, Steve Hackett released his first solo album, Voyage of the Acolyte.",
+    "category": "music.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Matchbox 20 performed the song Girl Like That.",
+    "category": "music.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "The rock band Godsmack performed the song Comedown.",
+    "category": "music.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Did Lenny Kravitz perform the song Are You Gonna Go My Way?",
+    "category": "music.txt",
+    "answer": "Yes",
+    "choices": [
+      "A. Yes",
+      "B. No"
+    ]
+  },
+  {
+    "question": "Davy Jones of the band The Monkees could grow no hair on his face.",
+    "category": "music.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Headquarters was first album The Monkees released, in which they wrote, performed and sung all the songs.",
+    "category": "music.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "The book The Phantom of the Opera was originally written in English.",
+    "category": "music.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Willie Nelson attended Baylor University.",
+    "category": "music.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Willie Nelson wrote the song Family Bible and sold it for $50.00.",
+    "category": "music.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Steve Hackett was the first guitarist of British rock band Genesis, which was formed in 1967.",
+    "category": "music.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "The first album released by British group, King Crimson, was The Cheerful Insanity of Giles, Giles and Fripp.",
+    "category": "music.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Jimmy Buffett attended three different colleges before finally earning a Bachelor of Science degree in history and journalism.",
+    "category": "music.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "While Jimmy Buffett was landing his sea plane in Mexico, the police shot at it, thinking Buffett was a drug smuggler.",
+    "category": "music.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "A stroke ended James musical career.",
+    "category": "music.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "The Rick James-parodying sketch on the sketch comedy television program, Chappelles Show, was a retrospective of the actual love-and-hate friendship between James and Charlie Murphy.",
+    "category": "music.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Rapper Charles Shaw revealed the truth regarding Milli Vanillis lip syncing antics  to a reporter.",
+    "category": "music.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "When Bow Wow was only six years old, he was Snoop Doggs opening act at many of his concerts.",
+    "category": "music.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Bow Wow co-starred with Tyrese Gibson in the 2006 action drama Waist Deep .",
+    "category": "music.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "The Irish Rovers, who had a top ten hit in 1968 with The Unicorn were a Canadian band.",
+    "category": "music.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Mother Maybelle was the mother of country singer Kitty Wells.",
+    "category": "music.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Born Frances Rose Shore, this singer became known as Dinah, which was the title of a song she sang on Nashville radio, while she was a college student at Vanderbilt University.",
+    "category": "music.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Singer Jean Shepard was 8 months pregnant with her second son, when her husband Cowboy Copas crashed in the 1963 plane crash that killed Patsy Cline and Hawkshaw Hopkins.",
+    "category": "music.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Audrey Williams, wife of legendary Hank Williams, was a member of an all-girl band called the Cold, Cold Hearts.",
+    "category": "music.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "The lyrics to The Lion Kings theme song Can You Feel The Love Tonight was written by Elton John.",
+    "category": "music.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Elton John is 55 tall.",
+    "category": "music.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Elton John legally changed his name to Elton Hercules John in 1962, taking the middle name of the popular mythological hero.",
+    "category": "music.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "In the rock musical Rent, Joanne leaves Maureen because she feels Maureen flirts around with other people.",
+    "category": "music.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Mark, a character from the musical Rent quit his job to finish his own movie.",
+    "category": "music.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Chris Cagle performed the song Chicks Dig It.",
+    "category": "music.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Some folk are born made to wave the flag;\nOoh, their red, white and blue\nAnd when the band plays Hail to the Chief\nOoh they point the cannon at you.\nIt aint me, it aint me.\nI aint no senators son.\nThe senators son in the lyric of the song Fortunate Son refers to Al Gore Jr.",
+    "category": "music.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "The band Fleetwood Mac performed the song Gold Dust Woman in 1977.",
+    "category": "music.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Jimi Hendrix performed the song Red House.",
+    "category": "music.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Paul Stanley usually played lead guitar in KISS.",
+    "category": "music.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Does RB singer Chris Brown have tattoos?",
+    "category": "music.txt",
+    "answer": "Yes",
+    "choices": [
+      "A. Yes",
+      "B. No"
+    ]
+  },
+  {
+    "question": "Chris Browns debut album is titled The Future.",
+    "category": "music.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Singer Chris Brown won 2 BET Awards in 2006.",
+    "category": "music.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "In 2005 Chris Brown was signed to Def Jam.",
+    "category": "music.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Olivia Newton-John was born in Melbourne, Australia on September 26, 1948.",
+    "category": "music.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Olivia Newton-John made her move to England when she was discovered in Australia, singing in a High School production of Camelot.",
+    "category": "music.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "The song I Honestly Love You won Olivia Newton-John a Grammy for Best Pop Vocal, Female.",
+    "category": "music.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "The following lyrics are from a song performed by Hank Williams Jr.: I can plow a field all day long, I can catch catfish from dusk till dawn..",
+    "category": "music.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "In the song The Devil Went Down to Georgia, the Devil challenges a young man Johnny to a fiddle playing contest. At first, Johnny is reluctant to take the bet, afraid that hell lose his soul.",
+    "category": "music.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Does Johnny play his fiddle first in The Devil Went Down to Georgia?",
+    "category": "music.txt",
+    "answer": "No",
+    "choices": [
+      "A. Yes",
+      "B. No"
+    ]
+  },
+  {
+    "question": "Charlie Daniels was nominated for a Grammy Award for Best Country Vocal Performance in 1979 for The Devil Went Down to Georgia but did not win.",
+    "category": "music.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Michael Jackson was born on August 29, 1956.",
+    "category": "music.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Michael Jacksons album Thriller had 8 hit singles.",
+    "category": "music.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Is the name of Michael Jacksons second child Paris Janet Katherine Jackson?",
+    "category": "music.txt",
+    "answer": "No",
+    "choices": [
+      "A. No",
+      "B. Yes"
+    ]
+  },
+  {
+    "question": "Michael Jackson married Lisa Marie Presley in 1993.",
+    "category": "music.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Mozarts father was kicked out of college.",
+    "category": "music.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "George Strait was in the army before he began a music career.",
+    "category": "music.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "George Strait played Dusty Wyatt Chandler in the movie Grand Champion.",
+    "category": "music.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Ludwig van Beethovens last complete symphony was Symphony No. 5.",
+    "category": "music.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Billy Idol played in the movie The Doors, directed by Oliver Stone.",
+    "category": "music.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Is it true that Billy Idol once dropped his spiky peroxide hairstyle in place of dreadlocks, and experimented with techno beats?",
+    "category": "music.txt",
+    "answer": "Yes",
+    "choices": [
+      "A. Yes",
+      "B. No"
+    ]
+  },
+  {
+    "question": "Has Billy Idol ever been featured on the VH-1 series, Behind The Music?",
+    "category": "music.txt",
+    "answer": "Yes",
+    "choices": [
+      "A. No",
+      "B. Yes"
+    ]
+  },
+  {
+    "question": "The Beatles Hey Jude was a song written for John Lennons son Julian.",
+    "category": "music.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Prince can play more than 20 different instruments.",
+    "category": "music.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Prince has no siblings.",
+    "category": "music.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Is it true that Prince graduated from college with a degree in music?",
+    "category": "music.txt",
+    "answer": "No",
+    "choices": [
+      "A. No",
+      "B. Yes"
+    ]
+  },
+  {
+    "question": "Brahms fifth symphony was also his last.",
+    "category": "music.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Is it true that Edward Elgar was a British composer who wrote The Enigma Variations?",
+    "category": "music.txt",
+    "answer": "Yes",
+    "choices": [
+      "A. Yes",
+      "B. No"
+    ]
+  },
+  {
+    "question": "American band CCR was once known as Tommy Fogerty and the Blue Skies.",
+    "category": "music.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Hit group CCRs 7th album Mardi Gras released in April 1972, was their last album.",
+    "category": "music.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Woody Guthrie wrote a regular column for the Daily Worker, the American Communist Party daily newspaper.",
+    "category": "music.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "American singer Carrie Underwood was born on March 10, 1983 in Checotah, Oklahoma.",
+    "category": "music.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Is it true that in 2005, singer Carrie Underwood was voted Worlds Sexiest Vegetarian?",
+    "category": "music.txt",
+    "answer": "Yes",
+    "choices": [
+      "A. Yes",
+      "B. No"
+    ]
+  },
+  {
+    "question": "Michael Jackson is one of the few artist to be inducted into The Rock and Roll Hall of Fame more than once.",
+    "category": "music.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Stevie Wonder was born blind.",
+    "category": "music.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "The song Write This Down was recorded by country music singer George Strait.",
+    "category": "music.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Was Hilary Duffs first studio album released in 2004?",
+    "category": "music.txt",
+    "answer": "No",
+    "choices": [
+      "A. No",
+      "B. Yes"
+    ]
+  },
+  {
+    "question": "Did Colombian pop singer Shakira win a Grammy award for her album FijaciÃ³n Oral Vol. 1?",
+    "category": "music.txt",
+    "answer": "Yes",
+    "choices": [
+      "A. Yes",
+      "B. No"
+    ]
+  },
+  {
+    "question": "The Nirvana song Polly is based on an actual event that happened in Tacoma, Washington.",
+    "category": "music.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Nirvanas first single Love Buzz, wasnt written by Kurt Cobain.",
+    "category": "music.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Nirvana sold over 10 million copies of their major label debut Nevermind in the U.S. alone.",
+    "category": "music.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "The band Nirvana originated from Seattle, Washington.",
+    "category": "music.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "The song 4th of July by U2 is not patriotic.",
+    "category": "music.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Queen appeared on American Idol in 2006.",
+    "category": "music.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Ginger Baker was the first musician to highlight, in song form, the troubles occurring in East Timor.",
+    "category": "music.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Greg Lake was the vocalist on the first King Crimson record In The Court Of The Crimson King?",
+    "category": "music.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Johnny Cashs first band was called the Landsberg Barbarians.",
+    "category": "music.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Johnny Cash is the first person to ever be sued by the Federal Government for starting a forest fire.",
+    "category": "music.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Bow Wow looks up to Jermaine Duprie and Snoop Dogg.",
+    "category": "music.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Is it true that Bow Wow and American RB and pop singer Chris Brown are friends?",
+    "category": "music.txt",
+    "answer": "Yes",
+    "choices": [
+      "A. No",
+      "B. Yes"
+    ]
+  },
+  {
+    "question": "Phil Anselmo was the lead singer of Pantera from 1987-2003.",
+    "category": "music.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Shirley Manson, lead singer of the group Garbage, is Marilyn Mansons sister.",
+    "category": "music.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "The  original name of the band Wang Chung was Huang Chung.",
+    "category": "music.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Did Wang Chung appear on 2005s  U.S. TV show, Hit Me Baby, One More Time!?",
+    "category": "music.txt",
+    "answer": "Yes",
+    "choices": [
+      "A. No",
+      "B. Yes"
+    ]
+  },
+  {
+    "question": "Warren Haynes was an original member of the Allman Brothers Band?",
+    "category": "music.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Derek Trucks became a member of the Allman Brothers in 1999.",
+    "category": "music.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Was Duane Allman a member of Derek and the Dominoes?",
+    "category": "music.txt",
+    "answer": "Yes",
+    "choices": [
+      "A. Yes",
+      "B. No"
+    ]
+  },
+  {
+    "question": "American pop band The Four Seasonsâ second big hit was called Walk Like a Man.",
+    "category": "music.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Is there a musical dedicated to the 60s pop band The Four Seasons?",
+    "category": "music.txt",
+    "answer": "Yes",
+    "choices": [
+      "A. No",
+      "B. Yes"
+    ]
+  },
+  {
+    "question": "Darrell Lance Abbott (a.k.a. Dimebag), famous as lead guitarist of Pantera, died on 8 December, 2004 in Buckeye, Ohio.",
+    "category": "music.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Robert Plant, the lead vocalist of Led Zeppelin, was expected to train as an accountant.",
+    "category": "music.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "John Paul Jones was a novice bass player, when he joined Led Zeppelin, with his instrument of expertise being the melatron.",
+    "category": "music.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "The plane dubbed the Starship that Led Zeppelin leased for touring belonged to Bobby Sherman and his manager.",
+    "category": "music.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Jimmy Page, one of the members of Led Zeppelin, has a keen interest in matters of the occult and owns a occult bookshop.",
+    "category": "music.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Led Zeppelin were the first rock group to fill a sports stadium in the United States.",
+    "category": "music.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Frank Zappas first composition was a solo for snare drum called Mice.",
+    "category": "music.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Frank Zappas debut album Freak out! was the first rock double-album ever released.",
+    "category": "music.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "The registered birth name of Frank Zappas son was Dweezil.",
+    "category": "music.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Beyonce won five Grammy Awards at the 2004 Grammy Awards ceremony.",
+    "category": "music.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Beyonce played Carmen in the 2001 MTV production Carmen: A Hip Hopera.",
+    "category": "music.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Beyonce wrote a song titled Bootylicious, a word which has been included in the Oxford English Dictionary?",
+    "category": "music.txt",
+    "answer": "Yes",
+    "choices": [
+      "A. No",
+      "B. Yes"
+    ]
+  },
+  {
+    "question": "Beyonce is one of the original members of  Destinys Child.",
+    "category": "music.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "At one point during the 80s, Cyndi Lauper worked outside of the music industry.",
+    "category": "music.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Cyndi Laupers Shes So Unusual album peaked on the US charts at number 2.",
+    "category": "music.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Cyndi Lauper was inducted into the Rhode Island Music Hall of Fame in January of 2007.",
+    "category": "music.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Happy Birthday to You was reported in Time, January 2, 1989, to be the most popular song in the English Language.",
+    "category": "music.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "These are the lyrics to the song Good Morning to All:\nGood Morning to you,\nGood Morning to you,\nGood Morning, Dear Children\nGood Morning to you.",
+    "category": "music.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Are these the lyrics to the song Happy Birthday to You:\nHappy Birthday to you,\nHappy Birthday to you\nHappy Birthday to ________,\nHappy Birthday to you.?",
+    "category": "music.txt",
+    "answer": "No",
+    "choices": [
+      "A. Yes",
+      "B. No"
+    ]
+  },
+  {
+    "question": "Is it true that one of the original 5 members of Guns n Roses died in 1991 under uncertain circumstances?",
+    "category": "music.txt",
+    "answer": "Yes",
+    "choices": [
+      "A. No",
+      "B. Yes"
+    ]
+  },
+  {
+    "question": "Randy Travis released the album Always  Forever in 1987.",
+    "category": "music.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "David Bowies first child was christened Zowie Bowie.",
+    "category": "music.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "David Bowie played the saxophone solo on Lou Reeds song Walk On The Wild Side.â",
+    "category": "music.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Marc Bolan played guitar on the song The Prettiest Star from the Aladdin Sane album by David Bowie.",
+    "category": "music.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "All The Young Dudes was the first song that David Bowie wrote for British rock and roll band Mott The Hoople.",
+    "category": "music.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "The song Diamond Dogs by David Bowie was originally planned as a musical version of George Orwellâs Nineteen Eighty Four.",
+    "category": "music.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "These are the opening lines of the song The Pulse of the Maggots by Slipknot:\nThis is the year where hope fails us\nThe test subjects run the experiments\nAnd the bastard you know, is the hero you hate.",
+    "category": "music.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "These lyrics are from Marilyn Mansons song The Dope Show:\nBut Im not a slave to a god\nthat doesnt exist.",
+    "category": "music.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Are these lyrics from Foxy, Foxy, a song by Rob Zombie:\nHe who gets slapped and he who gets saved,\nHe who brutalizes the timeless stage.\nHe is the mongrel, he wants it all?",
+    "category": "music.txt",
+    "answer": "Yes",
+    "choices": [
+      "A. Yes",
+      "B. No"
+    ]
+  },
+  {
+    "question": "In the movie Edward Scissorhands Edward has scissors for hands.",
+    "category": "music.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "In the movie My Girl, Vadas best friends dies from an allergic reaction to bee stings.",
+    "category": "music.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "The song Rock My World (Little Country Girl) is from Brooks and Dunns album, Hard Workin Man.",
+    "category": "music.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Marvin Gaye was the first Motown singer to be given total control over his records.",
+    "category": "music.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Gretchen Wilson is country music singer, whose debut album, Here for the Party,  was released in 2004.",
+    "category": "music.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Gretchen Wilsons song The Bed, from her album Here for the Party, features country duo Big  Rich.",
+    "category": "music.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "The following lyrics are from the song Cant Stand Losing You by the Police.:\nI guess this is our last goodbye/ And you dont care so I wont cry/ But youll be sorry when Im dead/ And all this guilt will be on your head.",
+    "category": "music.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "The popular song Love Hurts by Nazareth has also been performed by Cher.",
+    "category": "music.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Britney Spears recorded the song Goodbye to You in 2001.",
+    "category": "music.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Is it true that the lyrics Kyrie Eleison in the 80s hit Kyrie by Mr. Mister references an early pre-christian expression?",
+    "category": "music.txt",
+    "answer": "Yes",
+    "choices": [
+      "A. Yes",
+      "B. No"
+    ]
+  },
+  {
+    "question": "The band Lynyrd Skynyrd is named after a high school teacher.",
+    "category": "music.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "The Rock  Roll Hall of Fame lists Princes first album as Minneapolis Genius.",
+    "category": "music.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "February 4, 2006 was the first time Prince appeared as the musical guest on Saturday Night Live.",
+    "category": "music.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Pearl Jam was named after Eddie Vedders great-grandmother Pearl, a Native American, who had a special recipe for peyote-laced jam.",
+    "category": "music.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Paula Abdul released the song Dance Like Theres No Tomorrow in 2008.",
+    "category": "music.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "The song La Bamba by Ritchie Valens was released  in 1959.",
+    "category": "music.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Did Will Smith release the song Gettin Jiggy Wit It in 1998?",
+    "category": "music.txt",
+    "answer": "Yes",
+    "choices": [
+      "A. Yes",
+      "B. No"
+    ]
+  },
+  {
+    "question": "Was Rappers Delight the first hip hop single ever to be released?",
+    "category": "music.txt",
+    "answer": "No",
+    "choices": [
+      "A. Yes",
+      "B. No"
+    ]
+  },
+  {
+    "question": "The original studios where The Sugarhill Gangs Rappers Delight was recorded, are still existent today.",
+    "category": "music.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Hello, Im Dolly, released in 1976, was Dolly Partons debut album.",
+    "category": "music.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Has Dolly Parton ever been on the cover of Playboy magazine?",
+    "category": "music.txt",
+    "answer": "Yes",
+    "choices": [
+      "A. Yes",
+      "B. No"
+    ]
+  },
+  {
+    "question": "Dolly Parton has never done any guest appearances on television.",
+    "category": "music.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Paul McCartney wrote the song Freedom in 2001 after the September 11 attacks.",
+    "category": "music.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "These following lyrics are from the song The One by Gary Allan: Ill fill those canyons in your soul/ like a river lead you home/ and Ill walk a step behind/ in the shadows so you shine..",
+    "category": "music.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Are these lyrics from the song âHer Man by Gary Allan: So you stole my world/Now Im just a phony/Remembering the girl/ Leaves me down and lonely..?",
+    "category": "music.txt",
+    "answer": "No",
+    "choices": [
+      "A. No",
+      "B. Yes"
+    ]
+  },
+  {
+    "question": "Well you think all your anger is justified/ Me, I think its just your wounded pride.. Are these lyrics from the song Man To Man by country singer Gary Allan?",
+    "category": "music.txt",
+    "answer": "Yes",
+    "choices": [
+      "A. Yes",
+      "B. No"
+    ]
+  },
+  {
+    "question": "In the Bluegrass music, although alternate tunings on guitar and banjo are commonplace (the low banjo string commonly alternates from C to D depending on song key), the fiddle always retains its standard G-D-A-E tuning.",
+    "category": "music.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Whitney Houstons mother and aunt have both won Grammy Awards.",
+    "category": "music.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Ritchie Valens performed alongside Buddy Holly and Paul Anka.",
+    "category": "music.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Ritchie Valens has a star on the Hollywood Walk of Fame.",
+    "category": "music.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "George Younce, Chief Wetherington, Brock Speers and Rex Nelon (all key bass singers for their groups) were members of the Stamps Quartet at one time.",
+    "category": "music.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "In the musical Wicked, Elphabas sister, Nessarose, is the Wicked Witch of the East.",
+    "category": "music.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "At the end of the musical Wicked, all evidence leads the Wizard to find out that he is Elphabas father.",
+    "category": "music.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "In the musical Wicked Mme. Morrible was a teacher at Wiz University before becoming Press Secretary to the Wizard.",
+    "category": "music.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Is there an actress who plays Dorothy in the musical Wicked?",
+    "category": "music.txt",
+    "answer": "No",
+    "choices": [
+      "A. No",
+      "B. Yes"
+    ]
+  },
+  {
+    "question": "In the musical Wicked, Nessarose is confined in a wheelchair.",
+    "category": "music.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Usher was featured on Myas hit song, Its All About Me.",
+    "category": "music.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Did Whitney Houston appear on an episode of The Cosby Show as herself?",
+    "category": "music.txt",
+    "answer": "No",
+    "choices": [
+      "A. Yes",
+      "B. No"
+    ]
+  },
+  {
+    "question": "Did Whitney Houston release her first album titled Whitney Houston in 1985?",
+    "category": "music.txt",
+    "answer": "Yes",
+    "choices": [
+      "A. No",
+      "B. Yes"
+    ]
+  },
+  {
+    "question": "Green Day were originally called The Hungry Mutants.",
+    "category": "music.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Is Tim Armstrong from Rancid the brother of guitarist Billie Joe.",
+    "category": "music.txt",
+    "answer": "No",
+    "choices": [
+      "A. No",
+      "B. Yes"
+    ]
+  },
+  {
+    "question": "The rock band Green Day never do cover songs.",
+    "category": "music.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "The cover artwork for Green Days album Insomniac is called God Told Me To Skin You Alive.",
+    "category": "music.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "30 Seconds to Mars covered Bjorks song Hunter.",
+    "category": "music.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Has Jesse McCartney dated teen idol Katie Cassidy, David Cassidys daughter?",
+    "category": "music.txt",
+    "answer": "Yes",
+    "choices": [
+      "A. Yes",
+      "B. No"
+    ]
+  },
+  {
+    "question": "Has Jesse McCartney ever had blonde hair and highlights?",
+    "category": "music.txt",
+    "answer": "Yes",
+    "choices": [
+      "A. Yes",
+      "B. No"
+    ]
+  },
+  {
+    "question": "Jesse McCartney has starred in MTVs practical joke show Punkd.",
+    "category": "music.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Has Jesse McCartney participated in WB series Summerland?",
+    "category": "music.txt",
+    "answer": "Yes",
+    "choices": [
+      "A. Yes",
+      "B. No"
+    ]
+  },
+  {
+    "question": "Is Jesse McCartney a single child in the family?",
+    "category": "music.txt",
+    "answer": "No",
+    "choices": [
+      "A. Yes",
+      "B. No"
+    ]
+  },
+  {
+    "question": "Jesse McCartney has toured Australia.",
+    "category": "music.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Was Jesse McCartneys second album released the same year he opened for the Backstreet Boys in Europe?",
+    "category": "music.txt",
+    "answer": "No",
+    "choices": [
+      "A. Yes",
+      "B. No"
+    ]
+  },
+  {
+    "question": "In 1993, Tracy Lawrence had a number 1 with Cant Break It to My Heart.",
+    "category": "music.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "When Giuseppe Verdi conducted Aida at the La Scala opera house, the opera was a success.",
+    "category": "music.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Michael Stipe became lead singer of R.E.M. in the 1990s.",
+    "category": "music.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Simon Le Bon became lead singer of Duran Duran in the 1980s.",
+    "category": "music.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Cat Stevens first album was titled Tea for the Tillerman.",
+    "category": "music.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "In 1978, Cat Stevens converted to Islam, and changed his name to Yusuf Islam. Did he approve of the 9/11 attacks on the US?",
+    "category": "music.txt",
+    "answer": "No",
+    "choices": [
+      "A. No",
+      "B. Yes"
+    ]
+  },
+  {
+    "question": "Did music producer, Owen Bradley, play in Ernest Tubbs band?",
+    "category": "music.txt",
+    "answer": "Yes",
+    "choices": [
+      "A. No",
+      "B. Yes"
+    ]
+  },
+  {
+    "question": "When asked about his singing ability, Ernest Tubb said, I am pretty sure that all those guys that hear me on the jukeboxes in bars across Texas will say...I can sing better than that guy!!!",
+    "category": "music.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Craig David had a hit in the year 2000 with the song Seven Days, a cover of a 70s track by Gloria Jones.",
+    "category": "music.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "The hit song One Week was Barenaked Ladies first single.",
+    "category": "music.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Keith Greens middle name was Rudolph.",
+    "category": "music.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "As a child, Keith Green had a role in a major production of The Sound of Music.",
+    "category": "music.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "By his mid-teens, Keith Green had got heavily involved in drug use.",
+    "category": "music.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Three original Keith Green albums were released posthumously.",
+    "category": "music.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Keith Green has been inducted into the Gospel Music Hall of Fame.",
+    "category": "music.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Elle Woods in Legally Blonde: The Musical was originally portrayed by Laura Bell Bundy.",
+    "category": "music.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Does a real dog portray Brusier Woods (Elles dog) in Legally Blonde: The Musical?",
+    "category": "music.txt",
+    "answer": "Yes",
+    "choices": [
+      "A. Yes",
+      "B. No"
+    ]
+  },
+  {
+    "question": "In the last song of Legally Blonde: The Musical: Find My Way/Finale Emmett proposes to Elle as she is graduating from Harvard Law.",
+    "category": "music.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Bassist Phoenix was touring with another band before joining Linkin Park.",
+    "category": "music.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "John Hammond is in the Rock and Roll Hall of Fame.",
+    "category": "music.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "John Hammond never received a Grammy.",
+    "category": "music.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "When Branden Steineckert, famous as drummer of The Used, was three years old, his father committed suicide.",
+    "category": "music.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "During the recording of  the album In Love and Death by The Used, Kate, ex-girlfriend of band member Bert, died of an overdose.",
+    "category": "music.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Smoke Two Joints on Sublimes 40 oz. to Freedom album is a cover of an original by Bob Marley.",
+    "category": "music.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Brad Nowells beloved pet, Louie Dog, can be seen in a museum in Long Beach, CA.",
+    "category": "music.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "NoFXs song Doornails references Brad Nowell.",
+    "category": "music.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "The band Sublime disbanded after Brad Nowells death.",
+    "category": "music.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Brad Nowell was an honor roll student in high school.",
+    "category": "music.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Jamall Willingham is the real name of Dem Franchize Boyz member, known as PImpin.",
+    "category": "music.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Pop singer and actor Jesse McCartney was born on April 9, 1986.",
+    "category": "music.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Jesse McCartney guest-starred  as himself in an episode of the The Suite Life of Zack and Cody.",
+    "category": "music.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Does Jesse McCartney star in the TV series Summerland?",
+    "category": "music.txt",
+    "answer": "Yes",
+    "choices": [
+      "A. No",
+      "B. Yes"
+    ]
+  },
+  {
+    "question": "Does Jesse McCartney have a brother?",
+    "category": "music.txt",
+    "answer": "Yes",
+    "choices": [
+      "A. No",
+      "B. Yes"
+    ]
+  },
+  {
+    "question": "In the autumn of 2005, Jesse McCartney toured Australia.",
+    "category": "music.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "The band, Carbon Leaf, got their start at Randolph-Macon College in Virginia, in 1992.",
+    "category": "music.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "The three founding members of Linkin Park were Mike Shinoda, Brad Delson, and Chester Bennington.",
+    "category": "music.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "The name of this song covered by Apocalyptica is also the title of an Ernest Hemingway novel.",
+    "category": "music.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "In 2003, Apocalyptica changed their format by adding an electric guitar to their line-up.",
+    "category": "music.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Cult and Reflections are the names of Apocalypticas third and fourth albums respectively.",
+    "category": "music.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "The members of U2 have never considered breaking up the band.",
+    "category": "music.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Chris Brown has no siblings.",
+    "category": "music.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Before embarking on a solo career Edwin Collins was a member of the alternative group Orange Juice.",
+    "category": "music.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Is it true that Ian Brown was the lead singer of the Stone Roses and later became a solo artist?",
+    "category": "music.txt",
+    "answer": "Yes",
+    "choices": [
+      "A. Yes",
+      "B. No"
+    ]
+  },
+  {
+    "question": "Brandon Flowers, famous as lead singer of The Killers, got married in 2005.",
+    "category": "music.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Did Mark Lindsay sing the song Indian Reservation?",
+    "category": "music.txt",
+    "answer": "Yes",
+    "choices": [
+      "A. Yes",
+      "B. No"
+    ]
+  },
+  {
+    "question": "The song Somewhere I Belong from Linkin Parks album Meteora is three minutes and thirty-four seconds long. This is considered to be rather short for a general rock song. Despite this, the song is the longest on the album.",
+    "category": "music.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "The song Easier To Run from Linkin Parks album Meteora has a smooth musical transition between itself and the next track of the album.",
+    "category": "music.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Tito Puente appeared in The Simpsons.",
+    "category": "music.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Tito Puente fought in nine battles in World War II and then studied music at New Yorks famous Juliard School.",
+    "category": "music.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Musician Tito Puente was also an award-winning dancer.",
+    "category": "music.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Life On The Murder Scene is a 2006 live album by My Chemical Romance.",
+    "category": "music.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Gerard Way, famous as frontman and co-founder of My Chemical Romance, was born on April 9, 1977.",
+    "category": "music.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Gerard Way, one of the founding members of My Chemical Romance, played Peter Pan in a school play.",
+    "category": "music.txt",
+    "answer": "Yes",
+    "choices": [
+      "A. No",
+      "B. Yes"
+    ]
+  },
+  {
+    "question": "After the release of their first album, My Chemical Romance toured with The Used.",
+    "category": "music.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "No Doubt have won a Grammy Award.",
+    "category": "music.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Idi Amin, Mahatma Gandhi, Bruce Hornsby, and Sarit Hadad all play or played accordion.",
+    "category": "music.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Lena Horne received a high school diploma.",
+    "category": "music.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Lena Horne never married.",
+    "category": "music.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Ms. Lena Horne was a honorary member of the Alpha Kappa Alpha Sorority.",
+    "category": "music.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Lena Horne won 6 Grammy Awards.",
+    "category": "music.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "The following lyrics are from the song Used Heart for Sale: Cindy picked up where Peggy left off,  whoa how she make it sine..soon after then, some mutual friend robbed miss Cindy blind.",
+    "category": "music.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "I would go back to her time after time..man I must have been out of my mind..\nAre these lyrics from the song Cryin For Nothin ?",
+    "category": "music.txt",
+    "answer": "Yes",
+    "choices": [
+      "A. No",
+      "B. Yes"
+    ]
+  },
+  {
+    "question": "They say nothin lasts forever, honey Ive got news..whoever said that never got the blues from you..\nAre these lyrics from Gary Allans song Forever and a Day?",
+    "category": "music.txt",
+    "answer": "Yes",
+    "choices": [
+      "A. No",
+      "B. Yes"
+    ]
+  },
+  {
+    "question": "Duran Duran got their name from sexy sci-fi flick Barbarella, starring Raquel Welch.",
+    "category": "music.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Duran Duran have reunited and in July 2007 all the original members performed together at the Concert for Diana.",
+    "category": "music.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Jerry Garcia was a straight A student in school.",
+    "category": "music.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Jerry Garcia was dishonorably discharged from the army because he frequently went AWOL.",
+    "category": "music.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Jerry Garcias father was born in Mexico.",
+    "category": "music.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "The name of Bow Wows record company is LBW Entertainment.",
+    "category": "music.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Did Bow Wow start rapping at the age of 13?",
+    "category": "music.txt",
+    "answer": "No",
+    "choices": [
+      "A. No",
+      "B. Yes"
+    ]
+  },
+  {
+    "question": "LBW entertainment stands for Lil Bow Wow entertainment.",
+    "category": "music.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "The song One Step Closer off of Linkin Parks album Hybrid Theory was the bands second single from the album.",
+    "category": "music.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "The song Crawling from Linkin Parks album Hybrid Theory was written only by the members of Linkin Park.",
+    "category": "music.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "The song By Myself off of Linkin Parks album Hybrid Theory is the only song on the album that does not feature lead singer Chester Bennington screaming.",
+    "category": "music.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "The song Cure For The Itch from Linkin Parks album Hybrid Theory mainly features band member Rob Bourdon using techno, synth, and scratch pad elements.",
+    "category": "music.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "The song Pushing Me Away from Linkin Parks album Hybrid Theory was never released as a single from that album. However, its reinterpretation was released as a single on the bands remix album Reanimation.",
+    "category": "music.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "American rapper Paul Wall was born on March 30, 1982.",
+    "category": "music.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Has Paul Wall ever been on the The Howard Stern Show?",
+    "category": "music.txt",
+    "answer": "Yes",
+    "choices": [
+      "A. No",
+      "B. Yes"
+    ]
+  },
+  {
+    "question": "The Chick Magnet was the name of Pauls first album.",
+    "category": "music.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "In 2007, Fergie won a Peoples Choice Award in 2007 for Best Female Video.",
+    "category": "music.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "The shoes that Fergie wore at her wedding in 2009 were designed by Jimmy Choo.",
+    "category": "music.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Is it true that singer/songwriter Amy Lee wrote the songs Like You and Hello for her late younger sister.",
+    "category": "music.txt",
+    "answer": "Yes",
+    "choices": [
+      "A. Yes",
+      "B. No"
+    ]
+  },
+  {
+    "question": "Mandy Moore has her own fashion line.",
+    "category": "music.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "The song Given Up from Linkin Parks album Minutes to Midnight is the first Linkin Park song to feature profanity in the lyrics.",
+    "category": "music.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "The song What Ive Done from Linkin Parks album Minutes to Midnight was the last song written for the album.",
+    "category": "music.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "The song No More Sorrow from Linkin Parks album Minutes to Midnight was featured on the game Guitar Hero III.",
+    "category": "music.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "As of the release of their album Minutes to Midnight, Linkin Parks song In Between is the only song that features Mike Shinoda singing and not rapping.",
+    "category": "music.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Linkin Park views the song Little Things Give You Away from their album Minutes to Midnight as the pinnacle effort of their entire career.",
+    "category": "music.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Jamaican reggae musician Sizzla has been banned from the United Kingdom.",
+    "category": "music.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Sizzlas dreadlocks have never been seen on his album covers.",
+    "category": "music.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Sizzlas songs often tell his people to refrain from the use of marijuana.",
+    "category": "music.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Mark Hall wrote all the songs on Casting Crowns self-titled debut album.",
+    "category": "music.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "One of Casting Crowns original members is a violinist.",
+    "category": "music.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "The Chuck Wagon Gang were named gospel artist or group of the year by Music City News five years in a row.",
+    "category": "music.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "June Carter and her mother, Mother MayBelle Carter, were members of the Chuck Wagon Gang at one and the same time.",
+    "category": "music.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "The Chuck Wagon Gangs singing career was launched by a crisis which left the family destitute.",
+    "category": "music.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "The song P5hng Me A*wy from Linkin Parks album Reanimation is often played at the bands concerts.",
+    "category": "music.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "The song X-Ecutioner Style from Linkin Parks album Reanimation is one of only two new full length songs on the album.",
+    "category": "music.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "One of the tracks from Linkin Parks album Reanimation is a remix of the song With You. Its title in the remix album is WTHYouâ.",
+    "category": "music.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "The song Rnw@y from Linkin Parks album Reanimation was the third single released from the album.",
+    "category": "music.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "The song Kyur4 Th Ich from Linkin Parks album Reanimation features more lyrics than the original song it was remixed from.",
+    "category": "music.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Is there any singing in Italian in The Light in the Piazza?",
+    "category": "music.txt",
+    "answer": "Yes",
+    "choices": [
+      "A. Yes",
+      "B. No"
+    ]
+  },
+  {
+    "question": "In the The Light in the Piazza song Say It Somehow, Clara proposes to Fabrizio and he says  ...It is mine to ask and then he proposes to her.",
+    "category": "music.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Is it true that at the end of the musical The Light in the Piazza, Clara returns home with her mother, Margaret and they live happily-ever-after with Claras father and Margarets husband Roy.",
+    "category": "music.txt",
+    "answer": "No",
+    "choices": [
+      "A. No",
+      "B. Yes"
+    ]
+  },
+  {
+    "question": "Over the Hills and Far Away, a song by Gary Moore, was covered by Finnish band Nightwish.",
+    "category": "music.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Bassist Sami Vanska joined Nightwish for their second studio album, Oceanborn.",
+    "category": "music.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "The song Jack-a-roe by The Grateful Dead ends with Jack dying on the field of battle, struck down by a cannonball.",
+    "category": "music.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "In the song El Paso by The Grateful Dead, the crooner is in love with a Mexican girl named Rosita.",
+    "category": "music.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "The song Burn, Burn by Lostprophets was used in the soundtrack of the game Need For Speed: Underground.",
+    "category": "music.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "The band Lostprophets performed at Ozzfest in 2001.",
+    "category": "music.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "In 2007, Simone Simons nearly left Epica to join Finnish symphonic metal band Nightwish, after the departure of vocalist Tarja Turunen.",
+    "category": "music.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "If I said People Without a Special Interest in the Fields of Da Vinci, Michelangelo and Picasso Are Not Welcome is an alternate title to a Talking Heads song from the album More Songs About Buildings and Food, I would be correct, wouldnt I?",
+    "category": "music.txt",
+    "answer": "Yes",
+    "choices": [
+      "A. Yes",
+      "B. No"
+    ]
+  },
+  {
+    "question": "The Talking Heads song, which can also be referred to as Must Be Paid When It Comes, was originally released on the album True Stories.",
+    "category": "music.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "A Talking Heads song title is the inspiration for a popular British bands name.",
+    "category": "music.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "The Talking Heads song, that can be given the title Subjects of Zoology, was never recorded live.",
+    "category": "music.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "The Talking Heads song, which can be given the alternative title Planet I Occupy Is Flawless, had a music video featured in Storytelling Giant.",
+    "category": "music.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "This Talking Heads song, which can alternatively be titled An Arc With Incredible Significance, is the longest track on their album, Remain in Light.",
+    "category": "music.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "The first instrument David Bryan learnt to play was the piano.",
+    "category": "music.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "David Bryan has a pet python called Boots.",
+    "category": "music.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "David Bryan can also play the accordion.",
+    "category": "music.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "David Bryan studied medicine before he joined the band Bon Jovi.",
+    "category": "music.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Malice Mizer is an Oshare Kei band.",
+    "category": "music.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Gackt from Malice Mizer starred in the film Bara No Konrei with fellow band members.",
+    "category": "music.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Harry Styles is the oldest of the original One Direction members.",
+    "category": "music.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Did One Direction win The X factor UK?",
+    "category": "music.txt",
+    "answer": "No",
+    "choices": [
+      "A. No",
+      "B. Yes"
+    ]
+  },
+  {
+    "question": "Simone Simons nearly left Epica to join Finnish Symphonic Metal band Nightwish after the departure of vocalist Tarja Turunen.",
+    "category": "music.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Collin Rayes song Latter Day Cowboy contains the lyrics, He likes to dance out to the edge. He likes to cut to the chase. You see hes never been one for reinin back. To a slow and steady pace.",
+    "category": "music.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Is the song All I Can Be performed by Collin Raye?",
+    "category": "music.txt",
+    "answer": "Yes",
+    "choices": [
+      "A. Yes",
+      "B. No"
+    ]
+  },
+  {
+    "question": "Are these lyrics form a Collin Raye song: Oh no, when did neon light turn into moon glow. When did that jukebox turn to a rainbow?",
+    "category": "music.txt",
+    "answer": "Yes",
+    "choices": [
+      "A. Yes",
+      "B. No"
+    ]
+  },
+  {
+    "question": "Justin Bieber hails from Atlanta, Georgia.",
+    "category": "music.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Justin Bieber has stated that his favorite hockey team is the Toronto Maple Leafs.",
+    "category": "music.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Has Justin Bieber guest starred on the show Criminal Minds as a teen named Jason McCann?",
+    "category": "music.txt",
+    "answer": "No",
+    "choices": [
+      "A. No",
+      "B. Yes"
+    ]
+  },
+  {
+    "question": "An argument ensues amidst the Fondue, about when the Old School rap group Sugar Hill Gang released their hit Rappers Delight. You seem to vaguely recall that it was released sometime in the 70s, but your friend is insistent on the fact that it was released in the early 80s!  After some debate, you both agree that it was probably released in the early 80s,since thats when it was receiving a lot of airplay. Is this True or False?",
+    "category": "music.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "The Fixx recorded the song One Thing Leads to Another in 1983.",
+    "category": "music.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Love and Rockets performed the 1989 song So Alive.",
+    "category": "music.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "The hard rock band AC/DC brought us the song Whole Lotta Rosie.",
+    "category": "music.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Eminems full name is Marshall Bruce Mathers I.",
+    "category": "music.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "American rapper 50-Cents real name is Curtis Williams Jennings II.",
+    "category": "music.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Hailie Jade Scott is the name of Eminems daughter born in 1995.",
+    "category": "music.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "The following lyrics were dedicated to a real historical figure:\nCasey Jones, steaming and a rolling. Casey Jones, you never have to guess.\nWhenever you hear the whistle of the engine, you know it is Casey at the throttle\nof the Cannonball Express.",
+    "category": "music.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Jerry Garcia and Bob Weir were the founding members of the Grateful Dead.",
+    "category": "music.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Woodstock 1969 was the first concert of its kind to feature multiple rock music groups.",
+    "category": "music.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Crosby, Stills and Nash were the authors of the song Woodstock?",
+    "category": "music.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "All Along the Watchtower was a song written by Jimi Hendrix.",
+    "category": "music.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Mariah Carey sang the 1983 hit Africa.",
+    "category": "music.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Did Micheal Jackson sing the 1983 hit single Billie Jean?",
+    "category": "music.txt",
+    "answer": "Yes",
+    "choices": [
+      "A. Yes",
+      "B. No"
+    ]
+  },
+  {
+    "question": "Forever Young is the name of Rod Stewarts debut album released in 1984.",
+    "category": "music.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Country music singer and songwriter Alan Jackson performed the song, Meat and Potato Man.",
+    "category": "music.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Country music singer and actress Pam Tillis recorded the song Daddys Hands in 1986.",
+    "category": "music.txt",
+    "answer": "No",
+    "choices": [
+      "A. No",
+      "B. Yes"
+    ]
+  },
+  {
+    "question": "Country music band Alabama recorded the single Roll On.",
+    "category": "music.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "The name of the ill-fated plane, that crashed on the day the music died, was Miss American Pie.",
+    "category": "music.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Ritchie Valens was not supposed to be on the ill-fated plane that took off from Mason City Municipal Airport, but won a game of rock/paper/scissors to get a seat.",
+    "category": "music.txt",
+    "answer": "No",
+    "choices": [
+      "A. Yes",
+      "B. No"
+    ]
+  },
+  {
+    "question": "Was an autopsy performed on The Big Bopper?",
+    "category": "music.txt",
+    "answer": "Yes",
+    "choices": [
+      "A. No",
+      "B. Yes"
+    ]
+  },
+  {
+    "question": "Buddy Hollys wife was pregnant at the time of his death.",
+    "category": "music.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Is it true that Buddy Holly, Ritchie Valens, and The Big Bopper were all married at the time of their deaths?",
+    "category": "music.txt",
+    "answer": "No",
+    "choices": [
+      "A. No",
+      "B. Yes"
+    ]
+  },
+  {
+    "question": "Sharlee DAngelo became a member of Merciful Fate, a Danish heavy metal group, replacing the bands former bassist, Timi Hansen.",
+    "category": "music.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Dave Lombardo, Jon Dette, Paul Bostaph, and Tony Scaglione were all drummers in the American thrash metal band, Slayer.",
+    "category": "music.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Eric Singer, best known as a drummer for the rock band KISS, also played drums for Black Sabbath.",
+    "category": "music.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Boogie Oogie Oogie was released by Taste of Honey in 1976.",
+    "category": "music.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "McFadden  Whitehead wrote the popular song Aint No Stopping Us Now.",
+    "category": "music.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "The two main members of the group Brothers Johnson were not related.",
+    "category": "music.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "The performer of the theme song for the TV series Rawhide never sang another song.",
+    "category": "music.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "The performance is from Rigoletto.",
+    "category": "music.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Wozzeck is the first and most famous opera by Alban Berg.",
+    "category": "music.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Some folk are born made to wave the flag;\nOoh, their red, white and blue\nAnd when the band plays Hail to the Chief\nOoh they point the cannon at you.\nIt aint me, it aint me.\nI aint no senators son.\nThe senators son in the lyric of the song Fortunate Son refers to Al Gore Jr.",
+    "category": "music.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Master Of Puppets was released in 1987.",
+    "category": "music.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Rob Trujillo replaced Jason Newstead in 2003.",
+    "category": "music.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "The members of the duo The White Stripes were once married.",
+    "category": "music.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "All members of The Ramones are alive.",
+    "category": "music.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Did the band Slipknot release the song Iowa in 2001?",
+    "category": "music.txt",
+    "answer": "Yes",
+    "choices": [
+      "A. No",
+      "B. Yes"
+    ]
+  },
+  {
+    "question": "Is Smooth Jazz considered part of the Quiet Storm radio format?",
+    "category": "music.txt",
+    "answer": "Yes",
+    "choices": [
+      "A. No",
+      "B. Yes"
+    ]
+  },
+  {
+    "question": "The founder of the Quiet Storm format is now part owner of a large, Urban Contemporary radio station in San Francisco.",
+    "category": "music.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "The American heavy metal band Pantera released the song Five Minutes Alone after lead singer Phil Anselmo got in a fight with someone in the audience at a concert.",
+    "category": "music.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Did Iron Maiden release the song Two Minutes to Midnight in 1984?",
+    "category": "music.txt",
+    "answer": "Yes",
+    "choices": [
+      "A. Yes",
+      "B. No"
+    ]
+  },
+  {
+    "question": "February 3, 1959 became known as the day the music died after Don McLeans song American Pie was released. The song was in memory of a plane crash killing three popular musicians and carried the name of the ill-fated plane.",
+    "category": "music.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Smokey Robinsons wife stopped touring with The Miracles in 1964 due to health reasons and left the band permanently.",
+    "category": "music.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "The Four Tops were one of Motowns premiere groups for a long time, going for over 40 years without a single change in their line-up.",
+    "category": "music.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Shakira began her music career as lead singer of a band called La Teir Roe.",
+    "category": "music.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "In an episode of Buffy the Vampire Slayer TV series, one of the characters gets stage fright about performing as part of a duet from Madame Butterfly.",
+    "category": "music.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Kerry King tried out for Metallica when Dave Mustaine was fired from the group.",
+    "category": "music.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Metallica and Megadeth are the only bands that Dave Mustaine has been in or formed.",
+    "category": "music.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Is it true that Angus Young, lead guitarist and co-founder of AC/DC, was born in Australia?",
+    "category": "music.txt",
+    "answer": "No",
+    "choices": [
+      "A. Yes",
+      "B. No"
+    ]
+  },
+  {
+    "question": "The Rite of Spring by Igor Stravinski is an atonal piece.",
+    "category": "music.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Billy Talent was named after a soft drink.",
+    "category": "music.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Members of Billy Talent were involved in an album called Watoosh! in 1998.",
+    "category": "music.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "The Billy Talent song This Is How It Goes was written about Jonathan Gallants ex-girlfriend who dumped him by a text message.",
+    "category": "music.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  }
+]

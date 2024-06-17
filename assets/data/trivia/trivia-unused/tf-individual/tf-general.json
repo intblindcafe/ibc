@@ -1,0 +1,2711 @@
+[
+  {
+    "question": "The Chevy Nova sold poorly in Mexico because no va means doesnt go in Spanish.",
+    "category": "general.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "A car that gets over 200 miles per gallon is reclaimed by the factory, after its owner calls to congratulate the manufacturers about its excellent performance.",
+    "category": "general.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "A very complicated Honda Accord commercial required 606 takes and was done without the use of any computer-generated images.",
+    "category": "general.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Putting sugar in the gas tank of a carburetor-equipped vehicle will ruin the engine.",
+    "category": "general.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Man bought an old motorcycle only to discover that it was once owned by Elvis Presley.",
+    "category": "general.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Cars were stolen by thieves who wrote down VINs (car serial numbers)  and used them to obtain duplicate keys through auto dealerships.",
+    "category": "general.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "After an earthquake in  1989, a car thief was found crushed under a collapsed freeway overpass in the vehicle hed stolen.",
+    "category": "general.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "An artist painted a 60 ft. tall image of a naked woman above a tunnel in Malibu Canyon in 1966.",
+    "category": "general.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Police officers who use slimjims to assist locked out motorists have been killed by airbags.",
+    "category": "general.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "A speeder caught by photo radar, sends the police a photograph of money to pay his fine.",
+    "category": "general.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "David Suchet and Peter Ustinov are two actors who have played the role of the famous detective Sherlock Holmes.",
+    "category": "general.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "A ghost is a supernatural entity thought to be the spirit of a person remaining on Earth after their death to seek revenge.",
+    "category": "general.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Is there a difference between a poltergeist and a ghost?",
+    "category": "general.txt",
+    "answer": "Yes",
+    "choices": [
+      "A. Yes",
+      "B. No"
+    ]
+  },
+  {
+    "question": "The Epic of Gilgamesh is the oldest written story, containing a lot of references to the spirits of the dead.",
+    "category": "general.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Chinese people believe that 13 is a lucky number.",
+    "category": "general.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Most estate agents find it difficult to sell a house, numbered thirteen.",
+    "category": "general.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Female drivers have more traffic accidents on Friday the 13th.",
+    "category": "general.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Actors Patrick Swayze, Jennifer Gray, Charlie Sheen and C.Thomas Howell played in both Red Dawn and The Outsiders.",
+    "category": "general.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "In Pretty in Pink, the character played by Molly Ringwald has a guest, named Long Duk Dong, who is a  foreign exchange student.",
+    "category": "general.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "In White Men Cant Jump, Sidney Deane, played by Wesley Snipes is married to Rosie Perez character, Gloria Clemente.",
+    "category": "general.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Red is believed to provoke hunger.",
+    "category": "general.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Muslims pray to Allah five times a day.",
+    "category": "general.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Is the diamond linked with a spring month?",
+    "category": "general.txt",
+    "answer": "Yes",
+    "choices": [
+      "A. Yes",
+      "B. No"
+    ]
+  },
+  {
+    "question": "There is a particular connection between birth stones and months.",
+    "category": "general.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "British musician, singer, and songwriter Elvis Costello was born Declan Patrick Aloysius MacManus.",
+    "category": "general.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Clocks made before 1687 had only one hand.",
+    "category": "general.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Each king in a deck of playing cards represents a great king from history.",
+    "category": "general.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "A woman in the final stage of her pregnancy should not wear under-wired bras.",
+    "category": "general.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "A yellow ribbon is worn to recognize the struggle that men and women face when battling cancer.",
+    "category": "general.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Nails appear on fingers and toes during the 18th week of the development of a fetus.",
+    "category": "general.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "The painting Mona Lisa by Leonardo da Vinci was stolen on August 21, 1911.",
+    "category": "general.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "The term Bermuda Triangle was popularized by Charles Berlitz in 1964.",
+    "category": "general.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Does the Bermuda Triangle actually have official boundaries?",
+    "category": "general.txt",
+    "answer": "No",
+    "choices": [
+      "A. No",
+      "B. Yes"
+    ]
+  },
+  {
+    "question": "President Kennedy had a secretary named Lincoln and Lincoln had a secretary named Kennedy.",
+    "category": "general.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Humans are the only species that make love face-to-face.",
+    "category": "general.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "The Eiffel Tower is 6 inches taller in the summer than in the winter.",
+    "category": "general.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Austin, Texas is called The Live Music Capital of the World.",
+    "category": "general.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "In Utah, wine used in wine tasting cannot be swallowed.",
+    "category": "general.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Reports of poltergeist activity date back as far as ancient Roman times.",
+    "category": "general.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Is the Edgar Allen Poe House in Baltimore supposedly haunted by the ghost of the eponymous author?",
+    "category": "general.txt",
+    "answer": "No",
+    "choices": [
+      "A. Yes",
+      "B. No"
+    ]
+  },
+  {
+    "question": "The Black Sea is not connected to the Sea of Azov.",
+    "category": "general.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "The Hollywood production Meet Joe Black had 5 wins and 2 nominations.",
+    "category": "general.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "According to Christianity, besides black magic, there is also white magic.",
+    "category": "general.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "There is no word in the English language that rhymes with orange.",
+    "category": "general.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Suleiman the Magnificent personally led Ottoman armies to conquer Belgrade, Rhodes, and most of Hungary.",
+    "category": "general.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "SMERSH, the organization mentioned in the James Bond film, From Russia with Love, was a real Russian organization.",
+    "category": "general.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "A square has four unequal sides.",
+    "category": "general.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "The Spanish word for dog is pero.",
+    "category": "general.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Nails and hair continue to grow even after you die.",
+    "category": "general.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "The Killers was a film based on a short story written by Ernest Hemingway, which starred Burt Lancaster and Ava Gardner.",
+    "category": "general.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Mildred Pierce put Joan Crawfords name back up there in lights.  It was nominated for several Academy Awards.  Both Ann Blyth and Eve Arden were nominated for Best Supporting Actress.",
+    "category": "general.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Rabbi Levi and Rabbi Abraham ibn Ezra are places on the moon.",
+    "category": "general.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Leonard Kessler wrote a childrens book called Mr. Pines Purple House.",
+    "category": "general.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "The comic books The Adventures of Asterix focus on the exploits of a village of ancient Gauls as they resist Greek occupation.",
+    "category": "general.txt",
+    "answer": "No",
+    "choices": [
+      "A. No",
+      "B. Yes"
+    ]
+  },
+  {
+    "question": "The ghost of Archbishop of Canterbury Thomas Becket appeared during the construction of the Twin Towers in the 1920s.",
+    "category": "general.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "The ghost of Lady Jane Grey is known as The Nine Days Queen because of the violent ending of her life.",
+    "category": "general.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "The ghost of the 16th President of the United States Abraham Lincoln is reported to be one of the ghosts that haunt the White House.",
+    "category": "general.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "The former prison island of Alcatraz, situated off the coast of San Francisco, is said to be the home to a number of ghosts of prisoners who died there.",
+    "category": "general.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "The Museum of Natural Science in Ottawa, Ontario, Canada is said to be haunted by the ghost of the Canadian Prime Minister Sir Wilfrid Laurier, whose body laid there for some time after his death in 1919.",
+    "category": "general.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "There is usually some bleeding during the process of tattooing.",
+    "category": "general.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Consuming alcohol raises your body temperature.",
+    "category": "general.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "The Death Penalty for murder was abolished in the United Kingdom in 1965.",
+    "category": "general.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "In the 2002 movie Windtalkers, US Marines used the Navajo language as their unbreakable code.",
+    "category": "general.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Blue litmus paper turns red when it comes in contact with alkalines.",
+    "category": "general.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Brown sugar, a type of unrefined or partially refined soft sugar, generally has a lower caloric value than white sugar.",
+    "category": "general.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Overconsumption of sugar causes hyperactivity in children, manifested by increased movement, impulsiveness, distractibility, and mood swings.",
+    "category": "general.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "There is no water found on any other planet besides Earth.",
+    "category": "general.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "The song Moonriver is featured in the musical Grease, starring John Travolta.",
+    "category": "general.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Two Moon Junction is the title to a 1988 Robert  Zemeckis film.",
+    "category": "general.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Did Frank Sinatra write the classic tune Moonlight Becomes You?",
+    "category": "general.txt",
+    "answer": "No",
+    "choices": [
+      "A. No",
+      "B. Yes"
+    ]
+  },
+  {
+    "question": "The Union of Burma changed its name in 1989 to the Union of Myanmar.",
+    "category": "general.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "The Barents Sea is named after a Norwegian god.",
+    "category": "general.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "The official currency of Israel is the New Israeli sheqel (NIS).",
+    "category": "general.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "The French Revolution broke out in 1789.",
+    "category": "general.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Charles Johnson was a pioneering United States aviator famous for piloting the first solo non-stop flight across the Atlantic Ocean in 1927.",
+    "category": "general.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "The husband of Catherine the Great was Peter I.",
+    "category": "general.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "In 800 Philip IV the Fair of France was coronated by the Pope.",
+    "category": "general.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "The bustard is a frog.",
+    "category": "general.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Aurora was the ancient Roman equivalent of Eos.",
+    "category": "general.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "An average man inhales about 56,000 liters of air per day.",
+    "category": "general.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Polar bears possess extremely good eyesight, compared to most land animal species.",
+    "category": "general.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Both male and female mammals have the ability to produce milk.",
+    "category": "general.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Goats milk is the most consumed milk in the world.",
+    "category": "general.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Devils on Horseback is a type of food.",
+    "category": "general.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Since 1815, Switzerland has been involved in only a few wars because of its policy of neutrality.",
+    "category": "general.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "The pink ball is worth 6 points in the game of snooker.",
+    "category": "general.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "In the movie Armageddon, the character played by Ben Affleck takes the place of Harry S. Stamper, portrayed by Bruce Willis and detonates the bomb that splits the asteroid in two.",
+    "category": "general.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "A cat that was trapped in one of the burning rooms in The Towering Inferno was rescued by security guard played by  O.J. Simpson.",
+    "category": "general.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "September 3rd through 13th in the year 1752 did not exist.",
+    "category": "general.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "There are only 10 weight classes in male professional boxing.",
+    "category": "general.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "In 1958, Pope Pius XII designated an Italian saint as the patron saint for television.",
+    "category": "general.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "You can get lead poisoning from a modern pencil.",
+    "category": "general.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "An albatross can fly all day without flapping its wings.",
+    "category": "general.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "The hands and feet have the most bones in the human body.",
+    "category": "general.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "The Green Lantern is a Marvel comics superhero with a power ring which enables him to control the physical world for as long as his willpower allows.",
+    "category": "general.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "The Boeing 747 project was so big, that there were no buildings that could house it.  Boeing constructed the largest building in the world for this purpose.",
+    "category": "general.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "The 747 was the second airplane designed with a cockpit above the deck.",
+    "category": "general.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Does a jellyfish have a brain?",
+    "category": "general.txt",
+    "answer": "No",
+    "choices": [
+      "A. No",
+      "B. Yes"
+    ]
+  },
+  {
+    "question": "New Zealand was the first country to give full voting rights to women.",
+    "category": "general.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Is it true that the maximum score you can get on SAT is 2400?",
+    "category": "general.txt",
+    "answer": "Yes",
+    "choices": [
+      "A. No",
+      "B. Yes"
+    ]
+  },
+  {
+    "question": "The number Pi is larger than the number 4.",
+    "category": "general.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Have the Yankees played in over 30 World Series?",
+    "category": "general.txt",
+    "answer": "Yes",
+    "choices": [
+      "A. No",
+      "B. Yes"
+    ]
+  },
+  {
+    "question": "The Wii is a game console released by Nintendo.",
+    "category": "general.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Is New York City the capital of New York?",
+    "category": "general.txt",
+    "answer": "No",
+    "choices": [
+      "A. No",
+      "B. Yes"
+    ]
+  },
+  {
+    "question": "12 squared is 24.",
+    "category": "general.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "The first African-American professional baseball player played for Oakland in 1916.",
+    "category": "general.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Is orange the national color of the Netherlands?",
+    "category": "general.txt",
+    "answer": "Yes",
+    "choices": [
+      "A. No",
+      "B. Yes"
+    ]
+  },
+  {
+    "question": "Orange is considered a safety color.",
+    "category": "general.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "If youre a butterfingers and in your haste to get started on the daily chores you drop your breakfast toast, is it more likely to fall with butter side down?",
+    "category": "general.txt",
+    "answer": "Yes",
+    "choices": [
+      "A. No",
+      "B. Yes"
+    ]
+  },
+  {
+    "question": "James Madison was the 3rd U.S. President.",
+    "category": "general.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "In 2006, it was confirmed that there are 9 planets in the Solar System.",
+    "category": "general.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "The Lutz family - famous as the occupants of the infamous Amityville house - told their story to the writer Jay Anson, who turned it into a best-selling book. Later, a movie was made based on the supposed events that took place in this house. James Brolin played the role of the surveyour George Lutz. He became convinced that the film was jinxed. Did he experience his first haunting experience on the film set?",
+    "category": "general.txt",
+    "answer": "No",
+    "choices": [
+      "A. Yes",
+      "B. No"
+    ]
+  },
+  {
+    "question": "For the 1954 rendition of A Star is Born, both James Mason and Judy Garland were nominated for Oscars in the tops spots â Best Actor in a Leading Role and Best Actress in a Leading Role.",
+    "category": "general.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Rebecca Romijn played Rogue in the X-Men trilogy.",
+    "category": "general.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "The character Rebecca Donaldson on the TV show Full House was meant to be a love interest for Danny Tanner but because of her popularity she became Jesse Katsopolis love interest.",
+    "category": "general.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "During the Roman Empire, the Praetorians were the select few men who secretly carried out the desires of the emperor.",
+    "category": "general.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Jacob, the most popular boys name of 2006, means one who fishes.",
+    "category": "general.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Hannah means grace and charm.",
+    "category": "general.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "The fear of women is called hierophobia.",
+    "category": "general.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Belonephobia is the irrational fear of needles.",
+    "category": "general.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "The fear of high objects, drafts, and air-swallowing is known as rhodophobia.",
+    "category": "general.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Most heroin-related deaths are not caused by an overdose but by a lethal combination with other drugs in the body.",
+    "category": "general.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "In 2007 the Muslims in the world outnumbered the Christians.",
+    "category": "general.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "The Movie Gone with the Wind was the first feature length film shot entirely in color.",
+    "category": "general.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "John Travoltas mother appeared in the movie Grease.",
+    "category": "general.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "A chimp named Laika was the first living mammal to orbit the earth.",
+    "category": "general.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Wyoming was the first U. S. state to give women the right to vote.",
+    "category": "general.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "True of False: Jules Vernes real name was Jean-Luc Vernes.",
+    "category": "general.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Richard Gere is a direct descendant of the Pilgrims who came to the Western Hemisphere on the Mayflower.",
+    "category": "general.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Admitted to the United States on January 3, 1959, the 49th state is both the westernmost and the northernmost US state.",
+    "category": "general.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "The car in which John Kennedy was riding when he was killed had a bubble top that was not used.",
+    "category": "general.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Can icebergs have blue streaks?",
+    "category": "general.txt",
+    "answer": "Yes",
+    "choices": [
+      "A. Yes",
+      "B. No"
+    ]
+  },
+  {
+    "question": "On the Apollo 8 space trip, the astronauts used silly putty to fasten objects.",
+    "category": "general.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Panama is located in South America.",
+    "category": "general.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "8 is the square root of 64.",
+    "category": "general.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Naruto Uzumaki, the protagonist of the Naruto series, marries Sakura.",
+    "category": "general.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Conakry is the capital of Turkey.",
+    "category": "general.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "More than 5 million Jews were killed during the Holocaust.",
+    "category": "general.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "In Greek mythology, Atlas was an Olympian god.",
+    "category": "general.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Is Saint Nicolas the patron saint of sailors and merchants in Eastern Orthodox countries?",
+    "category": "general.txt",
+    "answer": "Yes",
+    "choices": [
+      "A. No",
+      "B. Yes"
+    ]
+  },
+  {
+    "question": "Was professional wrestler Triple H born in Massachusetts?",
+    "category": "general.txt",
+    "answer": "No",
+    "choices": [
+      "A. No",
+      "B. Yes"
+    ]
+  },
+  {
+    "question": "The iPhone is the only 3G phone.",
+    "category": "general.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Was the year 1912 a leap year?",
+    "category": "general.txt",
+    "answer": "Yes",
+    "choices": [
+      "A. Yes",
+      "B. No"
+    ]
+  },
+  {
+    "question": "Barack Obama is a righty.",
+    "category": "general.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Nonmember Runescape players can go to Taverly and kill a couple of druids. Then they can go to Camelot bank and take out 1,000 gold pennies.",
+    "category": "general.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Wolverines real name is James Howlett.",
+    "category": "general.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Spiderman is the alter ego of Jonah Jameson.",
+    "category": "general.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Does Xenophobia mean fear of  people you do not know?",
+    "category": "general.txt",
+    "answer": "Yes",
+    "choices": [
+      "A. Yes",
+      "B. No"
+    ]
+  },
+  {
+    "question": "Brontophobia is the fear of thunders.",
+    "category": "general.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Nyctophobia means fear of darkness.",
+    "category": "general.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Claustrophobia means fear of cellars.",
+    "category": "general.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Ochlophobia is the fear of being shut in.",
+    "category": "general.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Botophobia is the term used for the fear of crowds.",
+    "category": "general.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "The term nosophobia denotes the fear of telling lies.",
+    "category": "general.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Does ochlophobia mean fear of diseases?",
+    "category": "general.txt",
+    "answer": "No",
+    "choices": [
+      "A. No",
+      "B. Yes"
+    ]
+  },
+  {
+    "question": "William Lioncheate is the name of the George W. Bush appointed Secretary of Housing and Urban Development.",
+    "category": "general.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Ink changes its color on different paper.",
+    "category": "general.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "If swallowed, ink is harmless.",
+    "category": "general.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "The letter J is the last letter added to the Latin alphabet.",
+    "category": "general.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Galveston, Indiana was the site of a deadly tornado in 1900.",
+    "category": "general.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "The Bhola Cyclone of 1970 destroyed much of Pakistan.",
+    "category": "general.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "The Yellow River in China is prone to flooding.",
+    "category": "general.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "The Indian Ocean Earthquake of 2004 did not spark a tsunami.",
+    "category": "general.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "The Muppet Show was banned in Saudi Arabia.",
+    "category": "general.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "In 1975 Archie Griffin became the first two-time Heisman Trophy Winner.",
+    "category": "general.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Captain Ahab, who is captain of the Pequod, has a 1st mate named Ishmael.",
+    "category": "general.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "David E. Weiss was the first mate of the SS Edmund Fitzgerald. The Captain was Ernest M. McSorley.",
+    "category": "general.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "The Una people are the last ones of the lost tribes remaining hidden away in the forest of New Guinea.",
+    "category": "general.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "According to a study an office desk has nearly 400 times more bacteria than a bathroom toilet.",
+    "category": "general.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "A panther and a black leopard are the same animal.",
+    "category": "general.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Bamboo plants can grow up to 52 inches a day.",
+    "category": "general.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "The 1996 film, Courage Under Fire, starring Denzel Washington and Meg Ryan, was partially filmed in a United States Desert..",
+    "category": "general.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Alabama Hills is a desert location used in many movies.",
+    "category": "general.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "In 1856 the US Army formed the U.S. Army Camel Corps.",
+    "category": "general.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Pink is a song by Guns N Roses.",
+    "category": "general.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Is the Pink Cadillac the trademark of Mary Kay beauty products?",
+    "category": "general.txt",
+    "answer": "Yes",
+    "choices": [
+      "A. Yes",
+      "B. No"
+    ]
+  },
+  {
+    "question": "Pink is a line of lingerie by Victorias Secret.",
+    "category": "general.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "The S.O.S. on SOS cleaning pads stands for Save Our Saucepans.",
+    "category": "general.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Excessive salt consumption can lead to high blood pressure.",
+    "category": "general.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "There are two main sources of salt - sea water and rock salt.",
+    "category": "general.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "According to articles published in the Journal of American Folklore and the Journal of UFO Studies, abductions generally follow a specific sequence, although most dont involve all of these elements. The sequence is as follows: Capture, Examination, Conference, Tour, Loss of Time, Return, Theophany and Aftermath.",
+    "category": "general.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "The actor who voiced Betty Boop also voiced Popeye.",
+    "category": "general.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Pamela Lillian Isley is Poisin Ivy.",
+    "category": "general.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Matt Murdock, Daredevils alter ego, is deaf.",
+    "category": "general.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Nick Fury is the alter ego of Wolfsbane.",
+    "category": "general.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "The names of Popeyes four nephews are Pipeye, Peepeye, Pupeye, and Poopeye.",
+    "category": "general.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "The Los Angeles Earthquake of 1916 caused a 3-day fire.",
+    "category": "general.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "The Peshtigo Fire (in Wisconsin and Michigan) occurred on the same day as the Great Chicago Fire.",
+    "category": "general.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "There was a fire in South Dakota that destroyed over 90,000 acres.",
+    "category": "general.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "General Slocum was the name of a person involved in the 1904 fire in New York that resulted in over 1000 deaths.",
+    "category": "general.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Narcissistic is a word that applies to someone who has a pervasive pattern of cruel, demeaning, and aggressive behavior, beginning in early adulthood.",
+    "category": "general.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "A woman has 7 children. Half of them are boys. Can this be true?",
+    "category": "general.txt",
+    "answer": "Yes",
+    "choices": [
+      "A. No",
+      "B. Yes"
+    ]
+  },
+  {
+    "question": "Four can be half of five.",
+    "category": "general.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "The actor who starred as the lawyer in Matlock started out as a real lawyer.",
+    "category": "general.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "If x is positive, then x^2  x.",
+    "category": "general.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Queen Elizabeth II of Great Britain is allowed by law to go practically anywhere she wants to in Great Britain.",
+    "category": "general.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "The term piggy bank derives from the word pygg, an orange type of clay that used to be made into jars in which people kept their money.",
+    "category": "general.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "American artist and filmmaker Andy Warhol, a major figure in the Pop Art movement, is of Slovakian origin.",
+    "category": "general.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Does Luxembourg, a small landlocked country situated in the north-west of continental Europe, have three official languages: French, German and Luxembourgish?",
+    "category": "general.txt",
+    "answer": "Yes",
+    "choices": [
+      "A. Yes",
+      "B. No"
+    ]
+  },
+  {
+    "question": "The study of unknown animals is known as Cryptozoology.",
+    "category": "general.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "In 2008s Iron Man, Iron Mans suit is made of iron.",
+    "category": "general.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Ephebiphobia is the fear of youth.",
+    "category": "general.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Uranophobia is the fear of heaven.",
+    "category": "general.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Does gamophobia mean fear of marriage?",
+    "category": "general.txt",
+    "answer": "Yes",
+    "choices": [
+      "A. No",
+      "B. Yes"
+    ]
+  },
+  {
+    "question": "Does sciaphobia mean fear of blood?",
+    "category": "general.txt",
+    "answer": "No",
+    "choices": [
+      "A. No",
+      "B. Yes"
+    ]
+  },
+  {
+    "question": "Bob Barker was the original host of the very first version of the TV hit game show The Price is Right.",
+    "category": "general.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "The following group of words (as a whole) makes up a palindrome:\nA man.  A plan.  A canal.  Panama.",
+    "category": "general.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Women who wear their purse straps across their chests are at risk of being beheaded by purse snatchers.",
+    "category": "general.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Ataxophobia means fear of paying taxes.",
+    "category": "general.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Albuminurophobia is defined as fear of albums.",
+    "category": "general.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "The fear of stars and celestial space is known as astrophobia.",
+    "category": "general.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Autophobia means fear of cars.",
+    "category": "general.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Ataxiophobia means fear of riding a taxi.",
+    "category": "general.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Identical twins have identical fingerprints.",
+    "category": "general.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "The TV show Medium revolves around a psychic consultant named Allison Du Bois. True or False: The character is named after a real life psychic consultant called Allison DuBois.",
+    "category": "general.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "The word phobia is of Latin origin.",
+    "category": "general.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Acrophobia is the fear of flying.",
+    "category": "general.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "The Stegasaurus had a second brain in its back.",
+    "category": "general.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "The  first computer used for weather research and prediction was MANIAC.",
+    "category": "general.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Harrison Ford stars in Blade Runner.",
+    "category": "general.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "During World War II, no Axis troops landed on any of the 48 American states.",
+    "category": "general.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "There is an actual medical term for the fear of peanut butter sticking to the roof of ones mouth.",
+    "category": "general.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Didaskaleinophobia is the fear of animals that have rabies.",
+    "category": "general.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Dinophobia is defined as fear of stories about dinosaurs.",
+    "category": "general.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Elurophobia means fear of cats.",
+    "category": "general.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Fear of riding a taxi is referred as epistaxiophobia.",
+    "category": "general.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Do all of the U.S. Armed Forces have the rank of General?",
+    "category": "general.txt",
+    "answer": "No",
+    "choices": [
+      "A. No",
+      "B. Yes"
+    ]
+  },
+  {
+    "question": "There is no limit to how many persons with rank General can be in service in the U.S. Armed Forces at one time.",
+    "category": "general.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Before 2008 a female had not attained the rank of a 4-Star General in U.S. history.",
+    "category": "general.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Sound travels more swiftly through air than through steel.",
+    "category": "general.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "In parts of Japan, if a black cat crosses your path, it means you will be very lucky.",
+    "category": "general.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "All US Presidents have worn glasses.",
+    "category": "general.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Neil Armstrong stepped on the moon with his right foot on first.",
+    "category": "general.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "By US law, employees do not have to wash hands after sneezing.",
+    "category": "general.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "The author of the White Fang is Jack London.",
+    "category": "general.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Dr. Susan Calvin, the main character of many short stories, is a robopsychologist.",
+    "category": "general.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Frankenstein is the name of a doctor from a famous novel by Mary Shelley.",
+    "category": "general.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "The sewing machine was invented in a dream.",
+    "category": "general.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Classical composer Chopin had a lover named George.",
+    "category": "general.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "The cross on the Swiss flag is red.",
+    "category": "general.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Is the word fish both a noun and a verb?",
+    "category": "general.txt",
+    "answer": "Yes",
+    "choices": [
+      "A. Yes",
+      "B. No"
+    ]
+  },
+  {
+    "question": "The traffic lights has three colors. Yellow is in the middle.",
+    "category": "general.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "There are 20 consonants in the English alphabet.",
+    "category": "general.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "The fat is hot enough to fry in when green smoke rises from the pan.",
+    "category": "general.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "The normal body temperature is 37.5 ÂºC.",
+    "category": "general.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Humans have 33 permanent teeth.",
+    "category": "general.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "The pitch of the guitar string becomes lower when it is tightened.",
+    "category": "general.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "George Taliaferro was the second black player ever to be drafted in the NFL.",
+    "category": "general.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Donald Trump wore a solid pink tie in every episode of The Apprentice.",
+    "category": "general.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "STOP signs have always been red.",
+    "category": "general.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "The Statue of Liberty was a gift from Italy.",
+    "category": "general.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Lassie and Benji are the same breed of dog.",
+    "category": "general.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "In 1386, a cow in France was executed by public hanging for the murder of a child.",
+    "category": "general.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Is Olympus Mons taller than Mt. Everest?",
+    "category": "general.txt",
+    "answer": "Yes",
+    "choices": [
+      "A. Yes",
+      "B. No"
+    ]
+  },
+  {
+    "question": "Square watermelons are grown in Japan.",
+    "category": "general.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Fleas can jump 130 times their own height.",
+    "category": "general.txt",
+    "answer": "Yes",
+    "choices": [
+      "A. No",
+      "B. Yes"
+    ]
+  },
+  {
+    "question": "Is Aconcagua the tallest mountain in North America?",
+    "category": "general.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Does Turkey belong only in Asia?",
+    "category": "general.txt",
+    "answer": "No",
+    "choices": [
+      "A. No",
+      "B. Yes"
+    ]
+  },
+  {
+    "question": "Sharks rarely attack humans.",
+    "category": "general.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "The average US penny stays in circulation for 50 years.",
+    "category": "general.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Spit can freeze in mid-air at the North Pole.",
+    "category": "general.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Potato flavored ice cream can be bought in Idaho.",
+    "category": "general.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Exactly half of the US states have an even number of letters in their name.",
+    "category": "general.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Nixon received a higher percentage of the popular vote during his losing bid for the presidency than when he won in 1968.",
+    "category": "general.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Czech Republic, Luxembourg and the UK were among the countries with most obese people in the beginning of the new century.",
+    "category": "general.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "In the beginning of the new millennium New Zealand, Australia and the UK were among the countries with highest consumption of cannabis.",
+    "category": "general.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "The diamond is the hardest known natural material on Earth.",
+    "category": "general.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "In 1992 there was a petition signed by 30,000 people to change the name of Maui, Hawaii to Gilligan.",
+    "category": "general.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "The original name of the Beatles song, Eleanor Rigby, was Miss Daisy Hawkins.",
+    "category": "general.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "The first US police force to buy a police car was also the first to have a police motorcycle squad.",
+    "category": "general.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "The tradition of placing the wedding ring on the third finger of the left hand originates from ancient Egypt, where they believed that a vein in this finger ran directly to the heart.",
+    "category": "general.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "In Anglo-Saxon times the bride stood on the left of the groom to allow him to keep his right sword hand free so that he could fight off anyone trying to kidnap the bride.",
+    "category": "general.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "The tradition of the white wedding dress dates back hundreds of years. It was worn to symbolize the virginity of the bride.",
+    "category": "general.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "The kiss at the end of the wedding ceremony expresses a Christian belief and symbolizes the swapping of souls between the bride and the groom.",
+    "category": "general.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "The tradition of proposing with a diamond engagement ring can be dated back to 1477 when the Archduke Maximilian of Hamburg gave one to Mary of Burgundy.",
+    "category": "general.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "At weddings it is common for people to toast the bride or groom. The term toast originates from Italy where it was common to place a piece of bread in the bottom of a wine cup for flavor.",
+    "category": "general.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "The custom of all bridesmaids dressing alike was started to ensure that bride would stand out and be the center of attention on the alter.",
+    "category": "general.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "The wedding cake originated in ancient Rome where it was thrown at the bride or broken over her head as a sign of fertility.",
+    "category": "general.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "In ancient times, it was common for the groom to abduct his bride. The honeymoon originated as a way for the bride and groom to go into hiding after the wedding, to keep the brides family from finding her.",
+    "category": "general.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "The bride traditionally wears a veil, because it is considered bad luck for the groom to see the bride before the wedding.",
+    "category": "general.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "A book claiming that the story of Wilhelm Tell was just a myth was burned at the stake in Switzerland.",
+    "category": "general.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Coca Cola was originally green.",
+    "category": "general.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "In 1948 several cities in the USA had comic books burnt publicly.",
+    "category": "general.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "The Portland Alien Museum is dedicated to studying alien life and life forms.",
+    "category": "general.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Petite Danseuse de Quartorze Ans by Edgar Degas is a painting depicting a 14-year-old dancer.",
+    "category": "general.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Nuclear fusion is the production of energy from the splitting of certain atoms.",
+    "category": "general.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "The standing long jump and the standing high jump were once Olympic sports.",
+    "category": "general.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "The purpose of the striped fur of most tigers species is camouflage.",
+    "category": "general.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "The California state flag originally featured a wolf.",
+    "category": "general.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "A fly flies slower when the sun is behind the clouds.",
+    "category": "general.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Is it true that starfish can see with the help of the two eyes at the end of each leg?",
+    "category": "general.txt",
+    "answer": "No",
+    "choices": [
+      "A. No",
+      "B. Yes"
+    ]
+  },
+  {
+    "question": "In 1078, a battle between two rulers was averted because of a chess game.",
+    "category": "general.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Twilight Zone is a term used by the United States Air Force to describe the border between day and night on a planetary body.",
+    "category": "general.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "The square root of a number is always smaller than that number.",
+    "category": "general.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "The following group of words (as a whole) makes up a palindrome:\nA man.  A plan.  A canal.  Panama.",
+    "category": "general.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Bathophobia means fear of taking a bath.",
+    "category": "general.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Bibliophobia means fear of reading the bible.",
+    "category": "general.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Catoptrophobia is defined as fear of mirrors.",
+    "category": "general.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Cancerophobia is a condition characterized by fear of malignant growth.",
+    "category": "general.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Chiraptophobia means fear of snow.",
+    "category": "general.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "If there is a one way street and there are two cars going the opposite direction, is either of the drivers breaking the law?",
+    "category": "general.txt",
+    "answer": "No",
+    "choices": [
+      "A. No",
+      "B. Yes"
+    ]
+  }
+]

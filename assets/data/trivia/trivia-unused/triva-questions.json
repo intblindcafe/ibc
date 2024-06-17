@@ -1,0 +1,14 @@
+{
+		"questions" : {
+        "Q001": {"question": "What is the capital of France?", "answer": "Paris"},
+        "Q002": {"question": "Who painted the Mona Lisa?", "answer": "Leonardo Da Vinci"},
+        "Q003": {"question": "What is the tallest mountain in the world?", "answer": "Mt. Everest"},
+        "Q004": {"question": "What is the chemical symbol for water?", "answer": "H2O"},
+        "Q005": {"question": "How many continents are there?", "answer": "7"},
+        "Q006": {"question": "Who wrote 'To Kill a Mockingbird'?", "answer": "Harper Lee"},
+        "Q007": {"question": "What is the largest planet in our solar system?", "answer": "Jupiter"},
+        "Q008": {"question": "Who is known as the father of modern physics?", "answer": "Albert Einstein"},
+        "Q009": {"question": "What year did the Titanic sink?", "answer": "1912"},
+        "Q010": {"question": "What is the currency of Japan?", "answer": "Japanese Yen"}
+		}
+}

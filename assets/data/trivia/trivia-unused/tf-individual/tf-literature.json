@@ -1,0 +1,1307 @@
+[
+  {
+    "question": "Cornelia Fudge is the Minister of Magic.",
+    "category": "literature.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Robert B. Parker completed Raymond Chandlers unfinished final novel, Poodle Springs.",
+    "category": "literature.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Kathy Reichs has written some great mysteries, where the primary character is Forensic Archaeologist, Kay Scarpetta.",
+    "category": "literature.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Draco Malfoy cries in a book of the Harry Potter series.",
+    "category": "literature.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Did Crabbe and Goyle ever become friends with Harry, Ron and Hermione in the Harry Potter books?",
+    "category": "literature.txt",
+    "answer": "No",
+    "choices": [
+      "A. Yes",
+      "B. No"
+    ]
+  },
+  {
+    "question": "Harry liked Cho in the book Harry Potter and the Half-Blood Prince.",
+    "category": "literature.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Filch is a wizard in the Harry Potter books.",
+    "category": "literature.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Does Harry arrive at Privet Drive with Dumbledore in the first book of the Harry Potter series?",
+    "category": "literature.txt",
+    "answer": "No",
+    "choices": [
+      "A. No",
+      "B. Yes"
+    ]
+  },
+  {
+    "question": "In Harry Potter and the Philosophers Stone, Severus Snape bewitches Harrys broom during the Quidditch match between Gryffindor and Sytherin.",
+    "category": "literature.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "It is stated in the first book of the Harry Potter series that Harry received his first Nimbus Two Thousand broom in the second year of his education at Hogwarts.",
+    "category": "literature.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Did Harry, Ron and Hermione encounter a Venomous Tentacula in the first book of the series, after dropping through the trapdoor that Fluffy was guarding?",
+    "category": "literature.txt",
+    "answer": "No",
+    "choices": [
+      "A. Yes",
+      "B. No"
+    ]
+  },
+  {
+    "question": "In the novel Gone with the Wind, Scarletts father bought two slaves from Raif Tarleton.",
+    "category": "literature.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "In the novel Gone with the Wind, Dilcey had two children.",
+    "category": "literature.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Youre a Mean One, Mr. Grinch, one of the most famous songs from the 1966 animated TV special How the Grinch Stole Christmas!, was sung by the narrator Boris Karloff.",
+    "category": "literature.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "In the novel Cristine, Dennis decides he does not like Christine, because, while sitting in it, he has a vision of the car and the surroundings as they would be in 1957 when the car was new.",
+    "category": "literature.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "George used the Jelly-Legs curse on Goyle.",
+    "category": "literature.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Harry rescued Hermione from the Merpeople.",
+    "category": "literature.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "In chapter one of Harry Potter and the Prisoner of Azkaban, Harry has Snapes essay on Sleeping Draughts hidden under the floorboard.",
+    "category": "literature.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "In chapter 7 of Harry Potter and the Prisoner of Azkaban, titled The Boggart in the Wardrobe, a severed hand comes out of the wardrobe for Seamus Finnegan.",
+    "category": "literature.txt",
+    "answer": "No",
+    "choices": [
+      "A. No",
+      "B. Yes"
+    ]
+  },
+  {
+    "question": "Rons Christmas gift to Dobby in Harry Potter and the Goblet of Fire is a tea cozy.",
+    "category": "literature.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "The weapon that Voldemort wanted in book 5 of the Harry Potter series was Harry.",
+    "category": "literature.txt",
+    "answer": "No",
+    "choices": [
+      "A. No",
+      "B. Yes"
+    ]
+  },
+  {
+    "question": "The company that produced Gone with the Wind was fined because Rhett  Butler says the word damn in his famous line: Frankly my dear, I dont give a damn.",
+    "category": "literature.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "A TV  sequel to  Gone with the Wind was released in 1994.",
+    "category": "literature.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Dennis Nedry was paid by a rival company to sabotage Jurassic Park in the self-titled book.",
+    "category": "literature.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "The game warden, Muldoon, was killed by raptors in the book Jurassic Park.",
+    "category": "literature.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "The Institute of Vertebrate Paleontology and Paleoanthropology of the Chinese Academy of Sciences named the new ankylosaurus species Crichtonsaurus in honor of Michael Crichton, the author of Jurassic Park.",
+    "category": "literature.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Clark Gable won the Oscar for Best Actor for his role as Rhett Butler.",
+    "category": "literature.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "There is only one scene in the movie Gone with the Wind that suggests Scarlett has a problem with alcohol consumption.",
+    "category": "literature.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Vivian Leigh earned the same amount of money as Clark Gable for her work in Gone With the Wind.",
+    "category": "literature.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Vivian Leigh won the Best Actress Oscar for her performance as Scarlett OHara in Gone With the Wind. This was her only Academy Award.",
+    "category": "literature.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Draco Malfoy is killed by Harry Potter in the last book of the series, Harry Potter and the Deathly Hallows.",
+    "category": "literature.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Draco Malfoy became the master of the Elder Wand which was Dumbledores beloved wand.",
+    "category": "literature.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "In the book Pride and Prejudice, Mr. Wickham has his wife write a letter to Elizabeth asking for money.",
+    "category": "literature.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Agatha Christie wrote romances under the name Mary Westmacott.",
+    "category": "literature.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Agatha Christie has been called by the Guinness Book of World Records the 2nd best-selling author of all time.",
+    "category": "literature.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Agatha Christie died in 1985 at the age of 76.",
+    "category": "literature.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Agatha Christie met her second husband at a theatre entrance in London, England.",
+    "category": "literature.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Agatha Christies birth name was Mary Katherine Francis.",
+    "category": "literature.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Kurt Vonnegut created the character Billy Pilgrim in his novel Breakfast of Champions.",
+    "category": "literature.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "When Stephen King began to write The Gunslinger, he typed it on bright green paper.",
+    "category": "literature.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "In the book All Creatures Great and Small, Mrs. Pumphreys dogs name is Tricki Woo.",
+    "category": "literature.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "In All Creatures Great and Small, James wanted to be a small animal surgeon before he became a veterinarian.",
+    "category": "literature.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "In All Creatures Great and Small, Mr. Worley had six pigs.",
+    "category": "literature.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "William Shakespeare died April 23, 1616.",
+    "category": "literature.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Dean Koontz is a confirmed bachelor.",
+    "category": "literature.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Dean Koontz has undergone hair transplant surgery.",
+    "category": "literature.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Is fictional character Hermione Granger made a prefect?",
+    "category": "literature.txt",
+    "answer": "Yes",
+    "choices": [
+      "A. No",
+      "B. Yes"
+    ]
+  },
+  {
+    "question": "Did Hermione punch Ron in Harry Potter and the Prisoner of Azkaban?",
+    "category": "literature.txt",
+    "answer": "No",
+    "choices": [
+      "A. No",
+      "B. Yes"
+    ]
+  },
+  {
+    "question": "A.A. Milne created the character of Christopher Robin as one of Winnie-the-Poohâs best friends and based him on his real life son, Christopher Robin Milne.",
+    "category": "literature.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Piers Anthony wrote a historical/fantasy novel about Native Americans called Tatham Mound.",
+    "category": "literature.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "The novel The Drawing of the Three begins seven days after the end of The Gunslinger novel.",
+    "category": "literature.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "In the novel The Drawing of the Three, when in New York Roland hunts for ammunition for his guns and it is revealed that they take .38 Long Colt cartridges.",
+    "category": "literature.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Ernest Hemingways mother dressed him in girls clothing when he was little.",
+    "category": "literature.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Ernest Hemingway served in the army.",
+    "category": "literature.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Margaux Hemingway was Ernest Hemingways daughter.",
+    "category": "literature.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Margaux Hemingway never appeared in a movie with her sister.",
+    "category": "literature.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Mariel Hemingway is Margaux Hemingways mother.",
+    "category": "literature.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Mariel Hemingway never starred in a Superman movie.",
+    "category": "literature.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Elizabeth Hadley Richardson married Ernest Hemingway in 1935.",
+    "category": "literature.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "The Hemingways have a history of suicides.",
+    "category": "literature.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "The novel Wizard and Glass picks up where Dark Tower III: The Waste Lands left off.",
+    "category": "literature.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Dorothy Parker was a recluse all her life.",
+    "category": "literature.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Martin Rothschild was Dorothy Parkers uncle.",
+    "category": "literature.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Dorothy Parker never married.",
+    "category": "literature.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Dorothy Parker grew up in an extremely close family.",
+    "category": "literature.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Dorothy Parker had an affair with F. Scott Fitzgerald.",
+    "category": "literature.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "In the books Eragon and Eldest, wierda is the ancient language word meaning fate.",
+    "category": "literature.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "The first word in the novel Eragon is a proper noun (excluding the prologue).",
+    "category": "literature.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "In the novel Left Behind, character Rayford Steele is a pilot for Pan-American Airways.",
+    "category": "literature.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "In the book Left Behind, Chaim Rozenzweig was a botanist who developed The Eden Formula, that caused the deserts of Israel to bloom.",
+    "category": "literature.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "In the Christian-themed novel Left Behind, charter pilot Ken Ritz had his own theory on the vanishings. He thought they were caused by aliens abducting the millions of missing people.",
+    "category": "literature.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Did Rayford Steele ever have an affair with senior flight attendant Hattie Durham in the novel Left Behind?",
+    "category": "literature.txt",
+    "answer": "No",
+    "choices": [
+      "A. Yes",
+      "B. No"
+    ]
+  },
+  {
+    "question": "Left Behind character Buck Williams is drawn into a murder mystery when an old friend of his is mysteriously killed by a sniper.",
+    "category": "literature.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "In the Christian fiction book Left Behind, Rayford and eventually Buck believe Nicolae Carpathia is the Antichrist described in several books of the New Testament.",
+    "category": "literature.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Barack Obamas first memoir is entitled Dreams from My Father.",
+    "category": "literature.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "David Sedaris wrote the book Dry which details his life.",
+    "category": "literature.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Queer was a memoir penned by Allen Ginsberg.",
+    "category": "literature.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Eli Weisels book Night is about the Holocaust.",
+    "category": "literature.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Samuel Taylor Coleridge wrote the poem She Was a Phantom of Delight in 1803.",
+    "category": "literature.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Oliver Wendell Holmes wrote The Chambered Nautilus and The Deacons Masterpiece in the same year.",
+    "category": "literature.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Victorian poets Elizabeth Browning and Robert Browning were brother and sister.",
+    "category": "literature.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Edward Gorey, who gained fame for his illustrative and writing abilities, did not have any formal art education at all.",
+    "category": "literature.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Writer and artist Edward Gorey never married.",
+    "category": "literature.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Edward Gorey won a Tony Award for Best Costume Design for the 1977 Broadway production Dracula.",
+    "category": "literature.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "John Farson was the gunslinger who brought down the Affiliation in The Dark Tower series.",
+    "category": "literature.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "The novel The Dark Tower begins where Song of Susannah left off.",
+    "category": "literature.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "In the book The Dark Tower, Susannah becomes physically separated from Mia and gives birth to Mordred, while Mia is killed by a group of vampires.",
+    "category": "literature.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "In The Dark Tower, Stephen King urges the reader to stop reading at a certain point in the book and not go any further.",
+    "category": "literature.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Jack Starbright, a recurring character in the Alex Rider books, enjoys cooking.",
+    "category": "literature.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Fictional character Stephanie Plum is employed by her cousin.",
+    "category": "literature.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "In the Stephanie Plum series of books, Stephanies mother approves of her job as a bounty-hunter.",
+    "category": "literature.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Stephanie Plums eccentric Grandma Mazur has a weird obsession with attending viewings at the local funeral parlor.",
+    "category": "literature.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Harry Potter kisses Cho Chang.",
+    "category": "literature.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Harry Potter marries Hermione in the last book of the series.",
+    "category": "literature.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Harry Potter once kissed Luna Lovegood.",
+    "category": "literature.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "In the universe created by J. R. Tolkien, the Valar were gods and were to be worshipped by men and elves alike.",
+    "category": "literature.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "In the Twilight saga, both Edward and James are trackers.",
+    "category": "literature.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Is Twilight character Edward able to read minds?",
+    "category": "literature.txt",
+    "answer": "Yes",
+    "choices": [
+      "A. No",
+      "B. Yes"
+    ]
+  },
+  {
+    "question": "In the Twilight series, the Cullens love to play football during a thunderstorm.",
+    "category": "literature.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Fictional detective Nero Wolfe lived in a brownstone on West 34th Street in New York City.",
+    "category": "literature.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "The director of the original film version of The Grapes of Wrath won an Oscar.",
+    "category": "literature.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "The novel The Grapes of Wrath was made into an opera.",
+    "category": "literature.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Does Will ever find his father in His Dark Materials trilogy?",
+    "category": "literature.txt",
+    "answer": "Yes",
+    "choices": [
+      "A. Yes",
+      "B. No"
+    ]
+  },
+  {
+    "question": "Much attention is paid to the common stapler in the novel The Mezzanine.",
+    "category": "literature.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "In the novel Nicolae, Nicolae Carpathia begins to establish his one world Government.",
+    "category": "literature.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "In the novel Nicolae, Buck Williams travels to Israel to rescue Tsion Ben-Judah, who is in hiding after his wife and children were murdered.  During a wild chase through the Israeli desert, they are aided aided by an angel.",
+    "category": "literature.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Hattie considers terminating her pregnancy once she finds out she is carrying Nicolaes child.",
+    "category": "literature.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "A massive earthquake effects the entire world simultaneously in the novel Nicolae.",
+    "category": "literature.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "In the novel The Amber Spyglass, Father Gomez was sent by the Consistorial Court to guide Lyra to Dr. Malone.",
+    "category": "literature.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Do Lyra and Will end up together at the end of The Amber Spyglass?",
+    "category": "literature.txt",
+    "answer": "No",
+    "choices": [
+      "A. No",
+      "B. Yes"
+    ]
+  },
+  {
+    "question": "Is it true that in the novel Tinker, Tailor, Soldier, Spy, the name of the Soviet spymaster running the Mole is Karlov?",
+    "category": "literature.txt",
+    "answer": "No",
+    "choices": [
+      "A. No",
+      "B. Yes"
+    ]
+  },
+  {
+    "question": "After marriage, T. S. Eliot gave up writing his dissertation, and never received his PhD.",
+    "category": "literature.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Fictional characters Both Buck and Rayford go to work for Nicolae Carpathia in Tribulation Force.",
+    "category": "literature.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Both Rayford and his daughter Chloe are married in Tribulation Force",
+    "category": "literature.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "The American Military moves against Nicolae in the book Tribulation Force",
+    "category": "literature.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Nicolae Carpathia, the main antagonist in the Left Behind series, institutes a one-world religion.",
+    "category": "literature.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "The members of the Pretty Committee, described in the novel The Clique, get kicked out of school.",
+    "category": "literature.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Kristen Gregory from the book The Clique is rich and always wears designer clothes.",
+    "category": "literature.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "The Clique protagonist Massie Block has a pet in the book.",
+    "category": "literature.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "In the horror novel From a Buick 8, strange reptiles crawled out of the trunk of a car.",
+    "category": "literature.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "In the book Lord of the Rings: The Two Towers,  does Gollum ever decide to be on Frodos side?",
+    "category": "literature.txt",
+    "answer": "No",
+    "choices": [
+      "A. Yes",
+      "B. No"
+    ]
+  },
+  {
+    "question": "In the book, Lord of the Rings: The Two Towers, does Eowyn have romantic interest in Aragorn?",
+    "category": "literature.txt",
+    "answer": "Yes",
+    "choices": [
+      "A. No",
+      "B. Yes"
+    ]
+  },
+  {
+    "question": "Does Aragorn ever really have a doubt about his place on the throne of Gondor In the book, Lord of the Rings: The Two Towers?",
+    "category": "literature.txt",
+    "answer": "No",
+    "choices": [
+      "A. No",
+      "B. Yes"
+    ]
+  },
+  {
+    "question": "In the book, Lord of the Rings: The Two Towers, does Aragorn fall off of a cliff?",
+    "category": "literature.txt",
+    "answer": "No",
+    "choices": [
+      "A. Yes",
+      "B. No"
+    ]
+  },
+  {
+    "question": "Do the orcs ride wolves in the book, Lord of the Rings: The Two Towers?",
+    "category": "literature.txt",
+    "answer": "Yes",
+    "choices": [
+      "A. Yes",
+      "B. No"
+    ]
+  },
+  {
+    "question": "In the novel Twilight, Jasper is the newest member of the Cullen family and the last to adopt their vegetarian diet.",
+    "category": "literature.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Lestat was made into a vampire by Marius.",
+    "category": "literature.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "In The Vampire Chronicles Akasha was known as the Mother of all Vampires",
+    "category": "literature.txt",
+    "answer": "Yes",
+    "choices": [
+      "A. No",
+      "B. Yes"
+    ]
+  },
+  {
+    "question": "In Michael Endes novel, The Neverending Story, Bastian stole The Neverending Story from Mr. Smith.",
+    "category": "literature.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Uyulala, is a character in the novel The Neverending Story, that only speaks in rhymes.",
+    "category": "literature.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "In 1910 Jack London bought a ranch in Glen Ellen, California, and since then he began to write mostly to finance it.",
+    "category": "literature.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "In the novel The Golden Compass, the Master gives the main character an Alethiometer and instructs her to deliver it to Lord Asriel.",
+    "category": "literature.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "The story of the novel The Golden Compass begins in the fictional Jordan College in Oxford.",
+    "category": "literature.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "In the novel The Golden Compass, are the main character and her friends often at war with the local children of Oxford?",
+    "category": "literature.txt",
+    "answer": "Yes",
+    "choices": [
+      "A. No",
+      "B. Yes"
+    ]
+  },
+  {
+    "question": "In the book The Golden Compass, can adult daemons change into any form they want?",
+    "category": "literature.txt",
+    "answer": "No",
+    "choices": [
+      "A. No",
+      "B. Yes"
+    ]
+  },
+  {
+    "question": "The 1987 movie Hellraiser was based upon the Clive Barker novella The Damnation Game.",
+    "category": "literature.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Clive Barker had his screenplay for the remake of the Japanese monster film Gojira rejected because it was too dark and disturbing.",
+    "category": "literature.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "In Terry Pratchetts Discworld series, Death once took over The Hogfathers job and attempted to deliver his version of holiday presents to all the children of Discworld, much like in Tim Burtons film, The Nightmare Before Christmas.",
+    "category": "literature.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Bloody Stupid Johnson, Discworlds famous dyslexic architect, is Terry Pratchetts version of Leonardo da Vinci.",
+    "category": "literature.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Tolkiens character Frodo was 33 when he left for Rivendell.",
+    "category": "literature.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "In the book The Fellowship of the Ring, Arwen was the elf that brought Frodo Baggins across the river into the land of Rivendell.",
+    "category": "literature.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "24 October was the day that Tolkiens character Frodo awoke in Rivendell after his ailment.",
+    "category": "literature.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "It is stated in The Fellowship of the Ring that the emblems of Durin are wrought of ithildin that mirrors only starlight and moonlight.",
+    "category": "literature.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "The Uruk-hai, which were described in The Fellowship of the Ring, could only run in the light of the moon.",
+    "category": "literature.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "William Shakespeare had two daughters and one son, named Susanna, Judith, and Hamlet.",
+    "category": "literature.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  }
+]

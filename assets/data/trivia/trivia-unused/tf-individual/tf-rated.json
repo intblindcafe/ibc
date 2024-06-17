@@ -1,0 +1,2162 @@
+[
+  {
+    "question": "Michael J. Fox won three consecutive Emmy Awards for Outstanding Actor in a Comedy Series for his role as Alex Keaton in the hit comedy series Family Ties.",
+    "category": "rated.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "The 60s pop band The Monkees starred in their own show of the same name and won two Emmy Awards for Outstanding Comedy Series in 1966 and 1967.",
+    "category": "rated.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Willie Mays Hayes was not invited to the teams spring tryouts in the movie Major League.",
+    "category": "rated.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "At the end of the movie Major League, the team of misfits beats the New York Yankees to win the World Series.",
+    "category": "rated.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Monsters Inc. was a story set in the town of Minneapolis .",
+    "category": "rated.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "In Fatal Attraction, Alex Forrest kidnaps Ellen Gallagher (Dans daughter) from school.",
+    "category": "rated.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "John Travolta was considered for the part of Dan Gallagher in Fatal Attraction.",
+    "category": "rated.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Pop star Madonna was in the movie A League of Their Own.",
+    "category": "rated.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Robbie Hart gets stood up at the altar by his fiance in the movie The Wedding Singer.",
+    "category": "rated.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Did Al Pacino star in âThe Godfather III,â reprising his role as Don Michael Corleone?",
+    "category": "rated.txt",
+    "answer": "Yes",
+    "choices": [
+      "A. No",
+      "B. Yes"
+    ]
+  },
+  {
+    "question": "The Rolling Stones A Bigger Bang Tour began on August 21, 2005.",
+    "category": "rated.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "The late comedian Sam Kinison appears in the movie Back to School.",
+    "category": "rated.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "In the film The Outsiders, Dallas Winston opens up a homeless shelter and takes care of all the kids in need.",
+    "category": "rated.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "In the movie Austin Powers: International Man of Mystery, Austin marries Vanessa Kensington.",
+    "category": "rated.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Actress Michelle Pfeiffer was originally asked to star in the movie The Silence Of The Lambs portraying FBI trainee Clarice Starling.",
+    "category": "rated.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "The song you hear in the track is from Disneys 2002  Lilo and Stich movie.",
+    "category": "rated.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "This song you can hear in the track is from the Walt Disney animated movie Mulan.",
+    "category": "rated.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "The best pitcher on the team in the movie The Bad News Bears was a girl who pitched right handed.",
+    "category": "rated.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "In the movie The Bad News Bears, Kelly hits a game winning grand slam and leads the Bears to a championship victory.",
+    "category": "rated.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Mathew Broderick who played Ferris Bueller and Jennifer Grey became an item during the making of the movie Ferris Buellers Day Off.",
+    "category": "rated.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Tim Allen agreed to provide the voice of Buzz Lightyear in Toy Story, after Billy Crystal declined the part.",
+    "category": "rated.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Was there ever a spin-off series spawned from the 80s television sitcom The Cosby Show?",
+    "category": "rated.txt",
+    "answer": "Yes",
+    "choices": [
+      "A. No",
+      "B. Yes"
+    ]
+  },
+  {
+    "question": "Bob Barker from The Price Is Right appears in the hilarious comedy Happy Gilmore.",
+    "category": "rated.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Ben Stiller appears in the movie Happy Gilmore.",
+    "category": "rated.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "The movie Willy Wonka  the Chocolate Factory starred Gene Wilder as Willy Wonka.",
+    "category": "rated.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "The part of Grandpa Joe in Willy Wonka  the Chocolate Factory was played by actor Leonard Stone.",
+    "category": "rated.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "In the movie Willy Wonka  the Chocolate Factory, The Oompa Loompas were rescued by Mr. Wonka from Loompaland, where they were being eaten by terrible beasts.",
+    "category": "rated.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "At the end of the movie Willy Wonka  the Chocolate Factory, Willy Wonka gave Charlie the greatest gift he could offer him: The Chocolate Factory.",
+    "category": "rated.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "In the movie Willy Wonka  the Chocolate Factory, Violet Beauregarde indulged in an experimental chewing gum which simulated a three course meal consisting of chicken soup, meatloaf with mashed potatoes, and peach pie.",
+    "category": "rated.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Actor Bill Fagerbakke, who plays Dauber Dybinski on the show Coach, also provides the voice for Patrick Star on the ultra popular childrens cartoon Spongebob Squarepants.",
+    "category": "rated.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "All the scenes of the movie A Bronx Tale were shot in New York City.",
+    "category": "rated.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Joe Pesci won an Academy award for his portrayal of Tommy DeVito in the hit movie Goodfellas.",
+    "category": "rated.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Pedro, one of the main characters in the film Napoleon Dynamite, has two older cousins who help him win the school elections.",
+    "category": "rated.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Is it true that in the movie Napoleon Dynamite, Kip is older than his brother Napoleon?",
+    "category": "rated.txt",
+    "answer": "Yes",
+    "choices": [
+      "A. Yes",
+      "B. No"
+    ]
+  },
+  {
+    "question": "Is it true that in the film Napoleons Dynamite, Napoleons friend, Deb, is a a mechanic?",
+    "category": "rated.txt",
+    "answer": "No",
+    "choices": [
+      "A. No",
+      "B. Yes"
+    ]
+  },
+  {
+    "question": "Does Uncle Rico from Napoleon Dynamite live in an old van in the middle of a field?",
+    "category": "rated.txt",
+    "answer": "Yes",
+    "choices": [
+      "A. No",
+      "B. Yes"
+    ]
+  },
+  {
+    "question": "The Facts Of Life  was a spin-off of the popular television show Diffrent Strokes.",
+    "category": "rated.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Before Rodney Dangerfield landed the part of Al Czervik in the movie Caddyshack, Don Rickles was asked to play the part.",
+    "category": "rated.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "In the movie Meet the Parents, Jack Byrnes has a polygraph machine in his den.",
+    "category": "rated.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Was there ever a sequel to the hit movie Meet the Parents?",
+    "category": "rated.txt",
+    "answer": "Yes",
+    "choices": [
+      "A. Yes",
+      "B. No"
+    ]
+  },
+  {
+    "question": "Mackenzie Phillips who plays the oldest daughter Julie on the hit show  One Day at a Time is related to the founder of the 60s band The Mamas and the Papas?",
+    "category": "rated.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "George Carlin was the first ever host on the hit television show Saturday Night Live.",
+    "category": "rated.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "George Carlin was a regular on the CBS Televisions Tony Orlando and Dawn variety series.",
+    "category": "rated.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "On the Playhouse Disney show The Doodlebops, Dee Dee, Rooney and Moe play three siblings who sing, dance and play musical instruments.",
+    "category": "rated.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "On the show Handy Manny on Playhouse Disney Freddie Prince Jr. provides the voice of Manny.",
+    "category": "rated.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "The Playhouse Disney show JoJos Circus features a little girl who lives in Circusville and has a pet lion named Goliath.",
+    "category": "rated.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "American actor/author/stand-up comedian, Paul Reiser wrote the book titled Couplehood which actually starts on page 145.",
+    "category": "rated.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Leo Anthony Gallagher graduated from the University of South Florida with a journalism degree.",
+    "category": "rated.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Marilyn Monroe posed nude for a photo shoot with photographer Tom Kelley .",
+    "category": "rated.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "The King of Queens is a spin-off from the hit television sitcom Everybody Loves Raymond.",
+    "category": "rated.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Was Leah Remini, who plays Carrie in The King of Queens, ever on the hit television show Saved By The Bell?",
+    "category": "rated.txt",
+    "answer": "Yes",
+    "choices": [
+      "A. Yes",
+      "B. No"
+    ]
+  },
+  {
+    "question": "Did Mr. T, known for his performance in The A-Team, appear in any of the Rocky movies?",
+    "category": "rated.txt",
+    "answer": "Yes",
+    "choices": [
+      "A. No",
+      "B. Yes"
+    ]
+  },
+  {
+    "question": "Does Rocky Balboa win the first fight against Apollo Creed in the original movie Rocky?",
+    "category": "rated.txt",
+    "answer": "No",
+    "choices": [
+      "A. No",
+      "B. Yes"
+    ]
+  },
+  {
+    "question": "Is it true that Lisa Marie Presley, daughter of Elvis, was once married to actor Nicholas Cage?",
+    "category": "rated.txt",
+    "answer": "Yes",
+    "choices": [
+      "A. No",
+      "B. Yes"
+    ]
+  },
+  {
+    "question": "Is oe a valid word in the game of Scrabble?",
+    "category": "rated.txt",
+    "answer": "Yes",
+    "choices": [
+      "A. Yes",
+      "B. No"
+    ]
+  },
+  {
+    "question": "You may never exchange your letters in the game of Scrabble.",
+    "category": "rated.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "In the Western Tombstone Sam Elliot plays the role of Morgan Earp.",
+    "category": "rated.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "In Tombstone, Morgan was Wyatt Earpâs brother that gets killed.",
+    "category": "rated.txt",
+    "answer": "Yes",
+    "choices": [
+      "A. No",
+      "B. Yes"
+    ]
+  },
+  {
+    "question": "Dana Dalany played Wyatts wife Mattie in the film Tombstone.",
+    "category": "rated.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "On the show Green Acres, the name of Oliver Wendall Douglass wife was Eva.",
+    "category": "rated.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "The TV show Green Acres was set in the fictional town of Hooterville.",
+    "category": "rated.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Green Acres ran on television for 9 seasons.",
+    "category": "rated.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Oliver from Green Acres was an attorney in New York before moving to Hooterville.",
+    "category": "rated.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "No me gusta is Spanish for I dont like it.",
+    "category": "rated.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Clint Eastwood was born in Carmel, California.",
+    "category": "rated.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Marijuana can cause infertility in both men and women.",
+    "category": "rated.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Marijuana overdose related deaths were reported to have increased among youths in the USA in the last decade of the 20th century.",
+    "category": "rated.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "The FBI reports show that 65-75% of criminal violence is marijuana related.",
+    "category": "rated.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "George Washington and Thomas Jefferson are known to have grown marijuana.",
+    "category": "rated.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Colonel Potter loved to paint and had done several portraits of his fellow members of the 4077 in the M*A*S*H TV series. Those portraits were actually painted by Harry Morgan.",
+    "category": "rated.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "If a rooster is sitting on the roof of a barn and lays an egg, it will always roll down the shortest path.",
+    "category": "rated.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Assume you have an old fashioned analog alarm clock. If it is currently 6 pm and you want to wake up at 7 am tomorrow and you set your clock accordingly. The clock will go off 13 hours later.",
+    "category": "rated.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Do they have a 4th of July in Great Britian?",
+    "category": "rated.txt",
+    "answer": "Yes",
+    "choices": [
+      "A. No",
+      "B. Yes"
+    ]
+  },
+  {
+    "question": "In California, is it possible for a man to marry his widows sister?",
+    "category": "rated.txt",
+    "answer": "No",
+    "choices": [
+      "A. Yes",
+      "B. No"
+    ]
+  },
+  {
+    "question": "A doctor walks into an operating room and after looking at a patient says, âI cant operate on him, hes my son.â The doctor is not the patients father. Is this possible?",
+    "category": "rated.txt",
+    "answer": "Yes",
+    "choices": [
+      "A. No",
+      "B. Yes"
+    ]
+  },
+  {
+    "question": "The Australian slang term for a toilet is bunny.",
+    "category": "rated.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "In the movie, The Wizard of Oz, Dorothy says to the supposedly brainless Scarecrow, I think Ill miss you most of all.",
+    "category": "rated.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "In the 1939 movie, The wizard of Oz, the only lines of Meinhardt Raabe, who played the Coroner, were:\nAs coroner, I must aver\nI thoroughly examined her\nAnd shes not only merely dead\nShes really, most sincerely dead!",
+    "category": "rated.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "After the success of The Wizard of Oz, the Maternity Hospital in County Limerick, Ireland changed the name of its association from St. Munchin to The Munchkins Maternity Hospital.",
+    "category": "rated.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "If I only had a brain is a song to which the Scarecrow from The Wizard of Oz movie dances. The dance routine was too lengthy, but the producer decided that it wouldnt be cut from the film.",
+    "category": "rated.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "During the filming of The Wizard of Oz, actress Margaret Hamilton suffered severe burns during her fiery exit from the fictional Munchkinland.",
+    "category": "rated.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Does Pedro win the school election in the 2004 movie Napoleon Dynamite?",
+    "category": "rated.txt",
+    "answer": "Yes",
+    "choices": [
+      "A. Yes",
+      "B. No"
+    ]
+  },
+  {
+    "question": "Is it true that Napoleon Dynamite, the protagonist of the self-titled movie, is the school secretary?",
+    "category": "rated.txt",
+    "answer": "No",
+    "choices": [
+      "A. No",
+      "B. Yes"
+    ]
+  },
+  {
+    "question": "The last scene of the movie Napoleon Dynamite shows Napoleon and his girlfriend playing tetherball.",
+    "category": "rated.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "TV character Jeff Miller had a dog named Lassie.",
+    "category": "rated.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Timmy Martin is a TV character who had a dog named Lassie.",
+    "category": "rated.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Singing cowboy Roy Rogers had a horse named Trigger.",
+    "category": "rated.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Al Bundy from the television series Married... with Children owned a dog named Buck.",
+    "category": "rated.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Cindy, Marcia, and Jan Brady were the proud owners of Fluffy the cat.",
+    "category": "rated.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Johnny Quest from the self-titled cartoon had a dog named Patch.",
+    "category": "rated.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Fictional architect Wilbur Post, played by Alan Young, had a cow named Ed.",
+    "category": "rated.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "The Singing Cowboy, Gene Autry had a horse he called Champion.",
+    "category": "rated.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Matt Dillon from the show Gunsmoke had a horse he called Buck.",
+    "category": "rated.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "TV characters Sandy and Bud Ricks had a dolphin named Snorkel.",
+    "category": "rated.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Did Eartha Kitt ever portray Catwoman on the TV Series âBatmanâ?",
+    "category": "rated.txt",
+    "answer": "Yes",
+    "choices": [
+      "A. No",
+      "B. Yes"
+    ]
+  },
+  {
+    "question": "The Academy Awards for Best Actor, Best Actress, Best Director, and Best Picture went to One Flew Over the Cuckoos Nest in 1975.",
+    "category": "rated.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "In 1976, the action film Rocky, starring Sylvester Stallone, won the Academy Award in the category Best Picture.",
+    "category": "rated.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Jon Voight, who won the Academy Award for his performance in the 1978 movie Coming Home, is the father of Julia Roberts.",
+    "category": "rated.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "In 1979, Meryl Streep won the Oscar for Best Actress in a leading role for her performance in the drama Kramer vs. Kramer.",
+    "category": "rated.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "One of Reeses ancestors, John Witherspoon, signed the Declaration of Independence.",
+    "category": "rated.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Elephants can live to 70 plus years.",
+    "category": "rated.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "The African Elephant is an endangered species.",
+    "category": "rated.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Tiny elephants once lived on the island of Crete.",
+    "category": "rated.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Elephants are the only member of the group of animals known as Pachyderms.",
+    "category": "rated.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Asian Elephants are larger than African Elephants.",
+    "category": "rated.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "There are only two remaining species of elephants in the world.",
+    "category": "rated.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Nowadays there are nearly 1.3 million wild African Elephants.",
+    "category": "rated.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "An elephants trunk has over 40,000 individual muscles in it.",
+    "category": "rated.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Elephants tusks can grow an entire foot (30 cm) each year.",
+    "category": "rated.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Elephants are related to manatees.",
+    "category": "rated.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Does Frodo leave directly from Bag End when he takes the ring to Elrond?",
+    "category": "rated.txt",
+    "answer": "No",
+    "choices": [
+      "A. No",
+      "B. Yes"
+    ]
+  },
+  {
+    "question": "Is there a character in the book The Lord of the Rings: The Fellowship of the Ring, that is still able to see the person wearing the ring?",
+    "category": "rated.txt",
+    "answer": "Yes",
+    "choices": [
+      "A. No",
+      "B. Yes"
+    ]
+  },
+  {
+    "question": "In the comedy movie Coming to America, the cab driver that picks up Akeem and Semmi from the airport when they arrive in New York City was played by Jake Steinfeld, who had his own fitness show called Body by Jake back in the 1980s.",
+    "category": "rated.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "A group of geese is called both a gaggle and a skein.",
+    "category": "rated.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Crows live in a group called a murder.",
+    "category": "rated.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Dr. Hawkeye Pierce from M*A*S*H* is married in the TV series.",
+    "category": "rated.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "The astrological signs Cancer, Pisces and Scorpio are associated with the element Air.",
+    "category": "rated.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "The symbol of the astrological sign Libra is the bull.",
+    "category": "rated.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "People born under the astrological sign Gemini have a birthday between May 21 and June 21.",
+    "category": "rated.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Aerosmiths Dude Looks Like a Lady was written about Vince Neil of Motley Crue.",
+    "category": "rated.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "From the year 1945, when the United Nations was founded to 2006 there were over 200 wars.",
+    "category": "rated.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "In 2001, St. Patricks Day celebration went on as planned in Ireland.",
+    "category": "rated.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Pound for pound, leopards are considered to be seven times stronger than humans.",
+    "category": "rated.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "A piece of French toast that was partially eaten by Justin Timberlake sold on eBay for over 3000 US dollars.",
+    "category": "rated.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Does any creature have the ability to change its sex?",
+    "category": "rated.txt",
+    "answer": "Yes",
+    "choices": [
+      "A. No",
+      "B. Yes"
+    ]
+  },
+  {
+    "question": "The Uape Indians, who live in the Amazon, mix the ashes of their cremated relatives with alcohol, then all members of the family drink the mix.",
+    "category": "rated.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Sex acts like a natural antihistamine and can clear up a stuffy nose.",
+    "category": "rated.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Houston once served as the state capital of Texas.",
+    "category": "rated.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Guthrie was once the state capital of Oklahoma.",
+    "category": "rated.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Cheyenne has served as the state capital of Wyoming since Wyoming established its statehood in 1890.",
+    "category": "rated.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "In Pretty Woman Edward pays Vivian $4,000 to stay for the whole week.",
+    "category": "rated.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "My predecessor, Blue Ribbon Sports, was incorporated in 1964. My name came from the Greek goddess for victory. Would that mean I am Nike, Inc.?",
+    "category": "rated.txt",
+    "answer": "Yes",
+    "choices": [
+      "A. Yes",
+      "B. No"
+    ]
+  },
+  {
+    "question": "I am on the ABC channel. William Shatner plays Denny Crane and Candice Bergen plays Shirley Schmidt in me. Am I the Knights of Prosperity TV series?",
+    "category": "rated.txt",
+    "answer": "No",
+    "choices": [
+      "A. Yes",
+      "B. No"
+    ]
+  },
+  {
+    "question": "I own the Microsoft Corporation. You may know me as one of the richest men in the world. Am I Warren Buffett?",
+    "category": "rated.txt",
+    "answer": "No",
+    "choices": [
+      "A. Yes",
+      "B. No"
+    ]
+  },
+  {
+    "question": "Golf, one of the few ball games that does not use a fixed standard playing area, originated in Scotland.",
+    "category": "rated.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Whoopi Goldberg was the first woman to host the Oscars.",
+    "category": "rated.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "The name Congo, serves two countries which can be distinguished by using their full names or by mentioning their capitals.",
+    "category": "rated.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "The word condign means undeserved and unmerited.",
+    "category": "rated.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Brad Pitt and Jennifer Aniston starred together in the 2003 movie, Bruce Almighty.",
+    "category": "rated.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Actor Brad Pitt appeared in the 1996 crime thriller, Sleepers, along with Rober De Niro, Kevin Bacon and Dustin Hoffman.",
+    "category": "rated.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Actor Brad Pitt played the role of Joe Black in the 1998 movie, Meet Joe Black.",
+    "category": "rated.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Little Boy and Fat Man were the nicknames given to the atomic bombs dropped on Hiroshima and Nagasaki.",
+    "category": "rated.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Someone once wrote a check on the side of a cow.",
+    "category": "rated.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "A customer closed out his million-dollar account after his bank refused to validate a 60¢ parking ticket.",
+    "category": "rated.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Nike denied a customers request to have his running shoes personalized with the word sweatshop .",
+    "category": "rated.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "A college library is sinking into the ground because its architect failed to take the weight of the books into account.",
+    "category": "rated.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Neiman-Marcus charged a shopper $250 for its cookie recipe, instead of $2.50.  As revenge for refusing to reverse the charge, she now provides the recipe for free and asks others to pass it along.",
+    "category": "rated.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Sororities are outlawed in certain states, because local brothel laws prohibit more than a certain number of females from living together.",
+    "category": "rated.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Mixture of Enfalac baby formula and dog food caused a toddlers stomach to explode post-mortem.",
+    "category": "rated.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "A British mill engineer broke the bank at a Monte Carlo casino.",
+    "category": "rated.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Rudolph the Red-Nosed Reindeer was created for a Chicago based department store.",
+    "category": "rated.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Is there a fourth of July in England?",
+    "category": "rated.txt",
+    "answer": "Yes",
+    "choices": [
+      "A. Yes",
+      "B. No"
+    ]
+  },
+  {
+    "question": "If  an accountant says a certain attorney was their brother, but the attorney says he doesnt have a brother, is the accountant lying?",
+    "category": "rated.txt",
+    "answer": "No",
+    "choices": [
+      "A. Yes",
+      "B. No"
+    ]
+  },
+  {
+    "question": "The centaur is a Greek mythological creature, which is described as being half man and half goat.",
+    "category": "rated.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "In the comedy Monty Python and the Holy Grail, the name of the enchanter, who can summon fire and who leads Arthur and his Knights to the Cave of Caerbannog, is Dan.",
+    "category": "rated.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Franklin Roosevelt was the president who ordered the bombs on Hiroshima and Nagasaki in 1945.",
+    "category": "rated.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Being a pizza-deliverer or a vending machine filler is actually very dangerous.",
+    "category": "rated.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "In this quote, the characters are referring to illicit drugs, i.e. speed, crank, cocaine.",
+    "category": "rated.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "The movie which contains the line on the sound clip is based on a Stephen King novella.",
+    "category": "rated.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "The name of the Clock Tower of the Palace of Westminster in London is Craster Tower.",
+    "category": "rated.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Chase dreams often derive from feelings of anxiety and pressure in your waking life.",
+    "category": "rated.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Some psychologists claim to encounter rare cases of people that never dream.",
+    "category": "rated.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Cronus swallowed the first four children he sired by Rhea: Demeter, Hera, Hades and Hestia, as soon as they were born.",
+    "category": "rated.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Originally Herakles labors were to be 11.",
+    "category": "rated.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "The first person to use a telescope for astronomical purposes was Galileo Galilei.",
+    "category": "rated.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Saturn is the only planet in our solar system that has rings.",
+    "category": "rated.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Luke and his sister Leia, the famous characters from Star Wars, were secretly hidden from their father, but not from the Emperor.",
+    "category": "rated.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "In The Return of the Jedi, the burgundy-wearing people who accompany Emperor Palpatine are his bodyguards.",
+    "category": "rated.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "George Lucas directed all episodes of the first trilogy of Star Wars.",
+    "category": "rated.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "In 1898, near Kensington, Minnesota, a farmer found a roughly rectangular piece of stone covered in runes (this is true). Scientists are still unable to translate any of the runes on it.",
+    "category": "rated.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "The Siberian Ice Maiden is a rare example of a single woman given a ceremonial burial in her wooden tomb. She was even accompanied by six horses.",
+    "category": "rated.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "The Amesbury Archer, an early Bronze Age man dating to around 2300 BC, was nicknamed the King of Stonehenge by the British press.",
+    "category": "rated.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "John Forbes Nash, the anti-hero of A Beautiful Mind , won the Nobel Prize in Mathematics.",
+    "category": "rated.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Is there a difference between a ram and a wether?",
+    "category": "rated.txt",
+    "answer": "Yes",
+    "choices": [
+      "A. Yes",
+      "B. No"
+    ]
+  },
+  {
+    "question": "An elephants tusks are actually its horns.",
+    "category": "rated.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "In cooking, pinch means a very small amount of an ingredient, typically salt, sugar or spice.",
+    "category": "rated.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Reducing is the process where food volume is reduced in half, by using half the measurements for a given recipe.",
+    "category": "rated.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Meats or fish, generally sliced thin,  that are rolled about in flour in preparation for frying or sauteing is known as dredging in flour.",
+    "category": "rated.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Deglazing a pan is the process of covering a cast iron pan in cooking oil and placing it in the oven.  The pan will come out black.",
+    "category": "rated.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Porto Novo is the capital of Barbados.",
+    "category": "rated.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Bhutan borders Bangladesh to the South.",
+    "category": "rated.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Lilies have been a popular motif in both secular and religious art.",
+    "category": "rated.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Approximately eight per cent of all flowering plants are orchids.",
+    "category": "rated.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "The Rose Is Americas National Flower.",
+    "category": "rated.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Back to the Future, Part 1 was directed by Robert Zemeckis.",
+    "category": "rated.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Michael J. Fox played Marty McFly in all the Back to the Future movies.",
+    "category": "rated.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Christopher Lloyd only appeared in the first two Back to the Future movies.",
+    "category": "rated.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Actress Wendie Jo Sperber, which played Linda McFly in the Back to the Future movies, passed away from lung cancer in 2006.",
+    "category": "rated.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Doc Brown invented a time travel automobile which took Marty back to 1935 in the first Back to the Future movie.",
+    "category": "rated.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "In the Back to the Future movies, Martys girlfriend was Jennifer Parker.",
+    "category": "rated.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Martys brother was played by Marc McClure in the Back to the Future movies part 1 and 3.",
+    "category": "rated.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "The movie Raging Bull was filmed mainly in black and white.",
+    "category": "rated.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "The horror film The Texas Chainsaw Massacre was based on the life of deranged killer Thomas J. Hewitt.",
+    "category": "rated.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Canadian actor Alan Thicke portrayed the character of Coach Graham Lubbock, in the ABC television series Growing Pains.",
+    "category": "rated.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "The 2004 sequel to the film Dirty Dancing is called Dirty Dancing: Cabana Nights.",
+    "category": "rated.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Jazz used to be spelled Jas.",
+    "category": "rated.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "George W. Bush and   George  Herbert W. Bush were the first father and son to be U.S. presidents.",
+    "category": "rated.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "The Mig-37 is the top jet fighter flown by the Russian Air Force.",
+    "category": "rated.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "After Hitlers defeat, Berlin was divided between Great Britain, France, the United States and the Soviet Union.",
+    "category": "rated.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Even though the Soviets called it antifascist wall of protection, everybody knew it was not;  it was meant to keep Eastern Berliners in East Berlin. People from West Berlin could pass the border without any documents.",
+    "category": "rated.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Aproximately 5000 East Germans escaped throughout the 28 long years.",
+    "category": "rated.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "In the nursery rhyme This Little Piggy the middle piggy had baked ham.",
+    "category": "rated.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "In the original nursery rhyme Humpty Dumpty, Humpty couldnt be put together again.",
+    "category": "rated.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "From 1977 to 1995, trumpeter Doc Severinsen was the bandleader on The Tonight Show, hosted by  Johnny Carson.",
+    "category": "rated.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "In the movie Finding Nemo, Crush, the sea turtle, told Marlin he was 150 years old.",
+    "category": "rated.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "John Travolta danced with the late Princess Diana at a White House dinner on 9 November 1985.",
+    "category": "rated.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "When people die their hair continues to grow for a couple of months.",
+    "category": "rated.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Natural gas has no odor.",
+    "category": "rated.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "The very first pizza was made in Italy and is considered to be an Italian food.",
+    "category": "rated.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "In the beginning of the 21th century, Pizza Hut is reckoned as the largest pizza maker.",
+    "category": "rated.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "A transient ischemic attack, or TIA, is caused by temporary disturbance of blood supply to a restricted area of the brain. Could TIA be considered a warning that a cerebrovascular accident (a stroke) is likely to occur?",
+    "category": "rated.txt",
+    "answer": "Yes",
+    "choices": [
+      "A. Yes",
+      "B. No"
+    ]
+  },
+  {
+    "question": "Magnetic Resonance Imaging (MRI) is a method of creating images of the inside of opaque organs in living organisms, used to distinguish pathological tissue (such as a brain tumor) from healthy tissue.",
+    "category": "rated.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "The medical term, Bradycardia refers to an abnormally fast heart rate.",
+    "category": "rated.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Demi Moores real name is Demetria Harmon.",
+    "category": "rated.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Tom Cruises real name was Thomas Cruise.",
+    "category": "rated.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Harry Potter is related to Ron.",
+    "category": "rated.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Harry likes blast-ended skrewts.",
+    "category": "rated.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "In the movie Risky Business, Tom Cruses characters name was Joe.",
+    "category": "rated.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Tom Cruises character in Interview with a Vampire was called Lestat.",
+    "category": "rated.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "The Return of the King, The Scorpion King and Queen of the Damned are the names of the three parts of a trilogy.",
+    "category": "rated.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "The wolf is a member of the canine family.",
+    "category": "rated.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Wolves are solitary animals, hence the term lone wolf.",
+    "category": "rated.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "The leaders of a wolf pack are called the dominae.",
+    "category": "rated.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "The average adult wolf weighs between 75 and 125 pounds (35 â 60 kg.)",
+    "category": "rated.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "The setting of the stories about Winnie the Pooh is based in Sherwood Forest, England.",
+    "category": "rated.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Winnie the Poohs name originates from the first thing the son of Poohs creator, Milne said: Poooh!",
+    "category": "rated.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "The nicest thing about the rain is that it always stops. Eventually. This is a quote by Tigger.",
+    "category": "rated.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "The shortest national anthem is the Japanese one and it is just four verses long.",
+    "category": "rated.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "The United Kingdom is both in the top ten for GDP and child poverty.",
+    "category": "rated.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Dick Clark was the original host of American Bandstand.",
+    "category": "rated.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "American Bandstand was shot in Philadelphia the whole time it was on the air.",
+    "category": "rated.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "The Earth is in the center of the solar system?",
+    "category": "rated.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Is Australia the biggest island in the world?",
+    "category": "rated.txt",
+    "answer": "No",
+    "choices": [
+      "A. No",
+      "B. Yes"
+    ]
+  },
+  {
+    "question": "You have a time machine which transports you into the past. When you arrive there, people all around you are saying: Ive fallen, and I cant get up!  You turn on the T.V. to find 40 bands performing for 16 hours in a world concert event called Live Aid.  You finally say, Enough, already! and head down to the local cineplex, only to find Back to the Future ( what else? ) advertised on the marquee!  You turn to your guide who comes with the time machine and say, Ive had about all I can take of 1983!  Is this the correct year youve found yourself in?",
+    "category": "rated.txt",
+    "answer": "No",
+    "choices": [
+      "A. No",
+      "B. Yes"
+    ]
+  },
+  {
+    "question": "The New Coke debuted in 1988.",
+    "category": "rated.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "It was publicly announced that on January 1, 2000 all California bars, clubs, and card rooms must be smoke-free.",
+    "category": "rated.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "It was on April 14, 2000 that an US F-15 accidentally shot 2 U.S. helicopters down over Iraq killing 26 people.",
+    "category": "rated.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "The hit movie Stand By Me is based on one of Stephen Kings short stories.",
+    "category": "rated.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Does actor John Cusack appear in the hit movie Stand By Me?",
+    "category": "rated.txt",
+    "answer": "Yes",
+    "choices": [
+      "A. Yes",
+      "B. No"
+    ]
+  },
+  {
+    "question": "Academy Award-winning actor Richard Dreyfuss appeared in the hit movie Stand By Me.",
+    "category": "rated.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  }
+]

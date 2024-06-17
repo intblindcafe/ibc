@@ -1,0 +1,6410 @@
+[
+  {
+    "question": "LFD2 was banned in Australia.",
+    "category": "world.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Arizona became the 48th state on February 14, 1912.",
+    "category": "world.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Is the state of North Carolina south of the Mason - Dixon line?",
+    "category": "world.txt",
+    "answer": "Yes",
+    "choices": [
+      "A. Yes",
+      "B. No"
+    ]
+  },
+  {
+    "question": "The border between Georgia and Mississippi is also a time zone boundary.",
+    "category": "world.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Prince Henry the Navigator contributed to the Great Geographical Discoveries by leading all Portuguese expeditions.",
+    "category": "world.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "None of these  could be found in Europe before the Great Geographical Discoveries:\nPotatoes, chocolate, cocoa, quinine, tobacco, cabbage, cane-sugar, furs, whale oil, indigo, tea, coffee, porcelain, and cotton silks .",
+    "category": "world.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "The Great Geographical Discoveries led to the spreading of colonialism and imperialism and even exploitation.",
+    "category": "world.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Christmas celebrations in the Soviet Union were banned after the Russian Revolution.",
+    "category": "world.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Puerto Rico is a territory of the United States.",
+    "category": "world.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "George Washington signed the Declaration of Independence.",
+    "category": "world.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "In the movie âItâs A Wonderful Life,â Drew Barrymores great grand uncle plays the role of crusty Mr. Potter.",
+    "category": "world.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "In some cities the most famous part of Halloween, the trick-or-treating, has been banned.",
+    "category": "world.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "According to a survey by Harvard University that began in 1999, most people do not use a special word for the night before Halloween.",
+    "category": "world.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "The first jack-o-lanterns (carved in Ireland) werent made of pumpkins.",
+    "category": "world.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Dr. Suess wrote all the songs that were performed in How the Grinch Stole Christmas.",
+    "category": "world.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Dr. Seuss, the author of How the Grinch Stole Christmas, had been trying to get the Grinch story filmed for a decade, before it was finally produced.",
+    "category": "world.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "In the movie National Lampoons Christmas Vacation, Rusty Griswold, played by Johnny Galecki, is the younger of the Griswold children but in all the other Vacation films Rusty is the older sibling.",
+    "category": "world.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Mae Questel, who played Aunt Bethany in National Lampoons Christmas Vacation, did the voice of Minnie Mouse in the 30s.",
+    "category": "world.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Betty White made a cameo in National Lampoons Christmas Vacation.",
+    "category": "world.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Before going to see baby Jesus, the wise men met Herod the Great , who wanted to kill Jesus.",
+    "category": "world.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Mary, the betrothed wife of Joseph, gave birth to her child, Jesus in Bethlehem.",
+    "category": "world.txt",
+    "answer": "Yes",
+    "choices": [
+      "A. No",
+      "B. Yes"
+    ]
+  },
+  {
+    "question": "Jack Frost, a figure that presumably originated in Viking folklore, personifies crisp, cold, winter weather.",
+    "category": "world.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Days or periods of high demand when special rates are not in effect are known as black days.",
+    "category": "world.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "GPS stands for Global Positioning System.",
+    "category": "world.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "The Sudetes is a mountain range in Central Europe.",
+    "category": "world.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "The city of Limassol is located in Greece.",
+    "category": "world.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "The currency of Malta is Maltese franc.",
+    "category": "world.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Denmark is a monarchy.",
+    "category": "world.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "The Azores were discovered by the explorer Amerigo Vespucci.",
+    "category": "world.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Mont Blanc is the second highest mountain in the world.",
+    "category": "world.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Damascus is the capital city of Syria.",
+    "category": "world.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Mount Vesuvius is a volcano east of Naples, Italy.",
+    "category": "world.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Does San Francisco have more nicknames than San Diego?",
+    "category": "world.txt",
+    "answer": "Yes",
+    "choices": [
+      "A. No",
+      "B. Yes"
+    ]
+  },
+  {
+    "question": "In Rudolph the Red-Nosed Reindeer, on the Island of Misfit Toys there is a jack-in-the-box who acts as the island sentry. He is a misfit because his name is Hank and not Jack.",
+    "category": "world.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "The capital of Arizona is Phoenix.",
+    "category": "world.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "The capital of Rhode Island is Newport.",
+    "category": "world.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Jehovahs Witnesses identify themselves as Christian, but they dont celebrate Christmas.",
+    "category": "world.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "In God We Trust is Floridas state motto.",
+    "category": "world.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "The USA have 50 state capitals.",
+    "category": "world.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Was Saddam Hussein a Cuban dictator?",
+    "category": "world.txt",
+    "answer": "No",
+    "choices": [
+      "A. No",
+      "B. Yes"
+    ]
+  },
+  {
+    "question": "Blarney Stone, a block of limestone built in one of the battlements of Blarney Castle in Ireland, is said to give great eloquence to everyone who kisses it.",
+    "category": "world.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "If Im Sleepless in Seattle in area code 206, and I call into area code 205, Ive called into the state of Kentucky.",
+    "category": "world.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Was South Carolinas original area code 843?",
+    "category": "world.txt",
+    "answer": "No",
+    "choices": [
+      "A. Yes",
+      "B. No"
+    ]
+  },
+  {
+    "question": "Provo, Utah is located in the same area code as Salt Lake City.",
+    "category": "world.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Jupiter was the chief Greek God on Mount Olympus.",
+    "category": "world.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Ireland is the second largest island in Europe.",
+    "category": "world.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Is English an official language of the Republic of Ireland?",
+    "category": "world.txt",
+    "answer": "Yes",
+    "choices": [
+      "A. Yes",
+      "B. No"
+    ]
+  },
+  {
+    "question": "If you are a Christian, it is almost impossible to enter the city of Mecca (or Makkah, as it is known nowadays).",
+    "category": "world.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Jerusalem is holy to Muslims partially because they consider that Jesus was one of the prophets of Islam.",
+    "category": "world.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "The Titanic was one of the most luxurious ships for its time. It offered an on-board swimming pool, gymnasium, and a Turkish bath.  Its passengers could also enjoy a squash court.",
+    "category": "world.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "The White Star Lines managing director, who also came up with the idea of building ship, was on-board the Titanic (this is true). However, the ships builder didnt board the ship, because he was afraid of sailing.",
+    "category": "world.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Faith Hill sang the famous song My Heart Will Go On from the Soundtrack of the movie Titanic (1997).",
+    "category": "world.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Prior to Titanics fatal incident, the distress signal SOS had never been used.",
+    "category": "world.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "When on 1 September, 1985 the wreck of the Titanic was discovered by a team of scientists, it became clear that the two sections had sunk one on top of the other.",
+    "category": "world.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Most natural Christmas trees are edible.",
+    "category": "world.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "There are 7 oceans in the world.",
+    "category": "world.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "The United Nations Headquarters is in London, England.",
+    "category": "world.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "The capital of California is San Francisco.",
+    "category": "world.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Christopher Columbus is credited with discovering America. His ship the Mayflower actually made 12 trips back and forth across the Atlantic.",
+    "category": "world.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Detroit, Michigan was founded by a man named Cadillac.",
+    "category": "world.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "The Canadian city Winnipeg is located 250 miles north of  New York City.",
+    "category": "world.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Chicago is known as the Windy City.",
+    "category": "world.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "The capital of Hawaii is Honolulu.",
+    "category": "world.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Both Frederick Cook and Robert Peary are credited with discovering the North Pole.",
+    "category": "world.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "The Mason-Dixon line runs parallel to the Mississippi River.",
+    "category": "world.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "There is no U.S. state capital that starts with the letter F.",
+    "category": "world.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Boston University is the largest private university in the U.S.",
+    "category": "world.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Harvard University was the most highly selective college/university in the U.S. in 2004.",
+    "category": "world.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "The Atlantic Ocean has a greater average depth than the Indian Ocean.",
+    "category": "world.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Is there a country that borders Iceland?",
+    "category": "world.txt",
+    "answer": "No",
+    "choices": [
+      "A. No",
+      "B. Yes"
+    ]
+  },
+  {
+    "question": "Is there a country that borders Haiti?",
+    "category": "world.txt",
+    "answer": "Yes",
+    "choices": [
+      "A. No",
+      "B. Yes"
+    ]
+  },
+  {
+    "question": "New Zealand and Australia share a border.",
+    "category": "world.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "The Falkland Islands are in the South Pacific Ocean.",
+    "category": "world.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Angkor Wat is in Cambodia.",
+    "category": "world.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "If I wanted to visit The Shwedagon Pagoda, would I go to France?",
+    "category": "world.txt",
+    "answer": "No",
+    "choices": [
+      "A. Yes",
+      "B. No"
+    ]
+  },
+  {
+    "question": "The White House is the home of the US head of government.",
+    "category": "world.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "California is the largest state in North America.",
+    "category": "world.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "The Great Lakes are located in South America.",
+    "category": "world.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Africa is located east of North America.",
+    "category": "world.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Arkansas is west of Oklahoma.",
+    "category": "world.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "In the USA Conservatives are more likely to want gun control than Liberals.",
+    "category": "world.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Conservatives in the USA are more likely to favor prayer in school than Liberals.",
+    "category": "world.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Liberals in the USA are more concerned about Internet porn distribution than Conservatives.",
+    "category": "world.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Conservatives in the USA are pro-choice when it comes to the abortion issue.",
+    "category": "world.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Liberals are likely to spend more money on the military than Conservatives.",
+    "category": "world.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "In the USA, Liberals favor welfare initiatives, such as aid to families with dependent children.",
+    "category": "world.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Liberals in the USA are more likely to spend money on education than Conservatives.",
+    "category": "world.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Conservatives in the USA believe that local problems, which are common to all states, should be solved at the national level.",
+    "category": "world.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Conservatives in the USA are more likely to pass a law cutting taxes to the wealthy than Liberals.",
+    "category": "world.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "In the USA, Conservatives favor school vouchers.",
+    "category": "world.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Marx and Engles were the first to openly criticise the idea of personal property.",
+    "category": "world.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "The second stage of The Russian Revolution led to to the creation of the Soviet Union and took place in November.",
+    "category": "world.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "The ideas of communism became so widely popular that by the 80s, almost a quarter of the world was under communist rule.",
+    "category": "world.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Port Moresby is the capital of Papua New Guinea.",
+    "category": "world.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Is the capital of Hawaii named after its founder?",
+    "category": "world.txt",
+    "answer": "No",
+    "choices": [
+      "A. No",
+      "B. Yes"
+    ]
+  },
+  {
+    "question": "Is Conakry the capital of a country, formerly known as Portuguese Guinea?",
+    "category": "world.txt",
+    "answer": "Yes",
+    "choices": [
+      "A. No",
+      "B. Yes"
+    ]
+  },
+  {
+    "question": "Does the city of Los Angeles have a Federal Reserve Bank?",
+    "category": "world.txt",
+    "answer": "No",
+    "choices": [
+      "A. Yes",
+      "B. No"
+    ]
+  },
+  {
+    "question": "The inscription,  E Pluribus Unum, appears in the left hand seal, above the pyramid, on the $1 bill.",
+    "category": "world.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Kelsey Grammer has voiced the GEICO gecko.",
+    "category": "world.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "The 9 Lives cat food mascot is named Norris.",
+    "category": "world.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Woodsy Owl is the first mascot used by The U.S. Forest Service.",
+    "category": "world.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "The Irish originally used turnips to make Jack-o-Lanterns on Halloween.",
+    "category": "world.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Halloween is the 3rd most commercially successful holiday right after Valentines Day.",
+    "category": "world.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "In the Irish tradition people did not bob for apples on Halloween, but potatoes instead.",
+    "category": "world.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "The traditional Jack-O-Lantern got its name from a man named Jack.",
+    "category": "world.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "The very first organized Halloween celebration in the U.S. was in Ohio.",
+    "category": "world.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Trick-or-Treating is a strictly modern custom on Halloween.",
+    "category": "world.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Halloween was originally the celebration of the New Year.",
+    "category": "world.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "The tradition of trick-or-treating for UNICEF began in Philadelphia in 1950.",
+    "category": "world.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Halloween was banned during World War II.",
+    "category": "world.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Traditionally, jack-o-lanterns were lit with oil to keep them lit for long periods of time.",
+    "category": "world.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Was the Miracle on 34th Street filmed in New York?",
+    "category": "world.txt",
+    "answer": "Yes",
+    "choices": [
+      "A. Yes",
+      "B. No"
+    ]
+  },
+  {
+    "question": "The volcano in the center of Barbados is called Mount Hillaby.",
+    "category": "world.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "In Medieval times castles usually contained provisions that could sustain the inner population for more than a year.",
+    "category": "world.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Besides their defensive function, castles had an offensive function as well.",
+    "category": "world.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Castle moats were always filled with water.",
+    "category": "world.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Around the world there are three castles that are identical.",
+    "category": "world.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Is American Anti-Vivisection Society a real organization?",
+    "category": "world.txt",
+    "answer": "Yes",
+    "choices": [
+      "A. Yes",
+      "B. No"
+    ]
+  },
+  {
+    "question": "Is this an actual organization: Society for the Preservation and Encouragement of Barbershop Quartet Singing in America?",
+    "category": "world.txt",
+    "answer": "Yes",
+    "choices": [
+      "A. No",
+      "B. Yes"
+    ]
+  },
+  {
+    "question": "Is the Beer Can Collectors of America a real organization?",
+    "category": "world.txt",
+    "answer": "Yes",
+    "choices": [
+      "A. Yes",
+      "B. No"
+    ]
+  },
+  {
+    "question": "Does this club actually exist: January 12, 1888 Tornado Club?",
+    "category": "world.txt",
+    "answer": "No",
+    "choices": [
+      "A. Yes",
+      "B. No"
+    ]
+  },
+  {
+    "question": "Is Count Dracula Society a real organization?",
+    "category": "world.txt",
+    "answer": "Yes",
+    "choices": [
+      "A. No",
+      "B. Yes"
+    ]
+  },
+  {
+    "question": "Is it true that Kindness In World Farming is an actual organization?",
+    "category": "world.txt",
+    "answer": "No",
+    "choices": [
+      "A. No",
+      "B. Yes"
+    ]
+  },
+  {
+    "question": "Is Mothers-in-Law Club International an organization that really exists?",
+    "category": "world.txt",
+    "answer": "Yes",
+    "choices": [
+      "A. No",
+      "B. Yes"
+    ]
+  },
+  {
+    "question": "Is this organization real: Sovereign Grand Lodge, Independent Order of Old Fellows?",
+    "category": "world.txt",
+    "answer": "No",
+    "choices": [
+      "A. Yes",
+      "B. No"
+    ]
+  },
+  {
+    "question": "Is Association of Old Cows a real organization?",
+    "category": "world.txt",
+    "answer": "No",
+    "choices": [
+      "A. Yes",
+      "B. No"
+    ]
+  },
+  {
+    "question": "Does Procrastinators Club of America really exist?",
+    "category": "world.txt",
+    "answer": "Yes",
+    "choices": [
+      "A. No",
+      "B. Yes"
+    ]
+  },
+  {
+    "question": "Does Roller Skating Ring Operators Association really exist?",
+    "category": "world.txt",
+    "answer": "No",
+    "choices": [
+      "A. No",
+      "B. Yes"
+    ]
+  },
+  {
+    "question": "Is Committee Against Insane Nuclear Policy a real organization?",
+    "category": "world.txt",
+    "answer": "No",
+    "choices": [
+      "A. No",
+      "B. Yes"
+    ]
+  },
+  {
+    "question": "Does the Association for Voluntary Sterilization actually exist?",
+    "category": "world.txt",
+    "answer": "Yes",
+    "choices": [
+      "A. Yes",
+      "B. No"
+    ]
+  },
+  {
+    "question": "Is the American Bathing Association a real organization?",
+    "category": "world.txt",
+    "answer": "No",
+    "choices": [
+      "A. No",
+      "B. Yes"
+    ]
+  },
+  {
+    "question": "Is the National Soft Drink Association an actual organization?",
+    "category": "world.txt",
+    "answer": "Yes",
+    "choices": [
+      "A. No",
+      "B. Yes"
+    ]
+  },
+  {
+    "question": "The RMS Titanic carried more lifeboats than required by law at the time.",
+    "category": "world.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "The entire complement of RMS Titanics Engineering Department drowned.",
+    "category": "world.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "There are 19 U.S. states whose abbreviation consists of the first 2 letters of their name.",
+    "category": "world.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Dr Pepper is a carbonated soft drink created in Missouri.",
+    "category": "world.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "In 1999 there were ten times as many slot machines in Nevada as there were in 1960.",
+    "category": "world.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Santa Fe has the highest elevation of all capital cities in the United States.",
+    "category": "world.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Mauna Kea is the tallest mountain in the world.",
+    "category": "world.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Pacific Grove, California has a strange law on the books about butterflies.",
+    "category": "world.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Galileo Galilei was born in Pisa.",
+    "category": "world.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "The famous Leaning Tower of Pisa is not the only leaning tower in the city.",
+    "category": "world.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "The Leaning Tower of Pisa used to lean in the opposite direction.",
+    "category": "world.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Only American soldiers or American citizens are allowed to be buried at Arlington National Cemetery.",
+    "category": "world.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Ebenezer Scrooge was based on a real person.",
+    "category": "world.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "We can trace the origins of the first Christmas card back to 1843.",
+    "category": "world.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "The common Christmas plant Poinsettias is poisonous to humans.",
+    "category": "world.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "The Dutch were those who brought the Christmas tree tradition to the United States.",
+    "category": "world.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "A traditional early English Christmas dinner was a pigs head with mustard.",
+    "category": "world.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Connecticut was the first U.S. state to recognize Christmas as an official holiday.",
+    "category": "world.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "In Ukraine spiders and spider webs are a traditional part of Christmas decorations.",
+    "category": "world.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "The traditional hook-like red-white candy canes started out as straight white sticks.",
+    "category": "world.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "As the song states, Christmas was once a 12-day celebration.",
+    "category": "world.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "The first use of electric Christmas lights was in the 1920s.",
+    "category": "world.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "In Victorian England the Christmas turkeys wore boots as they were walked into London.",
+    "category": "world.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "In July 2005, Hersheys announced that they would acquire California-based boutique chocolate-maker Scharffen Berger.",
+    "category": "world.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Hershey merged with Cadbury Schweppes p.l.c. in 2000.",
+    "category": "world.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "The United Kingdom has no land borders.",
+    "category": "world.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Is Harare the capital of Niger?",
+    "category": "world.txt",
+    "answer": "No",
+    "choices": [
+      "A. No",
+      "B. Yes"
+    ]
+  },
+  {
+    "question": "Alaska is also called Golden West.",
+    "category": "world.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "South Carolina is also called The Land of Milk and Honey.",
+    "category": "world.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Hawaii is not considered a part of North America.",
+    "category": "world.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "In the United States, Fathers Day is celebrated on the 2nd Sunday of June.",
+    "category": "world.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Marilyn Monroe and Pat Boone were born on the same day in June, but not in the same year.",
+    "category": "world.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Prince and Keenan Ivory Wayans were born on June 7th 1958.",
+    "category": "world.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "In the United States, June is National Safety Month.",
+    "category": "world.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Actress Darla Hood, who appeared in the Our Gang films, died at the age of 47 in the month of June.",
+    "category": "world.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "June is Lane Courtesy Month in the United States.",
+    "category": "world.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "The Eiffel Tower in France was named after its designer.",
+    "category": "world.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "The Statue of Liberty was sculpted by Gustave Eiffel.",
+    "category": "world.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "The Leaning Tower of Pisa is the bell tower of the Cathedral in Pisa.",
+    "category": "world.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Taj Mahal is located in Bombay, India.",
+    "category": "world.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "The Great Wall of China is one of the Seven Wonders of the Ancient World.",
+    "category": "world.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "The Roman Coliseum was completed under emperor Nero.",
+    "category": "world.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "The Statue of Liberty was given by the Italian people to the American people.",
+    "category": "world.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "The Hanging Gardens of Babylon were built by Nebuchadnezzar II.",
+    "category": "world.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Stonehenge is a prehistoric monument located in Scotland.",
+    "category": "world.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "The construction of the Lighthouse of Alexandria was initiated by Alexander the Great.",
+    "category": "world.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "With 51% of the continents population, Spanish is the most widely spoken language in South America.",
+    "category": "world.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "The band that was credited with the Monster Mash song was known as The Cryptkickers.",
+    "category": "world.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "The Halloween hit Monster Mash never reached number 1 on the Billboard charts.",
+    "category": "world.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Valentines Day is the third highest card giving day of the year behind Christmas and Mothers Day.",
+    "category": "world.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Saint Valentine is said to have been a priest in the time of the Roman Empire.",
+    "category": "world.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "50% of all Valentines card are purchased 6 days prior to the holiday.",
+    "category": "world.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Both versions of the name,  Pittsburgh and Pittsburg are correct.",
+    "category": "world.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Pittsburgh is widely believed to be right behind San Francisco as the steepest city in the United States.",
+    "category": "world.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "In 1885, God Save the Queen was officially adopted as the national anthem of the United Kingdom by Royal Proclamation.",
+    "category": "world.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Ben and Jerrys had an ice cream flavor called Festivus.",
+    "category": "world.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Until the late 1500s, March 25th was considered the beginning of the year.",
+    "category": "world.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "In Scotland April Fools Day is celebrated for two days.",
+    "category": "world.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "On April Fools Day in 2001, BBC broadcast a spoof documentary about spaghetti crops.",
+    "category": "world.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "According to lore, if a man is fooled by a pretty girl, he is destined to marry her or have a long relationship with her.",
+    "category": "world.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "The early 90s Chevy Cavalier came equipped with an optional V8 engine.",
+    "category": "world.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "In the early 90s the Ford Taurus came with a high output V6 engine and optional 5 speed manual transmission. In the late 90s Ford put a V8 under the Taurus hood.",
+    "category": "world.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "The US has minted $3.50 coin.",
+    "category": "world.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "The Latin inscription below the pyramid, on the back of the dollar bill says NOVUS ORDO SECLORUM, which means a new order has begun.",
+    "category": "world.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "In times when African Americans were usually turned away from flight schools because of their race, Herman Banning, an Iowa State University student, became the first African American flyer to obtain a federal pilots license.",
+    "category": "world.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Was Dwight Eisenhower, the 31st president of the United States, was born in West Branch Iowa on August 10th 1874?",
+    "category": "world.txt",
+    "answer": "No",
+    "choices": [
+      "A. Yes",
+      "B. No"
+    ]
+  },
+  {
+    "question": "Lake Victoria in Sub-Saharan Africa is split among Tanzania, Uganda, and Rwanda.",
+    "category": "world.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "The continent of Antarctica is surrounded by the South Pacific, South Atlantic and South Indian Oceans which collectively can also be referred to as the Southern Ocean.",
+    "category": "world.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "The capital of Thailand is Bangkok.",
+    "category": "world.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Does Bolivia have 2 capitals: Sucre and Buenos Aires?",
+    "category": "world.txt",
+    "answer": "No",
+    "choices": [
+      "A. No",
+      "B. Yes"
+    ]
+  },
+  {
+    "question": "Icelands capital is Ice City.",
+    "category": "world.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "The capital of the United Kingdom is London.",
+    "category": "world.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Japans capital is Osaka.",
+    "category": "world.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Former Vice President Albert Gore Jr. was born March 31, 1948 in Washington, D.C. but he was raised in Carthage, TN.",
+    "category": "world.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Andrew Jackson was born on March 15, 1767 in Waxhaw, South Carolina. He moved to Tennessee as a young man. Andrew Jackson died on June 8th, 1845 in Nashville, TN at his home the Hermitage.",
+    "category": "world.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Writer Alex Haley was born on August 11, 1921 in Ithaca, N.Y. but move to Tennessee the year he was born.",
+    "category": "world.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Former US President Andrew Johnson ran away from his home in Raleigh, North Carolina with his brother to Greeneville, TN at age 18.",
+    "category": "world.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Actress Annie Potts was born in Nashville, TN on October 28, 1953.",
+    "category": "world.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Hee Haw star Archie Campbell was born in Bulls Gap, TN.",
+    "category": "world.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Buford Pusser was born in Finger, TN. He was a legendary Sheriff of McNairy County, TN from 1964 to 1970.",
+    "category": "world.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Chad Pennington was a first round National Football League draft pick in 1998.",
+    "category": "world.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Actress Cybill Shepard was born February 18, 1950 in Memphis, TN.",
+    "category": "world.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Singer Dinah Shore, born Frances Rose Shore, was from Winchester, TN. She passed away from Ovarian cancer on February 24, 1994.",
+    "category": "world.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Cinco de Mayo is Mexicos Independence Day.",
+    "category": "world.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Memorial Day is observed on the 3rd Monday of May.",
+    "category": "world.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Towel Day is celebrated in May in tribute to Kurt Vonnegut.",
+    "category": "world.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Dr. Benjamin Spock and Bing Crosby were born on the exact same day of May.",
+    "category": "world.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Composer Wolfgang Amadeus Mozart was born in May.",
+    "category": "world.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "A dog show was planned on board the Titanic for April 15th.",
+    "category": "world.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "In the Roman calendar, every month had a particular day called ides.",
+    "category": "world.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "The United States Marine Corps is a Department of the United States Army.",
+    "category": "world.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Award-winning American author Robert Cormier died on January 17.",
+    "category": "world.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "The first American St. Patricks Day Parade was held in Boston, Massachusetts.",
+    "category": "world.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Green has always been the color associated with St. Patricks Day.",
+    "category": "world.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "More than 300,000 marchers participated in the 2006 St. Patricks Day Parade in New York City.",
+    "category": "world.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "All euro coins have a common side showing the denomination and a national side showing an image specifically chosen by the country that issued it.",
+    "category": "world.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "The Council of Europe and the Council of the European Union are one and the same body.",
+    "category": "world.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Only part of The Las Vegas Strip is located within Las Vegas.",
+    "category": "world.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "September is the ninth month of the year.",
+    "category": "world.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "In Japan Fathers Day falls on the first Sunday of September.",
+    "category": "world.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "There is a 1987 movie named September.",
+    "category": "world.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "September is one of only 3 months with only 30 days in it.",
+    "category": "world.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "The worlds first public passenger rail service line began In September of 1825 in England.",
+    "category": "world.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "The 2nd Friday of September is designated as POW/MIA Recognition Day in the United States.",
+    "category": "world.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "The Great Wall of China is the largest structure in the world in terms of mass and surface area.",
+    "category": "world.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "The Great Wall of China can be seen from the Moon.",
+    "category": "world.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "The entire Great Wall of China is made of bricks.",
+    "category": "world.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "The Great Wall of China was built primarily with local materials.",
+    "category": "world.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "The first US Open golf  tournament was held in Newport, Rhode Island on October 4, 1914.",
+    "category": "world.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Oscar-winning actress Susan Sarandon, born October 4, 1946, was in the cult favorite, Rocky Horror Picture Show.",
+    "category": "world.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "The very first Macys Parade was took place in 1923.",
+    "category": "world.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Were the new balloons in the 2006 Macyâs parade the Flying Ace Snoopy and an updated version of Pikachu?",
+    "category": "world.txt",
+    "answer": "Yes",
+    "choices": [
+      "A. No",
+      "B. Yes"
+    ]
+  },
+  {
+    "question": "An alternative to Macyâs Thanksgiving Parade is featured in Stamford, Ct. This parade contains balloons that have been retired from the Macys Parade.",
+    "category": "world.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Dr. Charles R. Drew, who developed a system for storing blood and is known as The Father of the Blood Bank , bled to death after being denied help at a whites only hospital.",
+    "category": "world.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Chief Red Cloud led the most successful Native American war against the U.S. military and forced the Government to sign the Treaty of Fort Laramie.",
+    "category": "world.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "French is an official language (de facto) in the State of Louisiana.",
+    "category": "world.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "In 1968, the Republican slogan Nixons the One was used by some Democrats on posters bearing the photograph of a pregnant African-American woman.",
+    "category": "world.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "The slogan A Chicken in Every Pot and a Car in Every Garage was used in the presidential election of Calvin Coolidge in 1924.",
+    "category": "world.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "The Titanic was built by the Harcourt and Wolff shipbuilding firm.",
+    "category": "world.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Did the Titanic have any sister ships?",
+    "category": "world.txt",
+    "answer": "Yes",
+    "choices": [
+      "A. Yes",
+      "B. No"
+    ]
+  },
+  {
+    "question": "There was a person aboard the Titanic named J. Dawson.",
+    "category": "world.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "The four presidents whose heads are carved in Mount Rushmore are George Washington, Thomas Jefferson, Abraham Lincoln and Franklin Roosevelt.",
+    "category": "world.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Fourteen people died and several others were injured while Mount Rushmore was being sculpted.",
+    "category": "world.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Was the original plan followed when carving Mount Rushmore?",
+    "category": "world.txt",
+    "answer": "No",
+    "choices": [
+      "A. Yes",
+      "B. No"
+    ]
+  },
+  {
+    "question": "There is a vault located behind the carved faces in Mount Rushmore.",
+    "category": "world.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "The death toll from a yellow fever epidemic, transferred by brown rats, hit 100 on 11 October 1793 in Philadelphia.",
+    "category": "world.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "On October 11th, 1984, Kathryn Sullivan, became the first American woman to walk in space.",
+    "category": "world.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "The Tower of Pisa has over 300 steps inside.",
+    "category": "world.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "The Tower of Pisa was closed for over a decade due to reconstruction.",
+    "category": "world.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "The estimated weight of the Tower of Pisa is over 16,000 metric tons.",
+    "category": "world.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "The national fruit of the Philippines is mango.",
+    "category": "world.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "There are living creatures beneath and inside the ice of glaciers in Alaska.",
+    "category": "world.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Salmon from the Kenai River must weigh at least 25 pounds more than salmon caught elsewhere in Alaska to qualify as a trophy.",
+    "category": "world.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "There are two active volcanoes in Lake Clark National Park at the North End of the Alaskan Peninsula.",
+    "category": "world.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Psychologists say that more of our fantasies are about money than sex.",
+    "category": "world.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Central Park is the largest city park in the United States.",
+    "category": "world.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "The month of July is named after Julius Caesar.",
+    "category": "world.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Deborah Harry and Dan Aykroyd are both Canadians born on the same day in July.",
+    "category": "world.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "The Declaration of Independence consists of 2 pages.",
+    "category": "world.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Every year July begins on the same day of the week as April.",
+    "category": "world.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "July is one of the 8 months that have 31 days in them.",
+    "category": "world.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Walter E. Disney was born in Florida.",
+    "category": "world.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Miami University is in Florida.",
+    "category": "world.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "The Tenth Amendment of the United States Bill of Rights states that any powers not given to the Federal Government are given to the state or the people.",
+    "category": "world.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "The United States Constitution and the United States Bill of Rights were adopted at the same time.",
+    "category": "world.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Chuck Norris and Christie Brinkley pitch ads for Bowflex.",
+    "category": "world.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Kelly Ripa has done commercials for Tide on the Run Stick which can remove fresh drink and food stains in a flash.",
+    "category": "world.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Lt. George Washington first made a name for himself by defeating the French in the battle at Fort Necessity in 1754.",
+    "category": "world.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "During the Samaritan Revolt the Church of the Nativity in Bethlehem was destroyed.",
+    "category": "world.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "In 1940, the population of Bethlehem was mostly Christian.",
+    "category": "world.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "An estimated 2,000 Christians left Bethlehem during the period of 2000 - 2003.",
+    "category": "world.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Billy Dee Williamss middle name is December.",
+    "category": "world.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "On December 1, 1913 Ford Motor Company introduced standard seatbelts.",
+    "category": "world.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "The Ford Mustang first debuted in 1965.",
+    "category": "world.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "NASCAR stands for National Association For Stock Car Auto Racing.",
+    "category": "world.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "The Ferrari was founded by Enzo Ferrari in 1928.",
+    "category": "world.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "1969s Woodstock Festival was held in Woodstock, New York.",
+    "category": "world.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Holland is divided into North and South provinces.",
+    "category": "world.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Gatorade was named after the University of Florida Gators football team.",
+    "category": "world.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Waschmule, one of the largest swimming pools, in Europe is 324 feet long.",
+    "category": "world.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "The name Illinois is Algonquin for tribes of intelligent men.",
+    "category": "world.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "The Sugar Maple is the state tree of Pennsylvania.",
+    "category": "world.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Michigan is comprised of two entirely separate land masses.",
+    "category": "world.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Michigan is home to two NHL hockey teams.",
+    "category": "world.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Michigan is considered to be primarily a Democratic Party state rather than a Republican Party state.",
+    "category": "world.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "In Ernest Thayers poem there is no joy in Mudville because mighty Casey tore the cover off the ball to score a home run.",
+    "category": "world.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Elmo Shropshire is the narrator in a movie named Grandma Got Run Over By a Reindeer.",
+    "category": "world.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "There was a movie based on the song Grandma Got Run Over by a Reindeer.",
+    "category": "world.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "The F.O.P. is an organization for police officers.",
+    "category": "world.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Is it true that Interpol is a law enforcement body that is dependent on information and cooperation of police agencies throughout the world.",
+    "category": "world.txt",
+    "answer": "Yes",
+    "choices": [
+      "A. No",
+      "B. Yes"
+    ]
+  },
+  {
+    "question": "In Australia, Santas sleigh is not pulled by reindeer but by eight white kangaroos.",
+    "category": "world.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Of the 500 known coral species in the world, 488 are found in the Philippines.",
+    "category": "world.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Is English an official language in the Philippines?",
+    "category": "world.txt",
+    "answer": "Yes",
+    "choices": [
+      "A. Yes",
+      "B. No"
+    ]
+  },
+  {
+    "question": "Some modern submarines have equipment capable of generating oxygen for their crew, by extracting it from water.",
+    "category": "world.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "The Kaiten was one of the deadliest midget submarines used by the Imperial Japanese Navy.",
+    "category": "world.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Niagara Falls isnt the highest waterfall in New York State.",
+    "category": "world.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "The book The Holy Blood and the Holy Grail, issued in London 1982, puts forward a hypothesis that Jesus married Mary Magdalene.",
+    "category": "world.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "The novel Dracula was inspired by the Order of the Dragon.",
+    "category": "world.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Skull and Bones is a secret society at Harvard University.",
+    "category": "world.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "The cross and the rose were symbols of Rosicrucianism.",
+    "category": "world.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "The world map in the United Nations flag represents all the continents of the world.",
+    "category": "world.txt",
+    "answer": "No",
+    "choices": [
+      "A. Yes",
+      "B. No"
+    ]
+  },
+  {
+    "question": "The Sturgis Motorcycle Rally, which is held each first full week of August, originated in North Dakota.",
+    "category": "world.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "A former US president, named William Jefferson Blythe III, was born on August 19, 1946.",
+    "category": "world.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "August is designated as National Immunization Awareness Month.",
+    "category": "world.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Although never on display, the Smithsonian has among all its dusty artifacts John Dillingers penis.",
+    "category": "world.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Samhain is generally regarded as The Celtic New Year.",
+    "category": "world.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "In modern Ireland and Scotland some areas still have the tradition of setting a place for the dead at Samhain.",
+    "category": "world.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Sam Hain was the name of a character in the cartoon The Real Ghostbusters",
+    "category": "world.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "The word bonfire comes from the tradition of cooking meat on open fires during the Samhain ceremony.",
+    "category": "world.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "In 1875, Mardi Gras was declared an official holiday in Louisiana.",
+    "category": "world.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Mardi Gras in New Orleans was cancelled during World War II.",
+    "category": "world.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "The official Mardi Gras colors - purple, gold and green, were chosen in 1872.",
+    "category": "world.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "John Brown was a radical abolitionist who attempted to start a slave uprising by raiding an Armory in Harpers Ferry, West Virginia.",
+    "category": "world.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "The first railroad built in the Philippines connects Manila to Dagupan.",
+    "category": "world.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "The topographic profile of Jerusalem is characterized by a number of valleys, surrounding all sides of the city.",
+    "category": "world.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Tulips originated from Turkey.",
+    "category": "world.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Did turkeys come from Turkey?",
+    "category": "world.txt",
+    "answer": "No",
+    "choices": [
+      "A. Yes",
+      "B. No"
+    ]
+  },
+  {
+    "question": "Camel fighting is Turkeys national sport.",
+    "category": "world.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "According to Turkish tradition, a stranger stopping by your house must be treated well.",
+    "category": "world.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Lokum is known as Turkish delight.",
+    "category": "world.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "The remains of only one of the Seven Wonders of the Ancient World can be found in Turkey.",
+    "category": "world.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "St. Nicholas was born in modern-day Turkey.",
+    "category": "world.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "The town of French Lick is located in the state of Ohio.",
+    "category": "world.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Department of Transportation (DOT) on-time departure statistics are measured based on the time the aircraft actually leaves the ground.",
+    "category": "world.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "In modern aircraft, the flight crew will consist of 3 persons on the flight deck.",
+    "category": "world.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Can firearms be carried on passengers aboard an aircraft?",
+    "category": "world.txt",
+    "answer": "No",
+    "choices": [
+      "A. No",
+      "B. Yes"
+    ]
+  },
+  {
+    "question": "Dry ice may be carried aboard an aircraft in the baggage compartment in small amounts. However, the Captain of the flight must receive a DI-595 (Dry Ice) notification prior to departure.",
+    "category": "world.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "MUNI serves San Francisco.",
+    "category": "world.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "The F-15 was produced to compete with Soviet Migs.",
+    "category": "world.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Since it gained its independence from the Spanish Empire, the Netherlands has always been a monarchy.",
+    "category": "world.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "The Netherlands has the biggest sea port of Europe.",
+    "category": "world.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "The Netherlands was the largest exporter of agricultural products in the world for 2006.",
+    "category": "world.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "South Carolina and North Carolina were one colony under the British until 1712.",
+    "category": "world.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "On 12 April 1861, the first shots of the civil war were fired on the U.S. Army garrison in Beaufort South Carolina, thus beginning the Civil War. (Known to many in South Carolina as the war of Northern Aggression.)",
+    "category": "world.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "South Carolina was the last of the southern states to secede from the Union in 1861.",
+    "category": "world.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Scotland has the lowest proportion of redheads in the world.",
+    "category": "world.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Haggis is the national dish of Scotland.",
+    "category": "world.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "The Tartan Army is the nickname of Scotlands national football team.",
+    "category": "world.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "J.M. Barrie, the creator of Peanuts, was Scottish.",
+    "category": "world.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Scotlands Loch Ness is allegedly inhabited by the Loch Ness Monster.",
+    "category": "world.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Alexander Graham Bell was a Scottish scientist.",
+    "category": "world.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "John Logie Baird was a Scottish engineer.",
+    "category": "world.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "St. Luke is the patron saint of Scotland.",
+    "category": "world.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "King Bhumipol of Thailand, who was educated in the west, is an accomplished jazz musician.",
+    "category": "world.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "The hot peppers used to spice Thai food are native to Thailand.",
+    "category": "world.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Hoi An is a town in Vietnam famed for its unique lanterns.",
+    "category": "world.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Kyoto used to be the imperial capital of Japan.",
+    "category": "world.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Californias 50th Congressional District, which includes La Jolla, is said to be the wealthiest in the nation.",
+    "category": "world.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Chesty Puller retired from the Marine Corps in 1955 as the most decorated Marine in history.",
+    "category": "world.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Were the Marines the major American force in the Pacific during World War 2?",
+    "category": "world.txt",
+    "answer": "Yes",
+    "choices": [
+      "A. Yes",
+      "B. No"
+    ]
+  },
+  {
+    "question": "US Marines fought in the city of Fallujah during Operation Enduring Freedom.",
+    "category": "world.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Enlisted US Navy women are only permitted to wear 4mm-6mm gold ball earrings.",
+    "category": "world.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "According to US Navy Uniform Rules and Regulations, when a man or woman wears braids, they must be a maximum of 1/4 in. in diameter.",
+    "category": "world.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Sewn-in creases on all military shirts are optional according to US Navy regulations.",
+    "category": "world.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "According to US Navy regulations, a females nails should not be more than 1/4 inch past the finger tip.",
+    "category": "world.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "US Navy personnel assigned to Marine Corps units are authorized to wear Marine Corps service uniforms.",
+    "category": "world.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "The US Navy issued Peacoat is authorized for wear with civilian clothing.",
+    "category": "world.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "According to US Navy Uniform Rules and Regulations, while wearing the service, working, and dress uniforms, all bags must be carried on the left shoulder to allow saluting.",
+    "category": "world.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "According to US Navy Uniform rules, only one ring per hand is authorized in addition to a wedding or engagement set.",
+    "category": "world.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "The maximum number of wireless communication devices authorized for wear while wearing US Navy uniform is two.",
+    "category": "world.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "In the US Navy men and women wear the same size rating badge on the blue working jacket.",
+    "category": "world.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Us Navy Airmen and Airmen Apprenctices wear red stripes on the blue and white uniforms.",
+    "category": "world.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Sudan, Ireland, New Zealand, Singapore and Australia were once part of the British Empire.",
+    "category": "world.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "The British Antarctic Territory was formed in the 1960s.",
+    "category": "world.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "New Mexico used to be a British colony.",
+    "category": "world.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "The Cayman Islands are located in the Caribbean Sea.",
+    "category": "world.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Cyprus is a former British colony.",
+    "category": "world.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "The Welsh term hwyl, which means good spirit and enthusiasm, is rather similar to the Irish term craic.",
+    "category": "world.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "There is no word for no in the Japanese language.",
+    "category": "world.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Japanese weddings are usually small family affairs.",
+    "category": "world.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Foxwoods Resort Casino, famous as the biggest casino in the world, is located in Southeastern Connecticut.",
+    "category": "world.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Mystic Seaport was the center of the whaling industry in Connecticut.",
+    "category": "world.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Connecticut is the home of the Charter Oak.",
+    "category": "world.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "The University of Connecticut won both the mens and womens NCAA basketball championships in the same year.",
+    "category": "world.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Since the inception of the Man of the Year award through 2007, every sitting US President was chosen Man of the Year.",
+    "category": "world.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Joseph Stalin was selected as Time magazines Man (or Person) of the Year more than once.",
+    "category": "world.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Paul Martin served as President of Canada.",
+    "category": "world.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Is Canadas national anthem titled O Canada?",
+    "category": "world.txt",
+    "answer": "Yes",
+    "choices": [
+      "A. No",
+      "B. Yes"
+    ]
+  },
+  {
+    "question": "Sir Francis Drakes captained an English galleon called the Golden Phoenix.",
+    "category": "world.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "The Alaska state flag was designed by a 13-year-old.",
+    "category": "world.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "The Darfur crisis in western Sudan began as a result of tribal warfare between two black African tribes, the Fur tribe and the Zaghawa tribe.",
+    "category": "world.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "In May 2006 the Joint Equality Movement (JEM), one of the main rebel groups in Darfur, signed a peace deal with the Government of Sudan. As a result the rebel group split in two causing the pro-government side and the pro-rebel side to fight against each other.",
+    "category": "world.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Most of the black Africans in the Darfur region are Christian, which is another reason why there is conflict between their tribes and the nomadic Arabs.",
+    "category": "world.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "The Potala Palace was a chief residence of the Dalai Lama until the 14th Dalai Lama fled to India.",
+    "category": "world.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "The space between windows in the facade of the Stroganov Palace in Saint Petersburg, Russia features a mans profile.",
+    "category": "world.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "The Imperial harem of Topkapi Palace in Istanbul contained more than 400 rooms.",
+    "category": "world.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "The Culloden Moor, Scotland, the site of the Battle of Culloden, was once known by another name, Drummoisse Moor.",
+    "category": "world.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "The term used to describe the head of family/village in Scotland is laird.",
+    "category": "world.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "The name of the exiled Scottish Jacobite claimant to the thrones of England, Scotland, and Ireland was James Francis Edward Stuart.",
+    "category": "world.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Construction of the Alaska Railroad began in 1914.",
+    "category": "world.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "President Warren Harding  drove the final spike in the Alaska Railroad.",
+    "category": "world.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Czar Alexander II of Russia agreed to sell Alaska to the U.S. for two cents an acre.",
+    "category": "world.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Vitus Bering and naturalist George Stellar were the first white people to set foot in Alaska in 1735 .",
+    "category": "world.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "On November 7th, 2006, Sarah Palin, became the first female governor of the State of Alaska.",
+    "category": "world.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "All of these great athletes declared bankruptcy: Billy Sims, Leon Spinks, Lawrence Taylor, Johnny Unitas, Sheryl Swoopes.",
+    "category": "world.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "In the United States, elections are held on the Tuesday after the 1st Monday in November.",
+    "category": "world.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "McDonalds is the worlds largest user of toys.",
+    "category": "world.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Niles Beach is one of Cape Cods popular beaches.",
+    "category": "world.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Andrew Faneuil, a wealthy merchant, built Faneuil Hall and gave it to Boston on its completion in 1742.",
+    "category": "world.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "The ship that can be seen in Plymouth, Massachusetts is called the Mayflower.",
+    "category": "world.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "One of Nathaniel Hawthornes stories is called The Old Manse (Mosses from an Old Manse). The Old Manse was Nathaniel and his wife Sofias first home and is located in Concord, Massachusetts.",
+    "category": "world.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Kids from Russia celebrate their birthday with a chocolate birthday cake.",
+    "category": "world.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "In Scotland, kids celebrating their birthday are given â¤1 for every year of their age.",
+    "category": "world.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "On their birthday, Canadian kids get their nose greased with a margarine or butter for good luck.",
+    "category": "world.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Japanese kids always look beautiful on their birthday because they get a brand new set of clothes.",
+    "category": "world.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "In Italy, kids celebrating their birthday get tapped on the arm.",
+    "category": "world.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "The Taj Mahal is generally considered one of the seven wonders of the modern world.",
+    "category": "world.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Does the Taj Mahal comprise four minarets?",
+    "category": "world.txt",
+    "answer": "Yes",
+    "choices": [
+      "A. No",
+      "B. Yes"
+    ]
+  },
+  {
+    "question": "Did the Taj Mahal tomb have any jewels in it?",
+    "category": "world.txt",
+    "answer": "Yes",
+    "choices": [
+      "A. No",
+      "B. Yes"
+    ]
+  },
+  {
+    "question": "Do visitors of the Taj Mahal have to take off their shoes before entering the building?",
+    "category": "world.txt",
+    "answer": "Yes",
+    "choices": [
+      "A. Yes",
+      "B. No"
+    ]
+  },
+  {
+    "question": "Julius and Ethel Rosenberg were found guilty of treason and electrocuted on June 19, 1953.",
+    "category": "world.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Mays Landing is the county seat of Monmouth County.",
+    "category": "world.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Newton is the county seat of Sussex County.",
+    "category": "world.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "The unincorporated area of Toms River is the county seat of Warren County.",
+    "category": "world.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Early Toyotas looked like a Dodge Powerwagon or a Chevrolet.",
+    "category": "world.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "The term bush refers to less populated areas of Alaska, not always accessible by roads.",
+    "category": "world.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "The Iditarod Trail in Alaska was a sled dog mail route from Seward to Nome.",
+    "category": "world.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "The Exxon Valdez was an Alaskan oil company that gained widespread infamy due to a major oil spill in the end of the 80s.",
+    "category": "world.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "The headwaters of the Mississippi River originate in Minnesota.",
+    "category": "world.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Bono was a recipient of the Time magazines Person of the Year award.",
+    "category": "world.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Linus Pauling won two Nobel Prizes. Was he ever named Man (or Person) of the year by Time magazine?",
+    "category": "world.txt",
+    "answer": "Yes",
+    "choices": [
+      "A. No",
+      "B. Yes"
+    ]
+  },
+  {
+    "question": "Tennis player Billie Jean King is among the people named Man of the Year by Time magazine.",
+    "category": "world.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "No Man of the Year award was given by Time magazine in 1966.",
+    "category": "world.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "The founder and President of eBay won Time magazines Person of the Year award in 1999.",
+    "category": "world.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Is it true that the Fargo Theatre is a restored Gothic building?",
+    "category": "world.txt",
+    "answer": "No",
+    "choices": [
+      "A. No",
+      "B. Yes"
+    ]
+  },
+  {
+    "question": "The city of Fargo is home to an alternative high school named Woodrow Wilson.",
+    "category": "world.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "There are 51 countries in Africa.",
+    "category": "world.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "All orange juice in the Republic of Ireland is imported.",
+    "category": "world.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Russia has the longest coastline in the world.",
+    "category": "world.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Is the Taj Mahal located in India?",
+    "category": "world.txt",
+    "answer": "Yes",
+    "choices": [
+      "A. Yes",
+      "B. No"
+    ]
+  },
+  {
+    "question": "Is India the second most populous country in the world?",
+    "category": "world.txt",
+    "answer": "Yes",
+    "choices": [
+      "A. No",
+      "B. Yes"
+    ]
+  },
+  {
+    "question": "In 1931citizens of Tenino, Washington agreed to use wooden coins.",
+    "category": "world.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Prior to 1837 if  you mailed a letter, the person receiving the letter had to pay for postage.",
+    "category": "world.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "The state of Maryland has 23 counties.",
+    "category": "world.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Was Maryland the second state to ratify the United States Constitution?",
+    "category": "world.txt",
+    "answer": "No",
+    "choices": [
+      "A. No",
+      "B. Yes"
+    ]
+  },
+  {
+    "question": "Baltimore is the capital of Maryland.",
+    "category": "world.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Baltimore is the largest city in Maryland.",
+    "category": "world.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "442 is an area code of Maryland.",
+    "category": "world.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Pangulo is the Filipino term for President.",
+    "category": "world.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Manuel L. Quezon is the first President of the Commonwealth of the Philippines.",
+    "category": "world.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Romania is slightly smaller than the state of Oregon in terms of area.",
+    "category": "world.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "There is an Area 52.",
+    "category": "world.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "The Federal Government finally admitted Area 51âs existence in 1997.",
+    "category": "world.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Roswell Army Air Base was located in the middle of Area 51.",
+    "category": "world.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Area 51âs primary purpose is to support development and testing of experimental aircraft and weaponâs systems.",
+    "category": "world.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "The 91 Freeway is AKA The Riverside Freeway.",
+    "category": "world.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "If Im travelling from Placentia to Diamond Bar, I want to take the 57 (Orange) Freeway.",
+    "category": "world.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "The 55  in Orange County is known exclusively as the Costa Mesa Freeway.",
+    "category": "world.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Catalan, a language spoken by over 9 million EU citizens in the autonomous community of Catalan in Spain, became an official language of the EU in 2001.",
+    "category": "world.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "The US Constitution requires the Federal Government to make regular censuses.",
+    "category": "world.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Is there a restaurant  from the worldwide theme restaurant chain Planet Hollywood in Puerto Vallarta?",
+    "category": "world.txt",
+    "answer": "No",
+    "choices": [
+      "A. Yes",
+      "B. No"
+    ]
+  },
+  {
+    "question": "Puerto Vallarta is a popular gay travel destination.",
+    "category": "world.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Puerto Vallarta was once known as Las PeÃ±as.",
+    "category": "world.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Roman Catholicism is the predominant religion in the Philippines.",
+    "category": "world.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Alcatraz Island, also referred to as The Rock, is located in the San Francisco Bay.",
+    "category": "world.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "The Alcatraz prison was closed in 1963.",
+    "category": "world.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Al Capone was known as The Birdman of Alcatraz.",
+    "category": "world.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Wyoming is home to the 1st national park in the world.",
+    "category": "world.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Wyoming is among the five most populated states in the U.S.",
+    "category": "world.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Wyoming was the 1st U.S. state to give women the right to vote.",
+    "category": "world.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Wyoming has never elected a female governor.",
+    "category": "world.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "In 1975 Mexicos capital city hosted the XIX Olympic Games.",
+    "category": "world.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "If each NY borough was an independent city, Queens would be among the 10 most populous cities in the U.S.",
+    "category": "world.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "According to the 2006 American Community Survey, Queens has the largest Asian American population outside of the western U.S.",
+    "category": "world.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Hearings in camera allow for television or other news related cameras to be present in the U.S. court during the hearing.",
+    "category": "world.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "The Marbury v. Madison case (1803) was the first U.S. Supreme Court case to apply the emergent doctrine of judicial review to a congressional statute.",
+    "category": "world.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "The Plessy v. Ferguson U.S. Supreme Court case (1896) dealt with a crime on a riverboat in Louisiana.",
+    "category": "world.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Democrat Brad Henry became Governor of Oklahoma in November 2002.",
+    "category": "world.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Oklahoma City was founded during the Land Run of 1891.",
+    "category": "world.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "The first African-American owned bank in America was established in Boley, Oklahoma.",
+    "category": "world.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "In 2005 Oklahoma ranked 2nd in natural gas production in the United States.",
+    "category": "world.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Legendary actress Joan Crawford once lived in Oklahoma.",
+    "category": "world.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "The state of Oklahoma has only one time zone.",
+    "category": "world.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Indonesia comprises more than 35,000 islands.",
+    "category": "world.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "The biggest ethnic group in Indonesia is the Sundanese.",
+    "category": "world.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Detroit is north of Canada.",
+    "category": "world.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Detroit was a stop on the Underground Railroad.",
+    "category": "world.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "South Carolina declared its independence from Great Britain at the same time as the rest of the colonies, on July 4th, 1776.",
+    "category": "world.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Cochin is the capital of the Indian state Kerala.",
+    "category": "world.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "India is the 17th-largest country in the world in terms of area.",
+    "category": "world.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Mahatma Gandhi was the first president of India.",
+    "category": "world.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Lanhydrock in Cornwall is thought to be home to several ghosts, including a man believed to have been hanged outside the gatehouse by Civil War Royalists.",
+    "category": "world.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Quarry Bank Mil in Cheshire, England is thought to be haunted by a group of former workers.",
+    "category": "world.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Haifa has its own airport â the Haifa Airport.",
+    "category": "world.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Haifa contains one of Israels three oil refineries.",
+    "category": "world.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "During the Civil War the Confederacy had a Postmaster General, called Confederate-Post Office Department Postmaster General.",
+    "category": "world.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "The merchant ship Mary Celeste was discovered unmanned in the Atlantic Ocean in 1972.",
+    "category": "world.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Joyita was a commercial vessel that disappeared during World War II.",
+    "category": "world.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "According to a story the entire crew of Octavius was found dead, frozen, and almost perfectly preserved.",
+    "category": "world.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "The Baychimo, which turned into a notable ghost ship along the Alaska coast, was built in Sweden.",
+    "category": "world.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "The Netherlands is divided into two provinces called North Holland and South Holland.",
+    "category": "world.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "The flag of the Netherlands consist of three 3 equal horizontal bands of red, white, and blue.",
+    "category": "world.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "The Netherlands has a land border only with Belgium.",
+    "category": "world.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Lucy, the wooden gigantic elephant, can be seen in Margate, New Jersey.",
+    "category": "world.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "There is a floating wedding chapel in St. Petersburg, Florida.",
+    "category": "world.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "In Gravity Hill, Bedford County, Pennsylvania objects such as cars left on neutral appear to be rolling uphill against the force of gravity.",
+    "category": "world.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Carhenge is a replica of Englands Stonehenge located in Nebraska.",
+    "category": "world.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Rachel, Nevada lies on Highway 375, known as the Extraterrestrial Highway.",
+    "category": "world.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "The Desert of Maine is located beside a stretch of green pine trees and flowing streams.",
+    "category": "world.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "A large twine ball can be seen in Kansas.",
+    "category": "world.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "On Nantucket Island there are oaks trees famous for the magical creatures carved in them.",
+    "category": "world.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "A 134-feet high thermometer is located in Mojave Desert.",
+    "category": "world.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Bishop Castle is a massive stone castle hand built by Jim Bishop.",
+    "category": "world.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "The Great Barrier Reef is composed of over 2,900 individual reefs.",
+    "category": "world.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "The Royal Botanic Gardens are located near the center of downtown Sidney.",
+    "category": "world.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Castle Hill is a pink granite rock in Queensland, Australia.",
+    "category": "world.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Troy, the focus of the Trojan War described in the Iliad, is located in present day Greece.",
+    "category": "world.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "The legendary island Avalon was known as the isle of cherries.",
+    "category": "world.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Ð¢he Valley of the Kings is located in Egypt.",
+    "category": "world.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Timbuktu is a town in Zimbabwe.",
+    "category": "world.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Zanzibar is part of the Republic of Tanzania.",
+    "category": "world.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Camelot is a fortress-city associated with the legend of King Arthur.",
+    "category": "world.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Atlantis is a legendary island, first mentioned by Plato.",
+    "category": "world.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "The original inhabitants of Australia are the Aborigines.",
+    "category": "world.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "The lowest point of Australia is Lake Argyle.",
+    "category": "world.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Lake Eyre in Australia is among the largest areas of inland drainage in the world.",
+    "category": "world.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "The Uluru (or also Ayers Rock) rock formation in Australia is sacred to the Indigenous Aborigines.",
+    "category": "world.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Ashtabula is the county seat of Ashtabula County.",
+    "category": "world.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Ashtabula is home to a large number of people of Finnish, Italian, and Swedish descent.",
+    "category": "world.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Was Ashtabula an important stop on the Underground railroad, used to convey African-American slaves to Canada?",
+    "category": "world.txt",
+    "answer": "Yes",
+    "choices": [
+      "A. Yes",
+      "B. No"
+    ]
+  },
+  {
+    "question": "The Pentagon is the worlds largest office building by floor area.",
+    "category": "world.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "The Pentagon has 6 zip codes dedicated to it.",
+    "category": "world.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Construction of The Pentagon building began on September 11th, 1941.",
+    "category": "world.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "As of 2008, Robert Gates was the Secretary of Defense.",
+    "category": "world.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "The Pentagon was completely destroyed during the September 11th attacks in 2001.",
+    "category": "world.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "The fictional company Oscorp, run by Peter Parker, is #23 on the Forbes List.",
+    "category": "world.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Sirius Cybernaetics Corporation was featured in The Hitchhikers Guide to the Universe.",
+    "category": "world.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Fifth Avenue in NYC is lined with prestigious shops and is consistently ranked among the most expensive shopping streets in the world.",
+    "category": "world.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Does Brooklyn Bridge connect the boroughs of Staten Island and Brooklyn in New York City?",
+    "category": "world.txt",
+    "answer": "No",
+    "choices": [
+      "A. No",
+      "B. Yes"
+    ]
+  },
+  {
+    "question": "New York City was the first capital of the USA.",
+    "category": "world.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "A Sphinx features the body of a lion and a human head.",
+    "category": "world.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Pompeys Pillar in Alexandria is a red-granite column erected in honour of Roman Emperor Diocletain.",
+    "category": "world.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "The State of Deseret was proposed in 1849 by settlers in Salt Lake City.",
+    "category": "world.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Utah was part of United States when the Mormons first settled there.",
+    "category": "world.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Cairo is the most populous metropolitan area in Africa.",
+    "category": "world.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "In Cairo, the first two train cars of the subway are reserved for men only.",
+    "category": "world.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "The eastern half of Cairo is dominated by the government buildings.",
+    "category": "world.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "The Preslav Treasure was found in Bulgaria.",
+    "category": "world.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "The Tillia Tepe Treasure was found in Afghanistan.",
+    "category": "world.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "The Treasure of NagyszentmiklÃ³s was found in present-day Romania.",
+    "category": "world.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "The Java treasure troves were found on a ship that sank off the shores of Indonesia more than 1,000 years ago.",
+    "category": "world.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Florence is located in the Italian region of Tuscany.",
+    "category": "world.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "The Sacra di San Michele, also known as Saint Michaelâs Abbey, is located on Mount Pirchiriano.",
+    "category": "world.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Mount Vesuvius eruption in AD 79 led to the burying and destruction of the Roman cities of Pompeii and Herculaneum.",
+    "category": "world.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Paestum was a Greek colony, originally known as Poseidonia.",
+    "category": "world.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Galileo Galilei is said to have dropped two cannon balls from the Leaning Tower of Pisa.",
+    "category": "world.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "In the 2000 film Gladiator, the Colosseum was re-created via computer-generated imagery.",
+    "category": "world.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Joseph Pulitzer and William Randolph Hearst are often blamed for drawing the US into the Spanish-American War.",
+    "category": "world.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Yogyakarta used to be the capital of Indonesia.",
+    "category": "world.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Shuri Castle is a symbol of the Japanese city of Okinawa.",
+    "category": "world.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Hue is an ancient imperial city, located in Vietnam.",
+    "category": "world.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "American actor Errol Flinn contributed to the development of tourism in Port Antonio, Jamaica.",
+    "category": "world.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "The Valley of the Kings is located in Egypt.",
+    "category": "world.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Malindi is a town in the Bay of Kenya located 120 km northeast of Mombasa Island.",
+    "category": "world.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Advice columnists Ann Landers and Abigail Van Buren were twin sisters.",
+    "category": "world.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "The capital of Iowa, Des Moines, was named after an Indian chief.",
+    "category": "world.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Father Flannigan started Boys Town, a home for wayward and orphaned boys in Council Bluffs, Iowa.",
+    "category": "world.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Pope John Paul II held a momentous gathering in 1979 near Des Moines, Iowa.",
+    "category": "world.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Most marine pipelines are laid by the pontoon method of floating the pipe at the sea surface before lowering it to the ocean floor.",
+    "category": "world.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Honduras is one of the 10 richest countries in the Western Hemisphere.",
+    "category": "world.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "The State of the Vatican City is a landlocked city-state situated within the city of Rome.",
+    "category": "world.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "St. Peters Basilica is the official ecclesiastical seat of the Pope.",
+    "category": "world.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "The only official language of the Vatican city is Italian.",
+    "category": "world.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Constantinople was established by Roman emperor Constantine I around 330 AD on the site of the ancient Greek city Byzantium.",
+    "category": "world.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "The Anastasian Wall was part of an outer defense system of Constantinople.",
+    "category": "world.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "There is a French federation of course camarguaise.",
+    "category": "world.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Horace Tabor was in the US Senate, but was he ever elected?",
+    "category": "world.txt",
+    "answer": "No",
+    "choices": [
+      "A. Yes",
+      "B. No"
+    ]
+  },
+  {
+    "question": "Back in the days of large families in Denver, did Baby Doe and Horace have any children?",
+    "category": "world.txt",
+    "answer": "Yes",
+    "choices": [
+      "A. No",
+      "B. Yes"
+    ]
+  },
+  {
+    "question": "The 1920 silent film Terror Island, starring Harry Houdini and directed by James Cruze, was filmed on Catalina Island.",
+    "category": "world.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "The Greek island Santorini took its present form after a huge volcanic eruption in 1650 BC.",
+    "category": "world.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Pamalican Island is part of the Philippines.",
+    "category": "world.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Lizard Island is Australias northernmost island resort.",
+    "category": "world.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Bali is known as the Island of the Thousand Temples.",
+    "category": "world.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Rutgers University was founded in 1766.",
+    "category": "world.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Rutgers University is known for its fat sandwiches.",
+    "category": "world.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Rutgers Stadium is located in New Brunswick.",
+    "category": "world.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "The Rutgers New Brunswick campus is so large that it has its own bus system.",
+    "category": "world.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Palawan is the largest province of the Philippines.",
+    "category": "world.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "The popular Christmas carol Silent Night was composed in Austria.",
+    "category": "world.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "A feast known as the consoda takes place on the morning of Christmas Day in Russia.",
+    "category": "world.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "In Italy children receive gifts from an old woman named La Befana.",
+    "category": "world.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "In the US, on the Saturday after Thanksgiving, Santa Claus comes to announce the beginning of the Christmas shopping season.",
+    "category": "world.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "In Sweden, Christmas celebrations begin on December 13th with the Saint Lucia ceremony.",
+    "category": "world.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "The depth of soil influences vegetation, as does the range of nutrients in the soil.",
+    "category": "world.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Does desertification mean turning land into desert?",
+    "category": "world.txt",
+    "answer": "Yes",
+    "choices": [
+      "A. Yes",
+      "B. No"
+    ]
+  },
+  {
+    "question": "The steel industry used to be strongly linked to coalfield locations.",
+    "category": "world.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "The Temple of Apollo Epicurius is located in Bassae.",
+    "category": "world.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "The Monastery of Saint John the Theologian and the Cave of the Apocalypse are located on the Greek island of Patmos.",
+    "category": "world.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Portofino is located on the Italian Riviera.",
+    "category": "world.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Alpbach is a resort in Western Austria.",
+    "category": "world.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "South Beach is a neighborhood in the city of Miami Beach, Florida, United States.",
+    "category": "world.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Queenstown, a resort town in Otago, New Zealand was the base for filming E.T.: The Extra Terrestrial.",
+    "category": "world.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "All US bills feature a president on the front.",
+    "category": "world.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Mutilated currency is defined as money that is very badly damaged due to fire, water, chemicals, explosives, animals or extended damage from burying. Can you get reimbursed for damaged money in the US?",
+    "category": "world.txt",
+    "answer": "Yes",
+    "choices": [
+      "A. Yes",
+      "B. No"
+    ]
+  },
+  {
+    "question": "Does the US one-dollar bill have the oldest design of all modern U.S. currency?",
+    "category": "world.txt",
+    "answer": "No",
+    "choices": [
+      "A. Yes",
+      "B. No"
+    ]
+  },
+  {
+    "question": "It is more difficult to plan a pipeline route in the North Sea than it is in the Gulf of Mexico due to the North Seas highly uneven topography.",
+    "category": "world.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "It is always easier to plan a pipeline route at landfall, where the pipeline approaches the shore, than in very deep water.",
+    "category": "world.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "The deep ocean floor is void of life and environmental issues are not a concern when designing a pipeline route there.",
+    "category": "world.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "When a pipeline begins and terminates in the same country, but a section crosses into a neighboring country, the neighboring federal authorities and local governments have jurisdiction over that part of the pipeline.",
+    "category": "world.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Red is a predominant color in Chinese New Year decorations.",
+    "category": "world.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "At Christmas, girls in the Czech Republic and Slovakia throw a shoe over their shoulders.",
+    "category": "world.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "According to a tradition in Poland, during Christmas Eve dinner the host must serve 24 dishes.",
+    "category": "world.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "In India, New Years Day is celebrated in different times of the year at different places.",
+    "category": "world.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "In North America there is a tradition to fill a crystal glass with water on New Years Eve.",
+    "category": "world.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "In the Netherlands New Years Eve is called Oud en Nieuw (Old and New).",
+    "category": "world.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Bobby Seale was killed in a police shootout on May 6th, 1973.",
+    "category": "world.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "The Black Panther Party started free breakfast programs for children, free clinics for the greater Oakland community, and brought Black history to American Schools.",
+    "category": "world.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Huey P. Newton was killed by his drug dealer.",
+    "category": "world.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "The Sun of May, one of the national emblems of Argentina, is a representation of an Inca god.",
+    "category": "world.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "The Argentine Cockade is of the same colors as the national flag of Argentina.",
+    "category": "world.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Peronism is a term referring to an Argentine political movement.",
+    "category": "world.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Argentina declared independence from Spain in 1816.",
+    "category": "world.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Women are prohibited to enter the monasteries in the Holy Mountain in Greece.",
+    "category": "world.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "In the 1930s, the first Greek beauty pageant contestant to win the Miss Europe titled sneaked into the Holy Mountain dressed up as a man.",
+    "category": "world.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "The Bay of Pigs Invasion of 1961 was an unsuccessful attempt to overthrow the Cuban government of Fidel Castro.",
+    "category": "world.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "The fortress Castillo de la Real Fuerza on the western side of the harbour in Havana was built as a defence against pirate attacks.",
+    "category": "world.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "In 2008, Fidel Castro was succeeded as President of Cuba by his son Raul.",
+    "category": "world.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Bacardi is a company founded in Santiago de Cuba.",
+    "category": "world.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "The Palacio de los Capitanes Generales is the official residence of the Cuban President.",
+    "category": "world.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "MÃ¼hlburg is a borough of Berlin, the capital of Germany.",
+    "category": "world.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "In the center of the German city Karlsruhe there is a palace from which the streets radiate outwards.",
+    "category": "world.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Schloss Johannisburg is a castle in Aschaffenburg, Germany.",
+    "category": "world.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Reichenau Island, which was declared a World Heritage Site because of its monastery, is in southern Germany.",
+    "category": "world.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "The Nymphenburg Palace is a baroque palace situated in the center of Berlin.",
+    "category": "world.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Chiemsee is a lake in Bavaria, Germany.",
+    "category": "world.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "The Pantanal is a tropical wetland with a number of different ecosystems.",
+    "category": "world.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "The Palm Jumeirah is an artificial archipelago.",
+    "category": "world.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Burj Al Arab is a luxury hotel in Dubai.",
+    "category": "world.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Islam is the official religion of the United Arab Emirates.",
+    "category": "world.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "The Hydropolis Underwater Hotel in Dubai is the worldâs first underwater hotel.",
+    "category": "world.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "The Royal Palace of Madrid is decorated by artists such as VelÃ¡zquez, Caravaggio and Goya.",
+    "category": "world.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "The Cathedral of Toledo is an example of Gothic architecture.",
+    "category": "world.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "There is an antique wooden figure of Mother Mary and her infant in the Montserrat Monastery, Barcelona, Spain.",
+    "category": "world.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Paella is an example of typical Valencian food.",
+    "category": "world.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "The Silk Road passes through the city of Xian.",
+    "category": "world.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Baidicheng (The White Emperor City) is located on Yangtze River.",
+    "category": "world.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "The Mogao Caves form a system of Buddhist temples.",
+    "category": "world.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Guilin is a city located on the Li River.",
+    "category": "world.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "The Wolong National Nature Reserve was set up to save the declining giant panda population.",
+    "category": "world.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "John Brown Universitys basketball team is nicknamed the Golden Hawks.",
+    "category": "world.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "The Old Town, or StarÃ© MÄsto, is a medieval settlement of Prague, Czech Republic.",
+    "category": "world.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "The famous Charles Bridge in Prague was constructed in the 18h century.",
+    "category": "world.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Prague Castle has been the residence of the Kings of Bohemia, Holy Roman Emperors and presidents of Czechoslovakia and the Czech Republic.",
+    "category": "world.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "The dancing House in  Prague, Czech Republic was named âGinger and Fredâ.",
+    "category": "world.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "KarlÅ¡tejn Castle in Prague was founded by Charles IV, Holy Roman Emperor in the 16th century.",
+    "category": "world.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "The Powder Tower is a Gothic tower in Prague.",
+    "category": "world.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Troja Palace is a Gothic palace in the Czech capital, Prague.",
+    "category": "world.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "The Topkapi Palace is surrounded by sea on three sides.",
+    "category": "world.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "The Topkapi Palace is located in Istanbul.",
+    "category": "world.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "The Topkapi Palace was constructed in 1765.",
+    "category": "world.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "The Topkapi palace has asymmetrical design.",
+    "category": "world.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "There is a circumcision room in one of Topkapi Palaces courtyards.",
+    "category": "world.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "The famous Topkapi dagger is ornamented with large emeralds.",
+    "category": "world.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Columna de la Independencia, known as El Angel, was built to commemorate the centennial of the beginning of Mexicos War of Independence.",
+    "category": "world.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "The Great Pyramid of Tenochtitlan in Mexico City was dedicated to Huitzilopochtli, god of war and Tlaloc, god of rain and agriculture.",
+    "category": "world.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "During the Mexican-American War, General John A. Quitman became the second American to ever rule from the National Palace of Mexico.",
+    "category": "world.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Much of the building materials of the National Palace of Mexico are from the original palace that belonged to Moctezuma II.",
+    "category": "world.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "In Mexico City there is a statue honoring Charles IV.",
+    "category": "world.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "The old name of Phuket is Talang, which means sea nose.",
+    "category": "world.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Phuket is located in Andaman Sea near southern Thailand.",
+    "category": "world.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Patong Beach is located on the west coast of Phuket Island.",
+    "category": "world.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Tin mining used to be a major source of income for Phuket Island.",
+    "category": "world.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "The majority of the population on Phuket Island is Muslim.",
+    "category": "world.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Phuket Island has a tropical climate.",
+    "category": "world.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Singapore created a constitution on June 3, 1959 after achieving full internal self-government.",
+    "category": "world.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "In 1963, Singapore became part of Malaysia.",
+    "category": "world.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "The capital of the island country Ibiza is its largest city - Eiviss Cuidad (Ibiza City).",
+    "category": "world.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "A statue of two ancient emperors, named Huangdi and Yandi, is located in China.",
+    "category": "world.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "The Motherland Calls is a statue designed to commemorate the Soviet victory in the Eastern Front of World War II.",
+    "category": "world.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Christ the Redeemer is a statue located at the peak of the Corcovado mountain.",
+    "category": "world.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "The Dominican Republic is located on the island of Hispaniola.",
+    "category": "world.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Christianity is the predominant religion in the The Dominican Republic.",
+    "category": "world.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "The American independence was recognized by Great Britain on September 3, 1783, by the Treaty of London.",
+    "category": "world.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "The following excerpt is taken from the 13th Amendment.\n\nNeither slavery nor involuntary servitude, except as a punishment for crime whereof the party shall have been duly convicted, shall exist within the United States, or any place subject to their jurisdiction.",
+    "category": "world.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "October is one of 7 months with 31 days.",
+    "category": "world.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Thanksgiving is celebrated on the second Monday of October in Canada.",
+    "category": "world.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "The Shetland Islands, which belong to Scotland, were once Norwegian.",
+    "category": "world.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "It is rumoured that there are two monsters in Scotland.",
+    "category": "world.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Is the village of Berwick in Scotland?",
+    "category": "world.txt",
+    "answer": "No",
+    "choices": [
+      "A. No",
+      "B. Yes"
+    ]
+  },
+  {
+    "question": "The Broons are a fictional Scottish family.",
+    "category": "world.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Dr. Hook and the Medicine Show finally got their name on the cover of the March 29, 1973 issue of Rolling Stone magazine.",
+    "category": "world.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "A small business is defined as business whose number of employees is under 1000.",
+    "category": "world.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Free Trade can refer to goods, services, labour and capital.",
+    "category": "world.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Protectionism is an economic policy of promoting domestic industries through debunking foreign goods.",
+    "category": "world.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Prices of goods rise when quantity diminishes.",
+    "category": "world.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "There was a visual difference between the Titanic and its sister ship, the Olympic.",
+    "category": "world.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "The Titanic had one steam turbine engine and two conventional steam engines.",
+    "category": "world.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "There are 52 stars on the United States flag.",
+    "category": "world.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "There are two stars on the Panama flag.",
+    "category": "world.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "The letter R was found in the middle of the old Rwanda flag.",
+    "category": "world.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "In order for a Native American group to be recognized, it must be submitted to extensive genealogical investigation.",
+    "category": "world.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Article 4 of the U.S. Constitution deals with Relations Among the States.",
+    "category": "world.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "On October 12th 1492, after sailing across the Atlantic Ocean, Spanish explorer Christopher Columbus landed on a Bahamian island, thinking he had reached the Spice Islands of East Asia. He claimed the land for Isabella and Ferdinand of Spain, regardless of the indigenous population living there.",
+    "category": "world.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "On 12 October in 1945, PFC Desmond T. Doss won the Congressional Medal of Honor for outstanding bravery as a medical corpsman and became the first conscientious objector in American history to receive the nations highest military award.",
+    "category": "world.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "12th October 1582 does not exist in Italy.",
+    "category": "world.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Radio Nederland, the BBC and Radio Berlin were three of the very few short wave radio stations broadcasting to international audiences before the 1930s. Short Wave referred to the wavelength of the radio frequencies such broadcasters used because they were much shorter than the typical 300 meter AM band used for commercial broadcasting.",
+    "category": "world.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "The first licensed commercial radio station in the United States was KDKA in Pittsburgh.",
+    "category": "world.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "A commercial radio stations first job is to educate its audience",
+    "category": "world.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "The reason for GEs purchase of the NBC Television Network is ironic - GE was forced to sell its RCA stock because RCA owned the fledgling broadcasting chain in the 1930s.",
+    "category": "world.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Is the following information true?\nEdward R. Murrow is often credited with creating broadcast news, but he was actually Director of Talks when CBS sent him to London as WWII started. Murrow built on predecessor Paul Whites work, in creating his system of European correspondents.",
+    "category": "world.txt",
+    "answer": "Yes",
+    "choices": [
+      "A. No",
+      "B. Yes"
+    ]
+  }
+]

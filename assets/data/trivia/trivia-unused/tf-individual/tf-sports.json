@@ -1,0 +1,3971 @@
+[
+  {
+    "question": "Professional wrestler Ric Flair was once manager of the WWEs RAW brand.",
+    "category": "sports.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "RAW wrestling star Kurt Angle was shaved on stage after a match with Edge in 2002.",
+    "category": "sports.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Has wrestler Bret Hart been inducted in the WWE Hall of Fame?",
+    "category": "sports.txt",
+    "answer": "Yes",
+    "choices": [
+      "A. Yes",
+      "B. No"
+    ]
+  },
+  {
+    "question": "The Cowboys were originally called the Dallas Texans.",
+    "category": "sports.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Rashard Lewis was the 3rd pick in 1998.",
+    "category": "sports.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "The athletic teams of St. Johnâs University were called the Redmen in the 1920s.",
+    "category": "sports.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "The nickname for the University of Washington is the Huskies.",
+    "category": "sports.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Hulk Hogan has won a title at SummerSlam.",
+    "category": "sports.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "The first couple of years in Atlanta, the Braves were considered lovable losers.  They won the first NL West title in 1969, the first year of divisional play.",
+    "category": "sports.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "A Swedish boxer once held the boxing heavyweight title.",
+    "category": "sports.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "After retiring from basketball in 1993, Michael Jordan spent the next year playing professional baseball.",
+    "category": "sports.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "American professional wrestler John Cena was born in Tampa, Florida in 1975.",
+    "category": "sports.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "The real name of Canadian professional wrestler Trish Stratus is Patricia Sue Stratus.",
+    "category": "sports.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Professional wrestler JBL wrote a book titled Get More Cash Instantly.",
+    "category": "sports.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "On September 11, 1985, Pete Rose hit a home run to break Ty Cobbs career hits record of 4,192 hits.",
+    "category": "sports.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Cowboy Bob Orton wrestled at the first Starrcade, and won.",
+    "category": "sports.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "The movie Eight Men Out depicts the scandal that followed after several Chicago White Sox players allegedly accepted money to play poorly in the 1919 World Series against the New York Giants.",
+    "category": "sports.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "The Rose Bowl is an annual American college football game, usually played on January 1.",
+    "category": "sports.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Americas Team is a commonly used nickname for the Dallas Cowboys.",
+    "category": "sports.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "The Boston Red Sox are also known by the nickname The Old Town Team.",
+    "category": "sports.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "The Chicago Bears won Super Bowl XX.",
+    "category": "sports.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "The San Francisco 49ers defeated the Denver Broncos 55â10 in Super Bowl XXIV.",
+    "category": "sports.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "The New England Patriots won Super Bowl XXXVI.",
+    "category": "sports.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "The Steelers won their fifth Super Bowl in Super Bowl XL.",
+    "category": "sports.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "All variants of the game of billiards are played on a flat rectangular table with 6 pockets.",
+    "category": "sports.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Billiards has been an Olympic sport since the 2004 Athens Olympic Games.",
+    "category": "sports.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "During their last run in the WWE in 1996, the Bushwhackers won the WWE Tag Team Championship against the Nasty Boyz.",
+    "category": "sports.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "The WWE has allowed a handicapped wrestler to compete on their shows.",
+    "category": "sports.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "At the 2006 Survivor Series, the team of Triple H, Shawn Michaels, Matt and Jeff Hardy, and CM Punk shutout the team of Edge, Randy Orton, Gregory Helms, Johnny Nitro, and Mike Knox.",
+    "category": "sports.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Racing driver Jeff Gordon failed to qualify for Chase for the Nextel Cup in 2005.",
+    "category": "sports.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "The 19th hole is the colloquial term for the platform where golf players receive their awards.",
+    "category": "sports.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "A handicap is a numerical measure of an amateur golfers ability.",
+    "category": "sports.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Can players change their balls during the game?",
+    "category": "sports.txt",
+    "answer": "Yes",
+    "choices": [
+      "A. No",
+      "B. Yes"
+    ]
+  },
+  {
+    "question": "Legendary slugger Babe Ruth was once traded by the Boston Red Sox to the New York Yankees for Charley Root.",
+    "category": "sports.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "First baseman Eddie Murray was a switch hitter.",
+    "category": "sports.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Pete Rose only batted from the left side of the plate.",
+    "category": "sports.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Baseball player Hank Aaron only swung the bat from the right side of the plate.",
+    "category": "sports.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Babe Ruth was a switch hitter early in his career.",
+    "category": "sports.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Former baseball player Johnny Bench was a switch hitter in the minor leagues.",
+    "category": "sports.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Maury Wills was a right-handed hitter only for the Dodgers.",
+    "category": "sports.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Mickey Mantle was considered the most powerful switch hitter of his generation.",
+    "category": "sports.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Major League Baseball player Chipper Jones bats both left-handed and right-handed from the plate.",
+    "category": "sports.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Thirteen-time Gold Glove Award winner Ozzie Smith batted from the left side of the plate only.",
+    "category": "sports.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Willie Mays was a right-handed batter only while he played in the big leagues.",
+    "category": "sports.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Fillies are not allowed to run in the Kentucky Derby.",
+    "category": "sports.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Hall of Fame pitcher Tom Seaver started his career with the Chicago Cubs.",
+    "category": "sports.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Did Nolan Ryan ever pitched for the New York Mets?",
+    "category": "sports.txt",
+    "answer": "Yes",
+    "choices": [
+      "A. No",
+      "B. Yes"
+    ]
+  },
+  {
+    "question": "Steve Carlton was best known by his nickname Lefty.",
+    "category": "sports.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Rapid Robert Feller spent his entire 18-year career with the Cleveland Indians.",
+    "category": "sports.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Was Whitey Ford known as the chairman of the board for the New York Yankees?",
+    "category": "sports.txt",
+    "answer": "Yes",
+    "choices": [
+      "A. Yes",
+      "B. No"
+    ]
+  },
+  {
+    "question": "The only team Bob Gibson played for while in the major leagues was the St. Louis Cardinals.",
+    "category": "sports.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "In golf, a caddie is the person who carries a players bag.",
+    "category": "sports.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "The New England Patriots used to be called the San Diego Patriots.",
+    "category": "sports.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "The Miami Dolphins had the worst record in 2007.",
+    "category": "sports.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Generally regarded as one of the greatest hockey players of all time, Gordie Howe (aka Mr. Hockey) made his NHL debut in 1976 at the age of 18.",
+    "category": "sports.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "No communist country has ever hosted the Olympics.",
+    "category": "sports.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "American professional wrestler Kane is Undertakers step-brother in real life besides in the show.",
+    "category": "sports.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "In 2003, professional wrestler Triple H officially married Stephanie McMahon.",
+    "category": "sports.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Professional wrestler Lita was really pregnant in 2004.",
+    "category": "sports.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Former professional wrestler Brett The Hitman Hart was a six-time WWE heavyweight champion.",
+    "category": "sports.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Terry Funk won the NWA world title in 1975.",
+    "category": "sports.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "American football teams can use their allotted timeouts however they want.",
+    "category": "sports.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "The Green Bay Packers have won two consecutive Super Bowl games.",
+    "category": "sports.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "There can only be 10 American football players on the field at a time, while a play is live.",
+    "category": "sports.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "The Detroit Red Wings were among the Original Six members of the National Hockey League .",
+    "category": "sports.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Former Detroit Red Wings head coach Scotty Bowman started his coaching career in the NHL as head coach of the St. Louis Blues.",
+    "category": "sports.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Did Steve Yzerman play in the 2006 Winter Olympics for the Canadian ice hockey team?",
+    "category": "sports.txt",
+    "answer": "No",
+    "choices": [
+      "A. No",
+      "B. Yes"
+    ]
+  },
+  {
+    "question": "The motto of  the oldest established National Hockey League franchise, The Montreal Canadiens is:  To you from failing hands we throw the torch. Be yours to hold it high.",
+    "category": "sports.txt",
+    "answer": "Yes",
+    "choices": [
+      "A. No",
+      "B. Yes"
+    ]
+  },
+  {
+    "question": "Dale Earnhardt Sr. is the first driver to win Rookie of the Year and a NASCAR championship in consecutive years.",
+    "category": "sports.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Yogi Berra wore number 8 while catching and playing the outfield for the Yankees.",
+    "category": "sports.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Baseball player Reggie Jackson was nicknamed Mr. October.",
+    "category": "sports.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Lou Gehrig primarily pitched for the Yankees.",
+    "category": "sports.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Mickey Mantle was a rookie in 1951.",
+    "category": "sports.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Jack Chesbro won 41 games for New York in one season.",
+    "category": "sports.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Tony Lazzeri starred at shortstop for the 1927 Yankees.",
+    "category": "sports.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Bill Dickey wore number 8 when he played for the New York Yankees.",
+    "category": "sports.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "One of Babe Ruths nicknames was The Bambino.",
+    "category": "sports.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Whitey Ford is considered the Yankees greatest right-handed pitcher of all time.",
+    "category": "sports.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Joe Dimaggio was known as The Yankee Clipper and Joltin Joe.",
+    "category": "sports.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Paul William Bear Bryant coached the University of Alabama football team.",
+    "category": "sports.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Did John Heisman coach at Auburn University from 1895 until 1899?",
+    "category": "sports.txt",
+    "answer": "Yes",
+    "choices": [
+      "A. No",
+      "B. Yes"
+    ]
+  },
+  {
+    "question": "In 1992, William Laird Cowher became head coach of the Pittsburgh Steelers, replacing Chuck Noll.",
+    "category": "sports.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Did American football quarterback Peyton Manning play for the University of Tennessee?",
+    "category": "sports.txt",
+    "answer": "Yes",
+    "choices": [
+      "A. Yes",
+      "B. No"
+    ]
+  },
+  {
+    "question": "In 1945 Bryant was named head coach at the University of Maryland.",
+    "category": "sports.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "All manufactured golf clubs are for right-handed golfers.",
+    "category": "sports.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Is golf always relaxing to play?",
+    "category": "sports.txt",
+    "answer": "No",
+    "choices": [
+      "A. No",
+      "B. Yes"
+    ]
+  },
+  {
+    "question": "Eddie Mathews is the first Brave to play in Boston, Milwaukee, and Atlanta.",
+    "category": "sports.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Hank Aaron wore uniform number 3 while he was a Braves player.",
+    "category": "sports.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Warren Spahn was elected to the Hall of Fame by the Baseball Writers in 1973.",
+    "category": "sports.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Ralph Garr never won a batting title while playing with the Braves.",
+    "category": "sports.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Dale Murphy was a first round pick of the Atlanta Braves.",
+    "category": "sports.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Phil Niekro was famous for throwing a knuckle ball pitch.",
+    "category": "sports.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Tommie Aaron, who is Hank Aarons brother, played for the Braves.",
+    "category": "sports.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Steve Avery played Center Field for the Braves during his career.",
+    "category": "sports.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Johnny Logan was traded by the Milwaukee Braves to the Pittsburgh Pirates for Gino Cimoli on June 15, 1961.",
+    "category": "sports.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Felipe Rojas Alou played with the Braves during his entire career  .",
+    "category": "sports.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Hulk Hogan once defended his WWF title on Saturday Nights Main Event against King Harley Race.",
+    "category": "sports.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Weeb Ewbank was the actual name of a famous American professional football coach.",
+    "category": "sports.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Sanford was the real first name of Hall-of-Fame pitcher Koufax.",
+    "category": "sports.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Pele is the real name of the former Brazilian football player who won three World Cup medals.",
+    "category": "sports.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Monsanto Pope is the real name of a football player drafted by the Denver Broncos in 2002.",
+    "category": "sports.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Wilton was Stilt Chamberlains real first name.",
+    "category": "sports.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Coco Crisp is the real name of a Boston Red Sox center-fielder.",
+    "category": "sports.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Peerless Price is the given name of a wide receiver, famous for playing for the Buffalo Bills.",
+    "category": "sports.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Priest Holmes and Deacon Jones are both the actual names of two NFL stars.",
+    "category": "sports.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Mildred Ella Zaharias was a golfer and world-class female athlete whose nickname was Babe.",
+    "category": "sports.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Tug McGraw was the actual name of an all-star pitcher with the Mets and Phillies who died of brain cancer in 2004 at age of 60.",
+    "category": "sports.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Pete Rose was a switch hitter.",
+    "category": "sports.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Has Pete Rose won the Rookie of the Year Award?",
+    "category": "sports.txt",
+    "answer": "Yes",
+    "choices": [
+      "A. Yes",
+      "B. No"
+    ]
+  },
+  {
+    "question": "Pete Rose won the National League batting title in 1973.",
+    "category": "sports.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "The two sides of the tennis court are called the singles alleys.",
+    "category": "sports.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "In tennis, is it a disadvantage to be tall when you volley?",
+    "category": "sports.txt",
+    "answer": "No",
+    "choices": [
+      "A. Yes",
+      "B. No"
+    ]
+  },
+  {
+    "question": "It is obligatory to use one hand to make a backhand when you play tennis.",
+    "category": "sports.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "When learning to play tennis, it is good to know how to rally before you learn how to do spins, power, and angle.",
+    "category": "sports.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Jim Rice won the Rookie of the Year Award in 1975.",
+    "category": "sports.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Did Willie Mays ever win the Rookie of the Year Award?",
+    "category": "sports.txt",
+    "answer": "Yes",
+    "choices": [
+      "A. No",
+      "B. Yes"
+    ]
+  },
+  {
+    "question": "Did Pete Rose ever win the Rookie of the Year Award?",
+    "category": "sports.txt",
+    "answer": "Yes",
+    "choices": [
+      "A. Yes",
+      "B. No"
+    ]
+  },
+  {
+    "question": "Derek Jeter won the Rookie of the Year Award in 1997.",
+    "category": "sports.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Did Fernando Valenzuela win the Rookie of the Year Award in 1981?",
+    "category": "sports.txt",
+    "answer": "Yes",
+    "choices": [
+      "A. No",
+      "B. Yes"
+    ]
+  },
+  {
+    "question": "Willie McCovey won the Rookie of the Year Award while playing with the New York Giants.",
+    "category": "sports.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "The Yankees won the 1947 World Series over the Dodgers.",
+    "category": "sports.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "In the 1949 World Series the Yankees beat the Dodgers in six games.",
+    "category": "sports.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Babe Pinelli was the manager of the 1952 World Series-winning Yankees.",
+    "category": "sports.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "The Yankees won the World Series of 1953. It was their fifth straight World Series championship victory.",
+    "category": "sports.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "The Dodgers won the 1955 World Series over the Yankees in seven games.",
+    "category": "sports.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "The Dodgers beat the Yankees in 1956 to claim the World Series championship.",
+    "category": "sports.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "The 1977 Yankees beat the Dodgers in four games, all of which were decided by two runs or less.",
+    "category": "sports.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "The Yankees lost the first two games of the 1978 World Series. Then they bounced back to win the next four games.",
+    "category": "sports.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Driver Ryan Newman has in fact never won a USAC championship.",
+    "category": "sports.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Does NASCAR driver Ryan Newman have more than one ARCA victory?",
+    "category": "sports.txt",
+    "answer": "Yes",
+    "choices": [
+      "A. Yes",
+      "B. No"
+    ]
+  },
+  {
+    "question": "In ice hockey, the goalie is the only player allowed to play with a broken stick.",
+    "category": "sports.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "The NHL and IIHF (International Ice Hockey Federation) use the same size ice rink.",
+    "category": "sports.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "The New York Mets are the single oldest baseball team team without a no hitter.",
+    "category": "sports.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Jerry Koosman was traded from the Mets to the Twins and in return for Jerry Koosman, the Mets got Jesse Orosco.",
+    "category": "sports.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Bill Russells uniform number 6 was retired from the Celtics March 12, 1972.",
+    "category": "sports.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Wycliffe âWycâ Grousbeck was the first owner of the Boston Celtics.",
+    "category": "sports.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Boston Celtics player John Havlicek was elected to the NBA Hall Of Fame in 1983.",
+    "category": "sports.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "The Celtics were the winners of the NBA title in the 1985-86 season.",
+    "category": "sports.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "The logo of the Boston Celtics is a leprechaun.",
+    "category": "sports.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Is Dale Earnhardt Jr. an only child?",
+    "category": "sports.txt",
+    "answer": "No",
+    "choices": [
+      "A. No",
+      "B. Yes"
+    ]
+  },
+  {
+    "question": "The NFL players Peyton and Archie Manning are the only Manning family men known by their actual birth names.",
+    "category": "sports.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Yankee teammates Bernie Williams and Melky Cabrara were, respectively, born Bernardo and Melchior.",
+    "category": "sports.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Earl and Kultida Woods named their son Tiger when he was born on December 30, 1975 in Cypress, CA. because his birth had been a tough ordeal.",
+    "category": "sports.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "NFL running backs Duce Staley and Deuce McAllister are two of a kind, because both of their monikers are actual given names.",
+    "category": "sports.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Jock Callander is a former ice hockey player whose real first name is Jock.",
+    "category": "sports.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Brett Favres fathers name is Irvin Favre.",
+    "category": "sports.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Southern Mississippi originally offered Brett Favre a scholarship to play as defensive back.",
+    "category": "sports.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Brett Farve has never won a game in Texas Stadium (Home of the Dallas Cowboys) in his career.",
+    "category": "sports.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Both commissioner Kenesaw Mountain Landis and commissioner A. Bartlett Giamatti died while in office",
+    "category": "sports.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "In 1992, Bud Selig became the 10th baseball commissioner in Major League Baseball.",
+    "category": "sports.txt",
+    "answer": "No",
+    "choices": [
+      "A. No",
+      "B. Yes"
+    ]
+  },
+  {
+    "question": "The game of basketball was created to distract rowdy students.",
+    "category": "sports.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "The Basketball Hall of Fame was established in 1939.",
+    "category": "sports.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "According to the original rules of basketball, there was an overtime period of 5 minutes.",
+    "category": "sports.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "The inventor of basketball served in the Infantry.",
+    "category": "sports.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "There were no teams inducted into the Basketball Hall of Fame between 1961 and 2002.",
+    "category": "sports.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Oklahoma and Villanova played in the first Mens College Basketball final in 1939.",
+    "category": "sports.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Bill Bradley held the record for most points scored in a NCAA tournament game until 1999.",
+    "category": "sports.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Mike Scott, a former pitcher in Major League Baseball, threw a no-hitter for the Houston Astros.",
+    "category": "sports.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "The Stanley Cup Trophy has taken a ride on a roller coaster.",
+    "category": "sports.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "National Hockey League rules are slightly different from those used by the International Ice Hockey Federation.",
+    "category": "sports.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "No Russians played in the NHL until the dissolution of the Soviet Union in 1991.",
+    "category": "sports.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "The Meadowland is the home ice of the NHLs New York Rangers.",
+    "category": "sports.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Did David Wright play third baseman for the 2006 New York Mets?",
+    "category": "sports.txt",
+    "answer": "Yes",
+    "choices": [
+      "A. No",
+      "B. Yes"
+    ]
+  },
+  {
+    "question": "The New Jersey Devils have never won a Stanley Cup.",
+    "category": "sports.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "The New York Yankees beat the Boston Red Sox in the 1986 World Series.",
+    "category": "sports.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Jesse Orosco played shortstop for the New York Mets.",
+    "category": "sports.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Is a full count in baseball 2 balls and 2 strikes?",
+    "category": "sports.txt",
+    "answer": "No",
+    "choices": [
+      "A. No",
+      "B. Yes"
+    ]
+  },
+  {
+    "question": "Roger Maris home run record stood for 37 years until it was broken in 1998. Now his former single season record is not even in the top 5 of best home run seasons in Major League Baseball history.",
+    "category": "sports.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Mike Hampton is listed in the top 5 of all-time for the most home runs by a pitcher in a major league career for 2007.",
+    "category": "sports.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Babe Ruth led the American League in home runs in three different decades.",
+    "category": "sports.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "The National Womens Hockey League (NWHL) is the highest level of womens ice hockey in the world.",
+    "category": "sports.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "The Minnesota Wild are Minnesotas first National Hockey team.",
+    "category": "sports.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "The Womens National Basketball Association (WNBA) has a team in Minnesota--the Minnesota Lynx.",
+    "category": "sports.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Minnesota has a National Lacrosse League team called the Minnesota Wasps.",
+    "category": "sports.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Ken Kennedy is the real name of the professional wrestler nicknamed Mr. Kennedy.",
+    "category": "sports.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Is Michael Hickenbottom the real name of the professional wrestler known as Shawn Michaels?",
+    "category": "sports.txt",
+    "answer": "Yes",
+    "choices": [
+      "A. No",
+      "B. Yes"
+    ]
+  },
+  {
+    "question": "Trevor Rhodes is the real name of the professional wrestler known by the ring name Trevor Murdoch.",
+    "category": "sports.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Is professional wrestler Gregory Shane Helms known by the ring name Shane Helms?",
+    "category": "sports.txt",
+    "answer": "No",
+    "choices": [
+      "A. No",
+      "B. Yes"
+    ]
+  },
+  {
+    "question": "Victoria Varon is the real name of the professional wrestler going by the ring name Victoria.",
+    "category": "sports.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "In basketball, is picking up your dribble and taking two steps considered a travel?",
+    "category": "sports.txt",
+    "answer": "No",
+    "choices": [
+      "A. No",
+      "B. Yes"
+    ]
+  },
+  {
+    "question": "Was the standard basketball hoop ever lower or higher than 10 feet (3 m) throughout the history of basketball?",
+    "category": "sports.txt",
+    "answer": "No",
+    "choices": [
+      "A. Yes",
+      "B. No"
+    ]
+  },
+  {
+    "question": "In basketball, the standard dimensions of the little box on the backboard are 25 by 15 in (63 by 38 cm.)",
+    "category": "sports.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "There should be 2 referees in a basketball game according to the NBA rules.",
+    "category": "sports.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "The standard size of a NBA basketball court is 94 by 50 ft (29 by 15 m.)",
+    "category": "sports.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "At the end of the 2006 season, Dale Earnhardt, Jr. was a 3-time champ in the Busch Series Racing.",
+    "category": "sports.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Dale Earnhardt Jr.s first stock race car was a 1979 Monte Carlo.",
+    "category": "sports.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Dale Earnhardt, Jr. has an automotive degree.",
+    "category": "sports.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Bob Petit won the first NBA MVP award.",
+    "category": "sports.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Oscar Robertson is the first and only player to lead the NBA in scoring and assists in the same season.",
+    "category": "sports.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Ted Williams won 2 Triple Crowns in his career.",
+    "category": "sports.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Ted Williams is inducted in 3 different Halls of Fame.",
+    "category": "sports.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Steve Nash won the 2004-2005 Most Valuable Player Award.",
+    "category": "sports.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Jason Kidd won the MVP Award in 2003.",
+    "category": "sports.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Kobe Bryant scored 81 points against the Toronto Raptors on January 22 2006.",
+    "category": "sports.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Dwyane Wade won the NBA Finals MVP Award in 2006.",
+    "category": "sports.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Tracy McGrady used to play for the Toronto Raptors.",
+    "category": "sports.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Lebron James led the Cleveland Cavaliers into the NBA Finals in 2007.",
+    "category": "sports.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Tim Duncan was the MVP in 2001 and 2002.",
+    "category": "sports.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Kevin Garnett has never won the MVP Award.",
+    "category": "sports.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Shaquille Oneal won the Rookie of the Year Award in 1992.",
+    "category": "sports.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Yao MIng was the first ever number one draft pick from Asia.",
+    "category": "sports.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Ray Knight was the regular starting second baseman for the Mets throughout 1986.",
+    "category": "sports.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Roger Clemens started game 6 of the 1986 World Series.",
+    "category": "sports.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "George Foster played primarily third base for the Reds during the 1970s.",
+    "category": "sports.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Joe Nuxhall was only 15 when he made his major league debut with the Cincinnati Reds.",
+    "category": "sports.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "The Giants finished the 1986 regular season at 15-1 and were the NFC East Champions heading to the playoffs.",
+    "category": "sports.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Did Lee Petty take part in the first race at Daytona International Speedway?",
+    "category": "sports.txt",
+    "answer": "Yes",
+    "choices": [
+      "A. No",
+      "B. Yes"
+    ]
+  },
+  {
+    "question": "Dale Earnhardt, Jr. married in 2008.",
+    "category": "sports.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Did Dale Earnhardt, Sr. die at Daytona?",
+    "category": "sports.txt",
+    "answer": "Yes",
+    "choices": [
+      "A. Yes",
+      "B. No"
+    ]
+  },
+  {
+    "question": "The first five quarterbacks tied for the record for most touchdown passes in a game with 7 (this is true) played in the NFL before 1970.",
+    "category": "sports.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Junior Nation is the affectionate term applied to all NASCAR fans.",
+    "category": "sports.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "The PGA Championship is the championship of The PGA Tour Players Association.",
+    "category": "sports.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "From 1958, when the PGA tournament became a stroke play event, until 2006, only one person defended successfully his PGA Championship title.",
+    "category": "sports.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Women are not eligible to play in the PGA Championship.",
+    "category": "sports.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "At the 2006 FIFA World Cup, Italy had a goal disallowed for off side.",
+    "category": "sports.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Tony Hawk wrote an autobiography, titled Tony Hawk - the Birdman.",
+    "category": "sports.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Tony Hawk landed the first ever 900 (two and a half mid-air turns) at the 1999 X Games.",
+    "category": "sports.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Tony Hawk started skate boarding when he was nine years old.",
+    "category": "sports.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "A player once hit a home run off Jose Cansecos head.",
+    "category": "sports.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "The St. Louis Cardinals won the World Series for the first time in 1926.",
+    "category": "sports.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Tony La Russa became St. Louis Cardinals Manager in 1995.",
+    "category": "sports.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "The Sun Belt Conference has never had a team compete in the NCAA Mens Final Four.",
+    "category": "sports.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "The World Cup was once known as the Jules Rimet Cup.",
+    "category": "sports.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Terry Gannon was the only member of the 1983 North Carolina State University at Raleigh basketball team to have a successful NBA career.",
+    "category": "sports.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Jim Valvanos tenure as North Carolina States head basketball coach came to an end as a result of a National Collegiate Athletic Association investigation spurred on by a tell all book written by Dick Vitale.",
+    "category": "sports.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "After defeating Houston in the 1983 National Collegiate Athletic Association championship, North Carolina State did not make the field for the 1984 NCAA tournament.",
+    "category": "sports.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Dick Button was the first figure skater to do the now-standard flying camel spin.",
+    "category": "sports.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Former baseball player and radio/television sports announcer Philip Rizzuto can be heard on a  Meatloaf song .",
+    "category": "sports.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Phil Rizzuto had his number 2 retired by the New York Yankees.",
+    "category": "sports.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Gilbert Arenas wore the number 0 on his jersey because nobody could beat him in a one-on-one basketball game.",
+    "category": "sports.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "On February 25, 2006, Gilbert Arenas scored 46 points in less than 30 minutes.",
+    "category": "sports.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Gilbert Arenas was selected in the NBA 2006 All-Star game despite his poor averages that season thanks to the many fans that voted for him to be included.",
+    "category": "sports.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Up to the end of the 2007 NHL season, the Original Six team who has gone the longest without winning the Stanley Cup is the Chicago Blackhawks, having last won the cup in the 1960-1961 season.",
+    "category": "sports.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "As of 2007, the Toronto Maple Leafs have had 3 different names during their history.",
+    "category": "sports.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "You can buy paintball guns that feed the paintballs from a clip.",
+    "category": "sports.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "You can buy paintball land mines that are reusable.",
+    "category": "sports.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "In paintball, everybody in the game except observers is required to wear protective masks while a gun is in use.",
+    "category": "sports.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Im a Honky Tonk Man was the name of Honky Tonk Mans entrance music, for which he did the singing.",
+    "category": "sports.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "The Honky Tonk Man actually had a valet named Peggy Sue.",
+    "category": "sports.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "In 1954 Alan Blake of Southsea, England invented octopush which is an underwater form of hockey.",
+    "category": "sports.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Shannon Miller was the first American gymnast ever to win an indivdual gold medal at a non-boycotted games.",
+    "category": "sports.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Is Pat the Bat Burrell a right fielder?",
+    "category": "sports.txt",
+    "answer": "No",
+    "choices": [
+      "A. Yes",
+      "B. No"
+    ]
+  },
+  {
+    "question": "First baseman Ryan Howard was the 2006 MVP.",
+    "category": "sports.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Was Jimmy Rollins the everyday shortstop for the 2008 Philadelphia Phillies?",
+    "category": "sports.txt",
+    "answer": "Yes",
+    "choices": [
+      "A. No",
+      "B. Yes"
+    ]
+  },
+  {
+    "question": "Did Jason Werth come off the bench and hit a home run during the 2008 playoffs with the Dodgers?",
+    "category": "sports.txt",
+    "answer": "No",
+    "choices": [
+      "A. Yes",
+      "B. No"
+    ]
+  },
+  {
+    "question": "Did the Flying Hawaiian hit a home run in the 2008 game against the Milwaukee Brewers?",
+    "category": "sports.txt",
+    "answer": "Yes",
+    "choices": [
+      "A. Yes",
+      "B. No"
+    ]
+  },
+  {
+    "question": "Brett Michaels and Shawn Michaels are brothers.",
+    "category": "sports.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Did the tag team The Rockers consist of Shawn Michaels and Brett Michaels?",
+    "category": "sports.txt",
+    "answer": "No",
+    "choices": [
+      "A. No",
+      "B. Yes"
+    ]
+  },
+  {
+    "question": "Yankee Stadium had the first instant-replay display in baseball.",
+    "category": "sports.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Yankee Stadium was the first baseball field to have over 160 post-season games.",
+    "category": "sports.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Tom Browning pitched a perfect game on September 16, 1988 for the Cincinnati Reds.",
+    "category": "sports.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Kenny Rogers pitched a perfect game for the Texas Rangers.",
+    "category": "sports.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "The Steelers quarterback Ben Roethlisberger has a food item named after him.",
+    "category": "sports.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "By ITTF rules, when you serve, the ball must not bounce more than once on the opponents side of the table. If it does, then you lose the point (even though your opponent did not return the serve). This is to ensure that the serve is not so short as to be impossible to retrieve.",
+    "category": "sports.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "By ITTF rules, a game is played to 21, with the serve changing every 5 points. A game must be won by 2 points, so the score can sometimes exceed 21 points.",
+    "category": "sports.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "By ITTF rules, if you touch the table with your free hand while playing, you lose the point.",
+    "category": "sports.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "By ITTF rules, the ball cannot travel around the side of the net to reach the other side of the table. That is, the ball must travel over the net.",
+    "category": "sports.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "By ITTF rules, if player A hits the ball over the net, and the ball hits player Bs side of the table, and then, before player B has hit the ball, the ball travels back over to player As side of the table, then player A wins the point.",
+    "category": "sports.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "By ITTF rules, at the moment when the servers paddle makes contact with the ball, the ball must be located: (1) above the table, and (2) off the end of the table. In other words, the ball cannot be below the level of the table when its served, and the ball cannot be directly above the surface of the table when its served.",
+    "category": "sports.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "By ITTF rules, when a player is within one point of losing the game, it is his serve.",
+    "category": "sports.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "By ITTF rules, the server must throw the ball up at least 16 cm (approximately 6 inches) before hitting it with the paddle.",
+    "category": "sports.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "By ITTF rules, if a player is behind 7 points to zero, he loses the game immediately. This is called a skunk.",
+    "category": "sports.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "By ITTF rules, if the ball touches any part of the hand holding the paddle, you lose the point.",
+    "category": "sports.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "The genital protector and the mouth protector are obligatory in all world championship fights.",
+    "category": "sports.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Joe DiMaggio hit safely in 61 consecutive games in 1933.",
+    "category": "sports.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "The Minnesota Vikings have lost the Super Bowl more than three times.",
+    "category": "sports.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "The Minnesota Vikings started out as an AFL team.",
+    "category": "sports.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "The Vikings were the 1st team to play in 4 Super Bowls.",
+    "category": "sports.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Is it true that the word Yo-Yo, referring to the famous toy, was first published in a dictionary of Filipino words printed in 1860.",
+    "category": "sports.txt",
+    "answer": "Yes",
+    "choices": [
+      "A. Yes",
+      "B. No"
+    ]
+  },
+  {
+    "question": "The Romanian gymnastics team won the all around team gold at the 1976 Olympic Games in Montreal, Canada.",
+    "category": "sports.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Penn State Nittany Lions American football players wear a blue jersey at home.",
+    "category": "sports.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Does Penn State Nittany Lions football team have unbeaten, untied seasons?",
+    "category": "sports.txt",
+    "answer": "Yes",
+    "choices": [
+      "A. No",
+      "B. Yes"
+    ]
+  },
+  {
+    "question": "Michael Phelps first competed in Olympic Games in 2004.",
+    "category": "sports.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "There was  a sport called face-slapping.",
+    "category": "sports.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Besides the Charlotte Bobcats, there is another professional basketball team in Charlotte.",
+    "category": "sports.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Besides basketball, is there any other type of sport played at the Charlotte Arena?",
+    "category": "sports.txt",
+    "answer": "Yes",
+    "choices": [
+      "A. No",
+      "B. Yes"
+    ]
+  },
+  {
+    "question": "In 1986 Mookie Wilson hit the ground ball that trickled through Bill Buckners legs.",
+    "category": "sports.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "John McEnroe won his first Wimbledon final in 1980 putting an end to Bjorn Borgs record 5 straight Wimbledon crowns.",
+    "category": "sports.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Is it true John McEnroe never won the French Open?",
+    "category": "sports.txt",
+    "answer": "Yes",
+    "choices": [
+      "A. No",
+      "B. Yes"
+    ]
+  },
+  {
+    "question": "Yogi Berra was the first player to play in fourteen World Series.",
+    "category": "sports.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Yogi Berra was the first player to hit a grand slam home run in the World Series.",
+    "category": "sports.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Both of Yogi Berras sons played Major League baseball.",
+    "category": "sports.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "An American who won an Olympic gold medal in karate portrayed Oddjob in the James Bond  movie Goldfinger.",
+    "category": "sports.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Go karts have two wheels.",
+    "category": "sports.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Is it true that while racing a go kart, you should wear a hat, shorts and a T-shirt?",
+    "category": "sports.txt",
+    "answer": "No",
+    "choices": [
+      "A. No",
+      "B. Yes"
+    ]
+  },
+  {
+    "question": "Karts can be driven on asphalt and dirt.",
+    "category": "sports.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Is it true that a normal kart race has three stages - tuning, driving and race?",
+    "category": "sports.txt",
+    "answer": "No",
+    "choices": [
+      "A. Yes",
+      "B. No"
+    ]
+  },
+  {
+    "question": "In a state or tri-state karting race all helmets must be Snell M2000 approved.",
+    "category": "sports.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Mark Messier holds the record for most played games in an NHL career.",
+    "category": "sports.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Wayne Gretzky played 21 seasons as a professional in the NHL.",
+    "category": "sports.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "In the 1978-1979 season, hockey player Randy Holt got a record 67 penalty minutes in one game.",
+    "category": "sports.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "The US hockey team won their first Olympic gold medal at the 1980 Winter Olympics.",
+    "category": "sports.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Both Willis Maghee and Ken Dorsey were up for the Heisman Trophy in the same year.",
+    "category": "sports.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Walter Paytons son rebuked Miami and played for their rivals, the Gators.",
+    "category": "sports.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Cleon Jones was NL MVP in 1969.",
+    "category": "sports.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Is the modern bronc horse a true wild horse?",
+    "category": "sports.txt",
+    "answer": "No",
+    "choices": [
+      "A. No",
+      "B. Yes"
+    ]
+  },
+  {
+    "question": "Minor penalties in ice hockey are 2 minutes.",
+    "category": "sports.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "In ice hockey a goal counts as 2 points.",
+    "category": "sports.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "In 1987, Robin Ventura set the record for most grand slams in one season.",
+    "category": "sports.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Plenty of players have hit homers from both sides of the plate, but no one has ever done it in the same inning of a baseball game.",
+    "category": "sports.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Were the Phoenix Suns the 1993 NBA Champions?",
+    "category": "sports.txt",
+    "answer": "No",
+    "choices": [
+      "A. Yes",
+      "B. No"
+    ]
+  },
+  {
+    "question": "Joe Namath did not throw a pass in the entire fourth quarter of Super Bowl III.",
+    "category": "sports.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "The National Football League representative won the first four Super Bowls.",
+    "category": "sports.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "The Buffalo Bills were the first team to lose four consecutive Super Bowls.",
+    "category": "sports.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "The term Super Bowl was coined by Howard Cosell.",
+    "category": "sports.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "The International Olympic committee was founded in 1894.",
+    "category": "sports.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "The International Olympic Committee was founded on the initiative of a German pedagogue and historian.",
+    "category": "sports.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "The Olympic Games are held every 5 years.",
+    "category": "sports.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "The marathon is one of the Olympic events inherited from the ancient Olympic Games.",
+    "category": "sports.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Plato, the famous philosopher, participated in the Olympics.",
+    "category": "sports.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "The first modern Olympic Games were held in 1896 in London.",
+    "category": "sports.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "At the ancient Olympic Games, the winners were rewarded with gold.",
+    "category": "sports.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "The Greek goddess Nike is considered a personification of triumph.",
+    "category": "sports.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Members of the Russian Olympic team were taken hostage during the 1972 Summer Olympics in Munich.",
+    "category": "sports.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "The five colors on the Olympic represent five of the continents.",
+    "category": "sports.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Australian golfer Greg Norman has never won a major golf championship.",
+    "category": "sports.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Turnberrys Ailsa Course hosted the 2009 Open Championship.",
+    "category": "sports.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Golf has never been played at the Olympic Games.",
+    "category": "sports.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Is it true that the maximum number of clubs allowed in a golf players bag during a round is 17?",
+    "category": "sports.txt",
+    "answer": "No",
+    "choices": [
+      "A. Yes",
+      "B. No"
+    ]
+  },
+  {
+    "question": "Bobby Fischer won 20 chess games in a row when he was at the height of his game.",
+    "category": "sports.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "The Pittsburgh Penguins are members of the Pacific Division of the Western Conference of the NHL.",
+    "category": "sports.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "In 1927, Paul Bryant successfully wrestled a muzzled bear, which earned him the nickname Bear.",
+    "category": "sports.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "During World War II Paul Bryant avoided the draft and coached high school football teams.",
+    "category": "sports.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Bear Bryant was reluctant to accept the head coaching position at Alabama and only left Texas AM after they agreed to double his salary.",
+    "category": "sports.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "In 1970, Paul Bryant invented the wishbone offense.",
+    "category": "sports.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Paul Bryants win over Tennessee in 1981 was his 315th win, earning him the record for victories over Amos Alonzo Stagg.",
+    "category": "sports.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Gary Busey portrayed Paul Bryant in the 1984 biographical film, The Bear.",
+    "category": "sports.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Colorado Avalanche forward, Shjon Podein wore his uniform, equipment and skates for more than 25 hours after his team won the Stanley Cup.",
+    "category": "sports.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "There are more than 2,500 different names engraved on the Stanley Cup.",
+    "category": "sports.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "In 1980, Clarke Gillies of the New York Islanders let his cat eat dinner from the Stanley Cup.",
+    "category": "sports.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Once the Stanley Cup was taken on MTV Prime Time Beach House and stuffed with clams and oysters.",
+    "category": "sports.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "The Cleveland Browns were founded in 1945.",
+    "category": "sports.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Derek Anderson, who joined the Cleveland Browns in 2006, was born in 1983.",
+    "category": "sports.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "The colors of the Cleveland Browns are brown, orange and black.",
+    "category": "sports.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Bernie Kosar finished his career with the Cleveland Browns.",
+    "category": "sports.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Derek Anderson has worn number is 3 for the Cleveland Browns.",
+    "category": "sports.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "No team has ever entered the NCAA Mens Basketball Tournament undefeated.",
+    "category": "sports.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "The NCAA Mens Basketball Tournament is also know as the Grand Finale.",
+    "category": "sports.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "CBS has always had the rights to broadcast the NCAA Mens Tournament.",
+    "category": "sports.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "In 1953 Kentucky finished 25â0 but didnt go to the NCAA Mens Division I Basketball Tournament because they didnt accept the invitation.",
+    "category": "sports.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Regulation racquetball courts are 20 x 20 x 40 feet.",
+    "category": "sports.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "In racquetball the drop shot is not a hard-hit shot.",
+    "category": "sports.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Is it true that in racquetball, the kill shot is a legal shot that is hit low on the front wall and bounces twice before it reaches the service line?",
+    "category": "sports.txt",
+    "answer": "Yes",
+    "choices": [
+      "A. No",
+      "B. Yes"
+    ]
+  },
+  {
+    "question": "Can doubles be played in racquetball?",
+    "category": "sports.txt",
+    "answer": "Yes",
+    "choices": [
+      "A. No",
+      "B. Yes"
+    ]
+  },
+  {
+    "question": "Is command of center court one of the winning tactics of singles racquetball?",
+    "category": "sports.txt",
+    "answer": "Yes",
+    "choices": [
+      "A. No",
+      "B. Yes"
+    ]
+  },
+  {
+    "question": "According to the famous Wrestlemania storyline, when the fire occurred, Kane and the Undertaker didnt see each other for years. Kane thought the Undertaker was killed in the fire, and the Undertaker thought Kane was killed in the fire.",
+    "category": "sports.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "According to the WrestleMania storyline, after the fire occurred Kane didnt see his brother for years. There was one question he wanted to ask him and that question was, Why did you stay in house with us and almost die?",
+    "category": "sports.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Glen Thomas is the full name of the professional wrestler known as Kane.",
+    "category": "sports.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Kobe Bryant was born on August 23, 1978.",
+    "category": "sports.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Kobe Bryants second daughter is Gianna Maria-Onore Bryant.",
+    "category": "sports.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Kobe Bryant won the Naismith Prep Player of the Year Award in 1996.",
+    "category": "sports.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Kobe Bryant was chosen as the 13th overall draft pick by the Los Angeles Lakers in 1996.",
+    "category": "sports.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Kobe Bryant won the 1996 NBA Slam Dunk Contest.",
+    "category": "sports.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Kobe Bryant scored 82 points in a single game against the Toronto Raptors.",
+    "category": "sports.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Kobe Bryant has scored 50 points or more in 4 consecutive games.",
+    "category": "sports.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Kobe Bryant and the Lakers won three consecutive NBA championships: 2001, 2002, and 2003.",
+    "category": "sports.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "In 2003, Kobe Bryant was accused of rape.",
+    "category": "sports.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Kobe Bryant changed his jersey number from 8 to 24 during the 2006-2007 NBA season.",
+    "category": "sports.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "A North American team has never won a World Championship Gold Medal in ice dance.",
+    "category": "sports.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Gil Hodges hit the first Mets home run.",
+    "category": "sports.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "In 2003, Kobe Bryant tied the NBA record for most three pointers in a game.",
+    "category": "sports.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "In 2005, Kobe Bryant scored 81 points against the Toronto Raptors.",
+    "category": "sports.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "From 1965 to 2008, all of the Mr. Olympia titles were won by US citizens.",
+    "category": "sports.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Jeff Hardy and Matt Hardy are not actually brothers. They just play brothers on TV.",
+    "category": "sports.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Jeff Hardy, Matt Hardy, and Lita were known as the Dream Team.",
+    "category": "sports.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Jeff Hardy and Shelton Benjamin fought in a ladder match in 2006 for the Intercontinental Championship title.",
+    "category": "sports.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Shane Battier led Duke to 3 Final Fours, 2 national Championship Games, and 1 NCAA Championship during his four year playing career at Duke.",
+    "category": "sports.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Blake Wheeler is an ice hockey player who played for the North Dakota Fighting Souix in 2005â06.",
+    "category": "sports.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Pavel Datsyuk was drafted by the Detroit Red Wings in the 1990s.",
+    "category": "sports.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Proper breathing is crucial for the blood to circulate and remove wastes related to fatigue. In Pilates, short, quick breathes are advised for maximum positive effect.",
+    "category": "sports.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "In Pilates, it is better to do only one perfectly controlled movement rather than 50 sloppy movements.",
+    "category": "sports.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Pilates is considered low-impact and is used in physical therapy facilities to rehab injuries.",
+    "category": "sports.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Only instructors trained in Pilates and belonging to the Pilates Method Alliance can teach Pilates to the public.",
+    "category": "sports.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "The Missouri Tigers Basketball team won four straight Championships during the 1980s.",
+    "category": "sports.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Norm Stewarts first coaching job was at Missouri where he coached for 32 years.",
+    "category": "sports.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "After serving 17 years at Arkansas, Mike Anderson became the head coach at Missouri.",
+    "category": "sports.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Doug Smiths number was retired by the Missouri Tigers.",
+    "category": "sports.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "The University of Missouri lost their football team for almost a month.",
+    "category": "sports.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "A player can win a set without winning the majority of the games.",
+    "category": "sports.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Travis Pastrana was the first person to land a Superman Seat Grab.",
+    "category": "sports.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Did Travis Pastrana appear in a Disney Channel movie?",
+    "category": "sports.txt",
+    "answer": "Yes",
+    "choices": [
+      "A. No",
+      "B. Yes"
+    ]
+  },
+  {
+    "question": "Travis Pastranas uncle, Alan, was a motorsport competitor.",
+    "category": "sports.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Has Travis Pastrana ever jumped out of a plane?",
+    "category": "sports.txt",
+    "answer": "Yes",
+    "choices": [
+      "A. Yes",
+      "B. No"
+    ]
+  },
+  {
+    "question": "The Utah Utes were the first non-BCS team to break into a BCS Bowl Game.",
+    "category": "sports.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "At the end of the 2008 season the Utah Utes set a record for the longest active winning bowl streak in the U.S.",
+    "category": "sports.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "The Utes are the only non-BCS team to have won a BCS bowl game.",
+    "category": "sports.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Tennis is an Olympic Sport.",
+    "category": "sports.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "The size of the court is different in single and double matches?",
+    "category": "sports.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Does the Big East have any teams with the same nickname?",
+    "category": "sports.txt",
+    "answer": "No",
+    "choices": [
+      "A. No",
+      "B. Yes"
+    ]
+  },
+  {
+    "question": "Joe Torres brother Frank played with the Braves and the Phillies.",
+    "category": "sports.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Joe Morgan started his career with the Houston Colt .45s.",
+    "category": "sports.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Has Joe Girardi ever won the Manager of the Year Award?",
+    "category": "sports.txt",
+    "answer": "Yes",
+    "choices": [
+      "A. Yes",
+      "B. No"
+    ]
+  },
+  {
+    "question": "Joe Garagiola signed with the St. Louis Cardinals at the age of 16.",
+    "category": "sports.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "The Los Angeles Clippers (known as the San Diego Clippers until 1984) had the worst record of the 1981-1982 NBA season.",
+    "category": "sports.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Larry Bird was born on December 7, 1956.",
+    "category": "sports.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Larry Bird was born in French Lick, Indiana.",
+    "category": "sports.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Larry Bird graduated from Spring Valley High School.",
+    "category": "sports.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Larry Bird graduated from Indiana State in 1978.",
+    "category": "sports.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Larry Bird played 13 years with the Boston Celtics.",
+    "category": "sports.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Larry Bird was rookie of the year in 1980.",
+    "category": "sports.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Larry Bird has a street named after him.",
+    "category": "sports.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Larry Bird was a first round draft choice of the Pacers in 1978.",
+    "category": "sports.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Larry Bird was voted thirteen times in the All-Star team.",
+    "category": "sports.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Larry Bird never played in the Olympic games.",
+    "category": "sports.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Both college and professional basketball have four quarters.",
+    "category": "sports.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "There is no overtime period in NCAA basketball.",
+    "category": "sports.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "The 8-second rule exists in both NBA and NCAA hoops.",
+    "category": "sports.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "NBA and NCAA regulation courts are the same size.",
+    "category": "sports.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "NBA and NCAA have the same number of players lined up along the lane while a free throw is being attempted.",
+    "category": "sports.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "When there is a held ball between two players, there is no jump ball in NCAA basketball.",
+    "category": "sports.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "In both the NBA and the NCAA you can choose any number you want for your jersey.",
+    "category": "sports.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "The number of timeouts for non-televised and televised college basketball games is the same.",
+    "category": "sports.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Babe Ruths birth name was George Henry Ruth.",
+    "category": "sports.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Babe Ruth died in 1948.",
+    "category": "sports.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Babe Ruth batted from the left side in the batters box.",
+    "category": "sports.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "The Babe played his first game in major league baseball in 1914.",
+    "category": "sports.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "A pair of comedians neither of whom played pro baseball are enshrined in the Baseball Hall of Fame because of one of their routines.",
+    "category": "sports.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "The Red Sox swept the Colorado Rockies in the 2007 World Series.",
+    "category": "sports.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "The Boston Celtics of 2007-2008 started out with the best start in Boston Celtic franchise history.",
+    "category": "sports.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "The Suns traded Shaun Marion and a package of prospects to the struggling Miami Heat for Shaquille ONeal.",
+    "category": "sports.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "In 2007, the Minnesota Twins traded their ace Johan Santana to the Red Soxs for third baseman Mike Lowell.",
+    "category": "sports.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Muhammad Ali took up boxing as a result of someone stealing his bicycle.",
+    "category": "sports.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Joe Frazier defeated Muhammad Ali in the first of their 3 fights.",
+    "category": "sports.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Did Muhammad Ali get his jaw broken in a fight against Ken Norton in 1973?",
+    "category": "sports.txt",
+    "answer": "Yes",
+    "choices": [
+      "A. Yes",
+      "B. No"
+    ]
+  },
+  {
+    "question": "The NFL started out as the Ohio League.",
+    "category": "sports.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "The Detroit Lions entered the NFL in 1929 as the Detroit Lions.",
+    "category": "sports.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Art Shell of the Oakland Raiders was the first African American head coach in the NFL.",
+    "category": "sports.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "In 1960 after being refused entry into the NFL as an owner, Lamar Hunt formed the rival AFL.",
+    "category": "sports.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "There was a team in the NFL named the Carpets.",
+    "category": "sports.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "As Bob Gibson was primarily a relief pitcher, he has not been voted into the Major League Baseball Hall of Fame.",
+    "category": "sports.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "The Pirates were the first team in Major League history to field an all black starting lineup.",
+    "category": "sports.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Barbaro went into the Kentucky Derby undefeated at 5-0.",
+    "category": "sports.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "As you are making an attempt to strike the golf ball, the head of the club separates from the shaft on your backswing. You complete the swing but miss the ball. Did you make a stroke?",
+    "category": "sports.txt",
+    "answer": "No",
+    "choices": [
+      "A. No",
+      "B. Yes"
+    ]
+  },
+  {
+    "question": "In the 1993 playoffs the New York Rangers beat the New Jersey Devils in 7 games in the Conference finals.",
+    "category": "sports.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Tiger Woods was the highest-paid professional athlete in 2008.",
+    "category": "sports.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Denim clothing is acceptable on most golf courses around the world.",
+    "category": "sports.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "The US Open was originally played on grass and clay courts before moving to acrylic hard court.",
+    "category": "sports.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "The Arthur Ashe Stadium is named after Arthur Ashe, the African-American tennis player.",
+    "category": "sports.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "In the 2002 mixed doubles US Open final, Bob Bryan, partnering with Lisa Raymond won the title, beating his brother Mike on the opposite side.",
+    "category": "sports.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "It is generally agreed that riding on off-road paths is safer than riding on the street.",
+    "category": "sports.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "In lacrosse, a slash is a 30-second penalty.",
+    "category": "sports.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  }
+]

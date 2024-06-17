@@ -1,0 +1,4655 @@
+[
+  {
+    "question": "Clancy Brown, who played Captain Byron Hadley in The Shawshank Redemption, appeared in a 1983 movie with actor Sean Penn.",
+    "category": "movies.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Does Andy Dufresne escape in the movie The Shawshank Redemption?",
+    "category": "movies.txt",
+    "answer": "Yes",
+    "choices": [
+      "A. No",
+      "B. Yes"
+    ]
+  },
+  {
+    "question": "In the movie Back to the Future, Martys actions in 1955 change the name of the mall where he and Doc meet in 1985, to secretly  test the time machine.",
+    "category": "movies.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Doc Brown, the inventor in the movie Back to the Future, makes a time machine out of a Lamborghini.",
+    "category": "movies.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Musician Huey Lewis appeared in the movie Back to the Future.",
+    "category": "movies.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "The ruby slippers Dorothy wears in the film The Wizard of Oz were actually encrusted with genuine rubies.",
+    "category": "movies.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "The dog, that appeared as Toto in the movie The Wizard of Oz, belonged to actress Judy Garland in real life as well as in the film.",
+    "category": "movies.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Director James Cameron drew all the sketches in Jack Dawsons sketchbook, shown in the film Titanic.",
+    "category": "movies.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "James Cameron was so immersed in the movie Titanic that he actually spent more time with the real Titanic than the passengers.",
+    "category": "movies.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Leonardo DiCaprio was not the first choice for the role of Jack in the movie Titanic.",
+    "category": "movies.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Titanic, written and directed by James Cameron, was nominated for 11 Academy Awards.",
+    "category": "movies.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Did actor Al Pacino turn down the lead role in the film Pretty Woman?",
+    "category": "movies.txt",
+    "answer": "Yes",
+    "choices": [
+      "A. Yes",
+      "B. No"
+    ]
+  },
+  {
+    "question": "Actor Lee Marvin was originally offered the role of shark bounty hunter Quint in the movie Jaws.",
+    "category": "movies.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "The movie Jaws scared so many people that the beach attendance was down in the summer of 1975.",
+    "category": "movies.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Robert DeNiro and Danny DeVito were first considered for the roles of burglars Harry and Marv in the hilarious movie Home Alone.",
+    "category": "movies.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "There were three sequels to the first Home Alone movie prior to 2003.",
+    "category": "movies.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "In Pirates of the Caribbean, Jack Sparrow intended to pick up a crew in Tortuga.",
+    "category": "movies.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Did the movie Pirates of the Caribbean: The Curse of the Black Pearl come out in 2003?",
+    "category": "movies.txt",
+    "answer": "Yes",
+    "choices": [
+      "A. Yes",
+      "B. No"
+    ]
+  },
+  {
+    "question": "Grenada is the real name of the island on which Pirates of the Caribbean was filmed.",
+    "category": "movies.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "The movie Pirates of the Caribbean: The Curse of the Black Pearl was directed by Gore Verbinski and produced by Jerry Bruckheimer.",
+    "category": "movies.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Actor Joaquin Phoenix, who portrays singer Johnny Cash, does all his own singing in the film.",
+    "category": "movies.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Is it true that singer June Carter worked side by side with Reese Witherspoon, who portrayed her in Walk the Line, helping the actress to perfect the role.",
+    "category": "movies.txt",
+    "answer": "No",
+    "choices": [
+      "A. Yes",
+      "B. No"
+    ]
+  },
+  {
+    "question": "Jewish American actress Fran Drescher, famous for her nasal New York accent, played in the movie Saturday Night Fever.",
+    "category": "movies.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "In the film The Breakfast Club, Allison gives Bender one of her diamond earrings.",
+    "category": "movies.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "In the movie The Breakfast Club, Claire Standish is played by Ally Sheedy.",
+    "category": "movies.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "In the movie the Breakfast Club the following words were said by Andrew: Dear Mr. Vernon, we accept the fact that we had to sacrifice a whole Saturday in detention for whatever it was we did wrong. But we think youre crazy to make us write an essay telling you who we think we are.",
+    "category": "movies.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "The movie The Breakfast Club was rated PG-13.",
+    "category": "movies.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Fast Times at Ridgemont High was added to the list of films preserved by the U. S. National Film Registry in 2005.",
+    "category": "movies.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "In the movie Charlie and the Chocolate Factory, every Oompa-Loompa is played by the same person.",
+    "category": "movies.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Inspired by a near death experience, Tom Smykowski, one of Peters co-workers in the movie Office Space, invented a game called Pay It Forward.",
+    "category": "movies.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "The writer and director of Office Space, Mike Judge, made a cameo appearance in the film.",
+    "category": "movies.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "In the movie Dirty Dancing, Lonny Price played the role of Robbie Gould, the waiter who gets Penny pregnant and dates Babys sister Lisa.",
+    "category": "movies.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "The scene from Dirty Dancing where Johnny is running his hand down Babys arm and side had to be re-shot many times because the director did not like the way Jennifer was laughing.",
+    "category": "movies.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "In the movie Dodgeball, American cyclist Lance Armstrong made a cameo appearance giving Peter La Fleur a pep talk.",
+    "category": "movies.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Sylvester Stallone doesnt like his first name (this is true). When he was a kid, he decided to name himself Mike.",
+    "category": "movies.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Stallone has been awarded the Lifetime Achievement Award by the USA Academy of Science Fiction, Horror and Fantasy Films.",
+    "category": "movies.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "The trademarks of Stallone- sarcastic smile, lazy eyes, and slurred speech, are the result of paralysis of the right side of his face.",
+    "category": "movies.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Teenage heartthrob John Travolta played Billy Nolan in the 70s horror movie Carrie.",
+    "category": "movies.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Robin Williams provided the voice of Jafar in the animated feature Aladdin.",
+    "category": "movies.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Aladdins father is the king of thieves.",
+    "category": "movies.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "According to the movie Smokey and the Bandit, in CB radio speak, a 10-100 means you have to use the bathroom.",
+    "category": "movies.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "In Smokey and the Bandit, after Cletus and the Bandit win the bet, they take a double-or-nothing offer from Big and Little Enos to retrieve clam chowder from Boston.",
+    "category": "movies.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "The Bandits real name is never mentioned in the movie Smokey and the Bandit.",
+    "category": "movies.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "David Letterman screen tested for the role of Ted Striker in the movie Airplane!, ultimately played by Robert Hays.",
+    "category": "movies.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Haley Joel Osment played Forrest Gumps son in the popular movie.",
+    "category": "movies.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Did the 1994 movie Forrest Gump win an Oscar for Best Picture?",
+    "category": "movies.txt",
+    "answer": "Yes",
+    "choices": [
+      "A. No",
+      "B. Yes"
+    ]
+  },
+  {
+    "question": "The movie Forrest Gump was based on a novel published several years before the movie was released.",
+    "category": "movies.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Forrest Gump had to ask Jenny to marry him twice before she finally said yes to him.",
+    "category": "movies.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Actors Anthony Michael-Hall and Molly Ringwald were dating during the filming of the 1985 classic comedy movie The Breakfast Club.",
+    "category": "movies.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "The 1997 movie American Werewolf in Paris was filmed entirely in France.",
+    "category": "movies.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "In the movie Cars, Rust-eze was McQueens major sponsor.",
+    "category": "movies.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "In the animated movie Cars, Guido provided the voice of Guido.",
+    "category": "movies.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "There was a sequel to the 80s action comedy 48 Hrs..",
+    "category": "movies.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "The original reward  for killing the shark in the movie Jaws was 10,000 dollars.",
+    "category": "movies.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "In the movie Jaws, Matt Hooper, played by Richard Dreyfuss survives a shark attack in his special shark-proof cage. In the novel of the same name, in the same situation, he is killed by the shark.",
+    "category": "movies.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "The Rocky Horror Picture Show  (1975) is not one of the Top 100 AFI films.",
+    "category": "movies.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "None of the major players in Rocky Horror  appeared in any of the 100 Top films.",
+    "category": "movies.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "The movie Steel Magnolias was released in 1987.",
+    "category": "movies.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "War of the Worlds is the 1953 film adaptation of Orson Wells famous radio broadcast based on H. G. Wells popular novel.",
+    "category": "movies.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "The following dialogue is from the movie Star Trek IV - The Voyage Home.\nKirk: Oh, him? (referring to Spock ) I think he did a little too much LDS.",
+    "category": "movies.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Rachel McAdams (Claire Cleary) actually took a class on sailing when she was told that her character would in fact be sailing in the movie Wedding Crashers.",
+    "category": "movies.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Is it true that the role of Superman was Christopher Reeves first movie role?",
+    "category": "movies.txt",
+    "answer": "No",
+    "choices": [
+      "A. Yes",
+      "B. No"
+    ]
+  },
+  {
+    "question": "Is it true that according to the Smallville series, Black Kryptonite splits Clark into two separate beings?",
+    "category": "movies.txt",
+    "answer": "Yes",
+    "choices": [
+      "A. No",
+      "B. Yes"
+    ]
+  },
+  {
+    "question": "The original Batman swore an oath to himself never to kill another human-an oath he has attempted to hold true to, ever since.",
+    "category": "movies.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "In the Knightfall storyline, Bruce Wayne finally meets his match in the hulking villain Bane, who fatally injures him, thus causing him to be replaced by Azreal, who becomes the new Batman.",
+    "category": "movies.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Actor Paul Reubens appears in the movies Up In Smoke, Cheech and Chongs Next Movie  and Nice Dreams.",
+    "category": "movies.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "The 1990 movie Ghost starred Demi Moore as Oda Mae Brown.",
+    "category": "movies.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "During the movie Fast Times at Ridgemont High, Brad works at 2 different places.",
+    "category": "movies.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "During the movie Fast Times at Ridgemont High, Linda becomes pregnant.",
+    "category": "movies.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "The 2007 film adaptation of the graphic novel 300 was shot in 60 days.",
+    "category": "movies.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "In the movie 300, the Spartans wore virtually no armor. Was this the way actual Spartans went into battle?",
+    "category": "movies.txt",
+    "answer": "No",
+    "choices": [
+      "A. No",
+      "B. Yes"
+    ]
+  },
+  {
+    "question": "In the movie Fight Club, Tyler Durden is seen 3 times before the narrator glimpses him on the moving walkway at the airport.",
+    "category": "movies.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Before the car accident in Fight Club, Tyler Durden asks his passengers what they wish they would have done before they died. Stephs answers is Paint a self-portrait.",
+    "category": "movies.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "In the movie Ghost, the name used by Whoopi Goldbergs character in the bank scenes was Rita Smith?",
+    "category": "movies.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "In the movie Ghost, Mollys hobby was sewing?",
+    "category": "movies.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "In the famous movie, Casablanca, Ugarte is arrested at Ricks Cafe, but manages to escape.",
+    "category": "movies.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Ishmael Boorg, a character from the movie Kingpin, bowled against Ernie McCracken in the finals of the Reno Open.",
+    "category": "movies.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "The movie Kramer vs Kramer was released in 1978.",
+    "category": "movies.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "In The Color Purple, Oprah Winfreys character Shug Avery, helps Miss Celie cope with life as a black woman in the 1930s in the deep south.",
+    "category": "movies.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "In the movie The Color Purple, Shugs father built and ran the Juke Joint that was located back in the woods.",
+    "category": "movies.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "In a separate AFI poll that ranks 100 of  Americas Most Inspiring Movies, the 1946 movie Its a Wonderful Life leads the pack.",
+    "category": "movies.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "In AFIs list of movies, the Top Ten were all made from the 1930s to the 1990s, however no film on the Top Ten list was made in the 1980s.",
+    "category": "movies.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "In the movie The Perfect Storm, the crew has no idea they were heading into the storm, because their equipment fails, and the weather report never gets to them.",
+    "category": "movies.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "In Back to the Future, November 5, 1955 is referred to as a red letter date in history because that is the day Doc hit his head and created time travel.",
+    "category": "movies.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "In the movie, The African Queen, the safety valve on the Queens boiler was malfunctioning because there was a screwdriver stuck in it.",
+    "category": "movies.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "In the scene in The African Queen where Charlie was pulling The Queen through the overgrowth, Huston used real leeches in the water without telling Bogart, so his revulsion would be real.",
+    "category": "movies.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "In the movie, The African Queen, Charlie is American by birth.",
+    "category": "movies.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Mel Gibson played Gabriel in the movie The Patriot.",
+    "category": "movies.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Joe Pesci appears in the movie Raging Bull.",
+    "category": "movies.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Robert De Niro gained 60 lbs. during mid-shooting of Raging Bull to convert himself from the young muscular boxer to the fat, washed up person his character becomes.",
+    "category": "movies.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "The words Stick that in your trophy case were said by both Burt Reynolds and Adam Sandler in The Longest Yard and its 2005 remake, respectively.",
+    "category": "movies.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "All of the dinosaurs in the blockbuster film Jurassic Park were created by computer animation.",
+    "category": "movies.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Steven Spielberg was so confident in the success of this film that he left post production to George Lucas so that he could make a different film.",
+    "category": "movies.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "In the movie Cocktail, the main character played by Tom Cruise is Brian Hannigan.",
+    "category": "movies.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "In the movie Cocktail, Brian had a friend and boss named Doug Coughlin. Doug had many wise sayings that he would tell Brian from time to time such as, Bury the dead, they stink up the place. These words of wisdom were known as Coughlins Rule.",
+    "category": "movies.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "At the end of the movie Cocktail, it is revealed that Jordan is going to have twins.",
+    "category": "movies.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "In the movie Cocktail, Jordans family was extremely wealthy.",
+    "category": "movies.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "The movie Suspiria was about a fancy ballet academy run by a coven of witches.",
+    "category": "movies.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "In the 1977 movie Smokie and the Bandit, Burt Reynolds drove a black Ford Taurus.",
+    "category": "movies.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Michael J. Fox waited for the TV show Family Ties to end before taking on Back to the Future.",
+    "category": "movies.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "At the end of Back to the Future Part III, is time travel possible?",
+    "category": "movies.txt",
+    "answer": "Yes",
+    "choices": [
+      "A. Yes",
+      "B. No"
+    ]
+  },
+  {
+    "question": "Sally Field, Shirley MacLaine and Julia Roberts starred in the 1989 movie Fried Green Tomatoes.",
+    "category": "movies.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Kate Beckinsale, Scott Speedman and Shane Brolly star in the 2003 movie Underworld.",
+    "category": "movies.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Following the success of the movie Clueless, there was a series of books based on the movie.",
+    "category": "movies.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "In the comedy hit Anchorman, Ron Burgundy impressed Veronica Corningstone with his vast knowledge of the history of San Diego.",
+    "category": "movies.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "At the monthly pancake breakfast, Ron explains the meaning of love to the news team by singing the 70s hit Afternoon Delight in the smash comedy hit Anchorman.",
+    "category": "movies.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Lee Marvin played Major John Reisman in the war drama The Dirty Dozen.",
+    "category": "movies.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Robert Aldrich directed the war movie The Dirty Dozen.",
+    "category": "movies.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Major Max Armbruster was played by George Kennedy in the The Dirty Dozen war drama.",
+    "category": "movies.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Did The Dirty Dozen star Jim Brown, the former football player?",
+    "category": "movies.txt",
+    "answer": "Yes",
+    "choices": [
+      "A. No",
+      "B. Yes"
+    ]
+  },
+  {
+    "question": "Donald Sutherland played Joseph T. Wladislaw in The Dirty Dozen.",
+    "category": "movies.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Telly Savalas turned down the role of Archer J. Maggott in The Dirty Dozen due to health reasons.",
+    "category": "movies.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "In The Dirty Dozen, Samson Posey was played by Clint Walker.",
+    "category": "movies.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "One of the older nerds in the movie The Benchwarmers was once a bully.",
+    "category": "movies.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "In the horror movie Dawn of the Dead, the goal of the lead characters is to destroy the undead before the disease spreads any further",
+    "category": "movies.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Part of the idea for the character of Freddy Krueger came from a 1970s song.",
+    "category": "movies.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Freddy Kruegers mother was a nun.",
+    "category": "movies.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "In the film Freddy vs. Jason, Freddy Krueger wins the battle of slasher movie icons.",
+    "category": "movies.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Was The Breakfast Club character Allison a nymphomaniac?",
+    "category": "movies.txt",
+    "answer": "No",
+    "choices": [
+      "A. Yes",
+      "B. No"
+    ]
+  },
+  {
+    "question": "Rory Calhoun was the star of The Texan, a weekly western series that ran on CBS.",
+    "category": "movies.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Earl Holliman starred in a weekly western series titled Hotel de Paree.",
+    "category": "movies.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Kenny Rogers starred in a western series about a river boat gambler.",
+    "category": "movies.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Homeless people in the film The Pursuit of Happyness were played by actual homeless people.",
+    "category": "movies.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "The only silent film to win an Oscar for Best Picture was Paramounts Wings (1927).",
+    "category": "movies.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "The 1996 movie Independence Day starred Will Smith, Jeff Goldblum and Bill Paxton.",
+    "category": "movies.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Michael Madsen, Uma Thurman, Vivica Fox and Samuel L. Jackson were in Kill Bill and Kill Bill vol. II.",
+    "category": "movies.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "The 1999 movie Cleopatra starred Timothy Dalton, Billy Zane and Elizabeth Taylor.",
+    "category": "movies.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "In the movie Superman Returns, Lois Lane is married to Superman.",
+    "category": "movies.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "In the movie Superman Returns, Lois and Jason visit Superman at the hospital while he is in a coma.",
+    "category": "movies.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "The following quote is from the movie Clockwork Orange.\nAlex: There was me, that is Alex, and my three droogs, that is Pete, Georgie, and Dim, and we sat in the Korova Milkbar trying to make up our rassoodocks what to do with the evening. The Korova milkbar sold milk-plus, milk plus vellocet or synthemesc or drencrom, which is what we were drinking. This would sharpen you up and make you ready for a bit of the old ultra-violence.",
+    "category": "movies.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Apocalypse Now, directed by Roger Corman, was released in 1979.",
+    "category": "movies.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "In Shrek the Third Queen Lillian was voiced by Dame Judy Dench.",
+    "category": "movies.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Gabriel Byrne appeared in the 1981 film Excalibur, directed by John Boorman.",
+    "category": "movies.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "In the 1999 film Ravenous, Captain Boyd (Guy Pierce) resorts to eating Colonel Hart (Jeffrey Jones) to stay alive.",
+    "category": "movies.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "In the 1997 mockumentary Waiting for Guffman does Mort Guffman ever show up?",
+    "category": "movies.txt",
+    "answer": "No",
+    "choices": [
+      "A. No",
+      "B. Yes"
+    ]
+  },
+  {
+    "question": "In the 1980 movie Motel Hell there is a sign that reads It takes all kinds of critters to make Farmer Vincents fritters.",
+    "category": "movies.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Mel Gibson starred in the movie Mad Max released in 1981.",
+    "category": "movies.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "The movie The Da Vinci Code was featured in the 2005 Cannes Film Festival.",
+    "category": "movies.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "There actually was a pink submarine in WWII, like the one featured in the movie Operation Petticoat.",
+    "category": "movies.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "In 1955, Ernest Borgnine starred in Marty, which earned him an Academy Award for Best Actor.",
+    "category": "movies.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Ernest Borgnine portrayed Lt. Quinton McHale on The Phil Silvers Show from 1962-1966.",
+    "category": "movies.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Actor Ernest Borgnine is a mason.",
+    "category": "movies.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Tatum, played by Rose McGowan in the movie Scream, died by being gutted and hung from a tree.",
+    "category": "movies.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "In the movie Scream did Matthew Lillard (Stu) ad-lib some of his lines?",
+    "category": "movies.txt",
+    "answer": "Yes",
+    "choices": [
+      "A. No",
+      "B. Yes"
+    ]
+  },
+  {
+    "question": "In Woody Allens movie Sleeper, a small pyramid statue is used by several party-goers as a sort of inebriator or mind altering device.",
+    "category": "movies.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "The 1940 animated film Fantasia featured music by Johann Sebastian Bach.",
+    "category": "movies.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Joe Pesci and Robert De Niro are the only actors from Raging Bull that Scorsese ever cast twice.",
+    "category": "movies.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Mel Brooks shot in color the entire film Young Frankenstein.",
+    "category": "movies.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Denzel Washington was banned from watching movies as a child.",
+    "category": "movies.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Denzel Washingtons parents divorced when he was five years old.",
+    "category": "movies.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Denzel Washington turned down both the roles of Detective David Mills in Se7en and Cinque in Amistad.",
+    "category": "movies.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Denzel Washington is named after his father who was in turn named after the doctor who had delivered him.",
+    "category": "movies.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Denzel Washington has a son who signed to play with the New Orleans Saints.",
+    "category": "movies.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "One of the people who voiced Bambi became a career Marine, served in two theaters of war, but never killed an animal.",
+    "category": "movies.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "In the original Disney script  Bambi was supposed to be shot by the hunters instead of the mother.",
+    "category": "movies.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "In Diamonds are Forever, Bond encounters a villain named Bambi.",
+    "category": "movies.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "There is an asteroid named Bambi.",
+    "category": "movies.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Team America: World Police was inspired by the 1960s British television series Thunderbirds.",
+    "category": "movies.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "The main character in the movie My Big Fat Greek Wedding, Toula, has a father named Gus. He thinks Pine Sol will cure any illness and carries it around all the time, spraying it on wounds.",
+    "category": "movies.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "The actress who played Toula, Nia Vardalos, cast her husband in the movie My Big Fat Greek Wedding.",
+    "category": "movies.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "On the movie The Break-Up, Brooke wanted Gary to bring home 13 lemons.",
+    "category": "movies.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Do Gary and his brothers provide services by sea in their business?",
+    "category": "movies.txt",
+    "answer": "Yes",
+    "choices": [
+      "A. No",
+      "B. Yes"
+    ]
+  },
+  {
+    "question": "In the end of the 2006 movie The Break-Up, Gary and Brooke finally get back together.",
+    "category": "movies.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "In the comedy Adventures in Babysitting, Chris and the kids drive into Chicago to pick up Chris boyfriend.",
+    "category": "movies.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "In the movie Adventures in Babysitting Sarah likes the superhero Thor.",
+    "category": "movies.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "The movie Superbad centers around two high school students trying to get laid before going to college.",
+    "category": "movies.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "In the comedy film Superbad, Evan is going to attend Yale after he graduates from high school.",
+    "category": "movies.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Seth Rogen and Evan Goldberg wrote the movie Superbad and named the two main characters Seth and Evan.",
+    "category": "movies.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "In the movie Superbad, Seth gets spit on by a guy named Jesse who tells him that he is not invited to his party.",
+    "category": "movies.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "In the film Superbad, Seth ended up getting an outfit from Evans dads closet for the party they were going to.",
+    "category": "movies.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "The only thing taken from the Indian Village where Indiana and Co. end up in Indiana Jones and the Temple of Doom is a missing Sacred Stone.",
+    "category": "movies.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Actor Dan Aykroyd of Saturday Night Live fame has a cameo in the movie Indiana Jones and the Temple of Doom.",
+    "category": "movies.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "It Came from Beneath the Sea was a movie about a giant octopus that attacks New York.",
+    "category": "movies.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Woody Woodpecker appeared in the 1950 sci-fi film Rocketship X-M.",
+    "category": "movies.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Did Rock Madison star in the 1951 sci-fi film Man Beast?",
+    "category": "movies.txt",
+    "answer": "No",
+    "choices": [
+      "A. No",
+      "B. Yes"
+    ]
+  },
+  {
+    "question": "The 1973 movie Blackenstein used actual props from the 1931 film Frankenstein.",
+    "category": "movies.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "The 1976 movie Carrie was based on a 1952 movie of the same name starring Laurence Olivier.",
+    "category": "movies.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "The horror movie Dr. Jekyll  Sister Hyde was released in 1971.",
+    "category": "movies.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Ray Milland was nominated for an Oscar for his role in the 1972 movie The Thing with Two Heads.",
+    "category": "movies.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "George Clooney had a role in the 1978 movie Attack of the Killer Tomatoes.",
+    "category": "movies.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "The original Saw movie was shot in 18 days.",
+    "category": "movies.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "In Saw III the shotgun collar was one of Jeffs tests.",
+    "category": "movies.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Actor Tobin Bell, who portrayed the serial killer Jigsaw, used a dummy for his bathroom scenes in the original Saw movie.",
+    "category": "movies.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "In the first Saw movie, the character named Mark, committed workmans comp fraud.",
+    "category": "movies.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "The Razor box trap in Saw II was meant for Gus.",
+    "category": "movies.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "The following conversation is from the 1983 movie Bad Boys.\nCaptain Howard: Until then, until then, you are Mike Lowrey, you be him, thats what you are, youre him.\nMarcus Burnett: But I-...\nCaptain Howard: Youre him, I dont wanna hear it, youre him. And you, youre you, you be you, but not in front of her. Youre him, youre you.",
+    "category": "movies.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "This exchange is from the 1983 movie The Return of the Living Dead.\nHarry Cooper: Did you hear me when I told you they turned over our car?\nBen: Oh, hell! Any good five men could do that!\nHarry Cooper: Thats my point! Theres not going to be five, or even ten! Theres going to be twenty, thirty, maybe a hundred of those things, and as soon as they find out were here, this placell be crawling with them!\nBen: Well, if theres that much, theyll probably get us wherever we are.",
+    "category": "movies.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "This dialogue is from the 1941 movie CItizen Kane.\nFemale reporter: If you couldve found out what Rosebud meant, I bet that wouldve explained everything.\nThompson: No, I dont think so; no. Mr. Kane was a man who got everything he wanted and then lost it. Maybe Rosebud was something he couldnt get, or something he lost. Anyway, it wouldnt have explained anything... I dont think any word can explain a mans life. No, I guess Rosebud is just a... piece in a jigsaw puzzle... a missing piece.",
+    "category": "movies.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Lance Henriksen stars in all the Alien movies.",
+    "category": "movies.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "No stand-ins were used in Alien - the actual actors were in every scene of the movie.",
+    "category": "movies.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "The first draft of Alien 3 is the one that was filmed.",
+    "category": "movies.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Winona Ryders character in Alien Resurrection was Callie.",
+    "category": "movies.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "At the end of the What About Bob movie, Bob marries Lily, (Dr. Marvins sister) and then becomes a psychologist himself, writing a book called Death Therapy.",
+    "category": "movies.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Actor Johnny Crawford was born March 26, 1947.",
+    "category": "movies.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "The Rifleman was one of the TV westerns Johnny Crawford starred in.",
+    "category": "movies.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Johnny Crawford was born in Las Vegas, Nevada.",
+    "category": "movies.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Johnny Crawford was once a Mouseketeer for Walt Disney.",
+    "category": "movies.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Johnny graduated from Hollywood High School in 1964.",
+    "category": "movies.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Johnny starred in the movie Indian Paint.",
+    "category": "movies.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "On The Rifleman series, Johnny Crawfordâs characters name was Matt.",
+    "category": "movies.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Johnny Crawford released an album in 1995.",
+    "category": "movies.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Johnny Crawford never received an Emmy nomination.",
+    "category": "movies.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "It is said that Johnny Crawford used to take his horse with him on personal tours.",
+    "category": "movies.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Chris Tucker makes a cameo appearance in the film Next Friday.",
+    "category": "movies.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Is it true that in the movie Next Friday, Craig flees to live with Uncle Elroy because Deebo breaks out of prison?",
+    "category": "movies.txt",
+    "answer": "Yes",
+    "choices": [
+      "A. Yes",
+      "B. No"
+    ]
+  },
+  {
+    "question": "In the movie Next Friday, Craig Jones compares someone to Left Eye from TLC.",
+    "category": "movies.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "In Star Trek: Nemesis, Captain Picards clone was Romulan Praetor Shinzon.",
+    "category": "movies.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "The clothes that Ice Cube wears in the first scene of the movie Friday are exactly the same as the ones that his character wore in the final scene of Boyz N The Hood.",
+    "category": "movies.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Keep Their Heads Ringin is playing on the car radio when Smokey and Craig drive to the store in the film Friday.",
+    "category": "movies.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "At the 77th Academy Awards, The Incredibles lost the award for best animated feature to Shrek 2 .",
+    "category": "movies.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Huey Lewis made a cameo appearance in the movie Back to the Future.",
+    "category": "movies.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "In the movie Back to the Future, Lous Cafe (from 1955) turns out to be an aerobics center in 1985.",
+    "category": "movies.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "In the Disney/Pixar film The Incredibles, Buddys computer password is Cronos.",
+    "category": "movies.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "In the 1939 movie A Tale of Two Cities, Ronald  Coleman played both Charles Darnay and Sydney Carlton.",
+    "category": "movies.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "In 1939 James Stewart didnt star in Its A Wonderful Life but in Its a Wonderful World.",
+    "category": "movies.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "The movie Monty Pythons Life Brian was banned in Sweden.",
+    "category": "movies.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Frank Gorshin plays the Joker in the 1960s Batman TV series.",
+    "category": "movies.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Phoenix is the evil side of Marvel Comics character Jean Grey.",
+    "category": "movies.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Saruman the White is an enemy of Sauron, the main villain of The Lord of the Rings trilogy.",
+    "category": "movies.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Kentucky Fried Movie spoofed space movies like Star Wars and Star Trek.",
+    "category": "movies.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "In the end of the film The Big Lebowski, The Dude finally receives a replacement rug.",
+    "category": "movies.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Richard Chamberlain has portrayed Jason Bourne.",
+    "category": "movies.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Jason Bournes girlfriend from the first two Bourne movies starring Matt Damon, does not appear in The Bourne Ultimatum.",
+    "category": "movies.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "The author of the book that inspired A Christmas Story, Jean Shepherd, narrated the film.",
+    "category": "movies.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Director Bob Clark made a cameo in the film A Christmas Story.",
+    "category": "movies.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Jean Shepherd narrated A Christmas Story and its sequel My Summer Story.",
+    "category": "movies.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "At the end of the movie Planes, Trains  Automobiles, the the two main characters go to the bus station in Chicago and then go separate ways.",
+    "category": "movies.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Sir Laurence Olivier won a Razzie.",
+    "category": "movies.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Actor Nicholas Cage, who plays the role of Ghost Rider in the 2007 movie of the same name, has a Ghost Rider tattoo in real life.",
+    "category": "movies.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Nicholas Cage co-wrote parts of the script of the 2007 film Ghost Rider.",
+    "category": "movies.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "The 2009 movie Drag Me to Hell stars Alison Lohman and Justin Long.",
+    "category": "movies.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "The 2004 movie Dawn of the Dead starred Gaylen Ross and Ving Rhames.",
+    "category": "movies.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "The movie Jeepers Creepers was released in 2002.",
+    "category": "movies.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "The 2002 movie The Ring is not a remake.",
+    "category": "movies.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "In Epic Movie the character named Edward parodies the movie Nacho Libre.",
+    "category": "movies.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Does Epic Movie parody the movie Night at the Museum?",
+    "category": "movies.txt",
+    "answer": "No",
+    "choices": [
+      "A. No",
+      "B. Yes"
+    ]
+  },
+  {
+    "question": "Is Willy Wonka singing a hip-hop song in Epic Movie?",
+    "category": "movies.txt",
+    "answer": "Yes",
+    "choices": [
+      "A. Yes",
+      "B. No"
+    ]
+  },
+  {
+    "question": "In Epic Movie, Edward and Jack Swallows first meet in the beavers house.",
+    "category": "movies.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "The movie Dont Tell Mom the Babysitters Dead was released on June 7, 1991.",
+    "category": "movies.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Was Christina Applegate nominated for Best Female Performance for her role in the movie Dont Tell Mom the Babysitters Dead?",
+    "category": "movies.txt",
+    "answer": "Yes",
+    "choices": [
+      "A. No",
+      "B. Yes"
+    ]
+  },
+  {
+    "question": "In the movie Dont Tell Mom the Babysitters Dead, when the babysitter dies, the kids wrap her up in a rug and drag her to the trunk of the car.",
+    "category": "movies.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Did Joanna Cassidy play the role of Rose Lindsey in Dont Tell Mom the Babysitters Dead?",
+    "category": "movies.txt",
+    "answer": "Yes",
+    "choices": [
+      "A. No",
+      "B. Yes"
+    ]
+  },
+  {
+    "question": "The movie The Lost Boys was released  July 31, 1987.",
+    "category": "movies.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "In the movie The Lost Boys, the Frog Brothers convince Sam that the only way to help Michael would be to stake him in the heart and kill him.",
+    "category": "movies.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "The sequel to The Lost Boys is titled The Tribe. However, it was originally intended to be entitled The Lost Girls.",
+    "category": "movies.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Kiefer Sutherlands half-brother, Angus Sutherland, has a role in The Lost Boys: The Tribe.",
+    "category": "movies.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "The movie The Lost Boys won only two awards. It won the Saturn Award for Best Horror Film and Corey Feldman won Best Young Actor in a Horror Motion Picture.",
+    "category": "movies.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "William Conrad played Nero Wolfe and Frank Cannon - two detectives of unique proportions.",
+    "category": "movies.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Bernie Mac has a clown at his car lot when he sells Bumblebee to Sam Witwicky in the film Transformers.",
+    "category": "movies.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Sean Connery and two 007 enemies participated in The Longest Day.",
+    "category": "movies.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Much of The Longest Day was filmed in Corsica in Mediterranean Sea. There was a nudist colony just 2 miles from the beach where the movie was filmed.",
+    "category": "movies.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "In the movie Kingpin Bill Murrays character, Ernie McCracken, has a clear bowling ball with a skull in the middle of it.",
+    "category": "movies.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "In the movie House of 1000 Corpses George Wydell interrogated Captain Spaulding.",
+    "category": "movies.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Did the action in the movie House of 1000 Corpses start on the night before Halloween of 1977?",
+    "category": "movies.txt",
+    "answer": "Yes",
+    "choices": [
+      "A. Yes",
+      "B. No"
+    ]
+  },
+  {
+    "question": "The 1978 movie Halloween is set in the real town of Haddonfield, NJ.",
+    "category": "movies.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "In the 2005 remake of The House of Wax, the wax museum was located in the real town of Ambrose, Louisiana.",
+    "category": "movies.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "In the 1984 film Nightmare on Elm Street, Nancys house was really on Elm Street.",
+    "category": "movies.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "The movie A Clockwork Orange was set  in Scotland in the year 2005, as imagined in 1965.",
+    "category": "movies.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Is Bruce Vito the uncle of professional skateboarder Bam Margera, who is famous as a member of the Jackass crew?",
+    "category": "movies.txt",
+    "answer": "No",
+    "choices": [
+      "A. No",
+      "B. Yes"
+    ]
+  },
+  {
+    "question": "Did Colonel Billy Mitchell appear in a Walt Disney full length animated film?",
+    "category": "movies.txt",
+    "answer": "Yes",
+    "choices": [
+      "A. No",
+      "B. Yes"
+    ]
+  },
+  {
+    "question": "The first African-American man to get an Academy Award was an actor in a Disney animated movie.",
+    "category": "movies.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Steven Spielbergs wife, Kate Capshaw, provided the singing voice of Jessica, the female lead in the movie about Roger Rabbit.",
+    "category": "movies.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "The movie The Blair Witch Project is based on a real legend.",
+    "category": "movies.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "The budget for the film The Blair Witch Project was only $50,000.",
+    "category": "movies.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "There was a sequel to the movie The Blair Witch Project.",
+    "category": "movies.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "The Discovery Channel did a real documentary based on the events surrounding The Blair Witch Project prior to the movies release.",
+    "category": "movies.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Before the release of the The Blair Witch Project, the actors in the film were listed as missing and presumed dead on the popular movie website IMDb (Internet Movie Database).",
+    "category": "movies.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "The script for Spaceballs, a Mel Brooks parody of the Star Wars and Star Trek franchises, was approved by George Lucas.",
+    "category": "movies.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "The actor who played Jules neighbor Ron in St. Elmos Fire also played David Silvers dad on Beverly Hills 90210.",
+    "category": "movies.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "In the movie St. Elmos Fire, Martin Balsam played the father of the character Leslie Hunter.",
+    "category": "movies.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Alec Newbary was a democrat in the beginning of the film St. Elmos Fire, but later went to work for a Republican senator.",
+    "category": "movies.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Wendy Beamish, a character from St. Elmos Fire, worked as a welfare counselor.",
+    "category": "movies.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Eric Dravens war paint in The Crow is stylized to look like the mask he and Shelly used to play with together.",
+    "category": "movies.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "In the movie The Crow,Top Dollar and Myca smoked human tongues to get high, because All the power in the world resides in the tongue, my friend. Sometimes, theyre more useful than the person who bears them.",
+    "category": "movies.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Star Wars character General Grievous is always accompanied by 2 magna guards.",
+    "category": "movies.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Does Lando make a threatening move toward Han Solo in Star Wars: Episode 5?",
+    "category": "movies.txt",
+    "answer": "Yes",
+    "choices": [
+      "A. No",
+      "B. Yes"
+    ]
+  },
+  {
+    "question": "Mike Nichols won an Academy Award for Best Director for the movie The Graduate.",
+    "category": "movies.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "The lines Wildcats everywhere, raise your hands up in the air are from the song Were All in This Together.",
+    "category": "movies.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Is it true that in the movie High School Musical, Sharpay says she has acted in 17 school productions?",
+    "category": "movies.txt",
+    "answer": "Yes",
+    "choices": [
+      "A. Yes",
+      "B. No"
+    ]
+  },
+  {
+    "question": "In High School Musical, Jason asks how Mr. Darbus  vacation went.",
+    "category": "movies.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Even the Batmobile gets hit by drunk drivers.",
+    "category": "movies.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Leonardo Da Vinci made a series of still pictures that showed motion, when flipped.",
+    "category": "movies.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Do Robin of Loxley and Maid Marian get married at the end of Robin Hood: Men in Tights?",
+    "category": "movies.txt",
+    "answer": "Yes",
+    "choices": [
+      "A. Yes",
+      "B. No"
+    ]
+  },
+  {
+    "question": "Daniel Radcliffe was offered the lead role in Eragon.",
+    "category": "movies.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "In the film Hoosiers, Myra Fleener does not want Jimmy to play basketball.",
+    "category": "movies.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Dakota Fanning plays Richards daughter in the 2006 film Babel.",
+    "category": "movies.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Darth Vader has children.",
+    "category": "movies.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Darth Vader dies in Star Wars: Episode VI - Return of the Jedi.",
+    "category": "movies.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Darth Vader is Luke Skywalkers father.",
+    "category": "movies.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "The song Everybody Wang Chung Tonight is playing in the background of the strip club where Ruth Lanier is working, when Chance comes in to question her.",
+    "category": "movies.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "In the scene in the Exercise Yard at the Mens Colony at San Luis Obispo, Carl Cody asks what kind of movie theyre gonna be showing that night. The inmate next to him replies that he thinks itll be an action flick, Bruce Willis or something. Yes or no?",
+    "category": "movies.txt",
+    "answer": "No",
+    "choices": [
+      "A. No",
+      "B. Yes"
+    ]
+  },
+  {
+    "question": "The AAT appears in two Star Wars movies.",
+    "category": "movies.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Alfred Hitchcock directed the 1941 movie Mr. and Mrs. Smith.",
+    "category": "movies.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "The tagline for the movie A Fistful of Dollars was: For Three Men The Civil War Wasnt Hell. It Was Practice!",
+    "category": "movies.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "In the film The Good the Bad and the Ugly, Sentenza is also known as Angel Eyes.",
+    "category": "movies.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "In the 1966 movie The Good, the Bad and the Ugly, the gold is buried in an unmarked grave next to the grave of Arch Stanton.",
+    "category": "movies.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Michael Myers finally kills his other sister in the movie Halloween: Resurrection.",
+    "category": "movies.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "John Larroquette ha  appeared in both The Practice and Boston Legal as lawyer Carl Sack.",
+    "category": "movies.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "In the movie The Goonies Andi says Oh, I stubbed my toe.",
+    "category": "movies.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Actress Butterfly McQueen never got her high school diploma.",
+    "category": "movies.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Mary Kay Place, who played Melanies mother Pearl in Sweet Home Alabama, has also starred on Greys Anatomy with Patrick Dempsey, who played Melanies fiance Andrew.",
+    "category": "movies.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "In the comedy movie Norbit, the Latimores open a strip joint.",
+    "category": "movies.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Richard Dreyfuss has an uncredited part in The Graduate.",
+    "category": "movies.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "The 2005 movie Rumor Has It was about a young woman who finds out her grandmother may have been the inspiration for The Graduate character Mrs. Robinson.",
+    "category": "movies.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Mias father dies at the end of the movie The Princess Diaries.",
+    "category": "movies.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "In the film The Princess Diaries, Lillys public access television program is called Shut Up and Kiss.",
+    "category": "movies.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Godzilla won a Lifetime Achievement Award by MTV in 1996.",
+    "category": "movies.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Godzilla had his own comic book series produced by DC Comics.",
+    "category": "movies.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Did Godzilla ever appear in a film with another famous Japanese movie monster called Gamera?",
+    "category": "movies.txt",
+    "answer": "No",
+    "choices": [
+      "A. No",
+      "B. Yes"
+    ]
+  },
+  {
+    "question": "Julies parents owned a Pizza Hut in the movie Valley Girl.",
+    "category": "movies.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Owen Wilson makes a cameo in the movie 3:10 to Yuma.",
+    "category": "movies.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Was Kurt Russel the actor that played the part of the U.S. head coach in the movie Miracle?",
+    "category": "movies.txt",
+    "answer": "Yes",
+    "choices": [
+      "A. Yes",
+      "B. No"
+    ]
+  },
+  {
+    "question": "U.S. hockey star Buzz Schneider was played by his own son in the movie Miracle.",
+    "category": "movies.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Coach Herb Brooks tragically lost his life after the filming of the movie Miracle, in which he was a consultant.",
+    "category": "movies.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Butch Cassidy and the Sundance Kid die at the end of the self-titled movie.",
+    "category": "movies.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "The Sundance Kid is better at shooting when hes moving.",
+    "category": "movies.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Steve McQueen was originally offered one of the starring roles in Butch Cassidy and the Sundance Kid.",
+    "category": "movies.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "The 1982 movie The Thing is set at the North Pole.",
+    "category": "movies.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "In the 1981 movie The Evil Dead, the real cabin that the 5 college students stay in is located in North Carolina.",
+    "category": "movies.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "The 2002 movie 28 Days Later was filmed entirley in Scotland.",
+    "category": "movies.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "The 1979 movie The Amityville Horror was filmed in Amityville New York.",
+    "category": "movies.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "There is a real place called Cape Fear.",
+    "category": "movies.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Meryl Streep played the wife of Sam Bowden in Cape Fear.",
+    "category": "movies.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "The original version of Cape Fear was released in 1962.",
+    "category": "movies.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Actor Dax Shepard was born in 1977.",
+    "category": "movies.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Dax Shepard was a child actor.",
+    "category": "movies.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Actor Dax Shepard appeared in the TV series Robot Chicken.",
+    "category": "movies.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "The actress, who plays Rudy on The Cosby Show, plays Leroys little sister in The Last Dragon.",
+    "category": "movies.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "At the end of the movie The Last Dragon, Leroy catches a 9mm. bullet in his mouth.",
+    "category": "movies.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "The movie The Goonies grossed $150,415,432 in 1985?",
+    "category": "movies.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "The Restaurant / lounge in The Goonies was only constructed for the movie.",
+    "category": "movies.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Was Bernardo OReilly, played by Charles Bronson, one of the Banditos in The Magnificent Seven?",
+    "category": "movies.txt",
+    "answer": "No",
+    "choices": [
+      "A. No",
+      "B. Yes"
+    ]
+  },
+  {
+    "question": "In the movie The Magnificent Seven Robert Vaughn played Harry Luck.",
+    "category": "movies.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Was James Coburn in the movie The Magnificent Seven?",
+    "category": "movies.txt",
+    "answer": "Yes",
+    "choices": [
+      "A. Yes",
+      "B. No"
+    ]
+  },
+  {
+    "question": "In Resident Evil: Apocalypse the only returning actors from the first movie were Mila Jovovich and Mike Epps.",
+    "category": "movies.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Ashanti plays Betty in Resident Evil: Extinction.",
+    "category": "movies.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Paul W.S. Anderson wrote, produced and directed all 3 Resident Evil movies.",
+    "category": "movies.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "The word zombie is never used in any of the Resident Evil movies.",
+    "category": "movies.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Is it just a myth that the fireplace in the background, during the Black Knight scene of Monty Python and the Holy Grail, goes out and comes on as the camera shots change?",
+    "category": "movies.txt",
+    "answer": "No",
+    "choices": [
+      "A. Yes",
+      "B. No"
+    ]
+  },
+  {
+    "question": "In the movie Monty Python and the Holy Grail, the word it, which is the word the Knights of Ni cannot stand to hear, is actually spoken on occasion (in front of them) without them making a big deal of it.",
+    "category": "movies.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "The dinosaur in the movie Meet the Robinsons said this famous line: I have little head and big arms.",
+    "category": "movies.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "In the film Lucky Number Slevin Morgan Freeman plays the Rabbi.",
+    "category": "movies.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Kelevra, the last name of the protagonist in Lucky Number Slevin, roughly translated in Hebrew means good cat.",
+    "category": "movies.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "The Shmoo, referenced by the Boss in the film Lucky Number Slevin, was actually a cartoon character in the late 70s.",
+    "category": "movies.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "In Its a Mad, Mad, Mad, Mad World, Captain Culpepper finds the money and heads to Canada.",
+    "category": "movies.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Did the character Enrico Pollini suffer from the medical condition narcolepsy in the move Rat Race?",
+    "category": "movies.txt",
+    "answer": "Yes",
+    "choices": [
+      "A. No",
+      "B. Yes"
+    ]
+  },
+  {
+    "question": "Discredited NFL referee Owen Templeton ends up driving a bus full of Mae West look-alikes in the movie Rat Race.",
+    "category": "movies.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Is it true that in the movie Rat Race, casino owner Donald P. Sinclair placed a bet on who, among the high rollers, would throw up first on the airplane?",
+    "category": "movies.txt",
+    "answer": "Yes",
+    "choices": [
+      "A. No",
+      "B. Yes"
+    ]
+  },
+  {
+    "question": "Were Jean and Billy in love with each other in the Billy Jack movie?",
+    "category": "movies.txt",
+    "answer": "Yes",
+    "choices": [
+      "A. Yes",
+      "B. No"
+    ]
+  },
+  {
+    "question": "Were Tom Laughlin and Delores Taylor married when they starred in the Billy Jack movies?",
+    "category": "movies.txt",
+    "answer": "Yes",
+    "choices": [
+      "A. Yes",
+      "B. No"
+    ]
+  },
+  {
+    "question": "Patty Loveless performed the song On Down Line for the Black Dog soundtrack?",
+    "category": "movies.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Did Tanya Tucker perform the song Man with 18 Wheels for the Black Dog soundtrack?",
+    "category": "movies.txt",
+    "answer": "No",
+    "choices": [
+      "A. No",
+      "B. Yes"
+    ]
+  },
+  {
+    "question": "Did Jack Ingram perform a song on the Black Dog soundtrack?",
+    "category": "movies.txt",
+    "answer": "Yes",
+    "choices": [
+      "A. Yes",
+      "B. No"
+    ]
+  },
+  {
+    "question": "Thomas Lennon met actress and singer Kerri Kenney at a theater camp.",
+    "category": "movies.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Thomas Lennon dropped out of high school.",
+    "category": "movies.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Thomas Lennon appeared in the 2001 comedy Out Cold.",
+    "category": "movies.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "In the movie Camp Rock, Tess is the daughter of the famous singer T.J. Tyler.",
+    "category": "movies.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Camp Rock is a 2008 Disney Channel Original Movie.",
+    "category": "movies.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "The actor who played the street performing mime in the movie The Conversation had his own TV show in 1977.",
+    "category": "movies.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "At the end of the movie The Conversation, Harry Caul tears up his apartment.",
+    "category": "movies.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "The Comedian gets murdered in the opening sequence of the Watchmen comic book series.",
+    "category": "movies.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Was Dan Dreidberg the first Nite Owl in the Watchmen?",
+    "category": "movies.txt",
+    "answer": "No",
+    "choices": [
+      "A. Yes",
+      "B. No"
+    ]
+  },
+  {
+    "question": "The Keene Act outlawed vigilantes in the Watchmen universe.",
+    "category": "movies.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "At the beginning of the movie Dog Day Afternoon, there were 3 men involved in the robbery.",
+    "category": "movies.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "In the film Dog Day Afternoon, Sonny asked to see his wife and his wife came. Was her name Leon?",
+    "category": "movies.txt",
+    "answer": "Yes",
+    "choices": [
+      "A. No",
+      "B. Yes"
+    ]
+  },
+  {
+    "question": "Sonnys partner was killed by  the police at the end of the movie Dog Day Afternoon?",
+    "category": "movies.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "When Robert Altman first went to Hollywood, he tried different activities, including working as the publicity director in the business of tattooing dogs.",
+    "category": "movies.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "In the movie Tenacious D, the initials JB stand for Jack Black.",
+    "category": "movies.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "According to the story Mikey told in the attic in The Goonies, Willys ship was called the Armada.",
+    "category": "movies.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "In the film Sin City, Marv eats Kevin.",
+    "category": "movies.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "In Sin City, Jackie Boy shoots himself.",
+    "category": "movies.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "In the movie Chinatown, Hollis I. Mulwray owned the water department.",
+    "category": "movies.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Harrison Ford did his own stunts for Indiana Jones and the Crystal Skull.",
+    "category": "movies.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Hancock is the first movie in which Will Smith plays a superhero.",
+    "category": "movies.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "When the producers of the movie Snakes on a Plane wanted to change the title, actor Samuel L. Jackson protested, saying the only reason he took the job was because of the title.",
+    "category": "movies.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Zac Efron made his acting debut in High School Musical.",
+    "category": "movies.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "High School Musical was released in 2005.",
+    "category": "movies.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Troy gives Gabriella a necklace in High School Musical 2.",
+    "category": "movies.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Vanessa Hudgens, one of the stars in High School Musical, made her acting debut in the film Thirteen.",
+    "category": "movies.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "There are a total of 10 siblings in the talented Wayans family.",
+    "category": "movies.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Nadia Wayans did not appear in the1988 movie Im Gonna Get You Sucka with her siblings.",
+    "category": "movies.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Marlon Wayans was in Scary Movie 1, 2 and 3.",
+    "category": "movies.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Marlon Wayans was in the movie Above the Rim with Tupac.",
+    "category": "movies.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Damon Wayans was not in the 1987 movie Hollywood Shuffle.",
+    "category": "movies.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "All of the magnificent 7 are killed in the movie Guns of the Magnificent Seven.",
+    "category": "movies.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Star Wars character Chewie is never seen without his bandolier.",
+    "category": "movies.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Is it true that the only weapon Chewie uses in Star Wars is his bowcaster?",
+    "category": "movies.txt",
+    "answer": "No",
+    "choices": [
+      "A. Yes",
+      "B. No"
+    ]
+  },
+  {
+    "question": "Actor Lorenzo Lamas appeared in the movie Grease, as the character who dated Sandy for a while.",
+    "category": "movies.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "The 1993 movie Jurassic Park was produced by Steven Spielberg.",
+    "category": "movies.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Brooke Shields starred as Sue-Ellen in Dont Tell Mom the Babysitters Dead.",
+    "category": "movies.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "In the 1939 movie, The wizard of Oz, the only lines of Meinhardt Raabe, who played the Coroner, were:\nAs coroner, I must aver\nI thoroughly examined her\nAnd shes not only merely dead\nShes really, most sincerely dead!",
+    "category": "movies.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "In the movie Braveheart, King Edward I was also referred to as Edward the Long Shanks?",
+    "category": "movies.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "In the 1960 movie Spartacus, the role of Roman general and politician Marcus Licinius Crassus was played by Peter Ustinov.",
+    "category": "movies.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "James Cagneys last film was the 1961 Billy Wilder satire One, Two, Three.",
+    "category": "movies.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "The 1997 film Face/Off, starring Nicolas Cage and John Travolta, was originally written for Arnold Schwarzenegger and Sylvester Stallone as a sci-fi movie.",
+    "category": "movies.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "In the film Dirty Dancing, Penny gets pregnant by Johnny.",
+    "category": "movies.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "In the classic western movie The Good, the Bad and the Ugly, when Tuco is about to be hung in the town of Valverde, the executioner reads out loud wanted in 15 counties of this state. Is there a factual error in his statement?",
+    "category": "movies.txt",
+    "answer": "Yes",
+    "choices": [
+      "A. Yes",
+      "B. No"
+    ]
+  },
+  {
+    "question": "The Oscar-winning movie Dances With Wolves ran over budget and Kevin Costner was forced to make up the overages personally.",
+    "category": "movies.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "The all-pro defensive tackle from the Detroit Lions, Alex Karras, played the role of Porky in the 1982 film Porkys.",
+    "category": "movies.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "The following dialogue is from the movie Star Trek IV - The Voyage Home.\nKirk: Oh, him? (referring to Spock ) I think he did a little too much LDS.",
+    "category": "movies.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Patrick Dempsey plays the role of the Mayor of New York in the movie Sweet Home Alabama.",
+    "category": "movies.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Despite its name, the movie Sweet Home Alabama was actually filmed in many small towns in Louisiana.",
+    "category": "movies.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "The movie Waynes World was shot in a little over one month.",
+    "category": "movies.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "The actor who lent his voice to Darth Vader also lent his voice to a character in The Lion King!",
+    "category": "movies.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Darth Vader only had one child.",
+    "category": "movies.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "At the end of Return of the Jedi, Darth Vader gets redeemed by reverting back to his former self.",
+    "category": "movies.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "The horror movie Killer Klowns from Outer Space came out in 1984.",
+    "category": "movies.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Jennifer Tilly starred in the 1982 horror movie One Dark Night with Adam West.",
+    "category": "movies.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "The horror/comedy movie The Toxic Avenger was produced by Troma Studios.",
+    "category": "movies.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "The Evil Dead was released in 1985 and cost $150,000 to make.",
+    "category": "movies.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Did Mel Brooks play more than one role in the movie Blazing Saddles?",
+    "category": "movies.txt",
+    "answer": "Yes",
+    "choices": [
+      "A. Yes",
+      "B. No"
+    ]
+  },
+  {
+    "question": "Did Dom DeLuise have a role in the movie Blazing Saddles?",
+    "category": "movies.txt",
+    "answer": "Yes",
+    "choices": [
+      "A. No",
+      "B. Yes"
+    ]
+  },
+  {
+    "question": "Steven Spielberg co-produced the cartoon Pinky and the Brain.",
+    "category": "movies.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Alan Rickman plays Colonel Brandon in the 1995 movie Sense and Sensibility.",
+    "category": "movies.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "The first Hollywood movie in which Alan Rickman appeared was Die Hard.",
+    "category": "movies.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Alan Rickman was not the first choice for the role of Severus Snape.",
+    "category": "movies.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "The following quote is from the movie Clockwork Orange.\nAlex: There was me, that is Alex, and my three droogs, that is Pete, Georgie, and Dim, and we sat in the Korova Milkbar trying to make up our rassoodocks what to do with the evening. The Korova milkbar sold milk-plus, milk plus vellocet or synthemesc or drencrom, which is what we were drinking. This would sharpen you up and make you ready for a bit of the old ultra-violence.",
+    "category": "movies.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "The 1933 movie Duck Soup, starring the Marx brothers, was really about duck soup.",
+    "category": "movies.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "The idea for the 2004 movie Crash came to the director when his car was carjacked.",
+    "category": "movies.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "James Spader, Holy Hunter, and Rosanna Arquette starred in a 1996 movie called Crash.",
+    "category": "movies.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Francis Ford Coppola won his only Academy Award for his work in the Godfather series.",
+    "category": "movies.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Denzel Washington and LL Cool J were considered for the role of Blade in the movie trilogy of the same name.",
+    "category": "movies.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Colin Farrell turned down the role of Hannibal King in Blade Trinity.",
+    "category": "movies.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "In Blade II, Blades enemies are the Daywalkers.",
+    "category": "movies.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "In the Blade trilogy, Jessica Alba stars as Abigail Whistler.",
+    "category": "movies.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Sanaa Lathan starred in all the three movies from the Blade trilogy.",
+    "category": "movies.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "All of the following actors starred in all the three Blade movies: Stephen Dorf, Traci Lords, Ron Perlman, Parker Posey, Kris Kristofferson.",
+    "category": "movies.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Guillermo del Toro directed both Blade II and Blade Trinity.",
+    "category": "movies.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "The cruise liner capsizes in the disaster classic The Poseidon Adventure.",
+    "category": "movies.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Indiana is the name of Indiana Jones pet cat.",
+    "category": "movies.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Fictional boxer Rocky and his son, Robert Jr. have a very close relationship, and in fact, Jr. followed in dads footsteps to become a professional boxer.",
+    "category": "movies.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Rockys original trainer returns in Rocky Balboa to help prepare him for his exhibition fight.",
+    "category": "movies.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Does Rocky win the exhibition match in the film Rocky Balboa?",
+    "category": "movies.txt",
+    "answer": "No",
+    "choices": [
+      "A. No",
+      "B. Yes"
+    ]
+  },
+  {
+    "question": "The following conversation is from the 1983 movie Bad Boys.\nCaptain Howard: Until then, until then, you are Mike Lowrey, you be him, thats what you are, youre him.\nMarcus Burnett: But I-...\nCaptain Howard: Youre him, I dont wanna hear it, youre him. And you, youre you, you be you, but not in front of her. Youre him, youre you.",
+    "category": "movies.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "This exchange is from the 1983 movie The Return of the Living Dead.\nHarry Cooper: Did you hear me when I told you they turned over our car?\nBen: Oh, hell! Any good five men could do that!\nHarry Cooper: Thats my point! Theres not going to be five, or even ten! Theres going to be twenty, thirty, maybe a hundred of those things, and as soon as they find out were here, this placell be crawling with them!\nBen: Well, if theres that much, theyll probably get us wherever we are.",
+    "category": "movies.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "This dialogue is from the 1941 movie CItizen Kane.\nFemale reporter: If you couldve found out what Rosebud meant, I bet that wouldve explained everything.\nThompson: No, I dont think so; no. Mr. Kane was a man who got everything he wanted and then lost it. Maybe Rosebud was something he couldnt get, or something he lost. Anyway, it wouldnt have explained anything... I dont think any word can explain a mans life. No, I guess Rosebud is just a... piece in a jigsaw puzzle... a missing piece.",
+    "category": "movies.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "The Brave Little Toaster was about some household appliances that go on a quest to find their owner.",
+    "category": "movies.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "2000s Girlfight was Michelle Rodriguezs breakout role.",
+    "category": "movies.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Keanu Reeves starred in the 2005 movie Thumbsucker.",
+    "category": "movies.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "All the actors who portrayed Vito Corleone won an Oscar.",
+    "category": "movies.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Dustin Hoffman was in two movies that won the Best Picture Academy Award in the 1980-1989 period.",
+    "category": "movies.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Robert Duvall stars in No Country for Old Men, which won Best Picture at the 80th annual Academy Awards,.",
+    "category": "movies.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Was the movie Lean on Me based on a true story?",
+    "category": "movies.txt",
+    "answer": "Yes",
+    "choices": [
+      "A. No",
+      "B. Yes"
+    ]
+  },
+  {
+    "question": "In the movie Lean on Me Joe Clark is caught with chains on the doors by the mayor of Paterson, NJ.",
+    "category": "movies.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "According to the movie Lean on Me, Eastside High was built on a cemetery.",
+    "category": "movies.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "In Rocky IV, Rockys wife, Adrian, didnt join him the first time he flew to Russia.",
+    "category": "movies.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "While training in Russia, Rocky Balboa was sporting a beard. Did he have a beard during his fight against Drago?",
+    "category": "movies.txt",
+    "answer": "No",
+    "choices": [
+      "A. Yes",
+      "B. No"
+    ]
+  },
+  {
+    "question": "In the movie Say Anything, Lloyds nickname for his nephew is Little J.",
+    "category": "movies.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "In the movie Say Anything, Diane is afraid of flying.",
+    "category": "movies.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "In the movie Blazing Saddles, was the ministers Bible shot when he interrupted the Waco Kid?",
+    "category": "movies.txt",
+    "answer": "Yes",
+    "choices": [
+      "A. No",
+      "B. Yes"
+    ]
+  },
+  {
+    "question": "In the movie Pretty in Pink, Duckie is Andies boyfriend.",
+    "category": "movies.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "The movie The Pursuit of Happyness was released in 2008.",
+    "category": "movies.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "John Matuszak, defensive end for Kansas City Chiefs and Oakland raiders, played a defensive end for the North Dallas team in the movie North Dallas Forty, starring Nick Nolte.",
+    "category": "movies.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Tom Hanks character in Forrest Gump was selected to run back kickoffs for the University of Alabama but on his first try, he ran the wrong way for safety.",
+    "category": "movies.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "At the end of the movie Mean Girls, Cady ended up with Aaron Samuels.",
+    "category": "movies.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "In the sci-fi thriller Aliens, Cpl. Hicks believed the mission was going to be a stand up fight.",
+    "category": "movies.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "In the movie The Great Escape, Charles Bronson played Lt. David Vilinski, known as the Mole.",
+    "category": "movies.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Is it true that in the movie The Great Escape, Donald Pleasence played Lt. Colin Blythe known as the Forger?",
+    "category": "movies.txt",
+    "answer": "Yes",
+    "choices": [
+      "A. Yes",
+      "B. No"
+    ]
+  },
+  {
+    "question": "In the movie The Great Escape, the Manufacturer was the code name of Louis Sedgwick, played by James Coburn.",
+    "category": "movies.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "In the scene of the movie A Cinderella Story where Austin, Shelby, and all their friends come into the diner for a pre-dance meal, Sam is asked to serve them. When she comes back with their order, Austin is the only one left. Even though the gang didnt eat, Austin offers to pay Sam anyway.",
+    "category": "movies.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "These lines from the movie A Cinderella Story were delivered by Fiona and addressed to Gabriela:\nTheres something Ive always wanted to tell you and I think youre ready to hear it. Youre not very pretty and youre not very bright. Im so glad we had that talk.",
+    "category": "movies.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "In the movie Talladega Nights: The Ballad of Ricky Bobby, Rickys wife, Carley, says, If we wanted two wussies, we would have named them Billy Bob and Ethel.",
+    "category": "movies.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Does Cal marry Carley in the movie Talladega Nights?",
+    "category": "movies.txt",
+    "answer": "Yes",
+    "choices": [
+      "A. Yes",
+      "B. No"
+    ]
+  },
+  {
+    "question": "In the movie Talladega Nights, Ricky drives his car into a buggy and a policeman.",
+    "category": "movies.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Does Cal get a new nickname before he marries Carley in Talladega Nights?",
+    "category": "movies.txt",
+    "answer": "Yes",
+    "choices": [
+      "A. No",
+      "B. Yes"
+    ]
+  },
+  {
+    "question": "In the movie Scarface, Tonys sister marries Tonys best friend behind Tonys back.",
+    "category": "movies.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "At the end of the movie Scarface, Tony goes back to Cuba.",
+    "category": "movies.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Godzilla has a star on the Hollywood Walk of Fame.",
+    "category": "movies.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Godzilla was originally a cross between a gorilla and a whale.",
+    "category": "movies.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "In the movie Wedding Crashers, Todd tied down Jeremy to the bed and was trying to attack him when Secretary Cleary came in the room.",
+    "category": "movies.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "In the movie Wedding Crashers, Todd made a painting of John holding a leaf over his privates.",
+    "category": "movies.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "In the movie Wedding Crashers, when Jeremy called out hot route, John ran the hot route and tackled Clair when she caught the interception.",
+    "category": "movies.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Does Christopher Walker play Count Dooku in episodes 2 and 3 of Star Wars?",
+    "category": "movies.txt",
+    "answer": "No",
+    "choices": [
+      "A. Yes",
+      "B. No"
+    ]
+  },
+  {
+    "question": "R2-D2 and C3-P0 were sold to Ben Kenobi Star Wars: Episode 4.",
+    "category": "movies.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "The first Ewok you see in Star Wars is called Wicket W Warrick.",
+    "category": "movies.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Robert De Nero starred as a priest in the movie Sleepers.",
+    "category": "movies.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "In the film Sleepers, Father Robert Carillo revealed to Shakes that he, too, had spent time at the Wilkinson Home for boys.",
+    "category": "movies.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "In the movie Sleepers, Michael Sullivan took on the case for the prosecution against his friends because he wanted to get back at the guards at the Wilkinson Home for boys.",
+    "category": "movies.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Reviews for the movie Eight Below were in general positive.",
+    "category": "movies.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "At the end of the movie Malone, Jo Barlow, who was infatuated with Malone, reminded him that in five years she would be five years older. Burt Reynolds character replied, So will I.",
+    "category": "movies.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Lauren Hutton, who starred in the movie Malone, played Fiona McNeil in two episodes of Nip/Tuck.",
+    "category": "movies.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "In the drama movie 21, Ben is asked to join the card counting group and immediately agrees.",
+    "category": "movies.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "The 2001 Japanese animated movie Spirited Away is about  Chichiro and her parents being trapped in what seems to be a deserted amusement park.",
+    "category": "movies.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Debra Winger starred in the 1993 Australian movie The Piano and played most of the piano sequences herself.",
+    "category": "movies.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "In Pirates of the Caribbean: At Worlds End, Will stabbed the heart of Davy Jones with his fathers knife.",
+    "category": "movies.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "1971s The French Connection was the first R-rated movie to win the Academy Award for Best Picture since the introduction of the MPAA film rating system.",
+    "category": "movies.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Kelita Smith plays Delilah in the movie Dead Presidents.",
+    "category": "movies.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "In the movie Dead Presidents, Cutty was Kirbys nephew.",
+    "category": "movies.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Three murders are committed in the Academy Award-winning film, There Will Be Blood.",
+    "category": "movies.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "In the movie Eve of Destruction, Eves creator had a teenage fantasy that Eve attempted to fulfill in a bar and motel in California.",
+    "category": "movies.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "In the movie, Over Her Dead Body, an ice sculpture of a lady falls and kills Kate.",
+    "category": "movies.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "In the movie Facing the Giants, Grant Taylors car battery dies every time on his way home from work.",
+    "category": "movies.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Is it true that some football players fathers are lobbying to have Grant Taylor fired in Facing the Giants?",
+    "category": "movies.txt",
+    "answer": "Yes",
+    "choices": [
+      "A. Yes",
+      "B. No"
+    ]
+  },
+  {
+    "question": "In the movie Facing the Giants, according to Grant Taylors philosophy players need to praise God when they win and when they lose.",
+    "category": "movies.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "The director, writer and star of the movie Facing the Giants is an associate pastor.",
+    "category": "movies.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Was Broken Arrow a black-and-white movie?",
+    "category": "movies.txt",
+    "answer": "No",
+    "choices": [
+      "A. No",
+      "B. Yes"
+    ]
+  },
+  {
+    "question": "In the movie WALL-E, the Captain disables the Auto Pilot by ordering him to give him control.",
+    "category": "movies.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "In the Star Wars saga, there is a Tusken Raider who is a Jedi master.",
+    "category": "movies.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "The movie âThe Last Emperorâ follows Puyis life from his ascension to the throne as a small boy to his imprisonment and political rehabilitation.",
+    "category": "movies.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Bernardo Bertoluccis film La Luna focuses on the troubled life of a teenage boy.",
+    "category": "movies.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Do Troy and Gabriella go to prom together in High School Musical 3?",
+    "category": "movies.txt",
+    "answer": "No",
+    "choices": [
+      "A. Yes",
+      "B. No"
+    ]
+  },
+  {
+    "question": "Scarlett Johansson released her first music album in 2008.",
+    "category": "movies.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "In the Woody Allen movie Vicky Cristina Barcelona, Scarlett Johanssons character is in Barcelona to complete her masters in Catalan identity.",
+    "category": "movies.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "The Disney Channel movie Princess Protection Program premiered in the US on July 27, 2009.",
+    "category": "movies.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Is it true that in the movie Princess Protection Program Carter and Rosies high school is called Lake Monroe High School?",
+    "category": "movies.txt",
+    "answer": "Yes",
+    "choices": [
+      "A. Yes",
+      "B. No"
+    ]
+  },
+  {
+    "question": "In the Disney movie Princess Protection Program, Rosies first job was in a smoothie shop.",
+    "category": "movies.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "In the movie Princess Protection Program, is Carter a princess?",
+    "category": "movies.txt",
+    "answer": "No",
+    "choices": [
+      "A. No",
+      "B. Yes"
+    ]
+  },
+  {
+    "question": "In the movie Princess Protection Program, Rosie comes from an island called Costa Luna.",
+    "category": "movies.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "In the movie Princess Protection Program, Carter has a crush on Donny.",
+    "category": "movies.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Does Carter from Princess Protection Program work at the bait shop?",
+    "category": "movies.txt",
+    "answer": "Yes",
+    "choices": [
+      "A. No",
+      "B. Yes"
+    ]
+  },
+  {
+    "question": "In the movie Princess Protection Program, is Rosies dad in Costa Luna?",
+    "category": "movies.txt",
+    "answer": "No",
+    "choices": [
+      "A. Yes",
+      "B. No"
+    ]
+  },
+  {
+    "question": "Did Rosie, the protagonist of Princess Protection Program, leave her home country because someone attempted to assassinate her?",
+    "category": "movies.txt",
+    "answer": "Yes",
+    "choices": [
+      "A. Yes",
+      "B. No"
+    ]
+  },
+  {
+    "question": "In the movie Princess Protection Program, Rosie received a necklace from her mother.",
+    "category": "movies.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "In the movie Princess Protection Program, Rosie has to count worms.",
+    "category": "movies.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Does Rosie make a boat for Carter and her father in the movie Princess Protection Program?",
+    "category": "movies.txt",
+    "answer": "No",
+    "choices": [
+      "A. Yes",
+      "B. No"
+    ]
+  },
+  {
+    "question": "Brooke and Megan are the names of the two mean girls in the movie Princess Protection Program.",
+    "category": "movies.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "In the movie Princess Protection Program, is Brooke the first to find out Rosies secret?",
+    "category": "movies.txt",
+    "answer": "Yes",
+    "choices": [
+      "A. No",
+      "B. Yes"
+    ]
+  }
+]

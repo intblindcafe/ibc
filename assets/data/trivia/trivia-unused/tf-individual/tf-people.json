@@ -1,0 +1,3071 @@
+[
+  {
+    "question": "Ronald Reagan was a left-handed President.",
+    "category": "people.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Both rappers, 50 Cent and Eminem, are left-handed.",
+    "category": "people.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "During her trial, Joan of Arc was accused of being left-handed.",
+    "category": "people.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "The Triads is the name of the Japanese Mafia.",
+    "category": "people.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "If you are a member of Yakuza and disobey your boss, you have to cut one of your fingertips and send it to him, begging for forgiveness.",
+    "category": "people.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "The execution of a member of the American Mafia is called Omerta.",
+    "category": "people.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "The popular musical Singin in The Rain, released in 1952 starred dancer/actor Art Kelly.",
+    "category": "people.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Parents in Romania used to threaten their children by telling them that Dracula would come if they were not good.",
+    "category": "people.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Draculas mansion was in Novi Sad.",
+    "category": "people.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Old West gunman Harvey Logan was also known as Kid Curry.",
+    "category": "people.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Frank James became a shoe salesman after giving up the outlaw life.",
+    "category": "people.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Old West outlaw Jesse James formed a gang with Cole Younger.",
+    "category": "people.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Newspapers sometimes mistakenly listed the name of an infamous Old West gunman as Johnny Ringgold instead of Johnny Ringo.",
+    "category": "people.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Notorious Old West outlaw Tom Ketchum was also known as Tom Terrific.",
+    "category": "people.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Old West gunman William Brocius was also known as Wild Bill.",
+    "category": "people.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Outlaw William Brooks was known also by the nickname Buffalo Bill.",
+    "category": "people.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Gunman Charles Bolles was a stagecoach robber in California and Oregon.",
+    "category": "people.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Old West gunman Burt Alvord was an Arizona marshal before becoming an outlaw.",
+    "category": "people.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Henry McCarty is said to be the real name of the notorious Old West outlaw Billy the Kid.",
+    "category": "people.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Charles Manson stood 5 8 inches tall.",
+    "category": "people.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Vito Genovese, Joe Adonis, Albert Anastasia and Bugsy Siegel were the four murderers of Joe Masseria. The assassination of this Mafia don put an end to the Castellammarese War.",
+    "category": "people.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "One of the most bloodthirsty mobsters, Toto Riina, is member of the American Mafia.",
+    "category": "people.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "John Gotti has never been imprisoned.",
+    "category": "people.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "What an irreparable loss! are the last words of Auguste Comte.",
+    "category": "people.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "John Wayne Gacy, the Killer Clown, buried over 30 victims in his garden.",
+    "category": "people.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "In Alfred Hitcocks classic thriller Psycho, the main character Norman Bates, was inspired by a real life serial killer.",
+    "category": "people.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Theodore Roosevelt was known as the Cyclone Assemblyman, The Hero of San Juan Hill and Roosevelt I.",
+    "category": "people.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Martha Washington was the first First Lady of the United States.",
+    "category": "people.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "According to the Bible, Eve was the first woman on Earth.",
+    "category": "people.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "According to the Bible, Eve was the first person on Earth.",
+    "category": "people.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Condoleezza Rice is the first woman to serve as U.S. Secretary of State.",
+    "category": "people.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "At the scene of any hostage crisis, it is best if the negotiator and the police commander duties are performed by different people.",
+    "category": "people.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "It is never a good idea to use a secondary negotiator, because all he/she can do is distract the primary one.",
+    "category": "people.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Should the negotiator foster the growth of a relationship between him and the hostage-taker?",
+    "category": "people.txt",
+    "answer": "Yes",
+    "choices": [
+      "A. Yes",
+      "B. No"
+    ]
+  },
+  {
+    "question": "It was proved that Jack the Ripper raped his victims.",
+    "category": "people.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "The label bad seed related to serial killers personalities derives from William Marchs 1954 novel of the same title.",
+    "category": "people.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Studies show that only 30% of all serial murderers are sexually motivated for their actions.",
+    "category": "people.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Did John pop star icon Denver die October 12, 1997, at the age of 53 in an automobile accident?",
+    "category": "people.txt",
+    "answer": "No",
+    "choices": [
+      "A. Yes",
+      "B. No"
+    ]
+  },
+  {
+    "question": "Pirates did not actually have parrots as pets, it is a myth.",
+    "category": "people.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Michael Jordan played for the Chicago Bulls and for two other teams in the NBA.",
+    "category": "people.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Deion Sanders started his football career in San Fransisco.",
+    "category": "people.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Gaius Julius Caesar Octavianus, better known as Caesar Augustus, was the first Roman Emperor (this is true). Although he is known as one of the greatest Roman Emperors, he had some problems with his citizens, as he didnt believe in the Roman Gods.",
+    "category": "people.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Commodus had a passion for gladiatorial combat (this is true). He also liked appearing in the arena, dressed as a gladiator.",
+    "category": "people.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "In the 21st century, pirates still roam the seas and account for billions of dollars in loss each year.",
+    "category": "people.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "In the past, pirates with a commission or letter of Marque to legally attack enemy ships were called freebooters.",
+    "category": "people.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Pirates who operated out of the West Indies were known as Buccaneers.",
+    "category": "people.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "The famed piracy in the Caribbean started around the first half of 1500s.",
+    "category": "people.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Two of the hotbeds for pirate activity were the islands of Tortuga and Port Royal.",
+    "category": "people.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Pirate society was run as a democracy in which votes were taken.",
+    "category": "people.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Black Bart was the most successful pirate in the Golden Age of Piracy.",
+    "category": "people.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "There were women pirates.",
+    "category": "people.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Pirate Blackbeard had the longest reign of terror among pirates.",
+    "category": "people.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "The pirate term cackle fruit referred to bananas.",
+    "category": "people.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Joan of Arc was only 16 when she died.",
+    "category": "people.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Lady Jane Grey died in 1554 from typhoid fever.",
+    "category": "people.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Football star Derrick Thomas died in a shoot out outside a Kansas City club in 2000.",
+    "category": "people.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "In 1963 Patsy Cline killed her abusive husband and then turned the gun on herself.",
+    "category": "people.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Neither Anne Sullivan nor Helen Keller ever married.  They lived together from the time Anne came to Helen as a child, until she died.",
+    "category": "people.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Did Lane Smith, who was cast member of My Cousin Vinny, ever play the role of a President?",
+    "category": "people.txt",
+    "answer": "Yes",
+    "choices": [
+      "A. No",
+      "B. Yes"
+    ]
+  },
+  {
+    "question": "The young King Arthur pulled the sword Excalibur from a stone that proved the young Arthur would be the next king.",
+    "category": "people.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Vincent Lombardi stated that, Opportunity dances with those who are already on the dance floor.",
+    "category": "people.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Did Plato state that, The first and best victory is to conquer self?",
+    "category": "people.txt",
+    "answer": "Yes",
+    "choices": [
+      "A. No",
+      "B. Yes"
+    ]
+  },
+  {
+    "question": "George Halas said that the things which hurt instruct.",
+    "category": "people.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Did basketball coach Bob Knight say: Learn to do things right and then do them right every time?",
+    "category": "people.txt",
+    "answer": "Yes",
+    "choices": [
+      "A. Yes",
+      "B. No"
+    ]
+  },
+  {
+    "question": "Is this a Chinese proverb: If  we dont change the direction were going, were likely to end up where were headed?",
+    "category": "people.txt",
+    "answer": "Yes",
+    "choices": [
+      "A. No",
+      "B. Yes"
+    ]
+  },
+  {
+    "question": "The name of Richard Nixons famous dog was Checkers.",
+    "category": "people.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Richard Nixon served in the U.S. Army.",
+    "category": "people.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Richard Nixon was not the first U.S. President to resign from office.",
+    "category": "people.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Former president George H. W. Bush was a member of the Nixon administration.",
+    "category": "people.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "At 53, Muggsy Bogues was the smallest player in NBA history but he was big enough to outgrow his real given name, Moses.",
+    "category": "people.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Knute is perhaps the most famous name in college football but it was not Coach Rocknes real first name.",
+    "category": "people.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Duke, Dizzy, Peewee,  Satchel, Whitey, Yogi: all of these famous baseball handles were nicknames, except for one, which was a given first name.",
+    "category": "people.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Is it true that Pancho Segura and Pancho Gonzalez, who were both kings on the tennis court,  were christened with the same first name.",
+    "category": "people.txt",
+    "answer": "No",
+    "choices": [
+      "A. No",
+      "B. Yes"
+    ]
+  },
+  {
+    "question": "Sigmund Freud, the Father of Psychoanalysis, committed suicide on September 23, 1939.",
+    "category": "people.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "James Buchanan was a Republican.",
+    "category": "people.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "George W. Bush became the 42nd President of the United States.",
+    "category": "people.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "The 37th U.S. President, Richard Nixon was impeached due to the Watergate scandal.",
+    "category": "people.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Lyndon B. Johnson, who served as vice-president under John F. Kennedy, was sworn into office the day after President Kennedy was shot.",
+    "category": "people.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Both Nicholas II and Alexandra Fyodorovna were first cousins of King George V of England.",
+    "category": "people.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Nicholas II actually became Tsar of Russia before he married Alexandra.",
+    "category": "people.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "When Nicholas abdicated the throne in 1917, he also abdicated for his heir, Alexis.",
+    "category": "people.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Alexandra Fyodorovnas sister was married to Nicholas IIs brother.",
+    "category": "people.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Princess Diana had one brother and one sister.",
+    "category": "people.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Princess Diana of Wales was actually born on one of the royal estates.",
+    "category": "people.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Princess Diana had no American ancestors.",
+    "category": "people.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Princess Dianas sister dated Prince Charles, before Diana and Charles became engaged.",
+    "category": "people.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "The teddy bear toy is named after former president Theodore Roosevelt.",
+    "category": "people.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Franklin Delano Roosevelt became the first U.S. President to serve more than two terms.",
+    "category": "people.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "President Theodore Roosevelt walked Eleanor down the aisle on her wedding day.",
+    "category": "people.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Theodore Roosevelts first wife, Alice, and his mother, Martha, died on the same day.",
+    "category": "people.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Both Theodore Roosevelt and Franklin D. Roosevelt were democrats.",
+    "category": "people.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Throughout her husbands presidency, Eleanor Roosevelt often ranked higher in popularity polls than Franklin did.",
+    "category": "people.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Franklin Delano Roosevelt is one of the presidents depicted on Mount Rushmore in South Dakota.",
+    "category": "people.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Eleanor Roosevelt wrote a bi-monthly newspaper column called New in Washington.",
+    "category": "people.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Freddie Prinze died in 1977 of a drug overdose.",
+    "category": "people.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Singer Aaliyah was killed in a car crash in 2001.",
+    "category": "people.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "We get the word bikini from the name of a tiny atoll in the Pacific.",
+    "category": "people.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "The Ritz cracker gets its name from Cesar  Ritz, a famous German hotel owner.",
+    "category": "people.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Abraham Lincoln carried bills, his mail, and personal notes in his hat.",
+    "category": "people.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "President Calvin Coolidge had a special bathtub made just for him.",
+    "category": "people.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Thutmose III is considered to have been a great military expert.",
+    "category": "people.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Tutankhamun succeeded Akhenaten when he was just 8 (this is true). He adopted Akhenatens monotheistic ideas and strengthened the cult in Aten.",
+    "category": "people.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "After the team of Howard Carter opened the tomb of King Tutankhamen, some of the archaeologists died in strange circumstances. This sparked the rumor of the Curse of the Pharaohs (this is true). However, Sir Arthur Conan Doyle (the inventor of the Sherlock Holmes) rejected the idea and proved it was groundless.",
+    "category": "people.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "U.S. police officers can shoot a man running from a felony he committed if he is running away with a gun.",
+    "category": "people.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "In the U.S. a person under the age of 17 cannot be tried as an adult.",
+    "category": "people.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Bail and bond are synonymous.",
+    "category": "people.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Both Queen Elizabeth II and Prince Philip are direct descendants of Queen Victoria.",
+    "category": "people.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Peter Phillips is the eldest grandchild of Queen Elizabeth II.",
+    "category": "people.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "As a young man, Vlad the Impaler was taken hostage by the Turks and sent to Istanbul.",
+    "category": "people.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Vlad Draculas father and brother were assassinated by the Turks so they could more easily invade the region of Wallachia.",
+    "category": "people.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Actor Hugh Grant studied English at the University of Cambridge.",
+    "category": "people.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Bill Gates graduated from Harvard University.",
+    "category": "people.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "When Joan was about 20 she said she had begun to receive visions of Saint Michael the Archangel, St. Catherine, and St. Margaret telling her to drive the English out of France.",
+    "category": "people.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "When Joan was captured by Burgundian troops, King Charles did not want to ransom her.",
+    "category": "people.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Was the trial against Joan of Arc, which began in 1431  just and fair?",
+    "category": "people.txt",
+    "answer": "No",
+    "choices": [
+      "A. Yes",
+      "B. No"
+    ]
+  },
+  {
+    "question": "Mary Todd Lincoln was committed to a mental institution.",
+    "category": "people.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "George Washington lived in the White House.",
+    "category": "people.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Martin Van Buren served 1 term as president.",
+    "category": "people.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "From 1965 to 1973 Gerald Ford served as House Minority Leader.",
+    "category": "people.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Gerald Ford was a Lt. Commander in the Navy.",
+    "category": "people.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Richard Cheney was appointed by Gerald Ford as Chief of Staff.",
+    "category": "people.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Gerald Ford had four children.",
+    "category": "people.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Gerald Ford was the first U.S. President to live past the age of 90.",
+    "category": "people.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "George Washington was elected by Congress and not by the Electoral College of the United States.",
+    "category": "people.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Love is the only force capable of transforming an enemy into friend. is an inspirational quote by American activist Martin Luther King, Jr.",
+    "category": "people.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Martha Jefferson, wife of President Thomas Jefferson, gave birth to two children.",
+    "category": "people.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Elizabeth Monroe, First Lady from 1817 to 1825, had a child who died from whooping cough.",
+    "category": "people.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "One of the children of Louisa Catherine Adams, First Lady from 1825 to 1829, was the victim of a kidnapping.",
+    "category": "people.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Elizabeth Monroe, First Lady from 1817 to 1875, never had health problems.",
+    "category": "people.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Letitia Christian Tyler, who was First Lady from 1841 to 1842, so disdained the great unwashed that she would not participate in public affairs.",
+    "category": "people.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Barbara Bush, First Lady from 1989 to 1993, gave birth to six children.",
+    "category": "people.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Louisa Catherine Adams, First Lady from 1825 to 1829, had only three pregnancies.",
+    "category": "people.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "One U.S. First Lady wrote an autobiography entitled Adventures of a Nobody.",
+    "category": "people.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "The Rookie Jock-Name of the Year award should go to Minnesota Twins pitcher Boof Bonser, especially because its his real name, too.",
+    "category": "people.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Edward the Confessor of England tried to gain support from William, Duke of Normandy, prior to the Norman Conquest.",
+    "category": "people.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "William, Duke of Normandy, was crowned King of England on December 25, 1066.\nHe became William I.",
+    "category": "people.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Senator Barack Obama was the only African-American Senator in the Senate in 2006.",
+    "category": "people.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "US Senator Barack Obama has won a Grammy.",
+    "category": "people.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Susan Smith was convicted of killing her 2 sons by drowning them in her car in 1994.",
+    "category": "people.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Genene Jones was a pediatric nurse in Texas whose shift was commonly referred to as the Death Shift.",
+    "category": "people.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Frederick II of Prussia refused to bathe and stopped changing his clothes.",
+    "category": "people.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Mao Zedong refused to brush his teeth.",
+    "category": "people.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Benedict of Aniane was a monk that spent most of his life in rags.",
+    "category": "people.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Gregor Mendel wrote On the Origins of Species in 1859.",
+    "category": "people.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Profiles in Courage is the book written by John F. Kennedy that won him the Pulitzer Prize for Biography in 1957.",
+    "category": "people.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Letter from Birmingham Jail was written by Dr. Martin Luther King Jr. after he was jailed for eating at a segregated lunch counter.",
+    "category": "people.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Ancient Egyptians wrote on papyrus.",
+    "category": "people.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Jack Nicklaus is also known as The Golden Bear.",
+    "category": "people.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Tug McGraw played for the New York Mets from 1975-1984.",
+    "category": "people.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Robert De Niros role in Casino was based on the real life gangster Benjamin Bugsy Siegel.",
+    "category": "people.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Mickey Featherstone, member of  an organized crime gang the Westies, fled to Canada to avoid being drafted into Vietnam.",
+    "category": "people.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Sonny Black of the Bonano family murdered Sonny Red who also belonged to the Bonano family.",
+    "category": "people.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Were Tommy DeSimone, Henry Hill, or Jimmy Burke ever made members of the Mafia?",
+    "category": "people.txt",
+    "answer": "No",
+    "choices": [
+      "A. No",
+      "B. Yes"
+    ]
+  },
+  {
+    "question": "In 2002, U.S. President  George W. Bush told British Prime Minister Tony Blair that the problem with the French is that they dont have a word for entrepreneur.",
+    "category": "people.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "U.S. President George W. Bush was the first Governor in Texas that was elected to two 4-year terms in a row.",
+    "category": "people.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "An act of terrorism totally outside the bounds of international law and diplomatic tradition, a crisis that calls for firmness and restraint. is a quote by U. S. President George W. Bush.",
+    "category": "people.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "After the 2000 presidential elections, Richard B. Cheney became U.S. Vice President under President George W. Bush.",
+    "category": "people.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "George Washington was of small to medium stature.",
+    "category": "people.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "George Washington served in both the Virginia Militia and the Continental Army.",
+    "category": "people.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Was George Washington assassinated?",
+    "category": "people.txt",
+    "answer": "No",
+    "choices": [
+      "A. No",
+      "B. Yes"
+    ]
+  },
+  {
+    "question": "In the television show The Simpsons, Harry Truman is on the million dollar bill.",
+    "category": "people.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Harry and Bess Truman were he first senior citizens to receive medicare cards. They received them in the mid-60s from then President LBJ.",
+    "category": "people.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "When Harry Truman left the Presidency he was highly regarded by the American people.",
+    "category": "people.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Eoin is a version of the name John.",
+    "category": "people.txt",
+    "answer": "Yes",
+    "choices": [
+      "A. Yes",
+      "B. No"
+    ]
+  },
+  {
+    "question": "John is a slang term meaning prostitute.",
+    "category": "people.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Did John Loren Sandford write a book titled Dark  of the Moon?",
+    "category": "people.txt",
+    "answer": "No",
+    "choices": [
+      "A. No",
+      "B. Yes"
+    ]
+  },
+  {
+    "question": "Carlo Gambinos family belonged to the Honored Society, a criminal brotherhood that used codes of honor and millions of Italian Lira to control illegal businesses in Sicily.",
+    "category": "people.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "The Russian nobility were required to wear a kind of uniform at Court.",
+    "category": "people.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "In Belgium, nobility titles are still granted by the King of the Belgians.",
+    "category": "people.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "After her husbands death in 1861, Queen Victoria only wore almost entirely black for the remainder of her life.",
+    "category": "people.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Queen Victoria was the first monarch to live in Kensington Palace.",
+    "category": "people.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Queen Victoria died of typhoid fever.",
+    "category": "people.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Slavery was banned in all of the British empire under Queen Victoria.",
+    "category": "people.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "During World War II Ronald Reagan made training videos for the US Army Air Corps.",
+    "category": "people.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Ronald Reagan was originally a member of the Democratic party.",
+    "category": "people.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Blackbeard is considered the most successful pirate of all time.",
+    "category": "people.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "A wreck which was claimed to be Blackbeards ship was discovered near North Carolina in 1978.",
+    "category": "people.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "After Blackbeard died, he was beheaded and his head was suspended from the ship of his captor.",
+    "category": "people.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Len Dawson, who played quarterback for the KC Chiefs, wore number 16.",
+    "category": "people.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Jerry Rice wore number 82 when he played for the San Francisco 49ers.",
+    "category": "people.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Bobby Hull wore number 9 when he played for the NHL team the Chicago Blackhawks.",
+    "category": "people.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Mother Teresa was a citizen of the United States of America.",
+    "category": "people.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "In her Nobel Prize acceptance speech, Mother Teresa declared, Abortion is the worst evil, and the greatest enemy of peace. However, she did admit that in some situations abortion may be necessary, after she learned that more than 450,000 women in East Pakistan (now Bangladesh) had been systematically raped, in the aftermath of the Bangladesh Liberation War.",
+    "category": "people.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Idi Amin was the tennis champion of Uganda from 1954 to 1958.",
+    "category": "people.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "There is a breast cancer clinic named after Gerald Fords wife.",
+    "category": "people.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "James Earl Carter defeated Gerald Ford in the 1976 Presidential election.",
+    "category": "people.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Theodore Roosevelt was very athletic and engaged in sports as a child.",
+    "category": "people.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "The 26th President of the United States, Theodore Roosevelt was very interested in mathematics during his childhood.",
+    "category": "people.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "After Theodore Rooseveltâs first wife died, he married a childhood sweetheart.",
+    "category": "people.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Theodore Roosevelt was the first president to have a car, be submerged in a submarine, and own a telephone.",
+    "category": "people.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "All of the following share the same birth date of June 21st, but were they all born in the 60-year period between 1925 and 1985?\nPrince William, Meredith Baxter Birney, Maureen Stapleton, Carl Stokes, Mariette Hartley and Jane Russell.",
+    "category": "people.txt",
+    "answer": "No",
+    "choices": [
+      "A. Yes",
+      "B. No"
+    ]
+  },
+  {
+    "question": "Prince, Tom Jones and Liam Neeson were all born on June 7th but in different years.",
+    "category": "people.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Abraham Lincoln was shot by John Wilkes Booth.",
+    "category": "people.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Richard Nixon was the 35th president of the United States.",
+    "category": "people.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Ronald Reagan worked as a radio sports announcer after graduating from college.",
+    "category": "people.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Herbert Hoover directed the American Relief Committee.",
+    "category": "people.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Franklin D. Roosevelt was a New York state senator, before he became president of the United States.",
+    "category": "people.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "On February 24, 1982, ice hockey player Wayne Gretzky broke the record for most goals in a season, by scoring 76 goals.",
+    "category": "people.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Jacqueline Kennedy graduated from George Washington University with a bachelor of arts degree in French literature.",
+    "category": "people.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Jacqueline and John F. Kennedy had four children together.",
+    "category": "people.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Jacqueline Kennedy became First Lady at the age of 31.",
+    "category": "people.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "After Onassis death, Jacqueline Kennedy Onassis accepted from Onassiss daughter, Christina, a settlement of $26,000,000.",
+    "category": "people.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Eleanor Roosevelt did not become politically active until her husband was elected president.",
+    "category": "people.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Lady Bird Johnson was on board Air Force One when her husband was sworn as the 36th president of the U.S. after the assassination of President John F. Kennedy.",
+    "category": "people.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Henry VIII was known as a âRenaissance Manâ.",
+    "category": "people.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Henry VIII desperately desired to have a son and Anne Boleyn was able to fulfill his dream.",
+    "category": "people.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "In 1536, Henry VIIIs two daughters, Mary and Elizabeth, were declared illegitimate.",
+    "category": "people.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Henry VIII called for public displays of joy upon the death of his ex-wife Catherine of Aragon.",
+    "category": "people.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Henry VIII enjoyed good health before his death.",
+    "category": "people.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Isabella of Mar died before her husband Robert the Bruce was crowned King of Scots, and never became Queen.",
+    "category": "people.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Saint Margaret, Queen of Scotland was canonized by Pope Innocent IV and was declared the patroness and protectress of Scotland.",
+    "category": "people.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Anne Boleyn, Jane Seymour, Anna of Cleves, Katherine Howard and Elizabeth of York were all married to Henry VIII.",
+    "category": "people.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "The famous story of the hatchet and the chopped cherry tree, when young George Washington claimed I cannot tell a lie, is mostly based on historical fact.",
+    "category": "people.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "George Washington was born outside of Boston in the Massachusetts Bay Colony in 1732.",
+    "category": "people.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "George Washingtons prescient heroic future started with two victories against the French in 1754 at Ft. Duquesne and then at the Monogohela under General Braddock.",
+    "category": "people.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Ronald Reagan grew up in a middle-class family in Tampico, Illinois, his father being a successful 3 term state representative.",
+    "category": "people.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "In 1943 Malcolm X joined the Army.",
+    "category": "people.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "A mosque is a Christian term synonymous with the word church.",
+    "category": "people.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Malcolm X left the Nation of Islam (NOI) because he found out Elijah Muhammad was laundering money.",
+    "category": "people.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Babushka Lady is the nickname of a mysterious woman who might have photographed the events surrounding the assassination of John F. Kennedy.",
+    "category": "people.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Fulcanelli is a pseudonym assumed by an American alchemist and author.",
+    "category": "people.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "D. B. Cooper is the name used to refer to a notorious bank robber.",
+    "category": "people.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "The Man in the Iron Mask, who died in 1703, was a prisoner during the reign of King Louis XIV of France.",
+    "category": "people.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Spanish soldier Gil Perez claimed that he suddenly appeared in Mexico City on October 26, 1593 while he was on sentry duty in Manila.",
+    "category": "people.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Tsar Nicolas of Russia referred to Grigori Rasputin as our friend and a holy man.",
+    "category": "people.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "According to his secretary, Rasputin wrote a letter in which he predicted his own death as well as the death of Tsar Nicholas and his family.",
+    "category": "people.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Della Reese and Lena Horne were born on the same day.",
+    "category": "people.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Martha Custis Washington took an active part in politics during her husbands administration.",
+    "category": "people.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Randy K. Milholland said: The shortest verse in the Bible is Jesus wept. The only thing wrong with it is the past tense.",
+    "category": "people.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Drew Barrymore said: A fish may love a bird, but where would they live? .",
+    "category": "people.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Benedict Arnold once said: A government is like fire, a handy servant, but a dangerous master.",
+    "category": "people.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "William II of England was a very religious king.",
+    "category": "people.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "At the time William II of England was crowned king, Normandy was a part of England.",
+    "category": "people.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "The reason why there is no Nobel Prize in Mathematics is that a mathematician had an affair with Alfred Nobels wife.",
+    "category": "people.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "George Washington was the first President to be inaugurated in two different cities.",
+    "category": "people.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "After retirement as President, George Washington was called to duty one more time as Commander in Chief of the army.",
+    "category": "people.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "When George Washington retired to Mount Vernon at age 65 he became reclusive seeing very few people other than Martha.",
+    "category": "people.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Sir Francis Drake was an English pirate, sailor, and hero of many battles at sea.",
+    "category": "people.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "William Taft was the heaviest president of the United States.",
+    "category": "people.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "As Minister of Construction and Housing, Ariel Sharon was unsuccessful in finding homes for the immigrants except for those willing to live on kibbutzim.",
+    "category": "people.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Fidel Castro once swam across the Rio Grande to sneak into the USA .",
+    "category": "people.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Fashion model Lydia Hearst-Shaw is heiress to the media empire established by William Randolph Hearst.",
+    "category": "people.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Filipino inventor Fe del Mundo announced that he had invented a car that runs with water as fuel.",
+    "category": "people.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "A Filipino scientist was reportedly the one who discovered the erythromycin in 1949.",
+    "category": "people.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "The Bermuda Triangle is located in the western part of the North Atlantic Ocean.",
+    "category": "people.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "The Bermuda Triangle area is among the most heavily-sailed shipping lanes in the world.",
+    "category": "people.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "It was proven in the 1980s that some of the Bermuda Triangle incidents were related to compass problems.",
+    "category": "people.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Ted Kennedy was approached by the Green Bay Packers to play professional football.",
+    "category": "people.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Prince William and Kate Middleton share common ancestors.",
+    "category": "people.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Senator Edmund Muskie of Maine ran on the ticket with sitting Vice President Hubert Humphrey in 1968.",
+    "category": "people.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "After serving 5 US Presidents, Senator Elizabeth Dole won election to the Senate from North Carolina in 2002.",
+    "category": "people.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "John L. McClellan served as Arkansas senator from 1942-1977.",
+    "category": "people.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Morris K. Udall, from Arizona served in the US Senate until 1991 and wrote an autobiography entitled Too Funny to Be President.",
+    "category": "people.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "In 1981, Senator Charles Grassley started representing Iowa as a Democrat.",
+    "category": "people.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "During the Revolutionary War, George Washington sent armed schooners to prey on enemy shipping for supplies.",
+    "category": "people.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Throughout the American War for Independence, Martha Washington traveled with her husband George Washington a majority of the time and was close by.",
+    "category": "people.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "John McCain III cant comb his hair.",
+    "category": "people.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Did Robert Wagner play Jesse in the 1957 movie The True Story of Jesse James?",
+    "category": "people.txt",
+    "answer": "Yes",
+    "choices": [
+      "A. Yes",
+      "B. No"
+    ]
+  },
+  {
+    "question": "Kim Jong il is a harsh critic of Hollywood and looks down upon the movie industry with contempt.",
+    "category": "people.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Kim Jong il wrote a book on film making.",
+    "category": "people.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Joe Biden remarried in 1977.",
+    "category": "people.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Joe Biden was less than thirty years old when he was elected Senator.",
+    "category": "people.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "In 2002, Senator Joe Biden voted against the Authorization for use of military force against Iraq.",
+    "category": "people.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Like most Virginia planters, George Washington was a one-crop (tobacco) farmer.",
+    "category": "people.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "George Washington was a member of the Virginia House of Burgesses.",
+    "category": "people.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Sarah Palin was born in Texas.",
+    "category": "people.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Sarah Palin is against abortion and the death penalty.",
+    "category": "people.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "In 2006, Sarah Palin became Alaskas 2nd female Governor.",
+    "category": "people.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Senator Ted Kennedy was married 4 times.",
+    "category": "people.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Ted Kennedy was a Bill Clinton supporter.",
+    "category": "people.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Joseph Kennedy Sr., the patriarch of the Kennedy clan, was not in the political arena.",
+    "category": "people.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "The first Northern European mission exploring North America was led by Italian explorer Giovanni Caboto (John Cabot).",
+    "category": "people.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "The term Old World was used to refer to Europe, Asia and Africa.",
+    "category": "people.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Emedeo Avogadro has both a physical law and a physical constant (a number) named after him.",
+    "category": "people.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "The word nasty originally referred to Thomas Nast who was a 19th century caricaturist with a particularly merciless, biting wit.",
+    "category": "people.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Football twins, Marcin and Michal Zewlakow, became the first twins to play for Poland when they were picked for the lineup to face France in February 2000.",
+    "category": "people.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Winston Churchill was Prime Minister of Great Britain during World War II.",
+    "category": "people.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Princess Diana supported the international campaign to ban landmines.",
+    "category": "people.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Isaac Newton described universal gravitation.",
+    "category": "people.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Oliver Cromwell overthrew the English monarchy.",
+    "category": "people.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Marie Antoinette was married to Louis XVI of France.",
+    "category": "people.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Maria Antoinette had a simple and careless childhood in the Hofburg.",
+    "category": "people.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Marie Antoinette and her husband, the Dauphin of France, consummated their marriage on the wedding night.",
+    "category": "people.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Marie Antoinette spent a lot money on gambling.",
+    "category": "people.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Marie Antoinette gave birth to four children.",
+    "category": "people.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Karl Rove was abandoned by his biological father at an early age.",
+    "category": "people.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Karl Roves mother committed suicide.",
+    "category": "people.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Karl Rove was married in 1977 and divorced in 1980.",
+    "category": "people.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Robert McNamara was the 11th US Secretary of Defense.",
+    "category": "people.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Robert McNamara was not a member of the Armed Forces.",
+    "category": "people.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Robert McNamara died in the same city he was born in.",
+    "category": "people.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Charles De Gaulle served as president of France from 1959 to 1969.",
+    "category": "people.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Pierre Abbe founded a charitable movement aimed at helping poor and homeless people.",
+    "category": "people.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Victor Hugo is the author of The Hunchback of Notre Dame and Les MisÃ©rables.",
+    "category": "people.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Jacques Cousteau was an underwater explorer, researcher and TV show host.",
+    "category": "people.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Amerigo Vespucci was born on March 9, 1454.",
+    "category": "people.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "In 1508 Amerigo Vespucci was a chief of navigation of voyages to the Indies.",
+    "category": "people.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Fernando Magellan was the first to create a world map and to name the newly discovered continent America after Amerigo Vespucci.",
+    "category": "people.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Amerigo Vespucci died on February 22, 1512 on the newly discovered continent of South America.",
+    "category": "people.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "John D. Rockefeller adhered to total abstinence from alcohol and tobacco throughout his life.",
+    "category": "people.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "John D. Rockefeller and Laura Celestia Cettie Spelman had four daughters and one son together.",
+    "category": "people.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "John D. Rockefeller fought in the American Civil War.",
+    "category": "people.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Until age 13, Mata Hari attended only expensive schools.",
+    "category": "people.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "On 13 February 1917, Mata Hari was arrested and accused of spying for Germany.",
+    "category": "people.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Mata Hari and her husband Rudolph MacLeod had two children.",
+    "category": "people.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Mata Hari studied to be a kindergarten teacher.",
+    "category": "people.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "In Paris, Mata Hari performed as a circus juggler, using the name Lady MacLeod",
+    "category": "people.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Eva PerÃ³n was the first wife of Juan PerÃ³n (1895â1974) who served as President of Argentina.",
+    "category": "people.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Eva Duarte Peron was the youngest of five children born to Juan Duarte and Juana Ibarguren.",
+    "category": "people.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "At the age of sixteen, Evita left high school and went to Buenos Aires to pursue her dream of becoming a singer.",
+    "category": "people.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Eva Peron launched an active campaign for national womens suffrage.",
+    "category": "people.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Eva Peron supported workers demands for higher wages and backed a number of social welfare measures.",
+    "category": "people.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Eva Peron died before reaching the age of 35.",
+    "category": "people.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "The 1996 movie Evita starred Madonna and Antonio Banderas.",
+    "category": "people.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Plato was the middle name of Aristotle Onassis, the prominent shipping magnate of the 20th century.",
+    "category": "people.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "At the age of 16, Aristotle Onassis spoke four languages.",
+    "category": "people.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "In 1954, Aristotle Onassis was investigated by the FBI for fraud against the U.S. government.",
+    "category": "people.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Athina Onassis Roussel is the granddaughter of Aristotle Onassis.",
+    "category": "people.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Dave Couliers first starring TV role was in the Nickelodeon Classic Show Cut it Out!.",
+    "category": "people.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Dave Thomas named his restaurant chain after his daughter.",
+    "category": "people.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "David became the first King of Israel after slaying Goliath.",
+    "category": "people.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Bloody Mary was the pejorative nickname given to Mary Stuart, Queen of Scots.",
+    "category": "people.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "The Tudor dynasty was founded by a Welsh adventurer, Owen Tudor, who gained prominence by marrying the widow of Henry V, Margaret Beaufort.",
+    "category": "people.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "The Tudors are credited with their skillful use of Parliament. Yet, Parliaments met infrequently at the royal pleasure. Elizabeth I ruled almost a half century and called only 4 Parliaments during her entire reign.",
+    "category": "people.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "There were no women among the first 12 astronauts who set foot upon the moon.",
+    "category": "people.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Billy the Kid was virtually unknown in his own lifetime.",
+    "category": "people.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Billy the Kid was one of the founding members of a vigilante group known as The Regulators.",
+    "category": "people.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Billy the Kid was left handed.",
+    "category": "people.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Billy the Kid killed 21 men in his lifetime.",
+    "category": "people.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Is it true that on October 1909, President William H. Taft became the first President to walk into the Oval Office?",
+    "category": "people.txt",
+    "answer": "Yes",
+    "choices": [
+      "A. Yes",
+      "B. No"
+    ]
+  },
+  {
+    "question": "Dwight D. Eisenhower was in office 1945 - 1953.",
+    "category": "people.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Senator and Vice President Hubert Humphrey died in 1978 after a heroic battle with cancer.",
+    "category": "people.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Malcolm Xs father, Earl Little, was a Baptist minister.",
+    "category": "people.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Malcolm X was a college graduate.",
+    "category": "people.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "First Lady Mamie Eisenhower liked watching soap operas.",
+    "category": "people.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "First Lady Margaret Taylor reportedly prayed nightly for her husbands defeat in elections.",
+    "category": "people.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Eleanor Roosevelt, First Lady from 1933 to 1945, once served hot dogs to the King and Queen of England.",
+    "category": "people.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Al Capone led a crime syndicate during the Prohibition Era.",
+    "category": "people.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Al Capone had a son known as Sonny.",
+    "category": "people.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Al Capone was the boss of a criminal organization known as the Detroit Outfit.",
+    "category": "people.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Al Capone resumed his criminal activities after completing his term in Alcatraz.",
+    "category": "people.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  }
+]

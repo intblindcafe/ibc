@@ -1,0 +1,1730 @@
+[
+  {
+    "question": "Anne of Austria was the mother of Louis XIV of France (the Sun King).",
+    "category": "history.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "The term Blitzkrieg, referring to swift, sudden military offensive, is translated as Thunder War.",
+    "category": "history.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "These words were spoken by Jed Babbin, a former deputy undersecretary of defence in the first Bush administration, on January 30, 2003: Going to war without France is like going deer hunting without an accordion. You just leave a lot of useless noisy baggage behind.",
+    "category": "history.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "The siege of Leningrad lasted just 1 month.",
+    "category": "history.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Barbados has never been a British colony.",
+    "category": "history.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Sri Lanka was not considered part of the British Raj.",
+    "category": "history.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Britain was not interested in African territories and thus has never controlled any.",
+    "category": "history.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "The New York Mets were World Champions in baseball in the 1986 world series.",
+    "category": "history.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "The AIDS epidemic was identified and named before 1980.",
+    "category": "history.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Michael Keatons debut was in the 80s.",
+    "category": "history.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Sinepuxent, a town on the eastern shore of Maryland, was destroyed by a tornado in 1818, and never rebuilt.",
+    "category": "history.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Napoleon, Arkansas, a once thriving river town situated near the confluence of the Arkansas and Mississippi rivers, was flooded by the two rivers, but was successfully rebuilt.",
+    "category": "history.txt",
+    "answer": "No",
+    "choices": [
+      "A. Yes",
+      "B. No"
+    ]
+  },
+  {
+    "question": "Mr. Rogers, from the childrens television show Mr. Rogers Neighborhood, once donated a sweater his mother made him to the Smithsonian National Museum of American History.",
+    "category": "history.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Amy Carter, daughter of former president Jimmy Carter, was arrested in 1987 for protesting against campus CIA recruitment.",
+    "category": "history.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Two months after South Carolina seceded from the Union on December 21, 1860, Mississippi, Florida, Alabama, Georgia, and North Carolina voted to secede as well.",
+    "category": "history.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "The US Federal Governments deficit in 1983 exceeded $250 billion?",
+    "category": "history.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Iran invaded Iraq in 1981.",
+    "category": "history.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Abraham Lincoln signed the Emancipation Proclamation shortly after the Battle of Gettysburg.",
+    "category": "history.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "In February 1945, Churchill, Roosevelt and Stalin met in Yalta to discuss the future of  post - war Europe. The Yalta Conference produced important decisions, one of which stated that there would be free elections in Czechoslovakia.",
+    "category": "history.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Before committing suicide, Adolf Hitler appointed his successors. Schwerin von Krosigk was one of them.",
+    "category": "history.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Lange Max (long Max) was a World War I German cannon officially called 38cm SKL/45.  Long Max was derived from the Paris Gun.",
+    "category": "history.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Two of the German K5(E) guns were called Anzio Annes, because they shelled the coast of Anzio during WW II.",
+    "category": "history.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Tsar Pushka, the biggest cannon of its time, was created in Russia in 1586 and was later used to defend the Kremlin.",
+    "category": "history.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "John Gray wrote the popular book Men Are From Mars, Women Are From Venus.",
+    "category": "history.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "The  main actors in Platoon had to go through a 14-day military boot camp.",
+    "category": "history.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "On October 11, 1968, NASA launched Apollo 7, the first manned Apollo mission.",
+    "category": "history.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Holocaust is a Greek word, originally meaning sacrifice by fire.",
+    "category": "history.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Not only Jews were targeted by Hitler, but also the Gypsies and the mentally and physically disable.",
+    "category": "history.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Beginning with racially discriminatory laws in Germany, the Nazi campaign expanded to the mass murder of a great part of European Jews.",
+    "category": "history.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "The armed uprising in the Warsaw ghetto in April-May 1943 was one of the most forceful Jewish uprising in the organized resistance to the Nazis.",
+    "category": "history.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Although the Warsaw Ghetto Uprising wasnt successful, it was the first significant uprising in German-occupied Europe during WW II.",
+    "category": "history.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "During WW II, Polish-Jewish industrialist Chaim Rumkowski was the leader of the Lodz Ghetto.",
+    "category": "history.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "At the end of the Nazi rule, Hitler expressed his sincere regret for all the deaths he and his subordinates had caused during the Holocaust.",
+    "category": "history.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "The Colorado Gold Rush of 1859 was followed by a silver boom (a period of great silver mining).",
+    "category": "history.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "The San Francisco 49ers are an NFL team named after the prospectors that took part in the California Gold Rush.",
+    "category": "history.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "The nickname of Wisconsin, âBadger Stateâ?, was given to it in irony, because no gold rushes occurred in the region.",
+    "category": "history.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Incestuous royal marriages were common in Ancient Egypt.",
+    "category": "history.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Former Enron executive Kenneth Lay died of a heart attack at the age of 66 on July 5, 2006.",
+    "category": "history.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "In his testament, Lenin stated that he did not approve of Joseph Stalin having so much power and that he didnt want him to rule Russia.",
+    "category": "history.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Alexander Kerensky was the first Prime Minister of the Russian Provisional Government in 1917.",
+    "category": "history.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Was 2006 a leap (intercalary) year?",
+    "category": "history.txt",
+    "answer": "No",
+    "choices": [
+      "A. No",
+      "B. Yes"
+    ]
+  },
+  {
+    "question": "The Cold War was one of the deadliest wars of all time.",
+    "category": "history.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "In World War II, 80% of the deaths were on the Allied side.",
+    "category": "history.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "The United States gained almost half of the territory of Mexico after the Mexican War from 1846â1848.",
+    "category": "history.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "The Battle of Stalingrad ended in February 1943.",
+    "category": "history.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "American cartoonist and creator of the comic strip Peanuts, Charles Schulz died in 2000.",
+    "category": "history.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Clare Boothe Luce (the American ambassador to Italy in the years just following World War II) died of arsenic poisoning.",
+    "category": "history.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "The head crusher was used as a swift and humane form of execution for the nobleman. It was designed in such a manner that upon impact it would cause immediate death of its victim.",
+    "category": "history.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "The Axis powers besieged Malta during World War II, because the headquarters of the Royal Navy Mediterranean Fleet was there.",
+    "category": "history.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "During the siege of Paris of the Franco-Prussian War, the French forces were victorious.",
+    "category": "history.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "The siege of Sarajevo, one of  the longest sieges in the history of modern warfare lasted almost 4 years.",
+    "category": "history.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Durong the Salem Witch Trials, those accused of witchcraft were burned at the stake.",
+    "category": "history.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Witchcraft was used as the explanation for a sickness that afflicted some of the village girls in Salem. Historians now believe that the girls hallucinations may have been caused by eating moldy bread.",
+    "category": "history.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Death Hill was the name of the sight of execution during the Salem witch trials.",
+    "category": "history.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "John Walsh, host of Americas Most Wanted, is the father of kidnapped and murdered six-year-old, Adam Walsh.",
+    "category": "history.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "General Stonewall Jackson was a graduate of the Virginia Military Institute.",
+    "category": "history.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "The country of Russia was named for the Vikings.",
+    "category": "history.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "The Vikings adopted Christianity around 1000 AD.",
+    "category": "history.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Women could also be Vikings.",
+    "category": "history.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Vikings never plundered religious or holy sites.",
+    "category": "history.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "In the age of the Vikings, Viking ships were the most technologically advanced.",
+    "category": "history.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "In Viking culture all men were expected to carry weapons.",
+    "category": "history.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Loki was the Viking God of lies.",
+    "category": "history.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "The first recorded Viking raid in Britain was in 763.",
+    "category": "history.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Leif Eriksson also known as Leif the Lucky is thought to have been the first European to land in North America.",
+    "category": "history.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "The father of all Norse or Viking gods was Thor the God of Thunder.",
+    "category": "history.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "On September  1, 1983 Korean Air Flight KAL-007 was shot down after entering Soviet airspace (this is true).   Some of the passengers and crew survived the crash.",
+    "category": "history.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "On September 1, 1979, Pioneer 11 became the first spacecraft to visit Mercury.",
+    "category": "history.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Moammar Qaddafi and a group of officers staged a coup detat against King Idris on 1st of  September 1969 (this is true). The coup was unsuccessful and Qaddafi was sent to prison.",
+    "category": "history.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "The second Crusade, launched in 1145, was the most successful of all Crusades.",
+    "category": "history.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "One of the most brutal crusades was the Albigensian Crusade (this is true). The aim of this crusade was to eliminate the religion of the Cathars.",
+    "category": "history.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Jews saw the Crusades as great help and welcomed knights as heroes.",
+    "category": "history.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "All of the Crusades were called upon by Popes.",
+    "category": "history.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "The Treaty of Brest-Litovsk was signed on March 3, 1918.",
+    "category": "history.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "The Mayflower returned to England in 1621.",
+    "category": "history.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "In the 1982 film Airplane 2: The Sequel the space shuttle was called the Mayflower 1.",
+    "category": "history.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Luna 1 was the first spacecraft to land on the Moon.",
+    "category": "history.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Neil Armstrong, Edwin Aldrin and Bill Anders were the three astronauts on Apollo 11.",
+    "category": "history.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "The mission of Luna 24 was to collect soil samples from the Moon.",
+    "category": "history.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Napoleon started his military career in the cavalry.",
+    "category": "history.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Napoleon Bonaparte had no children to succeed him.",
+    "category": "history.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Napoleon Bonapartes body still lies in Saint Helena, where he was buried.",
+    "category": "history.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Originally, any knight could bestow knighthood on a man.",
+    "category": "history.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "By the end of the 13th century, knights were required to swear allegiance.",
+    "category": "history.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "The death of Michael J. Adams on-board the X-15-3 rocket plane is internationally recognized as a spaceflight accident.",
+    "category": "history.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Ð?n oxygen tank in the service module of Apollo 13 exploded, when the spacecraft was 199,995 miles (321,860 km) away from Earth. However, all crewmembers returned home safely.",
+    "category": "history.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "On October 24, 1960 a rocket exploded on a launchpad at Baikonur Cosmodrome. Fortunately there were no casualties.",
+    "category": "history.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Commiting suicide by performing seppuku, was the only way for a disgraced samurai to gain his honor once again.",
+    "category": "history.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Every samurai sword had to be tested on the corpse of an animal, before it could be used in battle.",
+    "category": "history.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Samurai warriors were not just regular men- they were aristocrats, who developed their own culture. In the 14th century their education began to include flower arrangements..",
+    "category": "history.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "During the German Blitzkrieg in the West (1940), Italy was initially reluctant to aid its ally and stayed on the sideline.",
+    "category": "history.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "At the Naval battle of Mers-El-Kebir in 1940, the British Navy made a devastating blow against the Italian Navy.",
+    "category": "history.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "The Mayan language is still alive and spoken by about 300,000 people.",
+    "category": "history.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Iran invaded Iraq on 22 September, 1980.",
+    "category": "history.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "After the end of World War II, the European Recovery Plan (Recovery Plan for the reconstruction of Europe) was created. It was established by US Secretary of State George Marshall and is better known as The Marshall Plan.",
+    "category": "history.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "On 11 December 1941, Germany declared war on the United States, hoping that Japan would consecutively support the attack on the Soviet Union.",
+    "category": "history.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "On December 7, 1942 the Japanese attacked Pearl Harbor.",
+    "category": "history.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Rosa Luxemburg and Karl Liebknecht took part in the German Revolution of 1919.",
+    "category": "history.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "By the time Nicholas II was crowned tsar in 1896, the Russian Empire was the largest country in the world.",
+    "category": "history.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "The song American Pie by Don McLean concerns a plane crash which took place on February 3, 1959.",
+    "category": "history.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "A musical version of Carrie, the Stephen King story, was a huge flop on Broadway.",
+    "category": "history.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Socrates started the first true school of philosophy.",
+    "category": "history.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Hippocrates was known as the father of history.",
+    "category": "history.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "During the period of the Cold War, there was a conflict between the Democratic Republic of Vietnam and Republic of Vietnam, known as The Vietnam War (1957â1975).",
+    "category": "history.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "The Autumn of Nations is the series of events in Central and Eastern Europe in the autumn of 1989, when the communist regime in satellite states of the Soviet Union, collapsed within a  few months, marking the end of the Cold War.",
+    "category": "history.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Benjamin Franklin was almost killed by electrocution.",
+    "category": "history.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "The American Flag was raised on Mount Surabachi on Iwo Jima in 1944.",
+    "category": "history.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "The Qin Dynasty was the first dynasty to embrace Confucianism.",
+    "category": "history.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "The Song Dynasty (960-1279) ruled over all of the territories of China.",
+    "category": "history.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "The commander of the Unions 24th Massachusetts Colored Infantry was Colonel Robert Gould Shaw.",
+    "category": "history.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "The Zodiak killer is a suspect in the murders of Lindsay Cutshall and Jason S. Allen who were murdered in their sleeping bags on Fish Head Beach in Jenner, California in August 2004?",
+    "category": "history.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "During WWII, upon leaving the Philippines, American general Douglass Mcarthur said I will never return.",
+    "category": "history.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Did Warsaw surrender to German troops in 1940?",
+    "category": "history.txt",
+    "answer": "No",
+    "choices": [
+      "A. Yes",
+      "B. No"
+    ]
+  },
+  {
+    "question": "Was the Soviet Union part of the Axis Powers during World War II?",
+    "category": "history.txt",
+    "answer": "No",
+    "choices": [
+      "A. Yes",
+      "B. No"
+    ]
+  },
+  {
+    "question": "During World War II, Japan was one of the Axis powers.",
+    "category": "history.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "The grave of Jesse James was exhumed in 1995 and it was found out that the person buried there was actually Jesse James.",
+    "category": "history.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "On October 24, 1960, over 100 people died in the Soviet Union, in a rocket explosion that was not reported until the 1990s.",
+    "category": "history.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "During WWII Joseph Stalin was leader of the Soviet Union. His name, Stalin, means Man of Power.",
+    "category": "history.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "The Soviet Union declared war on Japan on August 1, 1945.",
+    "category": "history.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "The title of Hitlers book Mein Kampf means My Story.",
+    "category": "history.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "During WWII, the SS formed a unit called the Werewolves to resist allied occupation forces.",
+    "category": "history.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "During the Nuremberg trails, 30% of the defendants claimed the Holocaust never occurred, the remainder claimed they were just following orders.",
+    "category": "history.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Agamemnon, one of the most notable heroes of Greek mythology, was a ruler of Mycenae.",
+    "category": "history.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Ancient Greece was the birthplace of the chariot.",
+    "category": "history.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Alexander the Great commanded the Macedonian army and defeated Athens, Thebes and their allies at the Battle of Chaeronea (338 BC).",
+    "category": "history.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "During the Battle of Trenton, Americans managed to surprise the Hessian Garrison because Hessian soldiers were hungover and tired from the Christmas celebration.",
+    "category": "history.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Was there a second battle in the town of Trenton on January 17, 1777?",
+    "category": "history.txt",
+    "answer": "No",
+    "choices": [
+      "A. Yes",
+      "B. No"
+    ]
+  },
+  {
+    "question": "The Battle of Trenton lasted over three hours.",
+    "category": "history.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "The commander of the Hessian Garrison during the Battle of Trenton was taken to Philadelphia where he was questioned by the Congress on January 7th, 1777.",
+    "category": "history.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "On October 13th, 1941, former Axis power, Italy, declared war on Germany.",
+    "category": "history.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "October 13th 1582 does not exist in Poland.",
+    "category": "history.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "The period between 1500 - 1800 saw wars transform from wars of attrition to wars of extermination.",
+    "category": "history.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "King Frederick V of Bohemia is often referred to as the Winter King because of his short reign.",
+    "category": "history.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Caligula almost caused a crisis in the  province of Judea, when he ordered that an image of himself be placed in the Jewish temple in Jerusalem.",
+    "category": "history.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "The French were first to use chemical weapons, during the  World War I.",
+    "category": "history.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "The first effective depth charge, developed in 1916, was a 300-pound (140 kg) barrel-like casing, containing high explosive.",
+    "category": "history.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "In 1982 the US Patent Office issued a patent  for a face mask that was designed to stop people from eating.",
+    "category": "history.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "In 1976 the US Patent Office issued a patent for an inflatable rug.",
+    "category": "history.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "In 1999 the US Patent Office issued a patent for a bird diaper.",
+    "category": "history.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Samuel F. B. Morse invented the telegraph key.",
+    "category": "history.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "The acronym ANZAC means Australian New Zealand Army Corps.",
+    "category": "history.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "The term digger, was applied to Australian soldiers because they dug trenches at Gallipoli to escape enemy fire.",
+    "category": "history.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "In 1915, the Anzacs were supposed to land at Cape Tepe but they landed two kilometres to the north.",
+    "category": "history.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "When the Anzacs evacuated the Gallipoli Peninsula in December 1915, 25 men were killed as they climbed into the boats that were waiting to take them to the ships offshore.",
+    "category": "history.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Private John Simpson Kirkpatrick was a soldier who during WWI rescued wounded men from the battlefield and brought them to the beach on his donkey Duffy to be evacuated. He was killed on 19th May 1915.",
+    "category": "history.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "During World War I, Ottoman Empire joined Germany and Austria-Hungary on 20 May 1882 to form the Triple Alliance.",
+    "category": "history.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Austria was the first country to sign an armistice in 1918 which led to the end of the World  War I .",
+    "category": "history.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Loss of life was limited during the 1906 San Francisco earthquake as it occurred shortly after 5:00 pm, so many people were not in their homes.",
+    "category": "history.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "The devastating Ham and Eggs Fire of 1906 was started when a skillet of ham and eggs was left burning for at least five hours when a family fled a crumbling building. This fire destroyed the City Hall of San Francisco, since there was no water to put it out.",
+    "category": "history.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "England declared war on France on 15 May 1756 starting the Seven Years War which was also known as the French and Indian War in America.",
+    "category": "history.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Dalai Lama began his exile on March 31, 1950.",
+    "category": "history.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "The atmospheric oxygen content during the late Paleozoic era was greater than that of today.",
+    "category": "history.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Mammal like reptiles were common by the end of the Paleozoic.",
+    "category": "history.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Franz Joseph I reigned as King of Hungary, King of Bohemia and Emperor of Austria.",
+    "category": "history.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "The Japanese samurai warriors were mostly illiterate in the past.",
+    "category": "history.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Oxygen levels during the Mesozoic were lower than todays levels.",
+    "category": "history.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Ichthyosaurs, plesiosaurs, pliosaurs, moasaurs, are pterosaurs are dinosaurs.",
+    "category": "history.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Dinosaurs once existed on every continent except Antarctica.",
+    "category": "history.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Did all dinosaurs become extinct at the end of the Cretaceous period 65 million years ago?",
+    "category": "history.txt",
+    "answer": "No",
+    "choices": [
+      "A. No",
+      "B. Yes"
+    ]
+  },
+  {
+    "question": "Tyrannosaurus is more closely related to smaller predatory dinosaurs such as Velociraptor than to the more massive carnosaurs such as Allosaurus.",
+    "category": "history.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Did dinosaurs become extinct due to a large asteroid impact?",
+    "category": "history.txt",
+    "answer": "No",
+    "choices": [
+      "A. Yes",
+      "B. No"
+    ]
+  },
+  {
+    "question": "Grass did not evolve during the Cenozoic era.",
+    "category": "history.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Horses evolved in North America during the Cenozoic era but became extinct there 10,000 years ago.",
+    "category": "history.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "The Messinian salinity crisis occurred when the Mediterranean sea evaporated completely during the Pliocene epoch.",
+    "category": "history.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "About 2.7 billion years ago Stromatolites were widespread in the Precambrian seas and still exist in hypersaline areas such as Shark Bay, Australia.",
+    "category": "history.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "The appearance of free oxygen in the atmosphere caused a mass extinction of anaerobic organisms.",
+    "category": "history.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Animals did not evolve during the Precambrian.",
+    "category": "history.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Was there a Black Hawk War?",
+    "category": "history.txt",
+    "answer": "Yes",
+    "choices": [
+      "A. No",
+      "B. Yes"
+    ]
+  },
+  {
+    "question": "General Grant said that the final charge at Cold Harbor was the only action he regretted taking during the war.",
+    "category": "history.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Did the opposing armies often fraternize and call each other Johnny Reb and Billy Yank?",
+    "category": "history.txt",
+    "answer": "Yes",
+    "choices": [
+      "A. Yes",
+      "B. No"
+    ]
+  },
+  {
+    "question": "Earl Hindman, who passed away in 2003, was the man behind the fence in the American sitcom Home Improvement.",
+    "category": "history.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Actor Lee Marvin who starred in the Death Wish movies succumbed to cancer in 2003.",
+    "category": "history.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "The first hot air balloon was created in 1783.",
+    "category": "history.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "William the Conqueror was crowned King William I in Westminster Abbey, about two months after the Battle of Hastings.",
+    "category": "history.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "The events of 9/11 occurred on the Tuesday after Labor Day.",
+    "category": "history.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "U.S. military air defence jets scrambled into action as soon as news arrived that the first hijacked Boeing 727 had hit one of the twin World Trade Center towers on 9/11.",
+    "category": "history.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "During takoff on Columbias first mission, did the crew notice debree from the fuel tank flying past their window?",
+    "category": "history.txt",
+    "answer": "Yes",
+    "choices": [
+      "A. Yes",
+      "B. No"
+    ]
+  },
+  {
+    "question": "There were more people killed at Pearl Harbor on December 7, 1941 than there were some 60 years later in the terrorist attacks of September 11, 2001.",
+    "category": "history.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Osama bin Laden is the scion of a huge, wealthy, long-established Saudi Arabian clan.",
+    "category": "history.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Osama bin Laden is a striking figure, well over six feet tall.",
+    "category": "history.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "There was fighting in the Revolutionary War for more than a year before the United States declared independence from Britain.",
+    "category": "history.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "In 1905 the Russian fleet engaged the Japanese fleet in front of the Korean coast. In order to reach Korea, the Russian fleet had to cross half of the world from their western ports. Believing they were battling Japanese torpedo boats in the North Sea, the Russian fleet mistakenly attacked British fishing ships.",
+    "category": "history.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "During the 1945 siege of Berlin by Russian forces, rumors spread among the German refugees in the Berlin Underground, that Russian T-34 tanks had entered the Underground.",
+    "category": "history.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "During World War II V-2 Rockets were never aimed at targets outside the UK.",
+    "category": "history.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "On June 21, 1788 the US Constitution became the law of the land when ratified by New Hampshire.",
+    "category": "history.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "In Greek mythology, Patroclus donned Achilles armor to fight against the Trojans and was killed by Hector.",
+    "category": "history.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Dennis Quaid played Sam Houston in the 2004 movie The Alamo.",
+    "category": "history.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Richard Widmark played Jim Bowie in the 1960 movie The Alamo.",
+    "category": "history.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "The Tet Offensive was the first major defeat for the US/ARVN military forces in the Vietnam War.",
+    "category": "history.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "The Cambrian period lasted from 490 million years ago to 443 million years ago.",
+    "category": "history.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "During the Cambrian little or nothing lived on land.",
+    "category": "history.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Anomalocaris was a predatory arthropod of the Cambrian period which could reach a length of 100 cm or more.",
+    "category": "history.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  }
+]

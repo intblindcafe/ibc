@@ -1,0 +1,112 @@
+[
+    {
+        "question": "01 - Three of these animals hibernate. Which one does not?",
+        "category": "animals.txt",
+        "answer": "Sloth",
+        "choices": [
+          "A. Mouse",
+          "B. Sloth",
+          "C. Frog",
+          "D. Snake"
+        ]
+      },
+      {
+        "question": "02 - All of these animals are omnivorous except one.",
+        "category": "animals.txt",
+        "answer": "Snail",
+        "choices": [
+          "A. Fox",
+          "B. Mouse",
+          "C. Opossum",
+          "D. Snail"
+        ]
+      },
+      {
+        "question": "03 - Three of these Latin names are names of bears. Which is the odd one?",
+        "category": "animals.txt",
+        "answer": "Felis silvestris catus",
+        "choices": [
+          "A. Melursus ursinus",
+          "B. Helarctos malayanus",
+          "C. Ursus minimus",
+          "D. Felis silvestris catus"
+        ]
+      },
+      {
+        "question": "04 - These are typical Australian animals except one.",
+        "category": "animals.txt",
+        "answer": "Sloth",
+        "choices": [
+          "A. Platypus",
+          "B. Dingo",
+          "C. Echidna",
+          "D. Sloth"
+        ]
+      },
+      {
+        "question": "05 - Representatives of three of these species produce venom of their own. Which is the odd species?",
+        "category": "animals.txt",
+        "answer": "Mosquitos",
+        "choices": [
+          "A. Lizards",
+          "B. Scorpions",
+          "C. Frogs",
+          "D. Mosquitos"
+        ]
+      },
+      {
+        "question": "06 - Three of these species shed their skin. Which one does not?",
+        "category": "animals.txt",
+        "answer": "Penguins",
+        "choices": [
+          "A. Penguins",
+          "B. Snakes",
+          "C. Insects",
+          "D. Crustaceans"
+        ]
+      },
+      {
+        "question": "07 - All of these animals have large ears (relative to their size) except one.",
+        "category": "animals.txt",
+        "answer": "Polar bears",
+        "choices": [
+          "A. Polar bears",
+          "B. Foxes",
+          "C. Bats",
+          "D. Elephants"
+        ]
+      },
+      {
+        "question": "08 - This percentage of all snakes on Earth are lethal to humans.",
+        "category": "animals.txt",
+        "answer": "15%",
+        "choices": [
+          "A. 10%",
+          "B. 20%",
+          "C. 15%",
+          "D. 25%"
+        ]
+      },
+      {
+        "question": "09 - Snakes are this kind of animals.",
+        "category": "animals.txt",
+        "answer": "Carnivorous",
+        "choices": [
+          "A. Herbivorous",
+          "B. Omnivorous",
+          "C. Carnivorous",
+          "D. Vegetarian"
+        ]
+      },
+      {
+        "question": "10 - Snakes consume their food by means of this process.",
+        "category": "animals.txt",
+        "answer": "Swallowing",
+        "choices": [
+          "A. Breathing",
+          "B. Absorption",
+          "C. Swallowing",
+          "D. Chewing"
+        ]
+    }
+]

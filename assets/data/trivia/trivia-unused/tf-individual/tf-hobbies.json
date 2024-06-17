@@ -1,0 +1,1046 @@
+[
+  {
+    "question": "Noahs Boy refers to a fish sandwich.",
+    "category": "hobbies.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Coca-Cola used to contain cocaine.",
+    "category": "hobbies.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Coca-Cola was originally green.",
+    "category": "hobbies.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "The acids which the Coca-Cola beverage contains make it harmful to drink.",
+    "category": "hobbies.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Fanta was named by a German salesman, named Joe Knipp. During a contest for employees, the contestants were told to let their fantasy run wild and Knipp said: Fanta.",
+    "category": "hobbies.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "The first soft drinks that were sold in all-aluminum cans in 1964 were products of the Royal Crown Cola company.",
+    "category": "hobbies.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "In 1985, Shasta  was acquired by the Royal Crown Cola Corp., which also owned the Faygo line of soft drinks.",
+    "category": "hobbies.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Is it true that the word corn may refer to any cereal that is grown in a country?",
+    "category": "hobbies.txt",
+    "answer": "Yes",
+    "choices": [
+      "A. Yes",
+      "B. No"
+    ]
+  },
+  {
+    "question": "Greyhound is a cocktail which contains Tonic.",
+    "category": "hobbies.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "One and a half ounce of 80 proof liquor, straight or with a mixer, 12 ounce beer (a regular size can, bottle, mug, or glass) or a 5 ounce glass of wine all take about 8 hours each for your body to get rid of them.",
+    "category": "hobbies.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "The legal drinking age in a few US states is 18.",
+    "category": "hobbies.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "If you drink more red wine than the recommended dose, you will increase the benefits.",
+    "category": "hobbies.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "The effects of red and white wine on your body are comparable.",
+    "category": "hobbies.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Ganache is a fancy word for an apron.",
+    "category": "hobbies.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "To decant means to pour wine (or other liquid) from one container to another.",
+    "category": "hobbies.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Tea is made by a process called infusing.",
+    "category": "hobbies.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "A marmite is a large circular sieve made with bamboo and mesh.",
+    "category": "hobbies.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Farfalle is a French word meaning butterfly.",
+    "category": "hobbies.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Chefs James Beard and Julia Child were lifelong friends.",
+    "category": "hobbies.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Sweetened condensed whole milk is canned milk concentrate with molasses added to it.",
+    "category": "hobbies.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Freezing does not change the structure of milk.",
+    "category": "hobbies.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Generally milk stays fresh for up to a week after the sell by or pull date.",
+    "category": "hobbies.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Milk should not be exposed to strong light.",
+    "category": "hobbies.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Peanuts are not considered to be nuts. They are legumes, and belong to the same class as peas and beans.",
+    "category": "hobbies.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Art Paul Schlosser wrote a song about peanut butter called Have A Peanut Butter Sandwich.",
+    "category": "hobbies.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "In L. Frank Baums story, The Wonderful Wizard of OZ, the Good Witch of the North comes with the Munchkins to greet Dorothy, and gives her ruby slippers.",
+    "category": "hobbies.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "A clog is a type of shoe, made predominantly out of leather, associated with the Netherlands.",
+    "category": "hobbies.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Parts of the plant Helianthus annuus are edible.",
+    "category": "hobbies.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "The first hotdog stand in New York was opened in 1867.",
+    "category": "hobbies.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "George Crum invented potato chips.",
+    "category": "hobbies.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Lionel Sterberger grilled the first cheeseburger in 1945.",
+    "category": "hobbies.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "One of the possible origins of the popular expression rule of thumb  is believed to be connected to the process of brewing beer.",
+    "category": "hobbies.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "The oldest known recipe for a beverage still in existence is a recipe for beer.",
+    "category": "hobbies.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Charles Dickens made the following statement about beer: It was as natural as eating and to me as necessary, and I would not have thought of eating a meal without drinking beer.",
+    "category": "hobbies.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Literally translated Feng Shui means wind and water.",
+    "category": "hobbies.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Wind is one of the five elements.",
+    "category": "hobbies.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Is irregularly shaped land good to build your home on?",
+    "category": "hobbies.txt",
+    "answer": "No",
+    "choices": [
+      "A. Yes",
+      "B. No"
+    ]
+  },
+  {
+    "question": "The master bedroom should be as far away from the front door as possible.",
+    "category": "hobbies.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "It takes 40 litres (10 gallons) of maple sap to make 2 litres (a half gallon) of maple syrup.",
+    "category": "hobbies.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "During the years of the Civil War molasses was made using maple syrup because it did not require slave labor.",
+    "category": "hobbies.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "India Pale Ale was originally made in India.",
+    "category": "hobbies.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "The worlds strongest lager is named after Santa Claus.",
+    "category": "hobbies.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Bread is one of the oldest prepared foods.",
+    "category": "hobbies.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "The bread-slicing machine was first commercially used by the Chillicothe Baking Company of Chillicothe, Missouri.",
+    "category": "hobbies.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Gustav Papendick bought the second bread-slicer.",
+    "category": "hobbies.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Americas entry into World War Two led to a ban on sliced bread starting in August 1943.",
+    "category": "hobbies.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "The phase Greatest thing since sliced bread derived from a Wonder Bread advertising campaign.",
+    "category": "hobbies.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "The optimal position for a knight is the edge of the chess board.",
+    "category": "hobbies.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "In chess, the king should be used aggressively in the endgame.",
+    "category": "hobbies.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "A rook is worth more than a bishop.",
+    "category": "hobbies.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "The winner of a chess game is usually the player who made the penultimate mistake.",
+    "category": "hobbies.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "The loss of a single pawn is not enough to lose a chess game.",
+    "category": "hobbies.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "In chess a backwards move is almost always a bad move.",
+    "category": "hobbies.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "As well as oranges, carrots come in white and pink varieties.",
+    "category": "hobbies.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Carrot tops are poisonous to humans, even in small quantities.",
+    "category": "hobbies.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Eating carrots can improve a persons night vision.",
+    "category": "hobbies.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Parsley is a close relative of the carrot",
+    "category": "hobbies.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "The carrot was outlawed in Holland in the 16th century.",
+    "category": "hobbies.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Is it true that root beer comes in two forms: alcoholic and soft drink?",
+    "category": "hobbies.txt",
+    "answer": "Yes",
+    "choices": [
+      "A. Yes",
+      "B. No"
+    ]
+  },
+  {
+    "question": "In the mid 1980s Dr. Pepper became exclusively a product of the Coca Cola Company.",
+    "category": "hobbies.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Sprite was originally made in Germany.",
+    "category": "hobbies.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Mountain Dew was invented in Marion, Virginia and first marketed in Knoxville, Tennessee.",
+    "category": "hobbies.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "AW Root Beer  inspired a restaurant chain.",
+    "category": "hobbies.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "German Sweet Chocolate is so named because it was created in Germany.",
+    "category": "hobbies.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Chocolate causes acne.",
+    "category": "hobbies.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Chocolate is low in caffeine.",
+    "category": "hobbies.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Chocolate syrup was used as fake blood in the famous shower scene in the 1960 movie Psycho.",
+    "category": "hobbies.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Does white chocolate contain cocoa solids?",
+    "category": "hobbies.txt",
+    "answer": "No",
+    "choices": [
+      "A. No",
+      "B. Yes"
+    ]
+  },
+  {
+    "question": "In Blackjack, it is crucial for the player not to let neither the dealer nor the other players see his/her cards.",
+    "category": "hobbies.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "In casinos where Blackjack dealers must hit on soft 17 the game is substantially more favorable for the player than in casinos where dealers must stand on soft 17.",
+    "category": "hobbies.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "In most U.S. casinos counting the cards even mentally is illegal.",
+    "category": "hobbies.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "When playing Blackjack in a casino, there are two proper ways to announce your decision after youâve received a card â either say it aloud or use some of the commonly accepted non-verbal signs.",
+    "category": "hobbies.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Most medical authorities believe that coffee consumption is harmful to the health.",
+    "category": "hobbies.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Decaffeinated coffee contains no caffeine.",
+    "category": "hobbies.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "A single shot (1 ounce) of espresso contains more caffeine than a 7-ounce cup of drip coffee.",
+    "category": "hobbies.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Abrupt cessation of coffee consumption can cause caffeine-withdrawal headaches.",
+    "category": "hobbies.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Odd-numbered dress sizes are usually for younger women.",
+    "category": "hobbies.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Petite sizes are for women who are under 5 1.",
+    "category": "hobbies.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Half-sizes are for short-waisted women.",
+    "category": "hobbies.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Misses sizes are cut more generously in the bust and hips than junior sizes.",
+    "category": "hobbies.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Plus sizes are for heavier women.",
+    "category": "hobbies.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "In the card game gin rummy, it is sometimes necessary to break a meld in order to keep your opponent from winning the hand.",
+    "category": "hobbies.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "The best gin rummy players remember every card played.",
+    "category": "hobbies.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "In the gin rummy game you should never pick up a speculative discard. That is, you should never pick up a discard without using it in a meld.",
+    "category": "hobbies.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "All other things being equal, if you had a triangle, a 3-card meld and a 4-card meld, and drew a card which could expand the 3-card meld into a 4-card meld, you should expand the meld and discard one card of the triangle.",
+    "category": "hobbies.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Tomatoes can be refrigerated and they will continue to ripen after they reach room temperature.",
+    "category": "hobbies.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "According to the Chinese Zodiac, the year of the cat occurred in 2000.",
+    "category": "hobbies.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "If you were born in 1972, with the current year being 2008, the next time your year in the Chinese Zodiac will come around, is 2020.",
+    "category": "hobbies.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "In Mahjong, the dealer is East, with the other players assuming the corresponding direction. If the dealer wins the round, the dealer remains East.",
+    "category": "hobbies.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Flower tiles are not necessary to win a hand in a classic Mahjong game.",
+    "category": "hobbies.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "A human being can live entirely on a diet consisting only of potatoes and milk.",
+    "category": "hobbies.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Potatoes contain toxic chemicals that are also found in tobacco and tomatoes.",
+    "category": "hobbies.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "A serving of espresso contains more caffeine than a serving of instant coffee.",
+    "category": "hobbies.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "People who are lactose-intolerant should not consume yogurt or milk.",
+    "category": "hobbies.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "The largest commonly available domino set is the Double Twelve consisting of 91 tiles.",
+    "category": "hobbies.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "The terms sweating and steaming refer to one and the same method of cooking.",
+    "category": "hobbies.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Stir frying is a term used to describe two fast Chinese cooking techniques: chÇo and bÃ o.",
+    "category": "hobbies.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "There is no difference between blanching and parboiling.",
+    "category": "hobbies.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "The only ingredients in a basic mayonnaise are oil and a whole egg.",
+    "category": "hobbies.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Julie Child, known to many as The French Chef, was not French.",
+    "category": "hobbies.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Chef Wolfgang Puck is of German descent.",
+    "category": "hobbies.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "The campaign for real ale, CAMRA, was founded in Ireland to revitalize British beer.",
+    "category": "hobbies.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "A player begins a game of Magic: The Gathering with 40 life points.",
+    "category": "hobbies.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "After harvesting, coffee beans must be dried.",
+    "category": "hobbies.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Green coffee beans can be roasted on the stovetop in a frying pan.",
+    "category": "hobbies.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Green coffee beans can be roasted at home in less than 30 minutes.",
+    "category": "hobbies.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Do Lacoste have shoes as part of their collections?",
+    "category": "hobbies.txt",
+    "answer": "Yes",
+    "choices": [
+      "A. No",
+      "B. Yes"
+    ]
+  },
+  {
+    "question": "Aspiration is one of the Lacoste perfumes for women.",
+    "category": "hobbies.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Does the clothing brand Lacoste offer ophthalmic glasses as well as sunglasses?",
+    "category": "hobbies.txt",
+    "answer": "Yes",
+    "choices": [
+      "A. No",
+      "B. Yes"
+    ]
+  },
+  {
+    "question": "Lacoste offers clothing for kids, men and women.",
+    "category": "hobbies.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "There are no stores of the clothing brand Lacoste in Canada.",
+    "category": "hobbies.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "The name of the clothing brand Lacoste literally means the cost in French.",
+    "category": "hobbies.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "There are Lacoste boutiques in Europe.",
+    "category": "hobbies.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Popeyes opened their 1000th restaurant in New Orleans, LA.",
+    "category": "hobbies.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Popeyes franchising began in 1976.",
+    "category": "hobbies.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Did Popeyes merge with KFC in 1989?",
+    "category": "hobbies.txt",
+    "answer": "No",
+    "choices": [
+      "A. Yes",
+      "B. No"
+    ]
+  }
+]

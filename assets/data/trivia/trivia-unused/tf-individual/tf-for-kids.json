@@ -1,0 +1,1514 @@
+[
+  {
+    "question": "Rons mom is part of the order of the phoenix.",
+    "category": "for-kids.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Has Ron ever been dead?",
+    "category": "for-kids.txt",
+    "answer": "No",
+    "choices": [
+      "A. No",
+      "B. Yes"
+    ]
+  },
+  {
+    "question": "Hermoine broke her wrist when she fell off a broom.",
+    "category": "for-kids.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Dudleys gang consisted of Piers, dennis, Malcolm and Gordon.",
+    "category": "for-kids.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Does Draco Malfoy attempt to kill Dumbledore in the book Harry Potter and the Half-Blood Prince?",
+    "category": "for-kids.txt",
+    "answer": "Yes",
+    "choices": [
+      "A. Yes",
+      "B. No"
+    ]
+  },
+  {
+    "question": "Initially Harry Potter and Ron did not like Hermione and considered her annoying, interfering and snobby.",
+    "category": "for-kids.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Peter Pettigrew has his nose put in a box.",
+    "category": "for-kids.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Tom Riddle worked for Florrish and Blott after he left Hogwarts.",
+    "category": "for-kids.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "The path in which electricity travels is called an electric circuit.",
+    "category": "for-kids.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Seasons change because the Earth is getting closer and further from the sun.",
+    "category": "for-kids.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Stars vanish during the day.",
+    "category": "for-kids.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "There are 4 basic conditions needed to produce an echo.",
+    "category": "for-kids.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "In the movie The Lion, the Witch and the Wardrobe, Susan is the oldest of the four children.",
+    "category": "for-kids.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Is it true that in the movie The Lion, the Witch and the Wardrobe, Lucy discovered the wardrobe, while the children were playing hide and seek?",
+    "category": "for-kids.txt",
+    "answer": "Yes",
+    "choices": [
+      "A. Yes",
+      "B. No"
+    ]
+  },
+  {
+    "question": "Is Peter the second of the Pevensie children to enter Narnia in the film The Lion, the Witch and the Wardrobe?",
+    "category": "for-kids.txt",
+    "answer": "No",
+    "choices": [
+      "A. No",
+      "B. Yes"
+    ]
+  },
+  {
+    "question": "The action in the movie The Lion, the Witch and the Wardrobe begins in 1940 during a German bombing raid of London.",
+    "category": "for-kids.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "The lion that the children meet in the end of the movie The Lion, the Witch and the Wardrobeis called Aslan.",
+    "category": "for-kids.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Dumbledore was in contact with Sirius Black in Harry Potter and the Goblet of Fire.",
+    "category": "for-kids.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "It is stated in the Harry Potter books that Hermione Grangers parents are teachers.",
+    "category": "for-kids.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Was Hermione able to see the Thresals in Harry Potter and the Order of the Phoenix?",
+    "category": "for-kids.txt",
+    "answer": "No",
+    "choices": [
+      "A. No",
+      "B. Yes"
+    ]
+  },
+  {
+    "question": "In the Harry Potter series, Hermiones full name is Hermione Denise Granger.",
+    "category": "for-kids.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Should you wear a helmet while hitting a baseball?",
+    "category": "for-kids.txt",
+    "answer": "Yes",
+    "choices": [
+      "A. Yes",
+      "B. No"
+    ]
+  },
+  {
+    "question": "When you run the bases in baseball you should run from 3rd base to 1st base.",
+    "category": "for-kids.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Baseball is usually played indoors.",
+    "category": "for-kids.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Luna Lovegood was reading the Quippler on the Hogwarts Express.",
+    "category": "for-kids.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Actor Drake Bell from the Nickelodeon show Drake and Josh founded a band named Drake 24/7 in real life.",
+    "category": "for-kids.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Actress Miranda Cosgrove plays Megan in the hit Nickelodeon show Drake and Josh.",
+    "category": "for-kids.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "The book Green Eggs and Ham was first published in 1952.",
+    "category": "for-kids.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Rev. Jesse Jackson once read Green Eggs and Ham aloud on the late Night show Saturday Night Live.",
+    "category": "for-kids.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "The book Green Eggs and Ham contains only 50 different words.",
+    "category": "for-kids.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Ursula, one of the characters in the Disney movie The Little Mermaid, is a cecaelia sea witch.",
+    "category": "for-kids.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Buddy Hackett provided the voice of Flounder in the movie The Little Mermaid.",
+    "category": "for-kids.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "The film The Little Mermaid grossed approximately $200,000,000.",
+    "category": "for-kids.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "The first line in the movie The Little Mermaid was Flounder, quit being such a guppy!.",
+    "category": "for-kids.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "McLaggen, who was first introduced in Harry Potter and the Half Blood Prince hit Harry in the back of his head with a wooden bat.",
+    "category": "for-kids.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Was Ron poisoned in the book Harry Potter and the Half-blood Prince?",
+    "category": "for-kids.txt",
+    "answer": "Yes",
+    "choices": [
+      "A. Yes",
+      "B. No"
+    ]
+  },
+  {
+    "question": "In the book Harry Potter and the Half-Blood Prince, Harry almost killed Malfoy.",
+    "category": "for-kids.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Is it true that Mrs. Arabella Figg, a character from the Harry Potter books, is a Squib?",
+    "category": "for-kids.txt",
+    "answer": "Yes",
+    "choices": [
+      "A. Yes",
+      "B. No"
+    ]
+  },
+  {
+    "question": "In Harry Potter and the Half-Blood Prince, was the horcrux Dumbledore and Harry recovered fake?",
+    "category": "for-kids.txt",
+    "answer": "Yes",
+    "choices": [
+      "A. Yes",
+      "B. No"
+    ]
+  },
+  {
+    "question": "Does 10 X 10 give 100?",
+    "category": "for-kids.txt",
+    "answer": "Yes",
+    "choices": [
+      "A. No",
+      "B. Yes"
+    ]
+  },
+  {
+    "question": "3.2 are the first numbers in the important mathematical constant pi.",
+    "category": "for-kids.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "In mathematics, is a right angle equal to 100 degrees?",
+    "category": "for-kids.txt",
+    "answer": "No",
+    "choices": [
+      "A. No",
+      "B. Yes"
+    ]
+  },
+  {
+    "question": "100 multiplied by 0.3 gives 3.00.",
+    "category": "for-kids.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "According to the Harry Potter books Albus Dumbledore liked Dementors.",
+    "category": "for-kids.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Professor Albus Dumbledores office at the fictional Hogwarts school is protected by a statue of a gargoyle.",
+    "category": "for-kids.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "The opposite of open is closed.",
+    "category": "for-kids.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "A word with a meaning opposite to that of another word is called a synonym.",
+    "category": "for-kids.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "The opposite of major is minor.",
+    "category": "for-kids.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Although Harry Potter has a crush on Cho Chang, he ends up with Ginny.",
+    "category": "for-kids.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Does Daniel Radcliffe portray Harry Potter?",
+    "category": "for-kids.txt",
+    "answer": "Yes",
+    "choices": [
+      "A. Yes",
+      "B. No"
+    ]
+  },
+  {
+    "question": "Fictional character Ron Weasley has male siblings only.",
+    "category": "for-kids.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "In the Harry Potter books, Professor Binns is a ghost that teaches History of Magic.",
+    "category": "for-kids.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Hagrid dies in the last installment of the Harry Potter series entitled Harry Potter and the Deathly Hallows.",
+    "category": "for-kids.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Professor McGonagall teaches Transfiguration at the fictional Hogwarts school.",
+    "category": "for-kids.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "The name of Harry Potters owl is Fawkes.",
+    "category": "for-kids.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Harry Potter was the seeker of Gryffindors Quidditch Team.",
+    "category": "for-kids.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Do Harry and Hermione go somewhere, without Ron, at the end of the movie Harry Potter and the Prisoner of Azkaban?",
+    "category": "for-kids.txt",
+    "answer": "Yes",
+    "choices": [
+      "A. Yes",
+      "B. No"
+    ]
+  },
+  {
+    "question": "Can 37 be divided into 2 evenly?",
+    "category": "for-kids.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "The reciprocal of 3/4 is 1 1/3.",
+    "category": "for-kids.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Is this correct?\n\n2-3+1-4+4-=0",
+    "category": "for-kids.txt",
+    "answer": "Yes",
+    "choices": [
+      "A. No",
+      "B. Yes"
+    ]
+  },
+  {
+    "question": "LEGO was the first company in Denmark to buy and use a plastic injection-molding machine for toys.",
+    "category": "for-kids.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "In 1963, the LEGO company replaced the building substance for the bricks, cellulose acetate with acrylonitrile butadiene stryrene, which improved the color quality.",
+    "category": "for-kids.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "In 1989, the LEGO company released a new series, named Pirates.",
+    "category": "for-kids.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "In Harry Potter and the Order of the Phoenix the headquarters of the organization was in Sirius family home.",
+    "category": "for-kids.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Sirius Black dies in the novel Harry Potter and the Half-Blood Prince.",
+    "category": "for-kids.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "In the Harry Potter series, Professor Snape became headmaster of Hogwarts after the death of Dumbledore.",
+    "category": "for-kids.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "In the final book of the Harry Potter series, Harry finally kills Snape.",
+    "category": "for-kids.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "In the final book in the Harry Potter series, it is revealed that Harry names one of his sons after Snape.",
+    "category": "for-kids.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Is fictional character Snape the Half-Blood Prince?",
+    "category": "for-kids.txt",
+    "answer": "Yes",
+    "choices": [
+      "A. No",
+      "B. Yes"
+    ]
+  },
+  {
+    "question": "In the sixth book of the Harry Potter series, Professor Slughorn became the Head of Slytherin.",
+    "category": "for-kids.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "The character of Sirius Black is mentioned in the book Harry Potter and the Prisoner of Azkaban for the first time.",
+    "category": "for-kids.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Lavender Brown and Ron Won Won Weasley start going out in chapter 9 of Harry Potter and the Half-Blood Prince.",
+    "category": "for-kids.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "In Harry Potter and the Half-Blood Prince, Cho Chang waves to Harry once but then hurries away with Marietta.",
+    "category": "for-kids.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "In Harry Potter and the Half-Blood Prince, is Dumbledores blood the only blood used in the Cavern by the sea where the Horcrux is hidden?",
+    "category": "for-kids.txt",
+    "answer": "No",
+    "choices": [
+      "A. No",
+      "B. Yes"
+    ]
+  },
+  {
+    "question": "Harry destroyed two Horcruxes in Harry Potter and the Half-Blood Prince.",
+    "category": "for-kids.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Lord Voldemort is related to Harry Potter.",
+    "category": "for-kids.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Harry Potter defeats and kills Lord Voldemort in the final Harry Potter book.",
+    "category": "for-kids.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "In Harry Potter and the Deathly Hallows, Severus Snape was headmaster for a period of time.",
+    "category": "for-kids.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Fictional character Remus Lupin was an animagus.",
+    "category": "for-kids.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "The Shrieking Shack, depicted in the Harry Potter books, was considered to be the most haunted place in Great Britain.",
+    "category": "for-kids.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Even without a permission slip, Harry Potter was able to go to Hogsmeade with Ron and Hermione during certain weekends.",
+    "category": "for-kids.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "In Harry Potter and the Half-Blood Prince, The Minister of Magic came only once to visit the Prime Minister.",
+    "category": "for-kids.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Do Hermione and Ron secretly like each other in the sixth book of the Harry Potter series?",
+    "category": "for-kids.txt",
+    "answer": "Yes",
+    "choices": [
+      "A. No",
+      "B. Yes"
+    ]
+  },
+  {
+    "question": "Harry Potters middle name is James.",
+    "category": "for-kids.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Fictional characters Ron Weasley and Harry Potter met on the Hogwarts Express.",
+    "category": "for-kids.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Every headmaster/headmistress of the fictional Hogwarts school has had the same office.",
+    "category": "for-kids.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Fictional character Mr. Weasley was on guard duty when the basilisk attacked him.",
+    "category": "for-kids.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Does fictional character Ron Weasley live at 12, Grimmauld Place?",
+    "category": "for-kids.txt",
+    "answer": "No",
+    "choices": [
+      "A. Yes",
+      "B. No"
+    ]
+  },
+  {
+    "question": "Fictional characters Fred and George Weasley get kicked out of Hogwarts.",
+    "category": "for-kids.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Fictional character Professor Snape is head of Ravenclaw house.",
+    "category": "for-kids.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Is Flitwick head of Huffllepuff house in the Harry Potter series of books?",
+    "category": "for-kids.txt",
+    "answer": "No",
+    "choices": [
+      "A. No",
+      "B. Yes"
+    ]
+  },
+  {
+    "question": "Professor Sprout is head of Hufflepuff, one of the fictional Hogwarts houses.",
+    "category": "for-kids.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "In the Harry Potter books, the Bloody Baron is Slytherins ghost.",
+    "category": "for-kids.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Is Harry Potter a member of Gryffindor house?",
+    "category": "for-kids.txt",
+    "answer": "Yes",
+    "choices": [
+      "A. No",
+      "B. Yes"
+    ]
+  },
+  {
+    "question": "Did Harry Potter marry Ginny Weasley?",
+    "category": "for-kids.txt",
+    "answer": "Yes",
+    "choices": [
+      "A. Yes",
+      "B. No"
+    ]
+  },
+  {
+    "question": "All the books of the Harry Potter series are set in England and Scotland.",
+    "category": "for-kids.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "In the novel The Penultimate Peril, Jaques Snicket was one of the two people who signed into the hotel as J.S..",
+    "category": "for-kids.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "In the second book of A Series of Unfortunate Events, did Count Olaf trick the Baudelaires into thinking he was really Stephano?",
+    "category": "for-kids.txt",
+    "answer": "No",
+    "choices": [
+      "A. Yes",
+      "B. No"
+    ]
+  },
+  {
+    "question": "In A Series of Unfortunate Events, Klaus was the best inventor out of all the Baudelaires.",
+    "category": "for-kids.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "The show Dora the Explorer features a little girl who goes on all sorts of adventures with her friend, Tico the Dog.",
+    "category": "for-kids.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Cho Chang was Harry Potters girlfriend.",
+    "category": "for-kids.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Did Harry Potters parents die on Halloween?",
+    "category": "for-kids.txt",
+    "answer": "Yes",
+    "choices": [
+      "A. No",
+      "B. Yes"
+    ]
+  },
+  {
+    "question": "Dobby, the house-elf, has been collecting Harry Potters letters to make it seem as though his friends had forgotten him.",
+    "category": "for-kids.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "In the book Harry Potter and the Chamber of Secrets, Harry used the Hover Charm to destroy a pudding that Aunt Petunia had made for an important dinner party attended by Uncle Vernons potential client and the clients wife.",
+    "category": "for-kids.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "In Harry Potter and the Chamber of Secrets, the car which Harry and Ron rode on to Hogwarts, when they werent able to board on Hogwarts Express, crashed into the Whomping Willow.",
+    "category": "for-kids.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Being the last to go to the barrier between platform 9 and 10 at Kings Cross Station, Harry Potter and Ron were not able to get to platform nine and three-quarters.",
+    "category": "for-kids.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "In Harry Potter and the Chamber of Secrets, Harry Potter destroyed Riddles Diary with one of the Basilisks poisonous fangs.",
+    "category": "for-kids.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Before leaving Narnia in the novel Prince Caspian, Aslan informs Peter and Edmund that neither of them will be returning to Narnia.",
+    "category": "for-kids.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "The Tellmarines, featured in the novel Prince Caspian, are descendants of pirates that entered the land of Tellmar through a cave on an island.",
+    "category": "for-kids.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Is Remus Lupin related to Sirius Black?",
+    "category": "for-kids.txt",
+    "answer": "No",
+    "choices": [
+      "A. Yes",
+      "B. No"
+    ]
+  },
+  {
+    "question": "Ginny died in Harry Potter and the Chamber of Secrets.",
+    "category": "for-kids.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "In the Harry Potter series, Rons uncle Billius saw a grim and died 25 hours later.",
+    "category": "for-kids.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Does Harry Potter have a tattoo on his chest?",
+    "category": "for-kids.txt",
+    "answer": "No",
+    "choices": [
+      "A. Yes",
+      "B. No"
+    ]
+  },
+  {
+    "question": "Hermiones cats name is Crookshanks.",
+    "category": "for-kids.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Professor Snape is the Potions Master in Harry Potter and the Half-Blood Prince.",
+    "category": "for-kids.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Was Grindelwald defeated by Dumbledore in the Harry Potter series?",
+    "category": "for-kids.txt",
+    "answer": "Yes",
+    "choices": [
+      "A. Yes",
+      "B. No"
+    ]
+  },
+  {
+    "question": "Harry Potter marries Hermione.",
+    "category": "for-kids.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Does Voldemort have a rat named Nagini?",
+    "category": "for-kids.txt",
+    "answer": "No",
+    "choices": [
+      "A. No",
+      "B. Yes"
+    ]
+  },
+  {
+    "question": "In the Disney movie, The Beauty and the Beast, all of the residents of the Beasts castle were mystical creatures.",
+    "category": "for-kids.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Emma Watson plays Hermione Granger in the Harry Potter film series.",
+    "category": "for-kids.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Fictional character Severus Snape was a Death Eater when he died.",
+    "category": "for-kids.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Fictional character Augustus Rookwood worked in the Department of Mysteries.",
+    "category": "for-kids.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Does Harry Potter fight a dementor in the maze in the third task of the Triwizard Tournament?",
+    "category": "for-kids.txt",
+    "answer": "No",
+    "choices": [
+      "A. Yes",
+      "B. No"
+    ]
+  },
+  {
+    "question": "Harry Potter wins 10,000 galleons for winning the Triwizard Tournament.",
+    "category": "for-kids.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "At the end of the novel Anne of Green Gables, Matthew Cuthbert dies from complications related to pneumonia.",
+    "category": "for-kids.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Do all of these numbers fit the sequence: 1, 2, 3, 5, 7, 9?",
+    "category": "for-kids.txt",
+    "answer": "No",
+    "choices": [
+      "A. No",
+      "B. Yes"
+    ]
+  },
+  {
+    "question": "Did Harry Potter destroy Tom Riddles diary in the second book because he knew it was a Horcrux?",
+    "category": "for-kids.txt",
+    "answer": "No",
+    "choices": [
+      "A. Yes",
+      "B. No"
+    ]
+  },
+  {
+    "question": "One of the Horcruxes in the Harry Potter books is Ravenclaws cup.",
+    "category": "for-kids.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "According to the Harry Potter series of books, any object can be a Horcrux.",
+    "category": "for-kids.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "If one of Voldemorts Horcruxes is destroyed, will he know?",
+    "category": "for-kids.txt",
+    "answer": "No",
+    "choices": [
+      "A. Yes",
+      "B. No"
+    ]
+  },
+  {
+    "question": "Nagini, one of Voldemorts Horcruxes, is a snake.",
+    "category": "for-kids.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "In the book The True Confessions of Charlotte Doyle, the crew wanted to get revenge on the Captain.",
+    "category": "for-kids.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Charlotte was the only female on the ship in the book The True Confessions of Charlotte Doyle.",
+    "category": "for-kids.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "In The True Confessions of Charlotte Doyle, the men from the crew plan to kill Charlotte because she supported the Captain.",
+    "category": "for-kids.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Zachariah, a character from the book The True Confessions of Charlotte Doyle, is brutally beaten to death by the Captain and Mr. Hollybrass.",
+    "category": "for-kids.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "The Captain in the book The True Confessions of Charlotte Doyle dies.",
+    "category": "for-kids.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Fictional character Rita Skeeter wrote a book titled Albus Dumbledore, His Life and Lies.",
+    "category": "for-kids.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Was Albus Dumbledores sister named Areida?",
+    "category": "for-kids.txt",
+    "answer": "No",
+    "choices": [
+      "A. No",
+      "B. Yes"
+    ]
+  },
+  {
+    "question": "In Harry Potter and the Deathly Hallows, Ron leaves the group when they are in the forest of Dean.",
+    "category": "for-kids.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "It is mentioned in Harry Potter and the Deathly Hallows that Bill had a real knack for guessing the passwords for the radio.",
+    "category": "for-kids.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "According to the Harry Potter books, Fleur Delacours middle name is Clemence.",
+    "category": "for-kids.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Does Voldemort tell Neville that he has spirit and bravery in the last book of the Harry Potter series?",
+    "category": "for-kids.txt",
+    "answer": "Yes",
+    "choices": [
+      "A. No",
+      "B. Yes"
+    ]
+  },
+  {
+    "question": "Sleeping Beautys musical score and songs were inspired by Pyotr Ilyich Tchaikovskys Sleeping Beauty ballet.",
+    "category": "for-kids.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "In the Disney movie Sleeping Beauty, when Aurora returns to the cabin, the fairies tell her who she really is and take her to the castle to see her parents.",
+    "category": "for-kids.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "In the Disney movie Sleeping Beauty, once Aurora falls into her deep sleep, the fairies freeze time until the spell is broken.",
+    "category": "for-kids.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "After Maleficent dies in the film Sleeping Beauty, Prince Phillip rushes to Aurora and removes the curse with a kiss. The two enter the palaces ballroom and see Auroras parents. Is this the first time Aurora has seen her parents since she was an infant?",
+    "category": "for-kids.txt",
+    "answer": "Yes",
+    "choices": [
+      "A. No",
+      "B. Yes"
+    ]
+  },
+  {
+    "question": "Harry Potter, Voldemort, and Dumbledore have connected wands.",
+    "category": "for-kids.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Does Peter, the main character in Peter and the Shadow Thieves, wear shoes?",
+    "category": "for-kids.txt",
+    "answer": "No",
+    "choices": [
+      "A. Yes",
+      "B. No"
+    ]
+  },
+  {
+    "question": "In the novel Peter and the Shadow Thieves, Slank is one of the Aster guards.",
+    "category": "for-kids.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "In the childrens novel Peter and the Shadow Thieves, James and Thomas are the two fastest Lost boys.",
+    "category": "for-kids.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "On the sitcom Zoey 101, Zoeys brothers name is Todd.",
+    "category": "for-kids.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Did Lola pretend to be a freaky goth chick on the show Zoey 101?",
+    "category": "for-kids.txt",
+    "answer": "Yes",
+    "choices": [
+      "A. No",
+      "B. Yes"
+    ]
+  },
+  {
+    "question": "Has Chase had a crush on Zoey on the sitcom Zoey 101?",
+    "category": "for-kids.txt",
+    "answer": "Yes",
+    "choices": [
+      "A. No",
+      "B. Yes"
+    ]
+  },
+  {
+    "question": "Logan Ryan is the spoiled rich boy on Zoey 101.",
+    "category": "for-kids.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Did Zoey start dating James when Chase went to England.",
+    "category": "for-kids.txt",
+    "answer": "Yes",
+    "choices": [
+      "A. Yes",
+      "B. No"
+    ]
+  },
+  {
+    "question": "Has Quinn dated Marc on the show Zoey 101?",
+    "category": "for-kids.txt",
+    "answer": "Yes",
+    "choices": [
+      "A. No",
+      "B. Yes"
+    ]
+  },
+  {
+    "question": "Jamie Lynn Spears plays Zoey on Zoey 101.",
+    "category": "for-kids.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Is there a host for the Arcade on Webkinz?",
+    "category": "for-kids.txt",
+    "answer": "No",
+    "choices": [
+      "A. No",
+      "B. Yes"
+    ]
+  },
+  {
+    "question": "On Webkinz, there is a host for the Tournament Area.",
+    "category": "for-kids.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Dr. Quacks Clinic is the doctors office in Webkinz world.",
+    "category": "for-kids.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "In the following division problem, the quotient is 2:\n12 / 6 = 2.",
+    "category": "for-kids.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "When dogs lick you, to them it is the same as kissing you.",
+    "category": "for-kids.txt",
+    "answer": "No",
+    "choices": [
+      "A. Yes",
+      "B. No"
+    ]
+  },
+  {
+    "question": "Is this correct?\n2-3+1-4+4-=0",
+    "category": "for-kids.txt",
+    "answer": "Yes",
+    "choices": [
+      "A. Yes",
+      "B. No"
+    ]
+  },
+  {
+    "question": "In the series The Adventures of Jimmy Neutron: Boy Genius, Jimmy has a crush on Cindy.",
+    "category": "for-kids.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Does animated character Jimmy Neutron have a  brother?",
+    "category": "for-kids.txt",
+    "answer": "Yes",
+    "choices": [
+      "A. Yes",
+      "B. No"
+    ]
+  },
+  {
+    "question": "In the book The Austere Academy, when Carmelita Spats called the Baudelaires cakesniffers, Mr. Poe said that was very rude of her.",
+    "category": "for-kids.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "The final 13th book of A Series of Unfortunate Events has 13 chapters and ends with an About the author... section.",
+    "category": "for-kids.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Esme Squalors evilness was due to her boyfriend, Count Olaf.",
+    "category": "for-kids.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  }
+]

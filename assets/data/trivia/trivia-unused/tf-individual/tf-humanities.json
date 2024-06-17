@@ -1,0 +1,1307 @@
+[
+  {
+    "question": "Is this the correct usage of the word inferring?\nBy saying that I look good today, are you inferring that I did not look good yesterday?",
+    "category": "humanities.txt",
+    "answer": "No",
+    "choices": [
+      "A. No",
+      "B. Yes"
+    ]
+  },
+  {
+    "question": "Is this the correct usage of the word continually?\nProfessor Smith gave a speech yesterday. He spoke continually for 3 hours.",
+    "category": "humanities.txt",
+    "answer": "No",
+    "choices": [
+      "A. No",
+      "B. Yes"
+    ]
+  },
+  {
+    "question": "Vlad Tepes was one of the major allies of the Ottoman Empire, therefore Romania was never put under Ottoman rule.",
+    "category": "humanities.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "It is believed that you can stop a vampire, by throwing rice or marbles on the floor.",
+    "category": "humanities.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Silver doesnt harm vampires.",
+    "category": "humanities.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Do the words equivoke and equivoque mean the same?",
+    "category": "humanities.txt",
+    "answer": "Yes",
+    "choices": [
+      "A. No",
+      "B. Yes"
+    ]
+  },
+  {
+    "question": "Gilgamesh is a character from the Sumerian mythology.",
+    "category": "humanities.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Athena was the Greek equivalent of the goddess Minerva.",
+    "category": "humanities.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Nike was a goddess, who personified triumph and victory (Greek mythology). Ironically, she was paralyzed and could not move her legs.",
+    "category": "humanities.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Helicon is the name of an ancient lake, where the Muses were born.",
+    "category": "humanities.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Calliope was the muse for music.",
+    "category": "humanities.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Marduk was a Mesopotamian deity.",
+    "category": "humanities.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Svarog is the highest god of the pantheon (Slavic mythology) and the god of thunder and lightning.",
+    "category": "humanities.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "The creature from Slavic mythology known as Zmey actually resembles a dragon.",
+    "category": "humanities.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Loki is the god of mischief of Norse mythology.",
+    "category": "humanities.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "The archaic word wittol, already out of use and found mostly in old books, stands for a person who is very wise.",
+    "category": "humanities.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "The word âpromiscuousâ? is used in physical description to refer to someone with exclusive charm and sex appeal.",
+    "category": "humanities.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Having in mind the words meaning, does it  fit in the following analogy: Juvenile is to young as *geriatric* is to aged.",
+    "category": "humanities.txt",
+    "answer": "Yes",
+    "choices": [
+      "A. No",
+      "B. Yes"
+    ]
+  },
+  {
+    "question": "The gods Atum and Ra merged.  The dominant of the two was Ra.",
+    "category": "humanities.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Tefnut had the body of a lioness.",
+    "category": "humanities.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "The word catholic means the same whether capitalized or not.",
+    "category": "humanities.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Stationery means fixed, not moveable.",
+    "category": "humanities.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Stationary is fancy writing paper.",
+    "category": "humanities.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Is counsel the correct word for a group called together for a purpose?",
+    "category": "humanities.txt",
+    "answer": "No",
+    "choices": [
+      "A. No",
+      "B. Yes"
+    ]
+  },
+  {
+    "question": "Counsel is giving of advice.",
+    "category": "humanities.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Cronus learned he was destined to be overcome by his own son as he had overthrown his own father, thats why he wanted to kill Zeus.",
+    "category": "humanities.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "The Cyclopes gave Zeus fire.",
+    "category": "humanities.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Hermes is the highest ranking and most powerful god in Greek mythology.",
+    "category": "humanities.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "There were two major clans of Norse gods - Vanir and Æsir.",
+    "category": "humanities.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "God Ori was a giant.",
+    "category": "humanities.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Goddess Skadi was not permitted to look at the gods faces, while choosing her husband among them.",
+    "category": "humanities.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Dexter from Dexters Lab was right-handed.",
+    "category": "humanities.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "The Chinese language is related to Japanese.",
+    "category": "humanities.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Zeus, Hades, and Poseidon are brothers.",
+    "category": "humanities.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Hades is considered one of the Twelve Olympians.",
+    "category": "humanities.txt",
+    "answer": "No",
+    "choices": [
+      "A. Yes",
+      "B. No"
+    ]
+  },
+  {
+    "question": "The city of Athens was almost named after Poseidon, rather than Athena.",
+    "category": "humanities.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Cupid is the Roman counterpart of Aphrodite, the Greek goddess of love.",
+    "category": "humanities.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Hades, the Greek god of the Underworld, is known as Pluto in Roman mythology.",
+    "category": "humanities.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Hemidemisemiquaver is a musical time meaning 1/64 of a note.",
+    "category": "humanities.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "The word thimblerig means to play by the rules, to be fair.",
+    "category": "humanities.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Prothalamion is a funeral song.",
+    "category": "humanities.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Aparatchik is a blindly devoted official, follower or member of an organization.",
+    "category": "humanities.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "The word henotheism means denial of the existence of gods other than ones own.",
+    "category": "humanities.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Most of the traditional Indo-European languages capitalise I, the pronoun denoting the first person singular.",
+    "category": "humanities.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "The word savvy means intelligence or common sense.",
+    "category": "humanities.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "The word vacuum means a space entirely devoid of matter.",
+    "category": "humanities.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "A bubble is a period of intense speculation in a market, causing prices to rise quickly to irrational levels and then fall even more quickly as the bubble bursts.",
+    "category": "humanities.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Indomitable means unconquerable.",
+    "category": "humanities.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "The term waddy is a noun that means sailor.",
+    "category": "humanities.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Panoptic means having a panoramic view.",
+    "category": "humanities.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "The word palmy means poor or underfunded.",
+    "category": "humanities.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Jocose means somber or depressed.",
+    "category": "humanities.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Hestia is the goddess of the hearth in Greek mythology.",
+    "category": "humanities.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Apollo is the Greek god of the hunt.",
+    "category": "humanities.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "The method of watercolor painting in which paper, crumpled plastic wrap, or other items are applied to the paint when wet and removed after drying is called decalcomania.",
+    "category": "humanities.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "The home country of Salsa is Brazil.",
+    "category": "humanities.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Merengue was born in Portugal in the 16th century as part of an important ritual.",
+    "category": "humanities.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Quadrille was born as part of military parades in the 17th century and was performed by 4 horsemen and their horses.",
+    "category": "humanities.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Argentina comes from the Latin word Argentum which means silver.",
+    "category": "humanities.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Cairo means happiness in Arabic.",
+    "category": "humanities.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Omaha is a distorted Native American tribal name.",
+    "category": "humanities.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Is it true that the figures of Cupid throughout history have had two different sides?",
+    "category": "humanities.txt",
+    "answer": "Yes",
+    "choices": [
+      "A. Yes",
+      "B. No"
+    ]
+  },
+  {
+    "question": "There are several different stories about Cupids parentage and the most popular is that his mother is Venus and his father - Mars.",
+    "category": "humanities.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "The typical Christian depiction of a cherub is often compared to Cupid.",
+    "category": "humanities.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Cupid appears in the movie Toothless and is portrayed by actor Richard Chamberlain.",
+    "category": "humanities.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "In ancient Athens, one day per week was sacred to Eros.",
+    "category": "humanities.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "February 14 is the day set aside for Valentines Day, the day celebrating love.",
+    "category": "humanities.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "100 million valentines are estimated to be given out in February in honor of Valentines Day.",
+    "category": "humanities.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Once leprechauns were described as creatures dressed in red.",
+    "category": "humanities.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "According to legend, a leprechaun must tell the truth if looked directly in the eye.",
+    "category": "humanities.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "There are female leprechauns.",
+    "category": "humanities.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Does the word clemency mean the state of being a huge Mark Twain fan?",
+    "category": "humanities.txt",
+    "answer": "No",
+    "choices": [
+      "A. Yes",
+      "B. No"
+    ]
+  },
+  {
+    "question": "The word centimeter means one hundred meters.",
+    "category": "humanities.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Cafe au lait is an outdoor cafe.",
+    "category": "humanities.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "The definition of the phrase, cause celebre, is an issue arousing widespread controversy or heated public debate.",
+    "category": "humanities.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "If you wanted to be a clown in a Spanish circus, you would be called a payaso.",
+    "category": "humanities.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Tomentum is a word describing the increase in speed of a rolling object which is then accelerated e.g. kicking a soccer ball",
+    "category": "humanities.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "A Tom Collins is a long drink consisting of vodka, lime or lemon juice, sugar and soda water.",
+    "category": "humanities.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "In Greek mythology, Sirens often led sailors to their deaths with their beautiful songs.",
+    "category": "humanities.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "A university or college teacher is known as a professor.",
+    "category": "humanities.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "A tailor is someone who only makes new clothes.",
+    "category": "humanities.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "A spectator is someone who participates in activities or sporting events.",
+    "category": "humanities.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Since jackals were often seen in cemeteries, the ancient Egyptians believed that Anubis, a god with human body and jackal head, watched over the process of embalming.",
+    "category": "humanities.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Tawaret was a goddess who protected women during pregnancy and childbirth. She was most often depicted with the head of a hippopotamus, arms and legs of a lion, back and tail of a crocodile, and breasts and stomach of a pregnant woman.",
+    "category": "humanities.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "The goddess Anekantin was Isisâ sister and Anubisâ wife.",
+    "category": "humanities.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "The German noun Frage means question in English.",
+    "category": "humanities.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Dendrites is one of the epithets used for god Dionysus.",
+    "category": "humanities.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "God Dionysus is viewed as the promoter of civilization, a lawgiver, and lover of peace.",
+    "category": "humanities.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Anthesteria, a festival in honour of Dionysus, celebrated the maturing of the wine stored at the previous vintage, and the beginning of spring.",
+    "category": "humanities.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Was the lime tree goddess Aphrodites sacred tree?",
+    "category": "humanities.txt",
+    "answer": "Yes",
+    "choices": [
+      "A. No",
+      "B. Yes"
+    ]
+  },
+  {
+    "question": "In Greek mythology the Cyclopes were the so called Olympians masons. They built the marvellous palace of the gods at the top of the highest mountain in Greece - Mount Olympus.",
+    "category": "humanities.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Besides Espanol, Spanish language is also called Castellano.",
+    "category": "humanities.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Spanish is one of the six official languages of the U.N.",
+    "category": "humanities.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "The official languages of Haiti are Spanish and French.",
+    "category": "humanities.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "The word Friday is derived from Frigg, the Norse goddess who was wife of Odin.",
+    "category": "humanities.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "The main difference between Norse gods and gods of other cultures is that Norse gods are not immortal.",
+    "category": "humanities.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "The palm tree was sacred for Artemis because it is connected with her and her twin brother Apollos birth.",
+    "category": "humanities.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Was Aeginaea the name given to Artemis by her worshippers in Sparta?",
+    "category": "humanities.txt",
+    "answer": "Yes",
+    "choices": [
+      "A. Yes",
+      "B. No"
+    ]
+  },
+  {
+    "question": "The archaic term puissant meant weak or wimpy.",
+    "category": "humanities.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "The real-life defendant, whose story was featured in the 1960 movie Inherit the Wind, spent his whole life in Dayton, Tennessee.",
+    "category": "humanities.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Tony Randall appeared in the 1955 Broadway play Inherit the Wind.",
+    "category": "humanities.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Goblins are considered to be a type of fairy folk.",
+    "category": "humanities.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "It is a very old tradition to portray goblins green.",
+    "category": "humanities.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Goblin babies are known as changelings.",
+    "category": "humanities.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "The Mona Lisa is not painted on a canvas.",
+    "category": "humanities.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "When Mona Lisa was stolen in 1911, Picasso was among the suspects.",
+    "category": "humanities.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Italian Mannerism is a term related to the High Renaissance.",
+    "category": "humanities.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "In Europe, Edward Hopper visited the Louvre Museum where he saw Degas painting The Cotton Exchange, New Orleans. He called it the most wonderful painting he had ever seen.",
+    "category": "humanities.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "After Edward Hopper married painter Josephine Nivison, she became the only model for all of his female figures.",
+    "category": "humanities.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Edward Hopper once said, The only real influence Ive ever had was myself.",
+    "category": "humanities.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Is it true that according to Greek myths Arachne had great respect for Athena?",
+    "category": "humanities.txt",
+    "answer": "No",
+    "choices": [
+      "A. No",
+      "B. Yes"
+    ]
+  },
+  {
+    "question": "In Greek mythology, is Semele the mother of Hermes?",
+    "category": "humanities.txt",
+    "answer": "No",
+    "choices": [
+      "A. Yes",
+      "B. No"
+    ]
+  },
+  {
+    "question": "Is Maia the mother of Dionysus, the Greek god of wine?",
+    "category": "humanities.txt",
+    "answer": "No",
+    "choices": [
+      "A. Yes",
+      "B. No"
+    ]
+  },
+  {
+    "question": "Does the Greek goddess of love, Aphrodite, have a mother?",
+    "category": "humanities.txt",
+    "answer": "No",
+    "choices": [
+      "A. No",
+      "B. Yes"
+    ]
+  },
+  {
+    "question": "The term lesbian is derived from the name of a Greek island.",
+    "category": "humanities.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "The name of Helen of Troy is derived from the Greek word meaning sun.",
+    "category": "humanities.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Helen of Troy was called The Face Who Launched a Thousand Ships as she inherited a huge fleet from her father.",
+    "category": "humanities.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Was Helen of Troy immortal?",
+    "category": "humanities.txt",
+    "answer": "Yes",
+    "choices": [
+      "A. Yes",
+      "B. No"
+    ]
+  },
+  {
+    "question": "Is it true that the Tagalog word salamin means pencil in English?",
+    "category": "humanities.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "The Tagalog word tama means correct in English.",
+    "category": "humanities.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Does the Tagalog word anim mean six in English?",
+    "category": "humanities.txt",
+    "answer": "Yes",
+    "choices": [
+      "A. No",
+      "B. Yes"
+    ]
+  },
+  {
+    "question": "In dancing, the word foutette means to straighten.",
+    "category": "humanities.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "A grand jete is a type of leap in dancing.",
+    "category": "humanities.txt",
+    "answer": "Yes",
+    "choices": [
+      "A. Yes",
+      "B. No"
+    ]
+  },
+  {
+    "question": "Is this the correct usage of the word inferring?\nBy saying that I look good today, are you inferring that I did not look good yesterday?",
+    "category": "humanities.txt",
+    "answer": "No",
+    "choices": [
+      "A. No",
+      "B. Yes"
+    ]
+  },
+  {
+    "question": "Is this the correct usage of the word continually?\nProfessor Smith gave a speech yesterday. He spoke continually for 3 hours.",
+    "category": "humanities.txt",
+    "answer": "No",
+    "choices": [
+      "A. No",
+      "B. Yes"
+    ]
+  },
+  {
+    "question": "Chamrosh is said to rule and protect all avifauna on Earth.",
+    "category": "humanities.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Phoenixes can be only male.",
+    "category": "humanities.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Raven, the spirit of the raven bird, is a god in the mythology of various native peoples of northwest North America. It is considered to be the god of loyalty and truth.",
+    "category": "humanities.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "The spiralled horn of a unicorn was called an Alicorn.",
+    "category": "humanities.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Was the unicorn part of Greek mythology?",
+    "category": "humanities.txt",
+    "answer": "No",
+    "choices": [
+      "A. No",
+      "B. Yes"
+    ]
+  },
+  {
+    "question": "Portugal has a unicorn on its coat of arms and royal seals.",
+    "category": "humanities.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Many explorers such as Marco Polo may have confused rhinoceros for unicorns.",
+    "category": "humanities.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Two words that can be interchanged in a context are said to be antonyms.",
+    "category": "humanities.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Constant means changing.",
+    "category": "humanities.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Sick is the same as ill.",
+    "category": "humanities.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "The Jeffersons TV series, starring Sherman Hemsley, was a spinoff of All In The Family.",
+    "category": "humanities.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "The group S.H.E plays country music in China.",
+    "category": "humanities.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "In chemistry SHE stands for Standard Helium Electrode.",
+    "category": "humanities.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "In 1456, Sir Thomas Mallory completed what is one of the most well-known accounts of the life of King Arthur, called Le Morte DArthur.",
+    "category": "humanities.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Is it true that in Greek mythology, Medusa, who was a beautiful girl with beautiful hair, became a Gorgon with serpents in her hair because she was arrogant and dared to compare her beauty to that of Athena?",
+    "category": "humanities.txt",
+    "answer": "No",
+    "choices": [
+      "A. Yes",
+      "B. No"
+    ]
+  },
+  {
+    "question": "Zeus is the Greek god of the sky and the chief of the gods.",
+    "category": "humanities.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "According to Greek mythology, Odysseus and his men landed on the island of the Lotus Eaters following the Trojan War.",
+    "category": "humanities.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Baroque painters Caravaggio and Rembrandt used chiaroscuro, an art technique, related to the distribution of light and dark in a painting.",
+    "category": "humanities.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Rubens, one of the most famous Flemish Baroque Era painters, was a student of Cornelis de Vos.",
+    "category": "humanities.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Painter and sculptor Michelangelo is believed to have had homosexual inclinations.",
+    "category": "humanities.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  }
+]
