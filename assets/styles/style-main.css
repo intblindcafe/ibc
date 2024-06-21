@@ -13,9 +13,13 @@ body {
 }
 
 a {
-	text-decoration: underline;
 	color: #ffaaaa;
+	text-decoration: none;
 	transition: color .5s ease;
+}
+
+li a {
+	text-decoration: underline;
 }
 
 a:hover {
@@ -40,6 +44,15 @@ li {
 	margin-bottom: 15px;
 }
 
+.podcast-artwork {
+	width: 100%; /* Ensure the image is responsive */
+	max-width: 350px; /* Maintain the maximum width */
+	height: auto; /* Maintain the aspect ratio */
+	display: block;
+	margin: 0 auto;
+	margin-bottom: 15px;
+}
+
 button {
     background-color: white;
     color: black;
@@ -55,7 +68,32 @@ button {
     justify-content: center; /* Center the buttons horizontally */
 }
 
+/*Nav Styles*/
+
+nav {
+	text-align: center;
+}
+
+nav a {
+	display: inline-block; /* Display links inline */
+	margin-left: 20px;
+	margin-right: 20px; /* Adjust the spacing between links */
+	color: #ffffff; /* Link color */
+	text-decoration: none; /* Remove underline */
+	transition: color .5s ease;
+}
+
+nav a:hover {
+	color: #ff3333; /* Color on hover */
+}
+
 /*Section Styles*/
+
+.nav-section {
+	margin: 0 auto; /* Center the nav-section */
+	max-width: 20%; /* Set a maximum width for the nav-section */
+	margin-bottom: 20px;
+}
 
 .normalsection {
 	display: block;
@@ -83,11 +121,54 @@ button {
 	text-align: center;
 }
 
+.podcastsection {
+	display: block;
+	background: #3b2a2a; /* Background color for the section */
+	background: linear-gradient(112deg, rgba(70,53,53,1) 0%, rgba(48,31,31,1) 100%);
+	padding: 20px; /* Add some padding to the section */
+	margin-bottom: 20px; /* Add some margin below the section */
+	border-radius: 8px; /* Apply border radius to round the corners */
+	box-shadow: 0 5px 13px 5px rgba(0, 0, 0, 0.2); /* Add a box shadow */
+}
+
 section h2 {
 	color: #ffffff; /* Color for the section heading */
 	display: inline-block;
 	text-align: left; /* Center the heading text */
 }
+
+.podcastsection h2 {
+	display: block;
+	text-align: center;
+}
+
+.podcastcontainer {
+	display: flex;
+	flex-wrap: wrap; /* Allow items to wrap onto multiple lines */
+	justify-content: space-between;
+	text-align: center;
+}
+
+.podcastcontainer div {
+	flex: 1;
+	margin: 10px; /* Add some margin around each column */
+	max-width: 30%; /* Ensure the columns don't get too wide */
+	box-sizing: border-box;
+}
+
+@media (max-width: 768px) {
+	.podcastcontainer div {
+		max-width: 45%; /* Two columns layout on tablets */
+	}
+}
+
+@media (max-width: 480px) {
+	.podcastcontainer div {
+		max-width: 100%; /* One column layout on mobile devices */
+	}
+}
+
+
 
 /*Footer Styles*/
 
