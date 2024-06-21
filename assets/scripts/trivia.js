@@ -192,7 +192,6 @@ function resetTimerButtons() {
     pauseTimerButton.style.display = 'none';
     unpauseTimerButton.style.display = 'none';
     timerElement.style.display = 'none';
-    //buzzSound.pause();
     buzzSound.currentTime = 0;
 }
 
