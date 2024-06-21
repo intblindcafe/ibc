@@ -1,0 +1,92 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Scoreboard</title>
+    <link rel="stylesheet" href="assets/styles/styles-games.css">
+    <link rel="icon" href="assets/images/favicon.png" sizes="32x32">
+    <link rel="icon" href="assets/images/favicon.png" sizes="192x192">
+    <link rel="apple-touch-icon" href="assets/images/favicon.png">
+    <script src="assets/scripts/scoreboard.js" defer></script>
+    <script src="assets/scripts/footer.js"></script>
+    <audio id="buzz-sound">
+        <source src="assets/sounds/buzz.mp3" type="audio/mpeg">
+    </audio>
+</head>
+
+<body>
+    <div class="container">
+        <div id="setup-section">
+            <h1>Setup Game</h1>
+            <div>
+                <label for="timer-value">Timer Value:</label>
+                <select id="timer-value" aria-label="Timer Value Selector">
+                    <option value="" disabled selected>Choose the Timer Value</option>
+                    <option value="10-s">10 seconds</option>
+                    <option value="30-s">30 seconds</option>
+                    <option value="60-s">60 seconds</option>
+                </select>
+            </div>
+            <div>
+                <label for="num-rounds">Number of Rounds:</label>
+                <select id="num-rounds" aria-label="Round Number Selector">
+                    <option value="" disabled selected>Choose the Number of Rounds</option>
+                    <option value="1">1</option>
+                    <option value="2">2</option>
+                    <option value="3">3</option>
+                    <option value="4">4</option>
+                    <option value="5">5</option>
+                    <option value="6">6</option>
+                    <option value="7">7</option>
+                    <option value="8">8</option>
+                    <option value="9">9</option>
+                    <option value="10">10</option>
+                    <option value="unlimited">Unlimited</option>
+                </select>
+            </div>
+            <div>
+                <p>Pick the number of teams playing, then enter team names below.</p>
+                <label for="num-teams">Number of Teams:</label>
+                <select id="num-teams" aria-label="Team Number Selector">
+                    <option value="" disabled selected>Choose the Number of Teams</option>
+                    <option value="2">2</option>
+                    <option value="3">3</option>
+                    <option value="4">4</option>
+                    <option value="5">5</option>
+                    <option value="6">6</option>
+                    <option value="7">7</option>
+                    <option value="8">8</option>
+                    <option value="9">9</option>
+                    <option value="10">10</option>
+                </select>
+            </div>
+            <div id="team-setup" aria-live="polite"></div>
+            <button onclick="startGame()">Start Game</button>
+        </div>
+
+        <div id="scoreboard-section" style="display: none;">
+            <h1>Scoreboard</h1>
+            <h2 id="round-header" aria-live="polite">Round: <span id="current-round" aria-live="polite">1</span></h2>
+            <div id="teams-container" aria-live="polite"></div>
+            <div id="button-container">
+                <button aria-label="Minus 2 Points" onclick="updateScore(-2)">-2</button>
+                <button aria-label="Minus 1 Point" onclick="updateScore(-1)">-1</button>
+                <button aria-label="Plus 1 Point" onclick="updateScore(1)">+1</button>
+                <button aria-label="Plus 2 Points" onclick="updateScore(2)">+2</button>
+            </div>
+            <button id="next-turn" aria-label="Next Turn" onclick="nextTurn()">Next Turn</button>
+            <button id="start-timer" aria-label="Start Timer" onclick="startTimer()">Start Timer</button>
+            <button id="stop-timer" aria-label="Stop Timer" style="display: none;" onclick="stopTimer()">Stop Timer</button>
+            <button id="pause-timer" aria-label="Pause Timer" style="display: none;" onclick="pauseTimer()">Pause Timer</button>
+            <button id="unpause-timer" aria-label="Unpause Timer" style="display: none;" onclick="unpauseTimer()">Unpause Timer</button>
+            <button id="play-again" aria-label="Play Again" onclick="playAgain()" style="display: none">Play Again</button>
+            <button id="reset-scoreboard" aria-label="Reset Scoreboard" onclick="resetScoreboard()" style="display: none">Reset Scoreboard</button>
+            <div id="timer" aria-live="polite"></div>
+        </div>
+    </div>
+    <div id="footer-placeholder"></div>
+</body>
+
+</html>
