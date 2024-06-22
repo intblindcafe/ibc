@@ -168,7 +168,9 @@ section h2 {
 	}
 }
 
-
+.fill-space {
+	flex: 1;
+}
 
 /*Footer Styles*/
 
