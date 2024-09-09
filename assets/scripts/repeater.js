@@ -7,6 +7,9 @@ document.addEventListener('DOMContentLoaded', () => {
     const startButton = document.getElementById('startButton');
     const stopButton = document.getElementById('stopButton');
 
+    // Hide Stop button on page load
+    stopButton.style.display = 'none';
+
     startButton.addEventListener('click', () => {
         let message = messageInput.value;
         let interval = parseInt(intervalInput.value, 10) * 1000;
@@ -21,27 +24,29 @@ document.addEventListener('DOMContentLoaded', () => {
             speakMessage(message);
         }, interval);
 
-        // Disable and grey out inputs while repetition is active
+        // Hide Start button and show Stop button
+        startButton.style.display = 'none';
+        stopButton.style.display = 'inline-block';
+
+        // Grey out the inputs while repetition is active
         messageInput.disabled = true;
         intervalInput.disabled = true;
         messageInput.style.backgroundColor = '#e0e0e0';
         intervalInput.style.backgroundColor = '#e0e0e0';
-
-        startButton.disabled = true;
-        stopButton.disabled = false;
     });
 
     stopButton.addEventListener('click', () => {
-        clearInterval(intervalId);
+        clearInterval(intervalId); // Stop the repetition
 
-        // Re-enable inputs
+        // Show Start button and hide Stop button
+        startButton.style.display = 'inline-block';
+        stopButton.style.display = 'none';
+
+        // Re-enable inputs when repetition is stopped
         messageInput.disabled = false;
         intervalInput.disabled = false;
         messageInput.style.backgroundColor = '';
         intervalInput.style.backgroundColor = '';
-
-        startButton.disabled = false;
-        stopButton.disabled = true;
     });
 
     function speakMessage(message) {
