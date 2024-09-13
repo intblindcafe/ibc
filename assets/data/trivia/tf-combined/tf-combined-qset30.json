@@ -1,0 +1,1154 @@
+[
+  {
+    "question": "More shark attacks occur during the day than at night.",
+    "category": "animals.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Pterodactyls were large flying dinosaurs.",
+    "category": "animals.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Do frogs have gills?",
+    "category": "animals.txt",
+    "answer": "No",
+    "choices": [
+      "A. No",
+      "B. Yes"
+    ]
+  },
+  {
+    "question": "Female mantes (the plural for mantis) are larger than males.",
+    "category": "animals.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "The two types of Chinese Crested dogs are born in separate litters, they cannot come from the same litter.",
+    "category": "animals.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "The Komodo Dragon is only one of 3 species of venomous lizards in the world.",
+    "category": "animals.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Starfish are fast moving creatures.",
+    "category": "animals.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Yesterday I heard an interesting conversation in a shop:\nClient: How much is one?\nSalesman: Twenty cents.\nClient: What about ninety four?\nSalesman: Thirty cents.\nClient: OK, Ill buy twenty nine. How much is it?\nSalesman: Twenty cents.\nIs it possible that it was a real product they were talking about?",
+    "category": "brain-teasers.txt",
+    "answer": "Yes",
+    "choices": [
+      "A. Yes",
+      "B. No"
+    ]
+  },
+  {
+    "question": "Forest Whitaker suffers from a medical condition commonly referred to (but incorrectly) as lazy eye.",
+    "category": "celebrities.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Because Sammy Davis Jr.s education didnt qualify him for any of the armys special schools, they just kept sending him back to basic training over and over.",
+    "category": "celebrities.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Singer Cheyenne Kimball was born in Texas.",
+    "category": "celebrities.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "William Peterson portrayed Sgt. Elias Grodin in Oliver Stones 1986 film Platoon.",
+    "category": "celebrities.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Sandra Dees birth name was Alexandra Zuck.",
+    "category": "celebrities.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Tom Felton has sang with the Guildford Cathedral Choir.",
+    "category": "celebrities.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Patrick Swayze was born August 18 1952.",
+    "category": "celebrities.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "The WWE wrestlers Jeff Hardy and Matt Hardy tag-team with each other a lot.",
+    "category": "entertainment.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "When you run the bases in baseball you should run from 3rd base to 1st base.",
+    "category": "for-kids.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Harry destroyed two Horcruxes in Harry Potter and the Half-Blood Prince.",
+    "category": "for-kids.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Did Harry Potter destroy Tom Riddles diary in the second book because he knew it was a Horcrux?",
+    "category": "for-kids.txt",
+    "answer": "No",
+    "choices": [
+      "A. Yes",
+      "B. No"
+    ]
+  },
+  {
+    "question": "David Suchet and Peter Ustinov are two actors who have played the role of the famous detective Sherlock Holmes.",
+    "category": "general.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "In the 2002 movie Windtalkers, US Marines used the Navajo language as their unbreakable code.",
+    "category": "general.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "The character Rebecca Donaldson on the TV show Full House was meant to be a love interest for Danny Tanner but because of her popularity she became Jesse Katsopolis love interest.",
+    "category": "general.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "David E. Weiss was the first mate of the SS Edmund Fitzgerald. The Captain was Ernest M. McSorley.",
+    "category": "general.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "The  first computer used for weather research and prediction was MANIAC.",
+    "category": "general.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "The tradition of placing the wedding ring on the third finger of the left hand originates from ancient Egypt, where they believed that a vein in this finger ran directly to the heart.",
+    "category": "general.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "The Dead Sea is actually a lake.",
+    "category": "geography.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Sinepuxent, a town on the eastern shore of Maryland, was destroyed by a tornado in 1818, and never rebuilt.",
+    "category": "history.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Loki was the Viking God of lies.",
+    "category": "history.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "During World War II, Japan was one of the Axis powers.",
+    "category": "history.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Animals did not evolve during the Precambrian.",
+    "category": "history.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "A clog is a type of shoe, made predominantly out of leather, associated with the Netherlands.",
+    "category": "hobbies.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Half-sizes are for short-waisted women.",
+    "category": "hobbies.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Loki is the god of mischief of Norse mythology.",
+    "category": "humanities.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "February 14 is the day set aside for Valentines Day, the day celebrating love.",
+    "category": "humanities.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Is it true that the Tagalog word salamin means pencil in English?",
+    "category": "humanities.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "The Institute of Vertebrate Paleontology and Paleoanthropology of the Chinese Academy of Sciences named the new ankylosaurus species Crichtonsaurus in honor of Michael Crichton, the author of Jurassic Park.",
+    "category": "literature.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Eli Weisels book Night is about the Holocaust.",
+    "category": "literature.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Uyulala, is a character in the novel The Neverending Story, that only speaks in rhymes.",
+    "category": "literature.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "The trademarks of Stallone- sarcastic smile, lazy eyes, and slurred speech, are the result of paralysis of the right side of his face.",
+    "category": "movies.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Joe Pesci appears in the movie Raging Bull.",
+    "category": "movies.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Ernest Borgnine portrayed Lt. Quinton McHale on The Phil Silvers Show from 1962-1966.",
+    "category": "movies.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "At the end of the What About Bob movie, Bob marries Lily, (Dr. Marvins sister) and then becomes a psychologist himself, writing a book called Death Therapy.",
+    "category": "movies.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "The sequel to The Lost Boys is titled The Tribe. However, it was originally intended to be entitled The Lost Girls.",
+    "category": "movies.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Michael Myers finally kills his other sister in the movie Halloween: Resurrection.",
+    "category": "movies.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Were Jean and Billy in love with each other in the Billy Jack movie?",
+    "category": "movies.txt",
+    "answer": "Yes",
+    "choices": [
+      "A. Yes",
+      "B. No"
+    ]
+  },
+  {
+    "question": "Patrick Dempsey plays the role of the Mayor of New York in the movie Sweet Home Alabama.",
+    "category": "movies.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "John Matuszak, defensive end for Kansas City Chiefs and Oakland raiders, played a defensive end for the North Dallas team in the movie North Dallas Forty, starring Nick Nolte.",
+    "category": "movies.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Is it true that in the movie Princess Protection Program Carter and Rosies high school is called Lake Monroe High School?",
+    "category": "movies.txt",
+    "answer": "Yes",
+    "choices": [
+      "A. Yes",
+      "B. No"
+    ]
+  },
+  {
+    "question": "Emmylou Harris and Linda Ronstadt did a duet before forming a trio with Dolly Parton.",
+    "category": "music.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "St. Willie is one of Green Days songs.",
+    "category": "music.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Audrey Williams, wife of legendary Hank Williams, was a member of an all-girl band called the Cold, Cold Hearts.",
+    "category": "music.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "The band Nirvana originated from Seattle, Washington.",
+    "category": "music.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Gretchen Wilsons song The Bed, from her album Here for the Party, features country duo Big  Rich.",
+    "category": "music.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Did music producer, Owen Bradley, play in Ernest Tubbs band?",
+    "category": "music.txt",
+    "answer": "Yes",
+    "choices": [
+      "A. No",
+      "B. Yes"
+    ]
+  },
+  {
+    "question": "Ms. Lena Horne was a honorary member of the Alpha Kappa Alpha Sorority.",
+    "category": "music.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "In 2007, Simone Simons nearly left Epica to join Finnish symphonic metal band Nightwish, after the departure of vocalist Tarja Turunen.",
+    "category": "music.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "The performance is from Rigoletto.",
+    "category": "music.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "John Wayne played Quirt Evans in The Comancheros.",
+    "category": "newest.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Red meat contains large quantities of iron.",
+    "category": "newest.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "An Iron Knight stands on the top of the central tower of the Vienna City Hall.",
+    "category": "newest.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "In order to deter flies from landing on his body, Pepi II of Egypt would keep around him several naked slaves whose bodies were covered with honey.",
+    "category": "newest.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "In the first High School Musical movie, is the final basketball game interrupted?",
+    "category": "newest.txt",
+    "answer": "Yes",
+    "choices": [
+      "A. No",
+      "B. Yes"
+    ]
+  },
+  {
+    "question": "The exploits of fictional character John Yossarian are based on Joseph Hellers own experiences.",
+    "category": "newest.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Audie Murphy starred as Henry Fleming in the The Red Badge of Courage.",
+    "category": "newest.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Earl was the name of Jeds dog on the sitcom the Beverly Hillbillies.",
+    "category": "newest.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "The brain of a mature chimpanzee is about the size of the brain of an adult human.",
+    "category": "newest.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "At the scene of any hostage crisis, it is best if the negotiator and the police commander duties are performed by different people.",
+    "category": "people.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Princess Diana of Wales was actually born on one of the royal estates.",
+    "category": "people.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "William, Duke of Normandy, was crowned King of England on December 25, 1066.\nHe became William I.",
+    "category": "people.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "The 26th President of the United States, Theodore Roosevelt was very interested in mathematics during his childhood.",
+    "category": "people.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "As Minister of Construction and Housing, Ariel Sharon was unsuccessful in finding homes for the immigrants except for those willing to live on kibbutzim.",
+    "category": "people.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Charles De Gaulle served as president of France from 1959 to 1969.",
+    "category": "people.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Willie Mays Hayes was not invited to the teams spring tryouts in the movie Major League.",
+    "category": "rated.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Is oe a valid word in the game of Scrabble?",
+    "category": "rated.txt",
+    "answer": "Yes",
+    "choices": [
+      "A. Yes",
+      "B. No"
+    ]
+  },
+  {
+    "question": "Nowadays there are nearly 1.3 million wild African Elephants.",
+    "category": "rated.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "The movie which contains the line on the sound clip is based on a Stephen King novella.",
+    "category": "rated.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "A transient ischemic attack, or TIA, is caused by temporary disturbance of blood supply to a restricted area of the brain. Could TIA be considered a warning that a cerebrovascular accident (a stroke) is likely to occur?",
+    "category": "rated.txt",
+    "answer": "Yes",
+    "choices": [
+      "A. Yes",
+      "B. No"
+    ]
+  },
+  {
+    "question": "According to the Bible, Ruth was the great grandmother of David.",
+    "category": "religion-faith.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "In the Bible, David once killed a lion and a bear.",
+    "category": "religion-faith.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "The term thrombo, which comes from Greek, refers to a blood clot.",
+    "category": "science-technology.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Two large vessels enter the right atrium of the human heart - the superior and inferior vena cava. They carry blood from the whole body and that is why this blood is dark red.",
+    "category": "science-technology.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "A teenage girl who is very thin and obsesses about losing weight may have an eating disorder.",
+    "category": "science-technology.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "One slice (139g) of Dominos Classic Hand Tossed Veggie Feast pizza has more calories than Arbys Ham Biscuit (Breakfast Sandwich).",
+    "category": "science-technology.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "In 1655 the Bubonic Plague hit India and China causing mass casualties.",
+    "category": "science-technology.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "The atomic number of Zinc is 52.",
+    "category": "science-technology.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Most plant groups became extinct during the Permo-Triassic extinction event.",
+    "category": "science-technology.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Most animals and plants are not able to synthesize vitamin C by themselves.",
+    "category": "science-technology.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Steve Carlton was best known by his nickname Lefty.",
+    "category": "sports.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Pele is the real name of the former Brazilian football player who won three World Cup medals.",
+    "category": "sports.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "The Basketball Hall of Fame was established in 1939.",
+    "category": "sports.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "George Foster played primarily third base for the Reds during the 1970s.",
+    "category": "sports.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "By ITTF rules, if you touch the table with your free hand while playing, you lose the point.",
+    "category": "sports.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "The Olympic Games are held every 5 years.",
+    "category": "sports.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Gil Hodges hit the first Mets home run.",
+    "category": "sports.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "The number of timeouts for non-televised and televised college basketball games is the same.",
+    "category": "sports.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Did Fred Sanfords wife Elizabeth ever make an appearance on the long running hit sitcom Sanford and Son ?",
+    "category": "television.txt",
+    "answer": "No",
+    "choices": [
+      "A. Yes",
+      "B. No"
+    ]
+  },
+  {
+    "question": "Was Linda Lavin from the popular 70s show Alice ever a regular cast member on the hit television show Barney Miller?",
+    "category": "television.txt",
+    "answer": "Yes",
+    "choices": [
+      "A. No",
+      "B. Yes"
+    ]
+  },
+  {
+    "question": "The TV show Threes Company ran on ABC from 1977 to 1984.",
+    "category": "television.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Wesley Snipes character in U.S. Marshals murdered U.S. Marshals.",
+    "category": "television.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "David Lawrence is credited with playing the part of Adam, Samantha and Darrins only son in the TV series Bewitched.",
+    "category": "television.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Did Carl Kolchak, the main character on Kolchak: The Night Stalker, ever face a werewolf on a cruise ship?",
+    "category": "television.txt",
+    "answer": "Yes",
+    "choices": [
+      "A. Yes",
+      "B. No"
+    ]
+  },
+  {
+    "question": "In the Buffy episode Becoming, Part Two, Drusilla teams up with Buffy to stop Angelus.",
+    "category": "television.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "In the TV seres One Tree Hill, Dan killed Keith.",
+    "category": "television.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "After the Terminator uttered his famous Ill be back line in the 1984 film, The Terminator, he came back in a police car.",
+    "category": "television.txt",
+    "answer": "False",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Judge Joe Brown has no real judicial powers on the TV show  Judge Joe Brown.",
+    "category": "television.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "At one point in The Drew Carey Show, Drew was in a same sex marriage.",
+    "category": "television.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Did Willie Lane (Dallas Cowboy) live on the same street as Hank in the TV series King of the Hill?",
+    "category": "television.txt",
+    "answer": "Yes",
+    "choices": [
+      "A. Yes",
+      "B. No"
+    ]
+  },
+  {
+    "question": "In the episode of the Buffy series, Lovers Walk, Oz and Cordelia catch Xander and Willow kissing each other",
+    "category": "television.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Is Loser Force 4 the name of the superhero group Sonny formed in Sonny With a Chance?",
+    "category": "television.txt",
+    "answer": "No",
+    "choices": [
+      "A. No",
+      "B. Yes"
+    ]
+  },
+  {
+    "question": "In the TV show, Sailor Moon, Sailor Moons cat can only talk to other cats.",
+    "category": "television.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Mr. Spock from the Star Trek science fiction series was never assigned the command of the USS Enterprise NCC-1701.",
+    "category": "television.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "The cast members of The White Shadow did their own singing in the shower scenes.",
+    "category": "television.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "The two levels on Kashyyyk on Star Wars: Battlefront 1 are Islands and Docks.",
+    "category": "video-games.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Gobi is the name of the camel in Gobis Valley in the Banjo and Kazooie video game.",
+    "category": "video-games.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Is there a game called Super Mario Tennis?",
+    "category": "video-games.txt",
+    "answer": "No",
+    "choices": [
+      "A. Yes",
+      "B. No"
+    ]
+  },
+  {
+    "question": "Jehovahs Witnesses identify themselves as Christian, but they dont celebrate Christmas.",
+    "category": "world.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Conservatives in the USA are more likely to pass a law cutting taxes to the wealthy than Liberals.",
+    "category": "world.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Galileo Galilei was born in Pisa.",
+    "category": "world.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "The early 90s Chevy Cavalier came equipped with an optional V8 engine.",
+    "category": "world.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "An alternative to Macyâs Thanksgiving Parade is featured in Stamford, Ct. This parade contains balloons that have been retired from the Macys Parade.",
+    "category": "world.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "Michigan is considered to be primarily a Democratic Party state rather than a Republican Party state.",
+    "category": "world.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Haggis is the national dish of Scotland.",
+    "category": "world.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "The name of the exiled Scottish Jacobite claimant to the thrones of England, Scotland, and Ireland was James Francis Edward Stuart.",
+    "category": "world.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Romania is slightly smaller than the state of Oregon in terms of area.",
+    "category": "world.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "The Netherlands has a land border only with Belgium.",
+    "category": "world.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "Paestum was a Greek colony, originally known as Poseidonia.",
+    "category": "world.txt",
+    "answer": "True",
+    "choices": [
+      "A. False",
+      "B. True"
+    ]
+  },
+  {
+    "question": "It is always easier to plan a pipeline route at landfall, where the pipeline approaches the shore, than in very deep water.",
+    "category": "world.txt",
+    "answer": "False",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  },
+  {
+    "question": "The Topkapi Palace is located in Istanbul.",
+    "category": "world.txt",
+    "answer": "True",
+    "choices": [
+      "A. True",
+      "B. False"
+    ]
+  }
+]
