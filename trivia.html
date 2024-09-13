@@ -22,7 +22,7 @@
             <p id="question" aria-live="polite"></p>
             <div id="choices" aria-live="polite"></div>
             <p id="answer" aria-live="polite" style="display: none;"></p>
-        </div>                
+        </div>           
         <fieldset id="game-selector" aria-label="Game-Selector">
             <legend>Please pick a Game Type and Question Set.</legend>
             <div>
@@ -31,11 +31,17 @@
             </div>
         
             <div>
+                <input type="radio" id="tf" name="game-type" value="tf" />
+                <label for="tf">True / False Only</label>
+            </div>
+        
+            <div>
                 <input type="radio" id="orig" name="game-type" value="orig" />
-                <label for="orig">Include True / False</label>
+                <label for="orig">Mixed Multiple Choice and True / False</label>
             </div>
                 <br>
             <div>
+                <h3>Question Set Selector:</h3>
                 <select id="qset-selector" aria-label="Question Set Selector">
                     <option value="" disabled selected>Choose a Question Set</option>
                     <option value="01">01</option>
