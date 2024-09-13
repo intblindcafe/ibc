@@ -47,7 +47,23 @@ function startGame() {
 }
 
 function fetchQuestionsAndStartGame(gameType, qSet) {
-    const folder = gameType === 'mc' ? 'mc-combined' : 'orig-combined';
+    let folder;
+
+    switch (gameType) {
+        case 'mc':
+            folder = 'mc-combined';
+            break;
+        case 'tf':
+            folder = 'tf-combined';
+            break;
+        case 'orig': // Mixed mode: "Multiple Choice and True / False"
+            folder = 'orig-combined';
+            break;
+        default:
+            console.error('Unknown game type selected');
+            return;
+    }
+
     const filePath = `assets/data/trivia/${folder}/${folder}-qset${qSet}.json`;
 
     fetch(filePath)
@@ -118,7 +134,6 @@ function showAnswer() {
     hideAnswerButton.style.display = 'inline';
 }
 
-
 function hideAnswer() {
     answerElement.style.display = 'none';
     showAnswerButton.style.display = 'inline';
@@ -148,7 +163,6 @@ function startTimer() {
         }
     }, 1000);
 }
-
 
 function stopTimer() {
     console.log("Stopping timer...");
@@ -195,7 +209,6 @@ function resetTimerButtons() {
     buzzSound.currentTime = 0;
 }
 
-
 function shuffleArray(array) {
     let currentIndex = array.length, temporaryValue, randomIndex;
 
@@ -214,3 +227,24 @@ function shuffleArray(array) {
 function reshuffleQuestions() {
     location.reload();
 }
+
+function getWeekNumber(date) {
+    const firstDayOfYear = new Date(date.getFullYear(), 0, 1);
+    const pastDaysOfYear = (date - firstDayOfYear) / 86400000;
+    return Math.ceil((pastDaysOfYear + firstDayOfYear.getDay() + 1) / 7);
+}
+
+function setDefaultQSetSelector() {
+    const weekNumber = getWeekNumber(new Date());
+    const qsetSelector = document.getElementById('qset-selector');
+    const optionToSelect = Array.from(qsetSelector.options).find(option => option.value == weekNumber);
+
+    if (optionToSelect) {
+        optionToSelect.selected = true;
+    } else {
+        console.warn(`Week number ${weekNumber} does not match any available question set.`);
+    }
+}
+
+// Call this when the page is loaded
+document.addEventListener('DOMContentLoaded', setDefaultQSetSelector);
