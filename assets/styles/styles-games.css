@@ -1,35 +1,55 @@
+/* General Styles for Games Pages */
+
 body {
     display: flex;
     flex-direction: column;
-    min-height: 100vh; /* Ensures that the body takes up at least the full viewport height */
+    min-height: 100vh;
     margin: 0;
-    background-color: black;
-    color: white;
+    background: linear-gradient(112deg, rgba(35, 35, 35, 1) 0%, rgba(20, 20, 20, 1) 100%);
+    color: #ffffff;
     font-family: Arial, sans-serif;
     text-align: center;
+    font-size: 150%;
 }
 
 .container {
-    flex: 1; /* This allows the container to grow and take up remaining space */
+    flex: 1;
     display: flex;
     flex-direction: column;
     align-items: center;
     margin-top: 50px;
 }
 
-#button-container {
-    display: flex;
-    justify-content: center;
+a {
+    color: #ffaaaa;
+    text-decoration: none;
+    transition: color 0.5s ease;
+}
+
+a:hover {
+    color: #ff6666;
 }
 
 button {
-    background-color: white;
+    background-color: #ffffff;
     color: black;
-    border: none;
+    border: solid;
     padding: 10px 20px;
     margin: 10px;
     cursor: pointer;
     font-size: 16px;
+    transition: background-color 0.3s ease;
+}
+
+button:hover {
+    background-color: #ffaaaa;
+}
+
+/* Main Content Styles */
+
+#button-container {
+    display: flex;
+    justify-content: center;
 }
 
 fieldset {
@@ -40,13 +60,10 @@ legend {
     padding-bottom: 10px;
 }
 
-input {
+input, select {
     margin-bottom: 10px;
-}
-
-select {
-    width: fit-content;
-    margin-bottom: 10px;
+    padding: 8px;
+    font-size: 1em;
 }
 
 #question {
@@ -58,15 +75,14 @@ select {
 #choices {
     font-size: 18px;
     font-weight: bold;
-    margin-bottom: 10px;
-    margin-top: 10px;
+    margin: 10px 0;
 }
 
 #answer {
     font-size: 20px;
     font-weight: bold;
-    margin-bottom: 20px;
     color: #00ff00;
+    margin-bottom: 20px;
 }
 
 #timer {
@@ -74,23 +90,22 @@ select {
     margin-top: 20px;
 }
 
-footer {
-    margin-top: auto;
-    text-align: center;
-    font-size: 0.8em;
-    padding: 10px;
+/* Sections */
+
+.section {
+    background: linear-gradient(112deg, rgba(90, 25, 25, 1) 0%, rgba(65, 15, 15, 1) 100%);
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 5px 13px 5px rgba(0, 0, 0, 0.2);
+    margin-bottom: 20px;
+    color: #ffffff;
 }
 
-footer p {
-    margin: 0;
-}
+/* Team and Scoreboard Styles */
 
-#setup-section, #scoreboard-section {
-    margin: 20px;
-}
-
-#team-setup, #teams-container {
+#setup-section, #scoreboard-section, #team-setup, #teams-container {
     margin: 20px 0;
+    color: #ffffff;
 }
 
 .team {
@@ -107,4 +122,421 @@ footer p {
     font-weight: bold;
     padding: 5px;
     color: #00ff00;
+}
+
+/* Footer Styles */
+
+footer {
+    margin-top: auto;
+    text-align: center;
+    font-size: 0.8em;
+    padding: 10px;
+    background-color: rgba(45, 15, 15, 0.85);
+    color: #dddddd;
+}
+
+footer p {
+    margin: 0;
+}
+
+.fill-space {
+    flex: 1;
+}
+
+/* Accessibility Button Styles */
+#accessibility-button {
+    position: absolute; /* Fixed positioning to stay in the same place */
+    top: 20px; /* Distance from the top */
+    right: 20px; /* Distance from the right */
+    padding: 10px 15px; /* Padding for a better look */
+    z-index: 1001; /* Ensure it appears above other elements */
+}
+
+/* Accessibility Settings Panel */
+#accessibility-panel {
+	position: absolute;
+	top: 100px;
+	right: 50px;
+	background: #333;
+	color: #fff;
+	padding: 15px;
+	border-radius: 5px;
+	z-index: 1000;
+	display: none;
+	max-width: 300px;
+}
+
+.text-size-controls {
+	text-align: center;
+}
+
+.contrast-mode-controls button {
+	text-align: center;
+	margin: 5px;
+}
+
+.reset {
+	text-align: center;
+}
+
+#default {
+	background-color: #5a1919;
+	color: #ffffff;
+}
+
+#default:hover {
+	background-color: #ff0000;
+}
+
+#high-contrast-1 {
+	background-color: #000000;
+	color: #ffffff;
+}
+
+#high-contrast-1:hover {
+	background-color: #0000ff;
+}
+
+#high-contrast-2 {
+	background-color: #ffffff;
+	color: #000000;
+}
+
+#high-contrast-2:hover {
+	background-color: #ffaaaa;
+}
+
+#high-contrast-3 {
+	background-color: #000000;
+	color: #ffff00;
+}
+
+#high-contrast-3:hover {
+	background-color: #0000ff;
+}
+
+#high-contrast-4 {
+	background-color: #ffff00;
+	color: #000000;
+}
+
+#high-contrast-4:hover {
+	background-color: #00ffff;
+}
+
+#high-contrast-5 {
+	background-color: #0000ff;
+	color: #ffff00;
+}
+
+#high-contrast-5:hover {
+	background-color: #000000;
+}
+
+#spooky {
+	background-color: #000000;
+	color: #ff7f00;
+}
+
+#spooky:hover {
+	background-color: #aa00aa;
+}
+
+#holiday {
+	background-color: #7f0000;
+	color: #00ff00;
+}
+
+#holiday:hover {
+	background-color: #ffffff;
+}
+
+#neon-bleach {
+	background-color: #00ffff;
+	color: #ff00ff;
+}
+
+#neon-bleach:hover {
+	background-color: #ffff00;
+}
+
+/* High Contrast Modes for entire site */
+.high-contrast-1 html,
+.high-contrast-1 head,
+.high-contrast-1 body,
+.high-contrast-1 footer,
+.high-contrast-1 section,
+.high-contrast-1 div,
+.high-contrast-1 button:not(.contrast-mode-controls button),
+.high-contrast-1 h1,
+.high-contrast-1 h2,
+.high-contrast-1 h3:not(.external-links),
+.high-contrast-1 h4 {
+	background: #000 !important;
+	color: #fff !important;
+}
+
+.high-contrast-1 section, .high-contrast-1 #accessibility-panel {
+	border: solid;
+	border-color: #fff;
+}
+
+.high-contrast-1 a {
+	color: #00ffff !important;
+	/* Light blue */
+}
+
+.high-contrast-1 a:hover {
+	color: #ff00ff !important;
+	/* Light pink on hover */
+}
+
+.high-contrast-1 button:hover:not(.contrast-mode-controls button) {
+	background: #0000ff !important;
+}
+
+.high-contrast-2 html,
+.high-contrast-2 head,
+.high-contrast-2 body,
+.high-contrast-2 footer,
+.high-contrast-2 section,
+.high-contrast-2 div,
+.high-contrast-2 button:not(.contrast-mode-controls button),
+.high-contrast-2 h1,
+.high-contrast-2 h2,
+.high-contrast-2 h3:not(.external-links),
+.high-contrast-2 h4 {
+	background: #fff !important;
+	color: #000 !important;
+}
+
+.high-contrast-2 section, .high-contrast-2 #accessibility-panel {
+	border: solid;
+	border-color: #000;
+}
+
+.high-contrast-2 a {
+	color: #0000ff !important;
+	/* Blue */
+}
+
+.high-contrast-2 a:hover {
+	color: #ff0000 !important;
+	/* Red on hover */
+}
+
+.high-contrast-2 button:hover:not(.contrast-mode-controls button) {
+	background: #ffaaaa !important;
+}
+
+.high-contrast-3 html,
+.high-contrast-3 head,
+.high-contrast-3 body,
+.high-contrast-3 footer,
+.high-contrast-3 section,
+.high-contrast-3 div,
+.high-contrast-3 button:not(.contrast-mode-controls button),
+.high-contrast-3 h1,
+.high-contrast-3 h2,
+.high-contrast-3 h3:not(.external-links),
+.high-contrast-3 h4 {
+	background: #000 !important;
+	color: #ffff00 !important;
+	/* Yellow text */
+}
+
+.high-contrast-3 section, .high-contrast-3 #accessibility-panel {
+	border: solid;
+	border-color: #ffff00;
+}
+
+.high-contrast-3 a {
+	color: #00ffff !important;
+	/* Light blue */
+}
+
+.high-contrast-3 a:hover {
+	color: #ff00ff !important;
+	/* Light pink on hover */
+}
+
+.high-contrast-3 button:hover:not(.contrast-mode-controls button) {
+	background: #0000ff !important;
+}
+
+.high-contrast-4 html,
+.high-contrast-4 head,
+.high-contrast-4 body,
+.high-contrast-4 footer,
+.high-contrast-4 section,
+.high-contrast-4 div,
+.high-contrast-4 button:not(.contrast-mode-controls button),
+.high-contrast-4 h1,
+.high-contrast-4 h2,
+.high-contrast-4 h3:not(.external-links),
+.high-contrast-4 h4 {
+	background: #ffff00 !important;
+	/* Yellow background */
+	color: #000000 !important;
+}
+
+.high-contrast-4 section, .high-contrast-4 #accessibility-panel {
+	border: solid;
+	border-color: #000000;
+}
+
+.high-contrast-4 a {
+	color: #0000ff !important;
+	/* Blue */
+}
+
+.high-contrast-4 a:hover {
+	color: #ff0000 !important;
+	/* Red on hover */
+}
+
+.high-contrast-4 button:hover:not(.contrast-mode-controls button) {
+	background: #00ffff !important;
+}
+
+.high-contrast-5 html,
+.high-contrast-5 head,
+.high-contrast-5 body,
+.high-contrast-5 footer,
+.high-contrast-5 section,
+.high-contrast-5 div,
+.high-contrast-5 button:not(.contrast-mode-controls button),
+.high-contrast-5 h1,
+.high-contrast-5 h2,
+.high-contrast-5 h3:not(.external-links),
+.high-contrast-5 h4 {
+	background: #0000ff !important;
+	/* Yellow background */
+	color: #ffff00 !important;
+}
+
+.high-contrast-5 section, .high-contrast-5 #accessibility-panel {
+	border: solid;
+	border-color: #ffff00;
+}
+
+.high-contrast-5 a {
+	color: #ff7f00 !important;
+	/* Blue */
+}
+
+.high-contrast-5 a:hover {
+	color: #00ff00 !important;
+	/* Red on hover */
+}
+
+.high-contrast-5 button:hover:not(.contrast-mode-controls button) {
+	background: #000000 !important;
+}
+
+.spooky html,
+.spooky head,
+.spooky body,
+.spooky footer,
+.spooky section,
+.spooky div,
+.spooky button:not(.contrast-mode-controls button),
+.spooky h1,
+.spooky h2,
+.spooky h3:not(.external-links),
+.spooky h4 {
+	background: #000000 !important;
+	/* Yellow background */
+	color: #ff7f00 !important;
+}
+
+.spooky section, .spooky #accessibility-panel {
+	border: solid;
+	border-color: #aa00aa;
+}
+
+.spooky a {
+	color: #aa0000 !important;
+	/* Blue */
+}
+
+.spooky a:hover {
+	color: #ffffff !important;
+	/* Red on hover */
+}
+
+.spooky button:hover:not(.contrast-mode-controls button) {
+	background: #aa00aa !important;
+}
+
+.holiday html,
+.holiday head,
+.holiday body,
+.holiday footer,
+.holiday section,
+.holiday div,
+.holiday button:not(.contrast-mode-controls button),
+.holiday h1,
+.holiday h2,
+.holiday h3:not(.external-links),
+.holiday h4 {
+	background: #7f0000 !important;
+	/* Yellow background */
+	color: #00ff00 !important;
+}
+
+.holiday section, .holiday #accessibility-panel {
+	border: solid;
+	border-color: #ffffff;
+}
+
+.holiday a {
+	color: #ffffff !important;
+	/* Blue */
+}
+
+.holiday a:hover {
+	color: #7777ff !important;
+	/* Red on hover */
+}
+
+.holiday button:hover:not(.contrast-mode-controls button) {
+	background: #ffffff !important;
+	color: #ff0000 !important;
+}
+
+.neon-bleach html,
+.neon-bleach head,
+.neon-bleach body,
+.neon-bleach footer,
+.neon-bleach section,
+.neon-bleach div,
+.neon-bleach button:not(.contrast-mode-controls button),
+.neon-bleach h1,
+.neon-bleach h2,
+.neon-bleach h3:not(.external-links),
+.neon-bleach h4 {
+	background: #00ffff !important;
+	/* Yellow background */
+	color: #ff00ff !important;
+}
+
+.neon-bleach section, .neon-bleach #accessibility-panel {
+	border: solid;
+	border-color: #ffff00;
+}
+
+.neon-bleach a {
+	color: #ff0000 !important;
+	/* Blue */
+}
+
+.neon-bleach a:hover {
+	color: #00ff00 !important;
+	/* Red on hover */
+}
+
+.neon-bleach button:hover:not(.contrast-mode-controls button) {
+	background: #00ff00 !important;
+	color: #ff7f00 !important;
 }

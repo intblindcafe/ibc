@@ -1,12 +1,11 @@
-/*General Styles*/
+/* General Styles */
 
 body {
 	font-family: Arial, sans-serif;
-	font-size: 125%;
 	margin: 20px;
-	background: #301f1f;
-	background: linear-gradient(112deg, rgba(59,42,42,1) 0%, rgba(37,20,20,1) 100%);
+	background: linear-gradient(112deg, rgba(35, 35, 35, 1) 0%, rgba(20, 20, 20, 1) 100%);
 	color: #ffffff;
+	font-size: 150%;
 	display: flex;
 	flex-direction: column;
 	min-height: 100vh;
@@ -23,7 +22,8 @@ li a {
 }
 
 a:hover {
-	color: #ff3333; /* Color on hover */
+	color: #ff6666;
+	/* Softer red for hover */
 }
 
 h1 {
@@ -38,133 +38,121 @@ li {
 }
 
 .image-banner {
-	transform: scale(0.75); /* Set the desired scale so image isn't huge */
-	display: block; /* Make the image a block element */
-	margin: 0 auto; /* Center the image horizontally */
+	transform: scale(0.75);
+	display: block;
+	margin: 0 auto;
 	margin-bottom: 15px;
 }
 
 .podcast-artwork {
-	width: 100%; /* Ensure the image is responsive */
-	max-width: 350px; /* Maintain the maximum width */
-	height: auto; /* Maintain the aspect ratio */
+	width: 100%;
+	max-width: 350px;
+	height: auto;
 	display: block;
 	margin: 0 auto;
 	margin-bottom: 15px;
 }
 
 button {
-    background-color: white;
-    color: black;
-    border: none;
-    padding: 10px 20px;
-    margin: 10px;
-    cursor: pointer;
-    font-size: 16px;
+	background-color: #ffffff;
+	color: black;
+	border: solid;
+	padding: 10px 10px;
+	margin: 10px;
+	cursor: pointer;
+	font-size: 16px;
+	transition: background-color .3s ease;
+}
+
+button:hover {
+	background-color: #ffaaaa;
 }
 
 .button-container {
 	display: flex;
-    justify-content: center; /* Center the buttons horizontally */
+	justify-content: center;
 }
 
-/*Nav Styles*/
+/* Nav Styles */
 
 nav {
 	text-align: center;
 }
 
 nav a {
-	display: inline-block; /* Display links inline */
-	margin-left: 20px;
-	margin-right: 20px; /* Adjust the spacing between links */
-	color: #ffffff; /* Link color */
-	text-decoration: none; /* Remove underline */
+	display: inline-block;
+	margin: 0 20px;
+	color: #ffffff;
+	text-decoration: none;
 	transition: color .5s ease;
 }
 
 nav a:hover {
-	color: #ff3333; /* Color on hover */
+	color: #ff6666;
 }
 
-/*Section Styles*/
+/* Section Styles */
 
 .nav-section {
-	margin: 0 auto; /* Center the nav-section */
-	max-width: 20%; /* Set a maximum width for the nav-section */
+	margin: 0 auto;
+	max-width: 40%;
 	margin-bottom: 20px;
 }
 
-.normalsection {
+.normalsection,
+.gamesection,
+.podcastsection {
 	display: block;
-	background: #3b2a2a; /* Background color for the section */
-	background: linear-gradient(112deg, rgba(70,53,53,1) 0%, rgba(48,31,31,1) 100%);
-	padding: 20px; /* Add some padding to the section */
-	margin-bottom: 20px; /* Add some margin below the section */
-	border-radius: 8px; /* Apply border radius to round the corners */
-	box-shadow: 0 5px 13px 5px rgba(0, 0, 0, 0.2); /* Add a box shadow */
+	background: linear-gradient(112deg, rgba(90, 25, 25, 1) 0%, rgba(65, 15, 15, 1) 100%);
+	padding: 20px;
+	margin-bottom: 20px;
+	border-radius: 8px;
+	box-shadow: 0 5px 13px 5px rgba(0, 0, 0, 0.2);
+	color: #ffffff;
 }
 
-.expandedsection {
-	display: block; /* Show section content by default */
-	flex: 1; /* Take remaining space */
-}
-
-.gamesection {
-	display: block;
-	background: #3b2a2a; /* Background color for the section */
-	background: linear-gradient(112deg, rgba(70,53,53,1) 0%, rgba(48,31,31,1) 100%);
-	padding: 20px; /* Add some padding to the section */
-	margin-bottom: 20px; /* Add some margin below the section */
-	border-radius: 8px; /* Apply border radius to round the corners */
-	box-shadow: 0 5px 13px 5px rgba(0, 0, 0, 0.2); /* Add a box shadow */
+.gamesection h2, .gamesection h3 {
 	text-align: center;
 }
 
-.podcastsection {
+.expandedsection {
 	display: block;
-	background: #3b2a2a; /* Background color for the section */
-	background: linear-gradient(112deg, rgba(70,53,53,1) 0%, rgba(48,31,31,1) 100%);
-	padding: 20px; /* Add some padding to the section */
-	margin-bottom: 20px; /* Add some margin below the section */
-	border-radius: 8px; /* Apply border radius to round the corners */
-	box-shadow: 0 5px 13px 5px rgba(0, 0, 0, 0.2); /* Add a box shadow */
+	flex: 1;
 }
 
 section h2 {
-	color: #ffffff; /* Color for the section heading */
-	display: inline-block;
-	text-align: left; /* Center the heading text */
+	color: #ffffff;
+	text-align: left;
+	margin-bottom: 10px;
 }
 
 .podcastsection h2 {
-	display: block;
 	text-align: center;
 }
 
 .podcastcontainer {
 	display: flex;
-	flex-wrap: wrap; /* Allow items to wrap onto multiple lines */
+	flex-wrap: wrap;
 	justify-content: space-between;
 	text-align: center;
 }
 
 .podcastcontainer div {
 	flex: 1;
-	margin: 10px; /* Add some margin around each column */
-	max-width: 30%; /* Ensure the columns don't get too wide */
+	margin: 10px;
+	max-width: 30%;
 	box-sizing: border-box;
 }
 
 @media (max-width: 768px) {
 	.podcastcontainer div {
-		max-width: 45%; /* Two columns layout on tablets */
+		max-width: 45%;
 	}
 }
 
 @media (max-width: 480px) {
 	.podcastcontainer div {
-		max-width: 100%; /* One column layout on mobile devices */
+		max-width: 100%;
 	}
 }
 
@@ -172,15 +160,454 @@ section h2 {
 	flex: 1;
 }
 
-/*Footer Styles*/
+/* Footer Styles */
 
 footer {
 	margin-top: auto;
 	text-align: center;
-	font-size: 0.8em;
+	font-size: 0.75em;
 	padding: 10px;
+	background-color: rgba(45, 15, 15, 0.85);
+	color: #dddddd;
 }
 
 footer p {
 	margin: 0;
+}
+
+/* Form Styling */
+form {
+	border: 1px solid;
+	padding: 25px;
+}
+
+label {
+	font-weight: bold;
+	display: block;
+	padding: 10px;
+}
+
+.required-label::after {
+	content: " *";
+	color: red;
+	font-weight: bold;
+}
+
+input {
+	padding: 10px;
+	margin-bottom: 10px;
+	font-size: 16px;
+}
+
+input:not([type="checkbox"]) {
+	display: block;
+}
+
+input[type="text"], input[type="date"] {
+	width: 250px;
+}
+
+input[type="submit"] {
+	display: flex;
+	cursor: pointer;
+	width: 100%; /* Makes the button full-width */
+	margin-top: 15px;
+}
+
+/* Accessibility Button Styles */
+#accessibility-button {
+    position: absolute; /* Fixed positioning to stay in the same place */
+    top: 20px; /* Distance from the top */
+    right: 20px; /* Distance from the right */
+    padding: 10px 15px; /* Padding for a better look */
+    z-index: 1001; /* Ensure it appears above other elements */
+}
+
+/* Accessibility Settings Panel */
+#accessibility-panel {
+	position: absolute;
+	top: 100px;
+	right: 50px;
+	background: #333;
+	color: #fff;
+	padding: 15px;
+	border-radius: 5px;
+	z-index: 1000;
+	display: none;
+	max-width: 300px;
+}
+
+.text-size-controls {
+	text-align: center;
+}
+
+.contrast-mode-controls button {
+	text-align: center;
+	margin: 5px;
+}
+
+.reset {
+	text-align: center;
+}
+
+#default {
+	background-color: #5a1919;
+	color: #ffffff;
+}
+
+#default:hover {
+	background-color: #ff0000;
+}
+
+#high-contrast-1 {
+	background-color: #000000;
+	color: #ffffff;
+}
+
+#high-contrast-1:hover {
+	background-color: #0000ff;
+}
+
+#high-contrast-2 {
+	background-color: #ffffff;
+	color: #000000;
+}
+
+#high-contrast-2:hover {
+	background-color: #ffaaaa;
+}
+
+#high-contrast-3 {
+	background-color: #000000;
+	color: #ffff00;
+}
+
+#high-contrast-3:hover {
+	background-color: #0000ff;
+}
+
+#high-contrast-4 {
+	background-color: #ffff00;
+	color: #000000;
+}
+
+#high-contrast-4:hover {
+	background-color: #00ffff;
+}
+
+#high-contrast-5 {
+	background-color: #0000ff;
+	color: #ffff00;
+}
+
+#high-contrast-5:hover {
+	background-color: #000000;
+}
+
+#spooky {
+	background-color: #000000;
+	color: #ff7f00;
+}
+
+#spooky:hover {
+	background-color: #aa00aa;
+}
+
+#holiday {
+	background-color: #7f0000;
+	color: #00ff00;
+}
+
+#holiday:hover {
+	background-color: #ffffff;
+}
+
+#neon-bleach {
+	background-color: #00ffff;
+	color: #ff00ff;
+}
+
+#neon-bleach:hover {
+	background-color: #ffff00;
+}
+
+/* High Contrast Modes for entire site */
+.high-contrast-1 html,
+.high-contrast-1 head,
+.high-contrast-1 body,
+.high-contrast-1 footer,
+.high-contrast-1 section,
+.high-contrast-1 div,
+.high-contrast-1 button:not(.contrast-mode-controls button),
+.high-contrast-1 h1,
+.high-contrast-1 h2,
+.high-contrast-1 h3:not(.external-links),
+.high-contrast-1 h4 {
+	background: #000 !important;
+	color: #fff !important;
+}
+
+.high-contrast-1 section, .high-contrast-1 #accessibility-panel {
+	border: solid;
+	border-color: #fff;
+}
+
+.high-contrast-1 a {
+	color: #00ffff !important;
+	/* Light blue */
+}
+
+.high-contrast-1 a:hover {
+	color: #ff00ff !important;
+	/* Light pink on hover */
+}
+
+.high-contrast-1 button:hover:not(.contrast-mode-controls button) {
+	background: #0000ff !important;
+}
+
+.high-contrast-2 html,
+.high-contrast-2 head,
+.high-contrast-2 body,
+.high-contrast-2 footer,
+.high-contrast-2 section,
+.high-contrast-2 div,
+.high-contrast-2 button:not(.contrast-mode-controls button),
+.high-contrast-2 h1,
+.high-contrast-2 h2,
+.high-contrast-2 h3:not(.external-links),
+.high-contrast-2 h4 {
+	background: #fff !important;
+	color: #000 !important;
+}
+
+.high-contrast-2 section, .high-contrast-2 #accessibility-panel {
+	border: solid;
+	border-color: #000;
+}
+
+.high-contrast-2 a {
+	color: #0000ff !important;
+	/* Blue */
+}
+
+.high-contrast-2 a:hover {
+	color: #ff0000 !important;
+	/* Red on hover */
+}
+
+.high-contrast-2 button:hover:not(.contrast-mode-controls button) {
+	background: #ffaaaa !important;
+}
+
+.high-contrast-3 html,
+.high-contrast-3 head,
+.high-contrast-3 body,
+.high-contrast-3 footer,
+.high-contrast-3 section,
+.high-contrast-3 div,
+.high-contrast-3 button:not(.contrast-mode-controls button),
+.high-contrast-3 h1,
+.high-contrast-3 h2,
+.high-contrast-3 h3:not(.external-links),
+.high-contrast-3 h4 {
+	background: #000 !important;
+	color: #ffff00 !important;
+	/* Yellow text */
+}
+
+.high-contrast-3 section, .high-contrast-3 #accessibility-panel {
+	border: solid;
+	border-color: #ffff00;
+}
+
+.high-contrast-3 a {
+	color: #00ffff !important;
+	/* Light blue */
+}
+
+.high-contrast-3 a:hover {
+	color: #ff00ff !important;
+	/* Light pink on hover */
+}
+
+.high-contrast-3 button:hover:not(.contrast-mode-controls button) {
+	background: #0000ff !important;
+}
+
+.high-contrast-4 html,
+.high-contrast-4 head,
+.high-contrast-4 body,
+.high-contrast-4 footer,
+.high-contrast-4 section,
+.high-contrast-4 div,
+.high-contrast-4 button:not(.contrast-mode-controls button),
+.high-contrast-4 h1,
+.high-contrast-4 h2,
+.high-contrast-4 h3:not(.external-links),
+.high-contrast-4 h4 {
+	background: #ffff00 !important;
+	/* Yellow background */
+	color: #000000 !important;
+}
+
+.high-contrast-4 section, .high-contrast-4 #accessibility-panel {
+	border: solid;
+	border-color: #000000;
+}
+
+.high-contrast-4 a {
+	color: #0000ff !important;
+	/* Blue */
+}
+
+.high-contrast-4 a:hover {
+	color: #ff0000 !important;
+	/* Red on hover */
+}
+
+.high-contrast-4 button:hover:not(.contrast-mode-controls button) {
+	background: #00ffff !important;
+}
+
+.high-contrast-5 html,
+.high-contrast-5 head,
+.high-contrast-5 body,
+.high-contrast-5 footer,
+.high-contrast-5 section,
+.high-contrast-5 div,
+.high-contrast-5 button:not(.contrast-mode-controls button),
+.high-contrast-5 h1,
+.high-contrast-5 h2,
+.high-contrast-5 h3:not(.external-links),
+.high-contrast-5 h4 {
+	background: #0000ff !important;
+	/* Yellow background */
+	color: #ffff00 !important;
+}
+
+.high-contrast-5 section, .high-contrast-5 #accessibility-panel {
+	border: solid;
+	border-color: #ffff00;
+}
+
+.high-contrast-5 a {
+	color: #ff7f00 !important;
+	/* Blue */
+}
+
+.high-contrast-5 a:hover {
+	color: #00ff00 !important;
+	/* Red on hover */
+}
+
+.high-contrast-5 button:hover:not(.contrast-mode-controls button) {
+	background: #000000 !important;
+}
+
+.spooky html,
+.spooky head,
+.spooky body,
+.spooky footer,
+.spooky section,
+.spooky div,
+.spooky button:not(.contrast-mode-controls button),
+.spooky h1,
+.spooky h2,
+.spooky h3:not(.external-links),
+.spooky h4 {
+	background: #000000 !important;
+	/* Yellow background */
+	color: #ff7f00 !important;
+}
+
+.spooky section, .spooky #accessibility-panel {
+	border: solid;
+	border-color: #aa00aa;
+}
+
+.spooky a {
+	color: #aa0000 !important;
+	/* Blue */
+}
+
+.spooky a:hover {
+	color: #ffffff !important;
+	/* Red on hover */
+}
+
+.spooky button:hover:not(.contrast-mode-controls button) {
+	background: #aa00aa !important;
+}
+
+.holiday html,
+.holiday head,
+.holiday body,
+.holiday footer,
+.holiday section,
+.holiday div,
+.holiday button:not(.contrast-mode-controls button),
+.holiday h1,
+.holiday h2,
+.holiday h3:not(.external-links),
+.holiday h4 {
+	background: #7f0000 !important;
+	/* Yellow background */
+	color: #00ff00 !important;
+}
+
+.holiday section, .holiday #accessibility-panel {
+	border: solid;
+	border-color: #ffffff;
+}
+
+.holiday a {
+	color: #ffffff !important;
+	/* Blue */
+}
+
+.holiday a:hover {
+	color: #7777ff !important;
+	/* Red on hover */
+}
+
+.holiday button:hover:not(.contrast-mode-controls button) {
+	background: #ffffff !important;
+	color: #ff0000 !important;
+}
+
+.neon-bleach html,
+.neon-bleach head,
+.neon-bleach body,
+.neon-bleach footer,
+.neon-bleach section,
+.neon-bleach div,
+.neon-bleach button:not(.contrast-mode-controls button),
+.neon-bleach h1,
+.neon-bleach h2,
+.neon-bleach h3:not(.external-links),
+.neon-bleach h4 {
+	background: #00ffff !important;
+	/* Yellow background */
+	color: #ff00ff !important;
+}
+
+.neon-bleach section, .neon-bleach #accessibility-panel {
+	border: solid;
+	border-color: #ffff00;
+}
+
+.neon-bleach a {
+	color: #ff0000 !important;
+	/* Blue */
+}
+
+.neon-bleach a:hover {
+	color: #00ff00 !important;
+	/* Red on hover */
+}
+
+.neon-bleach button:hover:not(.contrast-mode-controls button) {
+	background: #00ff00 !important;
+	color: #ff7f00 !important;
 }
