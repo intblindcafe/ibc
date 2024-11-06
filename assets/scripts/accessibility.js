@@ -16,7 +16,7 @@ document.addEventListener('headerLoaded', () => {
 
     // Function to update text size label and apply text size
     function updateTextSizeLabel() {
-        textSizeLabel.textContent = textSize === 150 ? 'Default' : `${textSize}%`;
+        textSizeLabel.textContent = textSize === 150 ? 'Default' : `${textSize - 50}%`;
         document.body.style.fontSize = `${textSize}%`; // Apply font size
         localStorage.setItem('textSize', textSize); // Save to localStorage
     }
