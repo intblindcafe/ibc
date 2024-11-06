@@ -1,56 +1,58 @@
 <!DOCTYPE html>
 <html>
-	<head>
-		<title>The International Blind Cafe</title>
-		<link rel="stylesheet" type="text/css" href="assets/styles/styles-main.css">
-		<link rel="icon" href="assets/images/favicon.png" sizes="32x32">
-		<link rel="icon" href="assets/images/favicon.png" sizes="192x192">
-		<link rel="apple-touch-icon" href="assets/images/favicon.png">
-		<script src="assets/scripts/footer.js"></script>
-	</head>
-	<body>
 
-		<a href="index.html">
-			<h1>The International Blind Cafe</h1>
-		</a>
-		<img class="image-banner" src="assets/images/ibc-braille.png" alt="Image of Braille that reads The International Blind Cafe">
-		<section class="normalsection nav-section">
-			<nav>
-				<a href="index.html">[Home]</a>
-				<a href="media.html">[Media]</a>
-			</nav>
-		</section>
+<head>
 
-		<section class="podcastsection">
-            <h2>Listen to our Podcasts on Spotify!</h2>
-            <div class="podcastcontainer">
-                <div>
-                    <h3>The Cauldron</h3>
-                    <a href="https://open.spotify.com/show/1CSp0EX8cYjwcOgtQ9nQE8?si=a6938b69e558486d">
-                        <img class="podcast-artwork" src="assets/images/thecauldron.jpg" alt="Beige background, black iron cooking pot with white text: THE CAULDRON, white clipart of microphone and sound waves">
-                    </a>
-                </div>
-                <div>
-                    <h3>Blind JEMS</h3>
-                    <a href="https://open.spotify.com/show/3dBc2RmHGvmjnEi9PCOf48?si=0WbCyPfUR-6Td3pcZpUw3A">
-                        <img class="podcast-artwork" src="assets/images/BlindJems.png" alt="Black background with pink diamond jewel, with white capitalized text BLIND on top of the jewel, bold yellow text below that text, capitalized J-E-M-S, an intentional misspelling of the word 'gems'">
-                    </a>
-                </div>
-                <div>
-                    <h3>Booth 6</h3>
-                    <a href="https://open.spotify.com/show/6bfJfU1Y6SEPXldfSAlP87?si=8a80824944c149b5">
-                        <img class="podcast-artwork" src="assets/images/booth6.png" alt="AI-generated restaurant corner booth, with wood paneled walls and booth seat made of reddish-orange leather, condiments on table, wall art with text: Booth 6, and fancy light on either side of art">
-                    </a>
-                </div>
-                <div>
-                    <h3>TIBC Specials</h3>
-                    <a href="https://open.spotify.com/show/31ZncPxzHDelNhut5cv8A8?si=92a3ae7e2de549cb">
-                        <img class="podcast-artwork" src="assets/images/tibc-specials.png" alt="Red background with bold white logo, coffee cup on saucer with steam rising, white 5-point star to left and right of cup, text : INTERNATIONAL BLIND CAFE 18+">
-                    </a>
-                </div>
+    <title>The International Blind Cafe</title>
+    <link rel="stylesheet" type="text/css" href="assets/styles/styles-main.css">
+    <link rel="icon" href="assets/images/main/favicon.png" sizes="32x32">
+    <link rel="icon" href="assets/images/main/favicon.png" sizes="192x192">
+    <link rel="apple-touch-icon" href="assets/images/main/favicon.png">
+	<script src="assets/scripts/header.js"></script>
+    <script src="assets/scripts/footer.js"></script>
+	<script src="assets/scripts/accessibility.js" defer></script>
+
+</head>
+
+<body>
+
+    <div id="header-placeholder"></div>
+
+    <section class="podcastsection">
+        <h2 tabindex="0">Listen to our Podcasts on Spotify!</h2>
+        <div class="podcastcontainer">
+            <div>
+                <a href="https://open.spotify.com/show/1CSp0EX8cYjwcOgtQ9nQE8?si=a6938b69e558486d">
+                    <img class="podcast-artwork" src="assets/images/media/thecauldron.jpg"
+                        alt="'The Cauldron' logo, beige background, black iron cooking pot with white text: THE CAULDRON, white clipart of microphone and sound waves.">
+                <h3 class="external-links">The Cauldron</h3>
+                </a>
             </div>
-		</section>
-		<div class="fill-space"></div>
-		<div id="footer-placeholder"></div>
-	</body>
+            <div>
+                <a href="https://open.spotify.com/show/3dBc2RmHGvmjnEi9PCOf48?si=0WbCyPfUR-6Td3pcZpUw3A">
+                    <img class="podcast-artwork" src="assets/images//media/BlindJems.png"
+                        alt="'Blind JEMS' logo, black background with pink diamond jewel, with white capitalized text BLIND on top of the jewel, bold yellow text below that text, capitalized J-E-M-S.">
+                <h3 class="external-links">Blind JEMS</h3>
+                </a>
+            </div>
+            <div>
+                <a href="https://open.spotify.com/show/6bfJfU1Y6SEPXldfSAlP87?si=8a80824944c149b5">
+                    <img class="podcast-artwork" src="assets/images/media/booth6.png"
+                        alt="'Booth 6' logo, image of a restaurant corner booth, wood paneled walls and reddish-orange leather booth seat, condiments on table, wall art with text: Booth 6, and fancy light on either side of art.">
+                <h3 class="external-links">Booth 6</h3>
+                </a>
+            </div>
+            <div>
+                <a href="https://open.spotify.com/show/31ZncPxzHDelNhut5cv8A8?si=92a3ae7e2de549cb">
+                    <img class="podcast-artwork" src="assets/images/media/tibc-specials.png"
+                        alt="'TIBC Specials' logo, Red background with bold white circle, inside the circle, a coffee cup on saucer with steam rising, white 5-point star to left and right of cup, text below reads : INTERNATIONAL BLIND CAFE 18+, and a yellow diagonal banner in the top left corner with black capitalized text 'Special'.">
+                <h3 class="external-links">TIBC Specials</h3>
+                </a>
+            </div>
+        </div>
+    </section>
+    <div class="fill-space"></div>
+    <div id="footer-placeholder" tabindex="0"></div>
+</body>
+
 </html>

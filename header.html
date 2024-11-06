@@ -1,0 +1,48 @@
+<button id="accessibility-button">Show Settings</button>
+<div id="announcement" aria-live="polite" style="position: absolute; left: -9999px;"></div>
+<div id="accessibility-panel">
+
+    <div>
+        <label tabindex="0">Text Size</label>
+        <div class="text-size-controls">
+            <button id="decrease-text-size" aria-label="Decrease Text Size">-</button>
+            <span id="text-size-label" tabindex="0">Default</span>
+            <button id="increase-text-size" aria-label="Increase Text Size">+</button>
+        </div>
+    </div>
+    <div>
+        <label tabindex="0">High Contrast Mode</label>
+        <div class="contrast-mode-controls">
+            <button id="default" aria-label="Default Contrast">D</button>
+            <button id="high-contrast-1" aria-label="High Contrast 1">1</button>
+            <button id="high-contrast-2" aria-label="High Contrast 2">2</button>
+            <button id="high-contrast-3" aria-label="High Contrast 3">3</button>
+            <button id="high-contrast-4" aria-label="High Contrast 4">4</button>
+            <button id="high-contrast-5" aria-label="High Contrast 5">5</button>
+        </div>
+        <label tabindex="0">Special Mode</label>
+        <div class="contrast-mode-controls">
+            <button id="spooky" aria-label="Spooky">🎃</button>
+            <button id="holiday" aria-label="Holiday">🎄</button>
+            <button id="neon-bleach" aria-label="Neon Bleach">🪩</button>
+        </div>
+    </div>
+    <div class="reset">
+        <button id="reset" aria-label="Reset All Accessibility Settings">Reset All</button>
+    </div>
+</div>
+
+<span style="display: flex; justify-content: center;">
+    <a href="index.html" style="display: inline-block;">
+        <h1>The International Blind Cafe</h1>
+    </a>
+</span>
+
+<img class="image-banner" src="assets/images/main/ibc-braille.png"
+    alt="Image of Braille that reads The International Blind Cafe">
+<section class="normalsection nav-section">
+    <nav>
+        <a href="index.html">[Home]</a>
+        <a href="media.html">[Media]</a>
+    </nav>
+</section>

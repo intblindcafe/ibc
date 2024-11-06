@@ -1,49 +1,49 @@
 <!DOCTYPE html>
 <html>
-	<head>
-		<title>The International Blind Cafe</title>
-		<link rel="stylesheet" type="text/css" href="assets/styles/styles-main.css">
-		<link rel="icon" href="assets/images/favicon.png" sizes="32x32">
-		<link rel="icon" href="assets/images/favicon.png" sizes="192x192">
-		<link rel="apple-touch-icon" href="assets/images/favicon.png">
-		<meta name="robots" content="noindex">
-		<script src="assets/scripts/footer.js"></script>
-	</head>
-	<body>
 
-		<a href="index.html">
-			<h1>The International Blind Cafe</h1>
-		</a>
-		<img class="image-banner" src="assets/images/ibc-braille.png" alt="Image of Braille that reads The International Blind Cafe">
-		<section class="normalsection nav-section">
-			<nav>
-				<a href="index.html">[Home]</a>
-				<a href="media.html">[Media]</a>
-			</nav>
-		</section>
+<head>
 
-		<section class="gamesection">
-			<h2>Choose a Game</h2>
-			<h3>Fully Accessible Games</h3>
-			<div class="button-container">
-				<button id="10sr" aria-label="10 Second Rule" onclick="window.open('10sec.html')">10 Second Rule</button>
-				<button id="tr" aria-label="Trivia" onclick="window.open('trivia.html')">Trivia</button>
-			</div>
-			<br>
-			<h3>Not tested for accessibility - some vision may be required!</h3>
-			<div class="button-container">
-				<button id="An" aria-label="Anagram Games" onclick="window.open('anagram.html')">Anagram Games</button>
-				<button id="Cr" aria-label="Crossword Game" onclick="window.open('crossword.html')">Crossword Game</button>
-			</div>
-			<br>
-			<h3>Supporting pages for game hosts</h3>
-			<div class="button-container">
-				<button id="Sb" aria-label="Scoreboard Page" onclick="window.open('scoreboard.html')">Scoreboard Page</button>
-				<button id="Sb" aria-label="Text-to-Speech Repeater" onclick="window.open('repeater.html')">Text-to-Speech Repeater</button>
-				<button id="Ho" aria-label="Host Help" onclick="window.open('host.html')" style="display: none;">Host Help</button>
-			</div>
-		</section>
-		<div class="fill-space"></div>
-		<div id="footer-placeholder"></div>
-	</body>
+	<title>The International Blind Cafe</title>
+	<link rel="stylesheet" type="text/css" href="assets/styles/styles-main.css">
+	<link rel="icon" href="assets/images/main/favicon.png" sizes="32x32">
+	<link rel="icon" href="assets/images/main/favicon.png" sizes="192x192">
+	<link rel="apple-touch-icon" href="assets/images/main/favicon.png">
+	<script src="assets/scripts/header.js"></script>
+	<script src="assets/scripts/footer.js"></script>
+	<script src="assets/scripts/accessibility.js" defer></script>
+	
+</head>
+
+<body>
+
+	<div id="header-placeholder"></div>
+
+	<section class="gamesection">
+		<h2 tabindex="0">Choose a Game</h2>
+		<h3 tabindex="0">Fully Accessible Games</h3>
+		<div class="button-container">
+			<button id="10sr" aria-label="10 Second Rule" onclick="window.open('10sec.html')">10 Second Rule</button>
+			<button id="tr" aria-label="Trivia" onclick="window.open('trivia.html')">Trivia</button>
+		</div>
+		<br>
+		<h3 tabindex="0">Not tested for accessibility - some vision may be required!</h3>
+		<div class="button-container">
+			<button id="An" aria-label="Anagram Games" onclick="window.open('anagram.html')">Anagram Games</button>
+			<button id="Cr" aria-label="Crossword Game" onclick="window.open('crossword.html')">Crossword Game</button>
+		</div>
+		<br>
+		<h3 tabindex="0">Supporting pages for game hosts</h3>
+		<div class="button-container">
+			<button id="Sb" aria-label="Scoreboard Page" onclick="window.open('scoreboard.html')">Scoreboard
+				Page</button>
+			<button id="Sb" aria-label="Text-to-Speech Repeater" onclick="window.open('repeater.html')">Text-to-Speech
+				Repeater</button>
+			<button id="Ho" aria-label="Host Help" onclick="window.open('host.html')" style="display: none;">Host
+				Help</button>
+		</div>
+	</section>
+	<div class="fill-space"></div>
+	<div id="footer-placeholder" tabindex="0"></div>
+</body>
+
 </html>
